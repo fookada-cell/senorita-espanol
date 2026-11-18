@@ -5,7 +5,7 @@
 **Format per conversation:** Round 1 *Escucha* (Spanish + English bubbles) → Round 2 *Repite* (each line, then a "Tu turno" pause) → key phrases
 **Images:** 13 new = 4 supporting-character sheets + 4 conversations × 2 shots (A = wide, B = closer) + 1 thumbnail. Elena's sheet already exists (official v1). Shot A shows for the first half of each round and shot B for the second half.
 **Status:** DRAFT. Dialogues waiting for the owner's approval.
-**Voices (ElevenLabs, all Peninsular Spanish, eleven_multilingual_v2, speed 0.9):** Elena = Cristina `dNjJKg63Fr5AXwIdkATa` (same as the Sunday videos) · Panadero = Max `hFeIFfaOsIqH1YpJJFS0` · Javier = Marco `QdeV7TsH9psct2D4UdTk` · Frutero = Emilio `ZCh4e9eZSUf41K4cmCEL` · Camarera = Violeta `jQvo2VZEqNV6YXEBghzl`
+**Voices (ElevenLabs, all Peninsular Spanish, eleven_multilingual_v2, speed 0.7 (slowest setting)):** Elena = Cristina `dNjJKg63Fr5AXwIdkATa` (same as the Sunday videos) · Panadero = Max `hFeIFfaOsIqH1YpJJFS0` · Javier = Marco `QdeV7TsH9psct2D4UdTk` · Frutero = Emilio `ZCh4e9eZSUf41K4cmCEL` · Camarera = Violeta `jQvo2VZEqNV6YXEBghzl`
 
 Every conversation reuses words from the Sunday story, shown in **bold**.
 
