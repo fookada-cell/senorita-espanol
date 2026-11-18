@@ -10,69 +10,418 @@
     "url": "https://youtube.com/@senioritachristina"
   },
   "blocks": [
-    {"t": "n", "es": "Emma Carter está en la puerta de un edificio enorme. Mira el [[movil|móvil]] y abre mucho los ojos."},
-    {"t": "d", "who": "Emma", "es": "No, no, [[tarde|llego tarde]].", "en": "No, no, I'm late."},
-    {"t": "n", "es": "Entra rápido. El [[vestibulo|vestíbulo]] es precioso: lámparas de cristal, suelo brillante y una gran [[escalera|escalera]]. Emma se para, se arregla la chaqueta y respira."},
-    {"t": "d", "who": "Emma", "es": "Puedo hacerlo.", "en": "I can do this."},
-    {"t": "n", "es": "En un [[despacho|despacho]] con vistas a la ciudad, un hombre joven lee unos papeles detrás de una mesa grande. Es Alejandro de Vargas. Su asistente, un hombre mayor con traje azul, está a su lado."},
-    {"t": "d", "who": "Asistente", "es": "Señor de Vargas, la señorita Carter ha llegado.", "en": "Mr. de Vargas, Miss Carter has arrived."},
-    {"t": "d", "who": "Alejandro", "es": "Que pase.", "en": "Let her in."},
-    {"t": "n", "es": "Emma entra en el despacho. Alejandro la mira."},
-    {"t": "d", "who": "Alejandro", "es": "Siéntate, por favor.", "en": "Please, have a seat."},
-    {"t": "d", "who": "Emma", "es": "Gracias.", "en": "Thank you."},
-    {"t": "n", "es": "Emma se sienta delante de la mesa. Está nerviosa, pero sonríe."},
-    {"t": "d", "who": "Alejandro", "es": "¿Hablas español?", "en": "Do you speak Spanish?"},
-    {"t": "d", "who": "Emma", "es": "Un poco. Estoy aprendiendo.", "en": "A little. I'm learning."},
-    {"t": "n", "es": "El asistente le da una [[carpeta|carpeta]]."},
-    {"t": "d", "who": "Asistente", "es": "Aquí tienes el [[contrato|contrato]].", "en": "Here's the contract."},
-    {"t": "d", "who": "Emma", "es": "Perfecto. ¿Dónde [[firmar|firmo]]?", "en": "Perfect. Where do I sign?"},
-    {"t": "n", "es": "El asistente señala la última página."},
-    {"t": "d", "who": "Asistente", "es": "Aquí, [[final|al final]].", "en": "Here, at the end."},
-    {"t": "n", "es": "Emma coge una [[pluma|pluma]] dorada. No lee nada. Cierra los ojos, sonríe y firma: Emma."},
-    {"t": "d", "who": "Emma", "es": "Ya está.", "en": "Done."},
-    {"t": "n", "es": "El asistente coge la carpeta y lee. Su cara cambia."},
-    {"t": "d", "who": "Asistente", "es": "Un momento…", "en": "Wait a moment…"},
-    {"t": "d", "who": "Emma", "es": "¿Qué pasa?", "en": "What's going on?"},
-    {"t": "n", "es": "El asistente le da los papeles a Alejandro. Alejandro los lee y lo mira, muy serio."},
-    {"t": "d", "who": "Alejandro", "es": "¿Qué has hecho?", "en": "What have you done?"},
-    {"t": "d", "who": "Asistente", "es": "Lo siento, señor.", "en": "I'm sorry, sir."},
-    {"t": "n", "es": "Alejandro tiene el documento en la mano. Emma lo mira y abre la boca."},
-    {"t": "d", "who": "Emma", "es": "¿Un [[acuerdo|acuerdo]] matrimonial?", "en": "A marriage agreement?"},
-    {"t": "d", "who": "Alejandro", "es": "Puedo explicarlo.", "en": "I can explain."},
-    {"t": "n", "es": "Emma se levanta y levanta la mano."},
-    {"t": "d", "who": "Emma", "es": "¡No voy a [[casarse|casarme]] con un [[desconocido|desconocido]]!", "en": "I'm not marrying a stranger!"},
-    {"t": "d", "who": "Alejandro", "es": "Emma, espera.", "en": "Emma, wait."},
-    {"t": "n", "es": "Emma se aparta de la mesa. Entonces ve algo encima de un mueble de madera: una [[foto|foto]] en un [[marco|marco]] dorado. Es una foto de ella."},
-    {"t": "d", "who": "Emma", "es": "¿Por qué tiene una foto mía?", "en": "Why do you have a photo of me?"},
-    {"t": "n", "es": "Alejandro está detrás de ella."},
-    {"t": "d", "who": "Alejandro", "es": "Porque llevo mucho tiempo esperando conocerte.", "en": "Because I've been waiting a long time to meet you."}
+    {
+      "t": "n",
+      "es": "Emma Carter está en la puerta de un edificio enorme. Mira el [[movil|móvil]] y abre mucho los ojos."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "No, no, [[tarde|llego tarde]].",
+      "en": "No, no, I'm late."
+    },
+    {
+      "t": "n",
+      "es": "Entra rápido. El [[vestibulo|vestíbulo]] es precioso: lámparas de cristal, suelo brillante y una gran [[escalera|escalera]]. Emma se para, se arregla la chaqueta y respira."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Puedo hacerlo.",
+      "en": "I can do this."
+    },
+    {
+      "t": "n",
+      "es": "En un [[despacho|despacho]] con vistas a la ciudad, un hombre joven lee unos papeles detrás de una mesa grande. Es Alejandro de Vargas. Su asistente, un hombre mayor con traje azul, está a su lado."
+    },
+    {
+      "t": "d",
+      "who": "Asistente",
+      "es": "Señor de Vargas, la señorita Carter ha llegado.",
+      "en": "Mr. de Vargas, Miss Carter has arrived."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Que pase.",
+      "en": "Let her in."
+    },
+    {
+      "t": "n",
+      "es": "Emma entra en el despacho. Alejandro la mira."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Siéntate, por favor.",
+      "en": "Please, have a seat."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Gracias.",
+      "en": "Thank you."
+    },
+    {
+      "t": "n",
+      "es": "Emma se sienta delante de la mesa. Está nerviosa, pero sonríe."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "¿Hablas español?",
+      "en": "Do you speak Spanish?"
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Un poco. Estoy aprendiendo.",
+      "en": "A little. I'm learning."
+    },
+    {
+      "t": "n",
+      "es": "El asistente le da una [[carpeta|carpeta]]."
+    },
+    {
+      "t": "d",
+      "who": "Asistente",
+      "es": "Aquí tienes el [[contrato|contrato]].",
+      "en": "Here's the contract."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Perfecto. ¿Dónde [[firmar|firmo]]?",
+      "en": "Perfect. Where do I sign?"
+    },
+    {
+      "t": "n",
+      "es": "El asistente señala la última página."
+    },
+    {
+      "t": "d",
+      "who": "Asistente",
+      "es": "Aquí, [[final|al final]].",
+      "en": "Here, at the end."
+    },
+    {
+      "t": "n",
+      "es": "Emma coge una [[pluma|pluma]] dorada. No lee nada. Cierra los ojos, sonríe y firma: Emma."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Ya está.",
+      "en": "Done."
+    },
+    {
+      "t": "n",
+      "es": "El asistente coge la carpeta y lee. Su cara cambia."
+    },
+    {
+      "t": "d",
+      "who": "Asistente",
+      "es": "Un momento…",
+      "en": "Wait a moment…"
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Qué pasa?",
+      "en": "What's going on?"
+    },
+    {
+      "t": "n",
+      "es": "El asistente le da los papeles a Alejandro. Alejandro los lee y lo mira, muy serio."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "¿Qué has hecho?",
+      "en": "What have you done?"
+    },
+    {
+      "t": "d",
+      "who": "Asistente",
+      "es": "Lo siento, señor.",
+      "en": "I'm sorry, sir."
+    },
+    {
+      "t": "n",
+      "es": "Alejandro tiene el documento en la mano. Emma lo mira y abre la boca."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Un [[acuerdo|acuerdo]] matrimonial?",
+      "en": "A marriage agreement?"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Puedo explicarlo.",
+      "en": "I can explain."
+    },
+    {
+      "t": "n",
+      "es": "Emma se levanta y levanta la mano."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡No voy a [[casarse|casarme]] con un [[desconocido|desconocido]]!",
+      "en": "I'm not marrying a stranger!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Emma, espera.",
+      "en": "Emma, wait."
+    },
+    {
+      "t": "n",
+      "es": "Emma se aparta de la mesa. Entonces ve algo encima de un mueble de madera: una [[foto|foto]] en un [[marco|marco]] dorado. Es una foto de ella."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Por qué tiene una foto mía?",
+      "en": "Why do you have a photo of me?"
+    },
+    {
+      "t": "n",
+      "es": "Alejandro está detrás de ella."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Porque llevo mucho tiempo esperando conocerte.",
+      "en": "Because I've been waiting a long time to meet you."
+    }
   ],
   "words": {
-    "tarde": {"target": true, "lvl": "A1", "w": "llegar tarde", "ipa": "/ʝeˈɣaɾ ˈtaɾðe/", "pos": "verb phrase", "en": "to be late", "line": "No, no, llego tarde.", "ex": "Siempre llego tarde los lunes.", "exEn": "I'm always late on Mondays.", "say": "llegar tarde"},
-    "contrato": {"target": true, "lvl": "A2", "w": "el contrato", "ipa": "/el konˈtɾato/", "pos": "noun, masculine", "en": "contract", "line": "Aquí tienes el contrato.", "ex": "Necesito leer el contrato antes de firmar.", "exEn": "I need to read the contract before signing.", "say": "el contrato"},
-    "firmar": {"target": true, "lvl": "A2", "w": "firmar", "ipa": "/fiɾˈmaɾ/", "pos": "verb · firmo = I sign", "en": "to sign", "line": "Perfecto. ¿Dónde firmo?", "ex": "¿Puedo firmar con este bolígrafo?", "exEn": "Can I sign with this pen?", "say": "firmar"},
-    "final": {"target": true, "lvl": "A2", "w": "al final", "ipa": "/al fiˈnal/", "pos": "expression", "en": "at the end", "line": "Aquí, al final.", "ex": "El baño está al final del pasillo.", "exEn": "The bathroom is at the end of the hall.", "say": "al final"},
-    "acuerdo": {"target": true, "lvl": "B1", "w": "el acuerdo", "ipa": "/el aˈkweɾðo/", "pos": "noun, masculine", "en": "agreement", "line": "¿Un acuerdo matrimonial?", "ex": "Tenemos un acuerdo: tú cocinas y yo friego.", "exEn": "We have a deal: you cook and I wash up.", "say": "el acuerdo"},
-    "casarse": {"target": true, "lvl": "A2", "w": "casarse con", "ipa": "/kaˈsaɾse kon/", "pos": "reflexive verb · casarme = (to) marry", "en": "to marry (someone)", "line": "¡No voy a casarme con un desconocido!", "ex": "Mi hermana se casa con un chico de Valencia.", "exEn": "My sister is marrying a guy from Valencia.", "say": "casarse con"},
-    "desconocido": {"target": true, "lvl": "B1", "w": "el desconocido", "ipa": "/el deskonoˈθiðo/", "pos": "noun / adjective", "en": "stranger", "line": "¡No voy a casarme con un desconocido!", "ex": "No abras la puerta a un desconocido.", "exEn": "Don't open the door to a stranger.", "say": "el desconocido"},
-    "foto": {"target": true, "lvl": "A1", "w": "la foto", "ipa": "/la ˈfoto/", "pos": "noun, feminine (short for fotografía)", "en": "photo", "line": "¿Por qué tiene una foto mía?", "ex": "¿Me haces una foto, por favor?", "exEn": "Can you take a photo of me, please?", "say": "la foto"},
-    "movil": {"lvl": "A1", "w": "el móvil", "ipa": "/el ˈmoβil/", "pos": "noun, masculine", "en": "mobile phone (in Spain)", "ex": "Llámame al móvil.", "exEn": "Call me on my mobile.", "say": "el móvil"},
-    "vestibulo": {"lvl": "B1", "w": "el vestíbulo", "ipa": "/el besˈtiβulo/", "pos": "noun, masculine", "en": "lobby, entrance hall", "ex": "Te espero en el vestíbulo del hotel.", "exEn": "I'll wait for you in the hotel lobby.", "say": "el vestíbulo"},
-    "escalera": {"lvl": "A2", "w": "la escalera", "ipa": "/la eskaˈleɾa/", "pos": "noun, feminine", "en": "staircase, stairs", "ex": "El ascensor no funciona; sube por la escalera.", "exEn": "The lift isn't working; take the stairs.", "say": "la escalera"},
-    "despacho": {"lvl": "A2", "w": "el despacho", "ipa": "/el desˈpatʃo/", "pos": "noun, masculine", "en": "(private) office", "ex": "La directora está en su despacho.", "exEn": "The director is in her office.", "say": "el despacho"},
-    "carpeta": {"lvl": "A2", "w": "la carpeta", "ipa": "/la kaɾˈpeta/", "pos": "noun, feminine", "en": "folder", "ex": "Los documentos están en la carpeta azul.", "exEn": "The documents are in the blue folder.", "say": "la carpeta"},
-    "pluma": {"lvl": "B1", "w": "la pluma", "ipa": "/la ˈpluma/", "pos": "noun, feminine", "en": "fountain pen (in Spain); also feather", "ex": "Mi abuelo escribe con pluma.", "exEn": "My grandfather writes with a fountain pen.", "say": "la pluma"},
-    "marco": {"lvl": "B1", "w": "el marco", "ipa": "/el ˈmaɾko/", "pos": "noun, masculine", "en": "(picture) frame", "ex": "Necesito un marco para esta foto.", "exEn": "I need a frame for this photo.", "say": "el marco"}
+    "tarde": {
+      "target": true,
+      "lvl": "A1",
+      "w": "llegar tarde",
+      "ipa": "/ʝeˈɣaɾ ˈtaɾðe/",
+      "pos": "verb phrase",
+      "en": "to be late",
+      "line": "No, no, llego tarde.",
+      "ex": "Siempre llego tarde los lunes.",
+      "exEn": "I'm always late on Mondays.",
+      "say": "llegar tarde"
+    },
+    "contrato": {
+      "target": true,
+      "lvl": "A2",
+      "w": "el contrato",
+      "ipa": "/el konˈtɾato/",
+      "pos": "noun, masculine",
+      "en": "contract",
+      "line": "Aquí tienes el contrato.",
+      "ex": "Necesito leer el contrato antes de firmar.",
+      "exEn": "I need to read the contract before signing.",
+      "say": "el contrato"
+    },
+    "firmar": {
+      "target": true,
+      "lvl": "A2",
+      "w": "firmar",
+      "ipa": "/fiɾˈmaɾ/",
+      "pos": "verb · firmo = I sign",
+      "en": "to sign",
+      "line": "Perfecto. ¿Dónde firmo?",
+      "ex": "¿Puedo firmar con este bolígrafo?",
+      "exEn": "Can I sign with this pen?",
+      "say": "firmar"
+    },
+    "final": {
+      "target": true,
+      "lvl": "A2",
+      "w": "al final",
+      "ipa": "/al fiˈnal/",
+      "pos": "expression",
+      "en": "at the end",
+      "line": "Aquí, al final.",
+      "ex": "El baño está al final del pasillo.",
+      "exEn": "The bathroom is at the end of the hall.",
+      "say": "al final"
+    },
+    "acuerdo": {
+      "target": true,
+      "lvl": "B1",
+      "w": "el acuerdo",
+      "ipa": "/el aˈkweɾðo/",
+      "pos": "noun, masculine",
+      "en": "agreement",
+      "line": "¿Un acuerdo matrimonial?",
+      "ex": "Tenemos un acuerdo: tú cocinas y yo friego.",
+      "exEn": "We have a deal: you cook and I wash up.",
+      "say": "el acuerdo"
+    },
+    "casarse": {
+      "target": true,
+      "lvl": "A2",
+      "w": "casarse con",
+      "ipa": "/kaˈsaɾse kon/",
+      "pos": "reflexive verb · casarme = (to) marry",
+      "en": "to marry (someone)",
+      "line": "¡No voy a casarme con un desconocido!",
+      "ex": "Mi hermana se casa con un chico de Valencia.",
+      "exEn": "My sister is marrying a guy from Valencia.",
+      "say": "casarse con"
+    },
+    "desconocido": {
+      "target": true,
+      "lvl": "B1",
+      "w": "el desconocido",
+      "ipa": "/el deskonoˈθiðo/",
+      "pos": "noun / adjective",
+      "en": "stranger",
+      "line": "¡No voy a casarme con un desconocido!",
+      "ex": "No abras la puerta a un desconocido.",
+      "exEn": "Don't open the door to a stranger.",
+      "say": "el desconocido"
+    },
+    "foto": {
+      "target": true,
+      "lvl": "A1",
+      "w": "la foto",
+      "ipa": "/la ˈfoto/",
+      "pos": "noun, feminine (short for fotografía)",
+      "en": "photo",
+      "line": "¿Por qué tiene una foto mía?",
+      "ex": "¿Me haces una foto, por favor?",
+      "exEn": "Can you take a photo of me, please?",
+      "say": "la foto"
+    },
+    "movil": {
+      "lvl": "A1",
+      "w": "el móvil",
+      "ipa": "/el ˈmoβil/",
+      "pos": "noun, masculine",
+      "en": "mobile phone (in Spain)",
+      "ex": "Llámame al móvil.",
+      "exEn": "Call me on my mobile.",
+      "say": "el móvil"
+    },
+    "vestibulo": {
+      "lvl": "B1",
+      "w": "el vestíbulo",
+      "ipa": "/el besˈtiβulo/",
+      "pos": "noun, masculine",
+      "en": "lobby, entrance hall",
+      "ex": "Te espero en el vestíbulo del hotel.",
+      "exEn": "I'll wait for you in the hotel lobby.",
+      "say": "el vestíbulo"
+    },
+    "escalera": {
+      "lvl": "A2",
+      "w": "la escalera",
+      "ipa": "/la eskaˈleɾa/",
+      "pos": "noun, feminine",
+      "en": "staircase, stairs",
+      "ex": "El ascensor no funciona; sube por la escalera.",
+      "exEn": "The lift isn't working; take the stairs.",
+      "say": "la escalera"
+    },
+    "despacho": {
+      "lvl": "A2",
+      "w": "el despacho",
+      "ipa": "/el desˈpatʃo/",
+      "pos": "noun, masculine",
+      "en": "(private) office",
+      "ex": "La directora está en su despacho.",
+      "exEn": "The director is in her office.",
+      "say": "el despacho"
+    },
+    "carpeta": {
+      "lvl": "A2",
+      "w": "la carpeta",
+      "ipa": "/la kaɾˈpeta/",
+      "pos": "noun, feminine",
+      "en": "folder",
+      "ex": "Los documentos están en la carpeta azul.",
+      "exEn": "The documents are in the blue folder.",
+      "say": "la carpeta"
+    },
+    "pluma": {
+      "lvl": "B1",
+      "w": "la pluma",
+      "ipa": "/la ˈpluma/",
+      "pos": "noun, feminine",
+      "en": "fountain pen (in Spain); also feather",
+      "ex": "Mi abuelo escribe con pluma.",
+      "exEn": "My grandfather writes with a fountain pen.",
+      "say": "la pluma"
+    },
+    "marco": {
+      "lvl": "B1",
+      "w": "el marco",
+      "ipa": "/el ˈmaɾko/",
+      "pos": "noun, masculine",
+      "en": "(picture) frame",
+      "ex": "Necesito un marco para esta foto.",
+      "exEn": "I need a frame for this photo.",
+      "say": "el marco"
+    }
   },
   "grammar": [
-    {"lvl": "A2", "title": "Pretérito perfecto", "body": "<em>ha llegado</em> (has arrived) · <em>¿Qué has hecho?</em> (What have you done?). In Spain this is the normal way to talk about something that just happened."},
-    {"lvl": "B1", "title": "llevar + tiempo + gerundio", "body": "<em>Llevo mucho tiempo esperando</em> = I've been waiting a long time."},
-    {"lvl": "Cultura", "title": "tú y usted", "body": "Alejandro says <em>tú</em> to Emma (<em>Siéntate, ¿Hablas…?</em>). She says <em>usted</em> to him (<em>¿Por qué tiene una foto mía?</em>). He is the boss; she is polite to a stranger."}
+    {
+      "lvl": "A2",
+      "title": "Pretérito perfecto",
+      "body": "<em>ha llegado</em> (has arrived) · <em>¿Qué has hecho?</em> (What have you done?). In Spain this is the normal way to talk about something that just happened."
+    },
+    {
+      "lvl": "B1",
+      "title": "llevar + tiempo + gerundio",
+      "body": "<em>Llevo mucho tiempo esperando</em> = I've been waiting a long time."
+    },
+    {
+      "lvl": "Cultura",
+      "title": "tú y usted",
+      "body": "Alejandro says <em>tú</em> to Emma (<em>Siéntate, ¿Hablas…?</em>). She says <em>usted</em> to him (<em>¿Por qué tiene una foto mía?</em>). He is the boss; she is polite to a stranger."
+    }
   ],
   "quiz": [
-    {"lvl": "A2", "q": "¿Qué firma Emma sin leer?", "o": ["el contrato", "una carta", "una foto"], "a": 0, "tag": "el contrato"},
-    {"lvl": "A2", "q": "La señorita Carter ___ llegado.", "o": ["he", "has", "ha"], "a": 2, "tag": "ha llegado (pretérito perfecto)"},
-    {"lvl": "B1", "q": "«Llevo mucho tiempo esperando conocerte» means:", "o": ["I've been waiting a long time to meet you", "I waited a long time to meet you", "I will wait a long time to meet you"], "a": 0, "tag": "llevo … esperando (llevar + gerundio)"}
+    {
+      "lvl": "A2",
+      "q": "¿Qué firma Emma sin leer?",
+      "o": [
+        "el contrato",
+        "una carta",
+        "una foto"
+      ],
+      "a": 0,
+      "tag": "el contrato"
+    },
+    {
+      "lvl": "A2",
+      "q": "La señorita Carter ___ llegado.",
+      "o": [
+        "he",
+        "has",
+        "ha"
+      ],
+      "a": 2,
+      "tag": "ha llegado (pretérito perfecto)"
+    },
+    {
+      "lvl": "B1",
+      "q": "«Llevo mucho tiempo esperando conocerte» means:",
+      "o": [
+        "I've been waiting a long time to meet you",
+        "I waited a long time to meet you",
+        "I will wait a long time to meet you"
+      ],
+      "a": 0,
+      "tag": "llevo … esperando (llevar + gerundio)"
+    }
   ],
-  "next": {"title": "Capítulo 2 · No confíes en él", "teaser": "Who is Valeria? Coming soon.", "url": ""}
+  "next": {
+    "title": "Capítulo 2 · No confíes en él",
+    "teaser": "Who is Valeria?",
+    "url": "../ep02/"
+  }
 }

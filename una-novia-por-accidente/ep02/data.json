@@ -10,81 +10,488 @@
     "url": "https://youtube.com/@senioritachristina"
   },
   "blocks": [
-    {"t": "n", "es": "Emma tiene la foto en las manos. Está en un [[marco|marco]] dorado. Alejandro está a su lado, con las manos en los bolsillos."},
-    {"t": "d", "who": "Emma", "es": "¿Por qué tienes una foto mía?", "en": "Why do you have a photo of me?"},
-    {"t": "d", "who": "Alejandro", "es": "Porque tu vida está relacionada con la mía.", "en": "Because your life is connected to mine."},
-    {"t": "d", "who": "Emma", "es": "¡Eso no tiene ningún sentido! Primero, ese contrato. Ahora, esta foto.", "en": "That doesn't make any sense! First, that contract. Now, this photo!"},
-    {"t": "d", "who": "Alejandro", "es": "Tu familia y la mía tienen una [[historia|historia]].", "en": "Your family and mine have a history."},
-    {"t": "d", "who": "Emma", "es": "Mi familia no tiene nada que ver contigo.", "en": "My family has nothing to do with you."},
-    {"t": "n", "es": "Emma deja la foto encima de la mesa."},
-    {"t": "d", "who": "Alejandro", "es": "Tu madre conocía a mi padre.", "en": "Your mother knew my father."},
-    {"t": "d", "who": "Emma", "es": "¿Qué? Mi madre [[morir|murió]] hace diez años.", "en": "What? My mother died ten years ago."},
-    {"t": "d", "who": "Alejandro", "es": "Lo sé. Y por eso necesito hablar contigo.", "en": "I know. That's why I need to talk to you."},
-    {"t": "d", "who": "Emma", "es": "¡No soy parte de tu [[negocio|negocio]]!", "en": "I'm not part of your business!"},
-    {"t": "d", "who": "Alejandro", "es": "No quiero comprarte, Emma.", "en": "I don't want to buy you, Emma."},
-    {"t": "d", "who": "Emma", "es": "Entonces, ¿por qué quieres casarte conmigo?", "en": "Then why do you want to marry me?"},
-    {"t": "n", "es": "En ese momento, una mujer entra en el despacho. Es alta y elegante, lleva un [[traje|traje]] rojo y sonríe."},
-    {"t": "d", "who": "Valeria", "es": "Vaya… ¿así que esta es la mujer?", "en": "Well… so this is the woman?"},
-    {"t": "d", "who": "Emma", "es": "¿Quién es ella?", "en": "Who is she?"},
-    {"t": "d", "who": "Alejandro", "es": "Valeria. Mi antigua [[prometida|prometida]].", "en": "Valeria. My former fiancée."},
-    {"t": "n", "es": "Valeria se acerca a Emma y la mira de arriba abajo."},
-    {"t": "d", "who": "Valeria", "es": "Ten cuidado, querida. No sabes dónde te estás metiendo.", "en": "Be careful, dear. You don't know what you're getting into."},
-    {"t": "d", "who": "Emma", "es": "No necesito tus [[consejo|consejos]].", "en": "I don't need your advice."},
-    {"t": "d", "who": "Valeria", "es": "Alejandro siempre tiene [[secreto|secretos]].", "en": "Alejandro always has secrets."},
-    {"t": "n", "es": "Valeria se acerca a Alejandro."},
-    {"t": "d", "who": "Valeria", "es": "Pensé que íbamos a casarnos.", "en": "I thought we were going to get married."},
-    {"t": "d", "who": "Alejandro", "es": "Eso terminó hace mucho.", "en": "That ended a long time ago."},
-    {"t": "d", "who": "Valeria", "es": "¿De verdad crees que lo conoces?", "en": "Do you really think you know him?"},
-    {"t": "n", "es": "Emma camina hacia la puerta."},
-    {"t": "d", "who": "Alejandro", "es": "Emma, espera.", "en": "Emma, wait."},
-    {"t": "d", "who": "Emma", "es": "¡No voy a quedarme aquí!", "en": "I'm not staying here!"},
-    {"t": "d", "who": "Alejandro", "es": "Por favor, escúchame primero.", "en": "Please. Listen to me first."},
-    {"t": "n", "es": "En otra sala, encima de una mesa redonda de mármol, hay un [[sobre|sobre]]. Emma lo abre. Dentro hay una foto antigua: su madre, con un hombre. Emma no puede creerlo."},
-    {"t": "d", "who": "Emma", "es": "Mamá… ¿qué hacías con él?", "en": "Mom… what were you doing with him?"},
-    {"t": "n", "es": "Alejandro entra en la sala. Emma se gira hacia él con el sobre en la mano."},
-    {"t": "d", "who": "Emma", "es": "¿Por qué tienes esto?", "en": "Why do you have this?"},
-    {"t": "d", "who": "Alejandro", "es": "¿Dónde lo has encontrado?", "en": "Where did you find it?"},
-    {"t": "d", "who": "Emma", "es": "¡Deja de [[ocultar|ocultarme]] cosas!", "en": "Stop hiding things from me!"},
-    {"t": "d", "who": "Alejandro", "es": "Solo quiero [[proteger|protegerte]].", "en": "I only want to protect you."},
-    {"t": "d", "who": "Emma", "es": "No necesito que me protejas.", "en": "I don't need you to protect me."},
-    {"t": "d", "who": "Alejandro", "es": "Hay cosas que todavía no sabes.", "en": "There are things you still don't know."},
-    {"t": "n", "es": "Más tarde, Emma camina por un [[pasillo|pasillo]] con el sobre. Su móvil suena."},
-    {"t": "d", "who": "Emma", "es": "¿Sí? ¿Quién es? ¿Qué? ¿Qué pasó con mi madre?", "en": "Hello? Who is this? What? What happened to my mother?"},
-    {"t": "n", "es": "Emma entra en el despacho. Alejandro está sentado en su mesa. Ella le enseña el móvil."},
-    {"t": "d", "who": "Emma", "es": "¡Alguien dice que sabes qué pasó con mi madre!", "en": "Someone says you know what happened to my mother!"},
-    {"t": "d", "who": "Alejandro", "es": "¿Quién te ha escrito?", "en": "Who wrote to you?"},
-    {"t": "d", "who": "Emma", "es": "¡Eso no importa! ¡Dime la verdad!", "en": "That doesn't matter! Tell me the truth!"},
-    {"t": "n", "es": "Alejandro se levanta. Encima de la mesa están el sobre y la foto antigua."},
-    {"t": "d", "who": "Emma", "es": "El mensaje dice: «No [[confiar|confíes]] en él».", "en": "The message says: \"Don't trust him.\""},
-    {"t": "d", "who": "Alejandro", "es": "Emma, puedo explicarlo.", "en": "Emma, I can explain."},
-    {"t": "d", "who": "Emma", "es": "¡Dice que tú sabes cómo murió mi madre!", "en": "It says you know how my mother died!"}
+    {
+      "t": "n",
+      "es": "Emma tiene la foto en las manos. Está en un [[marco|marco]] dorado. Alejandro está a su lado, con las manos en los bolsillos."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Por qué tienes una foto mía?",
+      "en": "Why do you have a photo of me?"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Porque tu vida está relacionada con la mía.",
+      "en": "Because your life is connected to mine."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡Eso no tiene ningún sentido! Primero, ese contrato. Ahora, esta foto.",
+      "en": "That doesn't make any sense! First, that contract. Now, this photo!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Tu familia y la mía tienen una [[historia|historia]].",
+      "en": "Your family and mine have a history."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Mi familia no tiene nada que ver contigo.",
+      "en": "My family has nothing to do with you."
+    },
+    {
+      "t": "n",
+      "es": "Emma deja la foto encima de la mesa."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Tu madre conocía a mi padre.",
+      "en": "Your mother knew my father."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Qué? Mi madre [[morir|murió]] hace diez años.",
+      "en": "What? My mother died ten years ago."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Lo sé. Y por eso necesito hablar contigo.",
+      "en": "I know. That's why I need to talk to you."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡No soy parte de tu [[negocio|negocio]]!",
+      "en": "I'm not part of your business!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "No quiero comprarte, Emma.",
+      "en": "I don't want to buy you, Emma."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Entonces, ¿por qué quieres casarte conmigo?",
+      "en": "Then why do you want to marry me?"
+    },
+    {
+      "t": "n",
+      "es": "En ese momento, una mujer entra en el despacho. Es alta y elegante, lleva un [[traje|traje]] rojo y sonríe."
+    },
+    {
+      "t": "d",
+      "who": "Valeria",
+      "es": "Vaya… ¿así que esta es la mujer?",
+      "en": "Well… so this is the woman?"
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Quién es ella?",
+      "en": "Who is she?"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Valeria. Mi antigua [[prometida|prometida]].",
+      "en": "Valeria. My former fiancée."
+    },
+    {
+      "t": "n",
+      "es": "Valeria se acerca a Emma y la mira de arriba abajo."
+    },
+    {
+      "t": "d",
+      "who": "Valeria",
+      "es": "Ten cuidado, querida. No sabes dónde te estás metiendo.",
+      "en": "Be careful, dear. You don't know what you're getting into."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "No necesito tus [[consejo|consejos]].",
+      "en": "I don't need your advice."
+    },
+    {
+      "t": "d",
+      "who": "Valeria",
+      "es": "Alejandro siempre tiene [[secreto|secretos]].",
+      "en": "Alejandro always has secrets."
+    },
+    {
+      "t": "n",
+      "es": "Valeria se acerca a Alejandro."
+    },
+    {
+      "t": "d",
+      "who": "Valeria",
+      "es": "Pensé que íbamos a casarnos.",
+      "en": "I thought we were going to get married."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Eso terminó hace mucho.",
+      "en": "That ended a long time ago."
+    },
+    {
+      "t": "d",
+      "who": "Valeria",
+      "es": "¿De verdad crees que lo conoces?",
+      "en": "Do you really think you know him?"
+    },
+    {
+      "t": "n",
+      "es": "Emma camina hacia la puerta."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Emma, espera.",
+      "en": "Emma, wait."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡No voy a quedarme aquí!",
+      "en": "I'm not staying here!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Por favor, escúchame primero.",
+      "en": "Please. Listen to me first."
+    },
+    {
+      "t": "n",
+      "es": "En otra sala, encima de una mesa redonda de mármol, hay un [[sobre|sobre]]. Emma lo abre. Dentro hay una foto antigua: su madre, con un hombre. Emma no puede creerlo."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "Mamá… ¿qué hacías con él?",
+      "en": "Mom… what were you doing with him?"
+    },
+    {
+      "t": "n",
+      "es": "Alejandro entra en la sala. Emma se gira hacia él con el sobre en la mano."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Por qué tienes esto?",
+      "en": "Why do you have this?"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "¿Dónde lo has encontrado?",
+      "en": "Where did you find it?"
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡Deja de [[ocultar|ocultarme]] cosas!",
+      "en": "Stop hiding things from me!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Solo quiero [[proteger|protegerte]].",
+      "en": "I only want to protect you."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "No necesito que me protejas.",
+      "en": "I don't need you to protect me."
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Hay cosas que todavía no sabes.",
+      "en": "There are things you still don't know."
+    },
+    {
+      "t": "n",
+      "es": "Más tarde, Emma camina por un [[pasillo|pasillo]] con el sobre. Su móvil suena."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¿Sí? ¿Quién es? ¿Qué? ¿Qué pasó con mi madre?",
+      "en": "Hello? Who is this? What? What happened to my mother?"
+    },
+    {
+      "t": "n",
+      "es": "Emma entra en el despacho. Alejandro está sentado en su mesa. Ella le enseña el móvil."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡Alguien dice que sabes qué pasó con mi madre!",
+      "en": "Someone says you know what happened to my mother!"
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "¿Quién te ha escrito?",
+      "en": "Who wrote to you?"
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡Eso no importa! ¡Dime la verdad!",
+      "en": "That doesn't matter! Tell me the truth!"
+    },
+    {
+      "t": "n",
+      "es": "Alejandro se levanta. Encima de la mesa están el sobre y la foto antigua."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "El mensaje dice: «No [[confiar|confíes]] en él».",
+      "en": "The message says: \"Don't trust him.\""
+    },
+    {
+      "t": "d",
+      "who": "Alejandro",
+      "es": "Emma, puedo explicarlo.",
+      "en": "Emma, I can explain."
+    },
+    {
+      "t": "d",
+      "who": "Emma",
+      "es": "¡Dice que tú sabes cómo murió mi madre!",
+      "en": "It says you know how my mother died!"
+    }
   ],
   "words": {
-    "historia": {"target": true, "lvl": "A2", "w": "la historia", "ipa": "/la isˈtoɾja/", "pos": "noun, feminine", "en": "history; story", "line": "Tu familia y la mía tienen una historia.", "ex": "Me encanta la historia de España.", "exEn": "I love the history of Spain.", "say": "la historia"},
-    "morir": {"target": true, "lvl": "A2", "w": "morir", "ipa": "/moˈɾiɾ/", "pos": "verb · murió = (she) died", "en": "to die", "line": "Mi madre murió hace diez años.", "ex": "Mi abuelo murió hace dos años.", "exEn": "My grandfather died two years ago.", "say": "morir"},
-    "negocio": {"target": true, "lvl": "A2", "w": "el negocio", "ipa": "/el neˈɣoθjo/", "pos": "noun, masculine", "en": "business", "line": "¡No soy parte de tu negocio!", "ex": "Mi tía tiene un negocio de ropa en Sevilla.", "exEn": "My aunt has a clothing business in Seville.", "say": "el negocio"},
-    "prometida": {"target": true, "lvl": "B1", "w": "la prometida", "ipa": "/la pɾomeˈtiða/", "pos": "noun, feminine · el prometido = fiancé", "en": "fiancée", "line": "Valeria. Mi antigua prometida.", "ex": "Te presento a mi prometida, Lucía.", "exEn": "Let me introduce my fiancée, Lucía.", "say": "la prometida"},
-    "consejo": {"target": true, "lvl": "A2", "w": "el consejo", "ipa": "/el konˈsexo/", "pos": "noun, masculine · los consejos = advice", "en": "(piece of) advice", "line": "No necesito tus consejos.", "ex": "¿Me das un consejo? No sé qué hacer.", "exEn": "Can you give me some advice? I don't know what to do.", "say": "el consejo"},
-    "secreto": {"target": true, "lvl": "A2", "w": "el secreto", "ipa": "/el seˈkɾeto/", "pos": "noun, masculine", "en": "secret", "line": "Alejandro siempre tiene secretos.", "ex": "¿Me guardas un secreto?", "exEn": "Can you keep a secret for me?", "say": "el secreto"},
-    "ocultar": {"target": true, "lvl": "B1", "w": "ocultar", "ipa": "/okulˈtaɾ/", "pos": "verb · ocultarme = to hide from me", "en": "to hide, to keep from", "line": "¡Deja de ocultarme cosas!", "ex": "No me ocultes nada, por favor.", "exEn": "Don't hide anything from me, please.", "say": "ocultar"},
-    "proteger": {"target": true, "lvl": "B1", "w": "proteger", "ipa": "/pɾoteˈxeɾ/", "pos": "verb · protegerte = to protect you", "en": "to protect", "line": "Solo quiero protegerte.", "ex": "Esta crema protege la piel del sol.", "exEn": "This cream protects your skin from the sun.", "say": "proteger"},
-    "confiar": {"target": true, "lvl": "B1", "w": "confiar en", "ipa": "/konˈfjaɾ en/", "pos": "verb + en · no confíes = don't trust", "en": "to trust (someone)", "line": "El mensaje dice: «No confíes en él».", "ex": "Confío en ti.", "exEn": "I trust you.", "say": "confiar en"},
-    "marco": {"lvl": "B1", "w": "el marco", "ipa": "/el ˈmaɾko/", "pos": "noun, masculine", "en": "(picture) frame", "ex": "Necesito un marco para esta foto.", "exEn": "I need a frame for this photo.", "say": "el marco"},
-    "traje": {"lvl": "A2", "w": "el traje", "ipa": "/el ˈtɾaxe/", "pos": "noun, masculine", "en": "suit", "ex": "Para la boda me pongo un traje azul.", "exEn": "I'm wearing a blue suit to the wedding.", "say": "el traje"},
-    "sobre": {"lvl": "A2", "w": "el sobre", "ipa": "/el ˈsoβɾe/", "pos": "noun, masculine (also: sobre = on, about)", "en": "envelope", "ex": "Escribe la dirección en el sobre.", "exEn": "Write the address on the envelope.", "say": "el sobre"},
-    "pasillo": {"lvl": "A2", "w": "el pasillo", "ipa": "/el paˈsiʝo/", "pos": "noun, masculine", "en": "corridor, hallway", "ex": "El baño está al final del pasillo.", "exEn": "The bathroom is at the end of the hall.", "say": "el pasillo"}
+    "historia": {
+      "target": true,
+      "lvl": "A2",
+      "w": "la historia",
+      "ipa": "/la isˈtoɾja/",
+      "pos": "noun, feminine",
+      "en": "history; story",
+      "line": "Tu familia y la mía tienen una historia.",
+      "ex": "Me encanta la historia de España.",
+      "exEn": "I love the history of Spain.",
+      "say": "la historia"
+    },
+    "morir": {
+      "target": true,
+      "lvl": "A2",
+      "w": "morir",
+      "ipa": "/moˈɾiɾ/",
+      "pos": "verb · murió = (she) died",
+      "en": "to die",
+      "line": "Mi madre murió hace diez años.",
+      "ex": "Mi abuelo murió hace dos años.",
+      "exEn": "My grandfather died two years ago.",
+      "say": "morir"
+    },
+    "negocio": {
+      "target": true,
+      "lvl": "A2",
+      "w": "el negocio",
+      "ipa": "/el neˈɣoθjo/",
+      "pos": "noun, masculine",
+      "en": "business",
+      "line": "¡No soy parte de tu negocio!",
+      "ex": "Mi tía tiene un negocio de ropa en Sevilla.",
+      "exEn": "My aunt has a clothing business in Seville.",
+      "say": "el negocio"
+    },
+    "prometida": {
+      "target": true,
+      "lvl": "B1",
+      "w": "la prometida",
+      "ipa": "/la pɾomeˈtiða/",
+      "pos": "noun, feminine · el prometido = fiancé",
+      "en": "fiancée",
+      "line": "Valeria. Mi antigua prometida.",
+      "ex": "Te presento a mi prometida, Lucía.",
+      "exEn": "Let me introduce my fiancée, Lucía.",
+      "say": "la prometida"
+    },
+    "consejo": {
+      "target": true,
+      "lvl": "A2",
+      "w": "el consejo",
+      "ipa": "/el konˈsexo/",
+      "pos": "noun, masculine · los consejos = advice",
+      "en": "(piece of) advice",
+      "line": "No necesito tus consejos.",
+      "ex": "¿Me das un consejo? No sé qué hacer.",
+      "exEn": "Can you give me some advice? I don't know what to do.",
+      "say": "el consejo"
+    },
+    "secreto": {
+      "target": true,
+      "lvl": "A2",
+      "w": "el secreto",
+      "ipa": "/el seˈkɾeto/",
+      "pos": "noun, masculine",
+      "en": "secret",
+      "line": "Alejandro siempre tiene secretos.",
+      "ex": "¿Me guardas un secreto?",
+      "exEn": "Can you keep a secret for me?",
+      "say": "el secreto"
+    },
+    "ocultar": {
+      "target": true,
+      "lvl": "B1",
+      "w": "ocultar",
+      "ipa": "/okulˈtaɾ/",
+      "pos": "verb · ocultarme = to hide from me",
+      "en": "to hide, to keep from",
+      "line": "¡Deja de ocultarme cosas!",
+      "ex": "No me ocultes nada, por favor.",
+      "exEn": "Don't hide anything from me, please.",
+      "say": "ocultar"
+    },
+    "proteger": {
+      "target": true,
+      "lvl": "B1",
+      "w": "proteger",
+      "ipa": "/pɾoteˈxeɾ/",
+      "pos": "verb · protegerte = to protect you",
+      "en": "to protect",
+      "line": "Solo quiero protegerte.",
+      "ex": "Esta crema protege la piel del sol.",
+      "exEn": "This cream protects your skin from the sun.",
+      "say": "proteger"
+    },
+    "confiar": {
+      "target": true,
+      "lvl": "B1",
+      "w": "confiar en",
+      "ipa": "/konˈfjaɾ en/",
+      "pos": "verb + en · no confíes = don't trust",
+      "en": "to trust (someone)",
+      "line": "El mensaje dice: «No confíes en él».",
+      "ex": "Confío en ti.",
+      "exEn": "I trust you.",
+      "say": "confiar en"
+    },
+    "marco": {
+      "lvl": "B1",
+      "w": "el marco",
+      "ipa": "/el ˈmaɾko/",
+      "pos": "noun, masculine",
+      "en": "(picture) frame",
+      "ex": "Necesito un marco para esta foto.",
+      "exEn": "I need a frame for this photo.",
+      "say": "el marco"
+    },
+    "traje": {
+      "lvl": "A2",
+      "w": "el traje",
+      "ipa": "/el ˈtɾaxe/",
+      "pos": "noun, masculine",
+      "en": "suit",
+      "ex": "Para la boda me pongo un traje azul.",
+      "exEn": "I'm wearing a blue suit to the wedding.",
+      "say": "el traje"
+    },
+    "sobre": {
+      "lvl": "A2",
+      "w": "el sobre",
+      "ipa": "/el ˈsoβɾe/",
+      "pos": "noun, masculine (also: sobre = on, about)",
+      "en": "envelope",
+      "ex": "Escribe la dirección en el sobre.",
+      "exEn": "Write the address on the envelope.",
+      "say": "el sobre"
+    },
+    "pasillo": {
+      "lvl": "A2",
+      "w": "el pasillo",
+      "ipa": "/el paˈsiʝo/",
+      "pos": "noun, masculine",
+      "en": "corridor, hallway",
+      "ex": "El baño está al final del pasillo.",
+      "exEn": "The bathroom is at the end of the hall.",
+      "say": "el pasillo"
+    }
   },
   "grammar": [
-    {"lvl": "A2", "title": "hace + tiempo", "body": "<em>Mi madre murió <b>hace</b> diez años</em> = My mother died ten years ago. <em>Hace</em> + time = ago."},
-    {"lvl": "A2", "title": "Imperativo + pronombre", "body": "<em>Escúcha<b>me</b> · Dí<b>me</b> la verdad</em>. With positive commands the pronoun sticks to the end of the verb."},
-    {"lvl": "B1", "title": "No necesito que + subjuntivo", "body": "<em>No necesito que me <b>protejas</b></em> = I don't need you to protect me. After <em>necesitar que</em>, the next verb goes into the subjunctive."},
-    {"lvl": "B1", "title": "Imperativo negativo", "body": "<em>No <b>confíes</b> en él</em> = Don't trust him. Negative commands with <em>tú</em> use the subjunctive form (confías → no confíes)."},
-    {"lvl": "Cultura", "title": "De usted a tú", "body": "In EP01 Emma said <em>usted</em> to Alejandro (<em>¿Por qué tiene…?</em>). Now she's angry and switches to <em>tú</em>: <em>¿Por qué <b>tienes</b> una foto mía? · tu negocio · ¿quieres casarte conmigo?</em> In Spain, moving to tú is normal once things get personal."}
+    {
+      "lvl": "A2",
+      "title": "hace + tiempo",
+      "body": "<em>Mi madre murió <b>hace</b> diez años</em> = My mother died ten years ago. <em>Hace</em> + time = ago."
+    },
+    {
+      "lvl": "A2",
+      "title": "Imperativo + pronombre",
+      "body": "<em>Escúcha<b>me</b> · Dí<b>me</b> la verdad</em>. With positive commands the pronoun sticks to the end of the verb."
+    },
+    {
+      "lvl": "B1",
+      "title": "No necesito que + subjuntivo",
+      "body": "<em>No necesito que me <b>protejas</b></em> = I don't need you to protect me. After <em>necesitar que</em>, the next verb goes into the subjunctive."
+    },
+    {
+      "lvl": "B1",
+      "title": "Imperativo negativo",
+      "body": "<em>No <b>confíes</b> en él</em> = Don't trust him. Negative commands with <em>tú</em> use the subjunctive form (confías → no confíes)."
+    },
+    {
+      "lvl": "Cultura",
+      "title": "De usted a tú",
+      "body": "In EP01 Emma said <em>usted</em> to Alejandro (<em>¿Por qué tiene…?</em>). Now she's angry and switches to <em>tú</em>: <em>¿Por qué <b>tienes</b> una foto mía? · tu negocio · ¿quieres casarte conmigo?</em> In Spain, moving to tú is normal once things get personal."
+    }
   ],
   "quiz": [
-    {"lvl": "A2", "q": "Mi madre murió ___ diez años.", "o": ["desde", "hace", "por"], "a": 1, "tag": "hace + tiempo (= ago)"},
-    {"lvl": "A2", "q": "¿Quién es Valeria?", "o": ["La madre de Emma", "La antigua prometida de Alejandro", "La asistente de Alejandro"], "a": 1, "tag": "la prometida"},
-    {"lvl": "B1", "q": "No necesito que me ___.", "o": ["proteges", "protejas", "proteger"], "a": 1, "tag": "necesitar que + subjuntivo"}
+    {
+      "lvl": "A2",
+      "q": "Mi madre murió ___ diez años.",
+      "o": [
+        "desde",
+        "hace",
+        "por"
+      ],
+      "a": 1,
+      "tag": "hace + tiempo (= ago)"
+    },
+    {
+      "lvl": "A2",
+      "q": "¿Quién es Valeria?",
+      "o": [
+        "La madre de Emma",
+        "La antigua prometida de Alejandro",
+        "La asistente de Alejandro"
+      ],
+      "a": 1,
+      "tag": "la prometida"
+    },
+    {
+      "lvl": "B1",
+      "q": "No necesito que me ___.",
+      "o": [
+        "proteges",
+        "protejas",
+        "proteger"
+      ],
+      "a": 1,
+      "tag": "necesitar que + subjuntivo"
+    }
   ],
-  "next": {"title": "Capítulo 3 · El sobre", "teaser": "What did Emma's mother hide? Coming soon.", "url": ""}
+  "next": {
+    "title": "Capítulo 3 · La carta",
+    "teaser": "What did Emma's mother hide?",
+    "url": "../ep03/"
+  }
 }
