@@ -15,19 +15,19 @@ Every conversation reuses words from the Sunday story, shown in **bold**.
 
 | # | Who | Spanish | English |
 |---|---|---|---|
-| 1 | Panadera | ¡Buenos días! ¿Qué te pongo? | Good morning! What can I get you? |
+| 1 | Panadero | ¡Buenos días! ¿Qué te pongo? | Good morning! What can I get you? |
 | 2 | Elena | Hola, buenos días. Una **barra de pan**, por favor. | Hi, good morning. A baguette, please. |
-| 3 | Panadera | Aquí tienes. ¿Algo más? | Here you are. Anything else? |
+| 3 | Panadero | Aquí tienes. ¿Algo más? | Here you are. Anything else? |
 | 4 | Elena | No, gracias. ¡**Qué bien huele el pan**! | No, thanks. The bread smells so good! |
-| 5 | Panadera | Es pan del día. ¿Eres nueva en el **barrio**? | It's fresh today. Are you new in the neighbourhood? |
+| 5 | Panadero | Es pan del día. ¿Eres nueva en el **barrio**? | It's fresh today. Are you new in the neighbourhood? |
 | 6 | Elena | Sí, **acabo de mudarme** a Madrid. | Yes, I've just moved to Madrid. |
-| 7 | Panadera | ¡Bienvenida! ¿Y te gusta el barrio? | Welcome! And do you like the neighbourhood? |
+| 7 | Panadero | ¡Bienvenida! ¿Y te gusta el barrio? | Welcome! And do you like the neighbourhood? |
 | 8 | Elena | Sí, mucho. Lo conozco **poco a poco**. | Yes, a lot. I'm getting to know it little by little. |
-| 9 | Panadera | Son ochenta céntimos. | That's eighty cents. |
+| 9 | Panadero | Son ochenta céntimos. | That's eighty cents. |
 | 10 | Elena | Aquí tienes. ¿Abrís todos los días? | Here you are. Are you open every day? |
-| 11 | Panadera | Sí, de lunes a sábado, desde las ocho. | Yes, Monday to Saturday, from eight. |
+| 11 | Panadero | Sí, de lunes a sábado, desde las ocho. | Yes, Monday to Saturday, from eight. |
 | 12 | Elena | Perfecto. Entonces, hasta mañana. | Perfect. See you tomorrow, then. |
-| 13 | Panadera | ¡Hasta mañana! | See you tomorrow! |
+| 13 | Panadero | ¡Hasta mañana! | See you tomorrow! |
 
 **Key phrases:** ¿Qué te pongo? · una barra de pan · ¿Algo más? · acabo de mudarme · poco a poco · ¿Abrís todos los días?
 
@@ -99,42 +99,54 @@ Every conversation reuses words from the Sunday story, shown in **bold**.
 
 ---
 
+# Style references (from the main video)
+
+These six frames from *Mi semana en Madrid* are the **official style references**. They're saved in `style-refs/`:
+`ref1-street-baguette` · `ref2-cafe-book` · `ref3-flat-coffee` · `ref4-cowork-laptop` · `ref5-bakery` · `ref6-market`
+
+**The style, in words:** clean modern anime, slice-of-life illustration. Thin dark-brown outlines, soft cel shading with gentle gradients, warm golden amber sunlight, cosy and highly detailed Madrid backgrounds (classic buildings with iron balconies, plants in terracotta pots, warm wood). Faces have large expressive brown eyes and simple noses. The overall tone is warm cream, honey and amber.
+
+**Tip:** your original image files work better than screenshots. If you use screenshots, crop out the black bars, subtitles and logo first, or add to the prompt: *"Ignore any subtitles, black bars and logo in the reference images."*
+
+---
+
 # Character sheets (make these FIRST · 5 images)
 
 A character sheet is one image showing a character from several angles and with several expressions, on a plain background. Gemini then uses it as a reference, so each character looks the same in every scene and every week.
 
 **How to make them**
-- **Ratio 16:9.** Make **Elena first**, attaching your *Mi semana en Madrid* thumbnail as the reference.
-- For the other four, attach **Elena's finished sheet** so they share the same art style.
+- **Ratio 16:9.** Make **Elena first**, attaching **3 of the style references** (best: `ref2-cafe-book`, `ref3-flat-coffee`, `ref6-market`, where her face and outfit are clearest).
+- For the other four, attach **Elena's finished sheet** plus **one style reference** so they share the same art style. For the baker, use `ref5-bakery`; for the greengrocer, `ref6-market`.
 - Paste the **shared sheet block** first, then that character's prompt.
-- Name the files `sheet-elena`, `sheet-panadera`, `sheet-javier`, `sheet-frutero`, `sheet-camarera`.
+- Name the files `sheet-elena`, `sheet-panadero`, `sheet-javier`, `sheet-frutero`, `sheet-camarera`.
 - Keep Elena's sheet for every future week. The other four can come back in later spin-offs as recurring neighbours.
 
 ### Shared sheet block (paste first every time)
 ```
-Create a character reference sheet in the same art style as the attached image: soft hand-drawn anime-inspired illustration, warm cream and golden tones, gentle watercolour shading, clean outlines.
+Create a character reference sheet in exactly the same art style as the attached images: clean modern anime slice-of-life illustration, thin dark-brown outlines, soft cel shading with gentle gradients, warm golden amber lighting, large expressive brown eyes.
 Layout, 16:9, plain warm off-white background, evenly lit, no scenery:
 - Top row: the same character, full body, in four views side by side: front, three-quarter left, side profile, back.
 - Bottom row: four head-and-shoulders close-ups of the same character with different expressions: friendly smile, laughing, curious/asking a question, surprised.
 Same face, hairstyle, body proportions, clothes and colours in every view. Neutral standing pose in the top row, arms relaxed.
+Ignore any subtitles, black bars and logo in the reference images.
 No text, no labels, no names, no numbers, no arrows, no colour swatches, no logos, no watermark.
 ```
 
 ### Elena (main character, recurring every week)
 ```
-Character: Elena, a Spanish woman aged 32, slim, average height. Shoulder-length wavy brown bob with soft side part, warm brown eyes, light olive skin, small gold stud earrings, natural makeup, warm open smile. Outfit: cream ribbed crew-neck sweater, dark navy straight trousers, brown leather ankle boots, brown leather shoulder bag worn across the body. Keep her identical to the woman in the attached reference image.
+Character: Elena, the woman in the attached reference images, aged 32. Keep her identical to them: dark brown, mostly straight, shoulder-length bob with a side part, one side tucked behind her ear, ends flicking slightly outwards; large warm brown eyes with defined lashes; golden tan skin; small round gold stud earrings; warm open smile. Outfit: cream ribbed crew-neck sweater with vertical ribs, navy high-waisted straight trousers, brown leather ankle boots, brown leather satchel with a front flap and buckle, worn across the body on a long strap.
 ```
-### La panadera (the baker)
+### El panadero (the baker, as in the main video)
 ```
-Character: a friendly Spanish baker, woman in her mid-50s, medium build, short dark hair with grey streaks, kind brown eyes, small reading glasses hanging on a cord around her neck, rosy cheeks. Outfit: light blue short-sleeved blouse, long white apron with a little flour on it, comfortable dark shoes. Warm, motherly personality.
+Character: the baker from the attached bakery reference image: a friendly Spanish man in his 40s, medium build, short dark hair, neat dark moustache, kind eyes. Outfit: white double-breasted chef's jacket with sleeves rolled to the forearm, white baker's cap, white apron, dark trousers. Warm, calm personality.
 ```
 ### Javier (coworker)
 ```
 Character: Javier, a friendly Spanish man in his early 30s, tall and slim, short neat black hair, light stubble, round tortoiseshell glasses, dark brown eyes, easy-going smile. Outfit: navy crew-neck sweater over a white T-shirt collar, grey chinos, white trainers, a smartwatch. Relaxed, cheerful personality.
 ```
-### El frutero (the greengrocer)
+### El frutero (the greengrocer, as in the main video)
 ```
-Character: a cheerful Spanish greengrocer, man in his 60s, stocky build, white bushy moustache, tanned skin, laughing eyes with crow's feet. Outfit: grey flat cap, checked brown-and-cream shirt with sleeves rolled up, dark green work apron, dark trousers. Jolly, talkative personality.
+Character: the greengrocer from the attached market reference image: a cheerful Spanish man in his 40s, stocky build, short dark hair, full dark beard, warm smile. Outfit: white cap, light grey short-sleeved shirt, navy work apron, white disposable gloves, dark trousers. Friendly, talkative personality.
 ```
 ### La camarera (the waitress)
 ```
@@ -147,7 +159,7 @@ Character: a friendly Spanish waitress in her mid-20s, slim, dark brown hair in 
 
 ## How to make them
 1. **Image ratio: 16:9** (landscape) for all 9.
-2. For each scene, attach **Elena's character sheet** and **the sheet of the other person in that scene** (e.g. 01A and 01B: `sheet-elena` + `sheet-panadera`). For 01B, 02B, 03B and 04B, also attach that conversation's A image so the place looks the same.
+2. For each scene, attach **Elena's character sheet**, **the sheet of the other person in that scene** (e.g. 01A and 01B: `sheet-elena` + `sheet-panadero`) and **the matching style reference** (bakery → `ref5`, coworking → `ref4`, market → `ref6`, café → `ref2`). For 01B, 02B, 03B and 04B, also attach that conversation's A image so the place looks the same.
 3. Paste the **shared style block** first, then the prompt for that image.
 4. If an image comes out with text or a speech bubble in it, ask Gemini: *"Same image, but remove all text and letters."*
 5. Name the files `01A`, `01B`, `02A` … `04B` and `thumb`, then upload them here.
@@ -156,24 +168,24 @@ Elena is always on the **LEFT** and the other person always on the **RIGHT**, wi
 
 ### Shared style block (paste first every time)
 ```
-Use the attached character sheets for each person's face, hair and clothes, and for the art style.
-Style: soft hand-drawn anime-inspired illustration, warm cream and golden tones, gentle watercolour shading, clean outlines, cosy and friendly, Madrid setting, 16:9.
-Elena: woman aged 32, shoulder-length wavy brown bob, brown eyes, warm smile, cream ribbed sweater, brown leather shoulder bag, small gold stud earrings. Keep her identical to the reference.
-Elena is always on the LEFT of the image, the other person on the RIGHT, facing each other in three-quarter view. Both faces in the upper half of the image, with open, calm space between the two faces for speech bubbles to be added later.
+Use the attached character sheets for each person's face, hair and clothes, and the attached frame from the main video for the art style and setting.
+Style: exactly like the reference frame: clean modern anime slice-of-life illustration, thin dark-brown outlines, soft cel shading, warm golden amber sunlight, cosy, highly detailed Madrid setting, 16:9.
+Elena: identical to her character sheet (dark brown shoulder-length bob tucked behind one ear, large brown eyes, round gold stud earrings, cream ribbed sweater, navy high-waisted trousers, brown leather satchel across the body).
+Elena is always on the LEFT of the image, the other person on the RIGHT, facing each other in three-quarter view and clearly talking to each other. Both faces in the upper half of the image, with open, calm space between the two faces for speech bubbles to be added later.
+Ignore any subtitles, black bars and logo in the reference images.
 No text, no letters, no numbers, no speech bubbles, no signs with writing, no logos, no watermark.
 ```
-
 ### 01A · Panadería, wide
 ```
-Scene: a small, cosy neighbourhood bakery in Madrid at 10 in the morning. Wooden shelves with baguettes and round loaves, a glass counter with croissants, warm sunlight through the shop window, a Madrid street outside. Elena stands at the counter, waist-up. On the right, behind the counter, the baker: a friendly Spanish woman in her 50s, short dark hair with grey streaks, light blue blouse, white apron, holding a baguette in a paper bag out to Elena. Both smiling.
+Scene: a small, cosy neighbourhood bakery in Madrid at 10 in the morning. Wooden shelves with baguettes and round loaves, a glass counter with croissants, warm sunlight through the shop window, a Madrid street outside. Elena stands at the counter, waist-up. On the right, behind the counter, the baker (from his character sheet: moustache, white chef's jacket and cap), handing Elena a baguette in a brown paper bag. Both smiling.
 ```
 ### 01B · Panadería, closer
 ```
-Same bakery, same two people, same clothes. Closer shot, chest-up: Elena on the left taking the baguette in its paper bag with a happy face, the baker on the right smiling warmly. Soft bokeh of bread shelves behind them.
+Same bakery, same two people, same clothes. Closer shot, chest-up: Elena on the left holding the baguette in its brown paper bag with a happy face, the baker on the right smiling warmly. Soft bokeh of bread shelves behind them.
 ```
 ### 02A · Espacio compartido, wide
 ```
-Scene: a bright shared workspace (coworking) in Madrid, 10 in the morning. Long wooden desks, laptops, green plants, large windows with Madrid rooftops. Elena sits at a desk on the left with her laptop and a glass of water, turning towards the person on the right. On the right: Javier, a friendly man in his early 30s, short black hair, round glasses, navy sweater, standing and holding two glasses of water, smiling. Both visible from the waist up.
+Scene: a bright shared workspace in Madrid like the reference frame, 10 in the morning: wooden tables, hanging plants in terracotta pots, big windows onto a tree-lined street with classic buildings, a warm pendant lamp. Elena sits at a desk on the left with her laptop and a glass of water, turning towards the person on the right. On the right: Javier, a friendly man in his early 30s, short black hair, round glasses, navy sweater, standing and holding two glasses of water, smiling. Both visible from the waist up.
 ```
 ### 02B · Espacio compartido, closer
 ```
@@ -181,7 +193,7 @@ Same workspace, same two people, same clothes. Closer shot, chest-up: Elena on t
 ```
 ### 03A · Mercado, wide
 ```
-Scene: a colourful indoor food market in Madrid at 10:30 in the morning, fruit and vegetable stall full of red tomatoes, green cucumbers, red peppers, oranges, in wooden crates. Elena stands on the left in front of the stall holding a beige cloth tote bag. On the right, behind the stall: the greengrocer, a cheerful Spanish man in his 60s, white moustache, flat cap, green apron, holding a few red tomatoes. Both smiling, waist-up.
+Scene: the same kind of sunny open-air Madrid market as the reference frame, at 10:30 in the morning: white parasols, wooden crates full of red tomatoes, cucumbers, red and yellow peppers, leafy greens. Elena stands on the left in front of the stall holding her beige cloth tote bag. On the right, behind the stall: the greengrocer (from his character sheet: full beard, white cap, navy apron, gloves), holding out a few red tomatoes. Both smiling, waist-up.
 ```
 ### 03B · Mercado, closer
 ```
@@ -189,7 +201,7 @@ Same market stall, same two people, same clothes. Closer shot, chest-up: Elena o
 ```
 ### 04A · Cafetería, wide
 ```
-Scene: a charming neighbourhood café in Madrid at 4 in the afternoon, golden light, small marble tables, wooden chairs, plants, a big window onto the street. Elena sits at a table by the window on the left with an open book. On the right: the waitress, a friendly young Spanish woman in her 20s, dark hair in a ponytail, white shirt, black apron, placing a cup of café con leche on the table. Both smiling, waist-up.
+Scene: the same cosy neighbourhood café as the reference frame, at 4 in the afternoon: golden light, wooden tables and bentwood chairs, plants in terracotta pots, framed picture on the wall, a big window onto a sunny Madrid street. Elena sits at a table by the window on the left with an open book. On the right: the waitress, a friendly young Spanish woman in her 20s, dark hair in a ponytail, white shirt, black apron, placing a cup of café con leche on the table. Both smiling, waist-up.
 ```
 ### 04B · Cafetería, closer
 ```
@@ -197,6 +209,6 @@ Same café, same two people, same clothes. Closer shot, chest-up: Elena on the l
 ```
 ### thumb · Thumbnail
 ```
-Same art style as the reference thumbnail. Elena alone on the RIGHT half of the image, chest-up, big friendly smile, holding a paper bag with a baguette in one arm and her beige cloth tote bag with vegetables on her shoulder. Background: a sunny Madrid street with classic buildings. The LEFT half of the image is a calm, plain cream-coloured sky area with nothing in it, so a title can be added later. No text at all.
+Same art style as the reference frames (attach `ref1-street-baguette` and Elena's sheet). Elena alone on the RIGHT half of the image, chest-up, big friendly smile, holding a paper bag with a baguette in one arm and her beige cloth tote bag with vegetables on her shoulder. Background: a sunny Madrid street with classic buildings. The LEFT half of the image is a calm, plain cream-coloured sky area with nothing in it, so a title can be added later. No text at all.
 ```
 I'll add the title text to the thumbnail myself, matching the style of your main video: *"Conversaciones en Madrid"* with a red banner reading *"Conversación real · A1–A2"*.
