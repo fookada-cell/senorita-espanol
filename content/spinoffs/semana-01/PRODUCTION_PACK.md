@@ -99,11 +99,55 @@ Every conversation reuses words from the Sunday story, shown in **bold**.
 
 ---
 
-# Image prompts for Gemini (9 images)
+# Character sheets (make these FIRST · 5 images)
+
+A character sheet is one image showing a character from several angles and with several expressions, on a plain background. Gemini then uses it as a reference, so each character looks the same in every scene and every week.
+
+**How to make them**
+- **Ratio 16:9.** Make **Elena first**, attaching your *Mi semana en Madrid* thumbnail as the reference.
+- For the other four, attach **Elena's finished sheet** so they share the same art style.
+- Paste the **shared sheet block** first, then that character's prompt.
+- Name the files `sheet-elena`, `sheet-panadera`, `sheet-javier`, `sheet-frutero`, `sheet-camarera`.
+- Keep Elena's sheet for every future week. The other four can come back in later spin-offs as recurring neighbours.
+
+### Shared sheet block (paste first every time)
+```
+Create a character reference sheet in the same art style as the attached image: soft hand-drawn anime-inspired illustration, warm cream and golden tones, gentle watercolour shading, clean outlines.
+Layout, 16:9, plain warm off-white background, evenly lit, no scenery:
+- Top row: the same character, full body, in four views side by side: front, three-quarter left, side profile, back.
+- Bottom row: four head-and-shoulders close-ups of the same character with different expressions: friendly smile, laughing, curious/asking a question, surprised.
+Same face, hairstyle, body proportions, clothes and colours in every view. Neutral standing pose in the top row, arms relaxed.
+No text, no labels, no names, no numbers, no arrows, no colour swatches, no logos, no watermark.
+```
+
+### Elena (main character, recurring every week)
+```
+Character: Elena, a Spanish woman aged 32, slim, average height. Shoulder-length wavy brown bob with soft side part, warm brown eyes, light olive skin, small gold stud earrings, natural makeup, warm open smile. Outfit: cream ribbed crew-neck sweater, dark navy straight trousers, brown leather ankle boots, brown leather shoulder bag worn across the body. Keep her identical to the woman in the attached reference image.
+```
+### La panadera (the baker)
+```
+Character: a friendly Spanish baker, woman in her mid-50s, medium build, short dark hair with grey streaks, kind brown eyes, small reading glasses hanging on a cord around her neck, rosy cheeks. Outfit: light blue short-sleeved blouse, long white apron with a little flour on it, comfortable dark shoes. Warm, motherly personality.
+```
+### Javier (coworker)
+```
+Character: Javier, a friendly Spanish man in his early 30s, tall and slim, short neat black hair, light stubble, round tortoiseshell glasses, dark brown eyes, easy-going smile. Outfit: navy crew-neck sweater over a white T-shirt collar, grey chinos, white trainers, a smartwatch. Relaxed, cheerful personality.
+```
+### El frutero (the greengrocer)
+```
+Character: a cheerful Spanish greengrocer, man in his 60s, stocky build, white bushy moustache, tanned skin, laughing eyes with crow's feet. Outfit: grey flat cap, checked brown-and-cream shirt with sleeves rolled up, dark green work apron, dark trousers. Jolly, talkative personality.
+```
+### La camarera (the waitress)
+```
+Character: a friendly Spanish waitress in her mid-20s, slim, dark brown hair in a high ponytail, brown eyes, small silver hoop earrings, bright smile. Outfit: white short-sleeved shirt, long black waist apron, black trousers, black trainers, a small notepad in the apron pocket. Energetic, welcoming personality.
+```
+
+---
+
+# Scene image prompts for Gemini (9 images)
 
 ## How to make them
 1. **Image ratio: 16:9** (landscape) for all 9.
-2. For **01A**, attach your *Mi semana en Madrid* thumbnail as the reference. For **every image after that**, attach the thumbnail **and image 01A**, so Elena keeps the same face, hair and clothes.
+2. For each scene, attach **Elena's character sheet** and **the sheet of the other person in that scene** (e.g. 01A and 01B: `sheet-elena` + `sheet-panadera`). For 01B, 02B, 03B and 04B, also attach that conversation's A image so the place looks the same.
 3. Paste the **shared style block** first, then the prompt for that image.
 4. If an image comes out with text or a speech bubble in it, ask Gemini: *"Same image, but remove all text and letters."*
 5. Name the files `01A`, `01B`, `02A` … `04B` and `thumb`, then upload them here.
@@ -112,7 +156,7 @@ Elena is always on the **LEFT** and the other person always on the **RIGHT**, wi
 
 ### Shared style block (paste first every time)
 ```
-Use the attached reference image(s) for Elena's face, hair, clothes and for the art style.
+Use the attached character sheets for each person's face, hair and clothes, and for the art style.
 Style: soft hand-drawn anime-inspired illustration, warm cream and golden tones, gentle watercolour shading, clean outlines, cosy and friendly, Madrid setting, 16:9.
 Elena: woman aged 32, shoulder-length wavy brown bob, brown eyes, warm smile, cream ribbed sweater, brown leather shoulder bag, small gold stud earrings. Keep her identical to the reference.
 Elena is always on the LEFT of the image, the other person on the RIGHT, facing each other in three-quarter view. Both faces in the upper half of the image, with open, calm space between the two faces for speech bubbles to be added later.
