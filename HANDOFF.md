@@ -67,6 +67,7 @@ _Update this section every time you finish work._
 | 2026-11-18 | Claude | EP01 chapter **APPROVED and LOCKED**: `content/EP01_CHAPTER_LOCKED.md`. Prototype page updated with the locked text. Next: GitHub repo + Netlify setup, then build `una-novia-por-accidente/ep01/` from the locked text. |
 | 2026-11-18 | Claude | Site v1 built and tested in a phone-size browser: home page + EP01 chapter page (read, word sheet with audio, quiz, game, word bank, mistakes). Committed on `main`. **Netlify not connected yet.** |
 | 2026-11-18 | Claude | Netlify connected: project `senoritachristina` publishes from GitHub `main`. It started as **Private** (Netlify access protection); the owner needs to tap **Make public** before sharing with viewers. Next: the owner tests EP01 on their phone. |
+| 2026-11-18 | Claude | The owner tested EP01 on their phone: **passed**. Next: Step 3, the free launch test (pinned comment + description link on the EP01 videos, 1–2 weeks), with optional visit counting. |
 
 ## 7. Decision log
 - 2026-11-17: Case 3 model chosen (drama = funnel, readable chapter pack = product).
