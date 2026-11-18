@@ -48,6 +48,7 @@
 - **Add an episode:** copy the `ep01/` folder → rename it → replace `data.json` only. Don't change the engine for content. Then add a link on `/index.html`, and set `next.url` in the previous episode's data.json.
 - **data.json format:** `blocks` hold the chapter (`t:"n"` = narration, `t:"d"` = dialogue with `who`/`es`/`en`). Tappable words are written `[[key|text shown]]`, and every key must exist in `words`. `target:true` marks the tested words; the others are bonus words. Levels: A1 / A2 / B1.
 - **Fix a typo in a chapter:** edit that episode's `data.json`.
+- **Drafts stay private:** build a new chapter on a branch named `epNN-draft`. Netlify only publishes `main`, so the branch isn't live. Show it to the owner with `tools/build_preview.py`, which makes a single-file preview (published as a private claude.ai page). Merge to `main` only after the owner approves.
 - **Deploy:** commit and push to `main`. Netlify publishes in 1–2 minutes. **Never drag and drop a folder into Netlify.** That would make the site differ from GitHub.
 
 ## 5. Content rules (do not break)
@@ -72,6 +73,7 @@ _Update this section every time you finish work._
 | 2026-11-18 | Claude | Added GoatCounter counting (`assets/stats.js`), **switched off** until the owner creates an account and sends the code. |
 | 2026-11-18 | Claude | GoatCounter **switched on** (code `senoritachristina`). |
 | 2026-11-18 | Claude | **Launch test started.** The owner added the site link to the YouTube channel profile, pinned comments on the 4 EP01 Shorts (Shorts links aren't clickable, so the comments point to the profile link and ask for "CAPÍTULO 2"), and put the link in the EP01–06 long-form description. Review around 2026-12-02: GoatCounter week view + count of "CAPÍTULO 2" comments, then decide on EP02–06 and Volume 1. |
+| 2026-11-18 | Claude | EP02 chapter drafted on branch `ep02-draft` (**not live**). Private preview sent to the owner. Waiting for approval; open questions are listed in content/EP02_NOTES.md. |
 
 ## 7. Decision log
 - 2026-11-17: Case 3 model chosen (drama = funnel, readable chapter pack = product).
