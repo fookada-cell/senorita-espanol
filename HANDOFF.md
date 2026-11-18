@@ -71,8 +71,10 @@ _Update this section every time you finish work._
 | 2026-11-18 | Claude | The owner tested EP01 on their phone: **passed**. Next: Step 3, the free launch test (pinned comment + description link on the EP01 videos, 1–2 weeks), with optional visit counting. |
 | 2026-11-18 | Claude | Added GoatCounter counting (`assets/stats.js`), **switched off** until the owner creates an account and sends the code. |
 | 2026-11-18 | Claude | GoatCounter **switched on** (code `senoritachristina`). |
+| 2026-11-18 | Claude | **Launch test started.** The owner added the site link to the YouTube channel profile, pinned comments on the 4 EP01 Shorts (Shorts links aren't clickable, so the comments point to the profile link and ask for "CAPÍTULO 2"), and put the link in the EP01–06 long-form description. Review around 2026-12-02: GoatCounter week view + count of "CAPÍTULO 2" comments, then decide on EP02–06 and Volume 1. |
 
 ## 7. Decision log
 - 2026-11-17: Case 3 model chosen (drama = funnel, readable chapter pack = product).
+- 2026-11-18: Launch test runs 1–2 weeks before building EP02–06.
 - 2026-11-18: EP01 chapter locked. The assistant character stays unnamed.
 - 2026-11-18: Levels = A2 + B1. One Netlify site for this channel only. Claude maintains, Grok is backup. GitHub is the single source of truth.
