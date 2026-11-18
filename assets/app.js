@@ -12,6 +12,7 @@
   const BANK = "sce-bank", MISS = "sce-mistakes", PREF = "sce-prefs";
   let D, bank = store.get(BANK, []), mistakes = store.get(MISS, []), prefs = store.get(PREF, {en:true, a2only:false});
   let current = null;
+  const track = name => { try{ window.sceTrack && window.sceTrack("ep" + D.episode + "/" + name); }catch(e){} };
 
   function withWords(text){
     return esc(text).replace(/\[\[(\w+)\|([^\]]+)\]\]/g, (m, key, surface) => {
@@ -54,6 +55,7 @@
     $("s-save").textContent = bank.some(b => b.id === idOf(key)) ? "Guardada ✓" : "+ Mi vocabulario";
     $("s-status").textContent = "";
     $("sheet").hidden = false; $("sheet-bg").hidden = false; $("s-close").focus();
+    track("word/" + key);
   }
   function closeSheet(){ $("sheet").hidden = true; $("sheet-bg").hidden = true; if("speechSynthesis" in window) try{ speechSynthesis.cancel(); }catch(e){} }
 
@@ -68,7 +70,7 @@
       const u = new SpeechSynthesisUtterance(text); u.lang = "es-ES"; u.rate = rate;
       const v = voices.find(v => v.lang === "es-ES") || voices.find(v => /^es[-_]ES/i.test(v.lang));
       if(v) u.voice = v;
-      speechSynthesis.speak(u);
+      speechSynthesis.speak(u); track("audio/" + (rate < 1 ? "slow" : "normal"));
       st.textContent = v ? "" : "This device has no Spain-Spanish voice, so the accent may differ.";
     }catch(e){ st.textContent = "Audio couldn't play here."; }
   }
@@ -76,7 +78,7 @@
   function save(){
     const w = D.words[current], id = idOf(current);
     if(!bank.some(b => b.id === id)){ bank.push({id, w:w.w, en:w.en, lvl:w.lvl, ep:D.episode}); store.set(BANK, bank); }
-    $("s-save").textContent = "Guardada ✓"; markSaved();
+    $("s-save").textContent = "Guardada ✓"; markSaved(); track("save/" + current);
   }
   function addMistake(tag){ const id = "ep" + D.episode + ":" + tag; if(!mistakes.some(m => m.id === id)){ mistakes.push({id, tag, ep:D.episode}); store.set(MISS, mistakes); } }
 
@@ -91,6 +93,7 @@
           if(q.dataset.done) return; q.dataset.done = "1"; done++;
           if(j === item.a){ b.classList.add("right"); right++; }
           else { b.classList.add("wrong"); q.querySelectorAll(".opt")[item.a].classList.add("right"); addMistake(item.tag); }
+          if(done === D.quiz.length){ track("quiz-done/" + right + "-of-" + D.quiz.length); }
           if(done === D.quiz.length) $("quiz-status").textContent = right + " / " + D.quiz.length + " correct. Wrong answers are saved in Mis palabras → Mis errores.";
         });
         q.appendChild(b);
@@ -107,6 +110,7 @@
     const g = $("game"), keys = Object.keys(D.words).filter(k => D.words[k].target);
     g.innerHTML = "";
     if(round >= 5){
+      track("game-done/" + score + "-of-5");
       g.innerHTML = '<div class="prompt">' + score + ' / 5</div><p class="score">Reto completado. Missed words go to Mis errores.</p>';
       const b = document.createElement("button"); b.className = "btn primary"; b.textContent = "Jugar otra vez";
       b.addEventListener("click", () => { round = 0; score = 0; renderGame(); }); g.appendChild(b); return;
@@ -150,6 +154,7 @@
     $("h-series").textContent = D.series; $("h-title").textContent = "Capítulo " + D.episode + ": " + D.chapterTitle;
     const targets = Object.values(D.words).filter(w => w.target).length;
     $("h-chips").innerHTML = '<span class="chip">EP' + String(D.episode).padStart(2, "0") + '</span><span class="chip t">' + esc(D.levels) + " · " + targets + " palabras</span>";
+    $("watch").addEventListener("click", () => track("watch-youtube"));
     $("watch").href = D.watch.url; $("watch").textContent = "▶ " + D.watch.label;
     renderChapter(); renderQuiz(); renderGame(); renderBank();
     document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => showTab(t.dataset.tab)));
