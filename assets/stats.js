@@ -2,7 +2,7 @@
    To switch counting on or off, change GOATCOUNTER_CODE only.
    Empty string = counting off. Dashboard: https://<code>.goatcounter.com */
 (function(){
-  var GOATCOUNTER_CODE = "";
+  var GOATCOUNTER_CODE = "senoritachristina";
   window.sceTrack = function(name){
     try{ if(window.goatcounter && window.goatcounter.count) window.goatcounter.count({path:name, title:name, event:true}); }catch(e){}
   };
