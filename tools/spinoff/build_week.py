@@ -1,11 +1,14 @@
-"""Week 1 spin-off: 4 conversations, each = title card, Round 1 Escucha, Round 2 Repite, key phrases.
-Usage: python3 build_w1.py [preview]"""
+"""Spin-off builder: 4 conversations, each = title card, Round 1 Escucha, Round 2 Repite, key phrases.
+Usage: python3 tools/spinoff/build_week.py content/spinoffs/semana-XX [preview|chapters]"""
 import os, sys, json, math, subprocess, wave
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-S = os.path.dirname(os.path.abspath(__file__))
-IMG = f"{S}/w1img"; AUD = f"{S}/el/semana-01-norm"; W = f"{S}/work_w1"; OUT = f"{S}/out"
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if len(sys.argv) < 2: sys.exit("usage: python3 tools/spinoff/build_week.py content/spinoffs/semana-XX [preview|chapters]")
+WEEK = os.path.abspath(sys.argv[1]); MODE = sys.argv[2] if len(sys.argv) > 2 else "render"
+CFG = json.load(open(f"{WEEK}/config.json", encoding="utf-8"))
+IMG = f"{WEEK}/scenes"; AUD = f"{WEEK}/audio-norm"; W = f"{WEEK}/.work"; OUT = f"{WEEK}/out"
 os.makedirs(W, exist_ok=True); os.makedirs(OUT, exist_ok=True)
 F = "/usr/share/fonts/opentype/inter/"
 def font(n, s): return ImageFont.truetype(F + n, s)
@@ -13,30 +16,12 @@ FPS, WID, HEI, SR = 25, 1920, 1080, 44100
 
 data = json.load(open(f"{AUD}/script.json", encoding="utf-8"))
 CONVS = data["convs"]
-OTHER = ["Panadero", "Javier", "Frutero", "Camarera"]
-TITLES = ["En la panadería", "En el espacio compartido", "En el mercado", "En la cafetería"]
+OTHER = CFG["other_speakers"]
+TITLES = CFG["titles"]
 
 # Per image: mouth positions (image-normalized) and the bubble centre (image-normalized, calm space between faces)
-SPOTS = {  # mouths (tail targets) and chest centres (bubble positions), image-normalized
- "01A": dict(Elena=(0.335, 0.33), Other=(0.690, 0.27), atElena=(0.285, 0.57), atOther=(0.745, 0.52)),
- "01B": dict(Elena=(0.330, 0.37), Other=(0.685, 0.28), atElena=(0.270, 0.58), atOther=(0.735, 0.54)),
- "02A": dict(Elena=(0.380, 0.52), Other=(0.670, 0.27), atElena=(0.330, 0.71), atOther=(0.735, 0.45)),
- "02B": dict(Elena=(0.370, 0.48), Other=(0.665, 0.28), atElena=(0.310, 0.69), atOther=(0.745, 0.47)),
- "03A": dict(Elena=(0.335, 0.33), Other=(0.680, 0.29), atElena=(0.270, 0.57), atOther=(0.745, 0.50)),
- "03B": dict(Elena=(0.330, 0.36), Other=(0.690, 0.29), atElena=(0.265, 0.57), atOther=(0.750, 0.50)),
- "04A": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), atElena=(0.320, 0.67), atOther=(0.705, 0.47)),
- "04B": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), atElena=(0.320, 0.67), atOther=(0.705, 0.47)),
-}
-KEY = [
- [("¿Qué te pongo?", "What can I get you?"), ("una barra de pan", "a baguette"), ("¿Algo más?", "Anything else?"),
-  ("acabo de mudarme", "I've just moved"), ("poco a poco", "little by little"), ("¿Abrís todos los días?", "Are you open every day?")],
- [("¿Eres nueva aquí?", "Are you new here?"), ("Me llamo…", "My name is…"), ("Encantado / Encantada", "Nice to meet you"),
-  ("un vaso de agua", "a glass of water"), ("¿Vienes?", "Are you coming?"), ("Nos vemos a las cuatro.", "See you at four.")],
- [("¿Cuántos quieres?", "How many would you like?"), ("medio kilo", "half a kilo"), ("un pepino y un pimiento rojo", "a cucumber and a red pepper"),
-  ("¿Puedo pagar con tarjeta?", "Can I pay by card?"), ("¿Tienes bolsa?", "Do you have a bag?"), ("Hasta la próxima.", "Until next time.")],
- [("¿Qué vas a tomar?", "What are you having?"), ("para tomar aquí / para llevar", "to have here / to take away"), ("la primera vez", "the first time"),
-  ("¿Puedo sentarme…?", "Can I sit…?"), ("Me siento a gusto.", "I feel comfortable."), ("¿Cuánto es?", "How much is it?")],
-]
+SPOTS = {k: {kk: tuple(vv) for kk, vv in v.items()} for k, v in CFG["spots"].items()}
+KEY = [[tuple(p) for p in c] for c in CFG["key_phrases"]]
 
 CREAM, INK, MUTED, GOLD, RED = (250, 244, 228), (40, 30, 24), (110, 92, 78), (205, 145, 55), (176, 58, 46)
 
@@ -44,7 +29,9 @@ CREAM, INK, MUTED, GOLD, RED = (250, 244, 228), (40, 30, 24), (110, 92, 78), (20
 SW = 2304
 SCN, BLUR = {}, {}
 for k in list(SPOTS) + ["thumb"]:
-    im = Image.open(f"{IMG}/{k}.png").convert("RGB")
+    name = "thumb-art" if k == "thumb" else k
+    path = next(p for p in (f"{IMG}/{name}.jpg", f"{IMG}/{name}.png") if os.path.exists(p))
+    im = Image.open(path).convert("RGB")
     im = im.resize((SW, round(SW * 9 / 16)), Image.LANCZOS)
     if k == "thumb": im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
     SCN[k] = im
@@ -165,8 +152,8 @@ def add(kind, length, **kw):
 def spoken(kind, name, pre, post, **kw):
     audio.append((t + pre, name)); add(kind, pre + dur(name) + post, **kw)
 
-spoken("card", "n_intro.mp3", 0.8, 1.6, img="thumb", big="Conversaciones en Madrid",
-       small="Mi semana en Madrid · A1–A2 · Español de España", kicker="Conversación real")
+spoken("card", "n_intro.mp3", 0.8, 1.6, img="thumb", big=CFG["series_title"],
+       small=CFG["intro_sub"], kicker="Conversación real")
 for ci, c in enumerate(CONVS):
     n = ci + 1; L = c["lines"]; half = (len(L) + 1) // 2
     other = OTHER[ci]
@@ -184,8 +171,19 @@ for ci, c in enumerate(CONVS):
         spoken("line", l["audio"], 0.3, 0.2, **common)
         add("line", round(dur(l["audio"]) * 1.3 + 1.0, 2), turn=True, cont=True, **common)
     add("key", 9.0, img=f"0{n}B", ci=ci, conv=n, label="Frases clave")
-spoken("card", "n_outro.mp3", 0.6, 2.4, img="thumb", big="¡Muy bien!", small="Hasta la próxima semana · Señorita Christina Español")
+spoken("card", "n_outro.mp3", 0.6, 2.4, img="thumb", big="¡Muy bien!", small=CFG["outro_sub"])
 TOTAL = t
+
+if MODE == "chapters":
+    def mmss(x): return f"{int(x//60):02d}:{int(x%60):02d}"
+    seen=set()
+    for e in events:
+        if e["kind"]=="card" and e["big"] in TITLES: print(mmss(e["start"]), "CONV", e["big"])
+        elif e["kind"]=="card": print(mmss(e["start"]), "CARD", e["big"])
+        elif e["kind"]=="key": print(mmss(e["start"]), "KEY", e["conv"])
+        elif e["kind"]=="line" and (e["conv"], e["label"]) not in seen:
+            seen.add((e["conv"], e["label"])); print(mmss(e["start"]), "ROUND", e["conv"], e["label"])
+    print(mmss(TOTAL), "END"); sys.exit()
 
 mix = np.zeros((int(TOTAL * SR) + SR, 2), dtype=np.float32)
 for st, name in audio:
@@ -196,7 +194,7 @@ with wave.open(f"{W}/mix.wav", "w") as w:
     w.writeframes((np.clip(mix, -1, 1) * 32767).astype(np.int16).tobytes())
 
 
-LOGO = Image.open(f"{IMG}/logo_rgba.png").convert("RGBA")
+LOGO = Image.open(f"{REPO}/content/brand/senorita-christina-logo-transparent.png").convert("RGBA")
 LOGO_H = 175
 LOGO = LOGO.resize((round(LOGO.width * LOGO_H / LOGO.height), LOGO_H), Image.LANCZOS)
 SPIN_EVERY, SPIN_LEN = 20.0, 1.4
@@ -271,21 +269,21 @@ def frame_at(tt, idx=[0]):
 
 def ts(x): return f"{int(x//3600):02d}:{int(x%3600//60):02d}:{int(x%60):02d},{int(round((x%1)*1000))%1000:03d}"
 
-if len(sys.argv) > 1 and sys.argv[1] == "preview":
+if MODE == "preview":
     picks = {}
     for e in events:
         if e["kind"] == "line" and not e.get("turn"):
             picks.setdefault(e["img"], e)
     for k, e in picks.items():
         idx = [events.index(e)]; camera_fx[0] = cam_target(e)
-        frame_at(e["start"] + 1.0, idx).save(f"{OUT}/w1_{k}.jpg", quality=85)
+        frame_at(e["start"] + 1.0, idx).save(f"{OUT}/preview_{k}.jpg", quality=85)
     e = next(e for e in events if e.get("turn")); camera_fx[0] = cam_target(e)
-    frame_at(e["start"] + 1.0, [events.index(e)]).save(f"{OUT}/w1_turn.jpg", quality=85)
-    e = next(e for e in events if e["kind"] == "key"); frame_at(e["start"] + 1.0, [events.index(e)]).save(f"{OUT}/w1_key.jpg", quality=85)
-    frame_at(1.0, [0]).save(f"{OUT}/w1_intro.jpg", quality=85)
+    frame_at(e["start"] + 1.0, [events.index(e)]).save(f"{OUT}/preview_turn.jpg", quality=85)
+    e = next(e for e in events if e["kind"] == "key"); frame_at(e["start"] + 1.0, [events.index(e)]).save(f"{OUT}/preview_key.jpg", quality=85)
+    frame_at(1.0, [0]).save(f"{OUT}/preview_intro.jpg", quality=85)
     print("preview ok · total", round(TOTAL / 60, 2), "min"); sys.exit()
 
-out = f"{OUT}/semana-01-conversaciones-draft.mp4"
+out = f"{OUT}/{CFG['slug']}.mp4"
 ff = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{WID}x{HEI}", "-r", str(FPS), "-i", "-",
                        "-i", f"{W}/mix.wav", "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-tune", "animation", "-pix_fmt", "yuv420p",
                        "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out], stdin=subprocess.PIPE)
@@ -297,5 +295,5 @@ srt, k = [], 1
 for e in events:
     if e["kind"] == "line" and not e.get("turn"):
         srt.append(f"{k}\n{ts(e['start'])} --> {ts(e['end'])}\n{e['es']}\n{e['en']}\n"); k += 1
-open(f"{OUT}/semana-01-conversaciones-draft.srt", "w", encoding="utf-8").write("\n".join(srt))
+open(f"{OUT}/{CFG['slug']}.srt", "w", encoding="utf-8").write("\n".join(srt))
 print("done", round(TOTAL / 60, 2), "min")

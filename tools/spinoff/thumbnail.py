@@ -1,13 +1,16 @@
 """Spin-off thumbnail in the Sunday-series style: Abril Fatface title, Montserrat subtitle,
 Spain/UK badge top-right, channel logo + name bottom-left, red banner."""
-import sys
+import os, sys, json
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-ART, OUT = sys.argv[1], sys.argv[2]
-LINE1, LINE2, SUB, BANNER = sys.argv[3], sys.argv[4], sys.argv[5], sys.argv[6]
+# Usage: python3 tools/spinoff/thumbnail.py content/spinoffs/semana-XX
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+WEEK = os.path.abspath(sys.argv[1]); T = json.load(open(f"{WEEK}/config.json", encoding="utf-8"))["thumbnail"]
+ART, OUT = f"{WEEK}/scenes/thumb-art.jpg", f"{WEEK}/thumbnail.jpg"
+LINE1, LINE2, SUB, BANNER = T["line1"], T["line2"], T["sub"], T["banner"]
 W, H = 1280, 720
-F = "/tmp/claude-0/-home-user-senorita-espanol/9f6877a8-8258-5532-9c29-202994572497/scratchpad/fonts/"
-LOGO = "/tmp/claude-0/-home-user-senorita-espanol/9f6877a8-8258-5532-9c29-202994572497/scratchpad/logo_rgba.png"
+F = f"{REPO}/tools/spinoff/fonts/"
+LOGO = f"{REPO}/content/brand/senorita-christina-logo-transparent.png"
 def abril(s): return ImageFont.truetype(F + "AbrilFatface-Regular.ttf", s)
 def mont(s, w="Bold"):
     f = ImageFont.truetype(F + "Montserrat[wght].ttf", s); f.set_variation_by_name(w); return f

@@ -1,0 +1,292 @@
+{
+ "slug": "semana-01-conversaciones",
+ "series_title": "Conversaciones en Madrid",
+ "intro_sub": "Mi semana en Madrid · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Panadero",
+  "Javier",
+  "Frutero",
+  "Camarera"
+ ],
+ "titles": [
+  "En la panadería",
+  "En el espacio compartido",
+  "En el mercado",
+  "En la cafetería"
+ ],
+ "spots": {
+  "01A": {
+   "Elena": [
+    0.335,
+    0.33
+   ],
+   "Other": [
+    0.69,
+    0.27
+   ],
+   "atElena": [
+    0.285,
+    0.57
+   ],
+   "atOther": [
+    0.745,
+    0.52
+   ]
+  },
+  "01B": {
+   "Elena": [
+    0.33,
+    0.37
+   ],
+   "Other": [
+    0.685,
+    0.28
+   ],
+   "atElena": [
+    0.27,
+    0.58
+   ],
+   "atOther": [
+    0.735,
+    0.54
+   ]
+  },
+  "02A": {
+   "Elena": [
+    0.38,
+    0.52
+   ],
+   "Other": [
+    0.67,
+    0.27
+   ],
+   "atElena": [
+    0.33,
+    0.71
+   ],
+   "atOther": [
+    0.735,
+    0.45
+   ]
+  },
+  "02B": {
+   "Elena": [
+    0.37,
+    0.48
+   ],
+   "Other": [
+    0.665,
+    0.28
+   ],
+   "atElena": [
+    0.31,
+    0.69
+   ],
+   "atOther": [
+    0.745,
+    0.47
+   ]
+  },
+  "03A": {
+   "Elena": [
+    0.335,
+    0.33
+   ],
+   "Other": [
+    0.68,
+    0.29
+   ],
+   "atElena": [
+    0.27,
+    0.57
+   ],
+   "atOther": [
+    0.745,
+    0.5
+   ]
+  },
+  "03B": {
+   "Elena": [
+    0.33,
+    0.36
+   ],
+   "Other": [
+    0.69,
+    0.29
+   ],
+   "atElena": [
+    0.265,
+    0.57
+   ],
+   "atOther": [
+    0.75,
+    0.5
+   ]
+  },
+  "04A": {
+   "Elena": [
+    0.355,
+    0.44
+   ],
+   "Other": [
+    0.645,
+    0.29
+   ],
+   "atElena": [
+    0.32,
+    0.67
+   ],
+   "atOther": [
+    0.705,
+    0.47
+   ]
+  },
+  "04B": {
+   "Elena": [
+    0.355,
+    0.44
+   ],
+   "Other": [
+    0.645,
+    0.29
+   ],
+   "atElena": [
+    0.32,
+    0.67
+   ],
+   "atOther": [
+    0.705,
+    0.47
+   ]
+  }
+ },
+ "key_phrases": [
+  [
+   [
+    "¿Qué te pongo?",
+    "What can I get you?"
+   ],
+   [
+    "una barra de pan",
+    "a baguette"
+   ],
+   [
+    "¿Algo más?",
+    "Anything else?"
+   ],
+   [
+    "acabo de mudarme",
+    "I've just moved"
+   ],
+   [
+    "poco a poco",
+    "little by little"
+   ],
+   [
+    "¿Abrís todos los días?",
+    "Are you open every day?"
+   ]
+  ],
+  [
+   [
+    "¿Eres nueva aquí?",
+    "Are you new here?"
+   ],
+   [
+    "Me llamo…",
+    "My name is…"
+   ],
+   [
+    "Encantado / Encantada",
+    "Nice to meet you"
+   ],
+   [
+    "un vaso de agua",
+    "a glass of water"
+   ],
+   [
+    "¿Vienes?",
+    "Are you coming?"
+   ],
+   [
+    "Nos vemos a las cuatro.",
+    "See you at four."
+   ]
+  ],
+  [
+   [
+    "¿Cuántos quieres?",
+    "How many would you like?"
+   ],
+   [
+    "medio kilo",
+    "half a kilo"
+   ],
+   [
+    "un pepino y un pimiento rojo",
+    "a cucumber and a red pepper"
+   ],
+   [
+    "¿Puedo pagar con tarjeta?",
+    "Can I pay by card?"
+   ],
+   [
+    "¿Tienes bolsa?",
+    "Do you have a bag?"
+   ],
+   [
+    "Hasta la próxima.",
+    "Until next time."
+   ]
+  ],
+  [
+   [
+    "¿Qué vas a tomar?",
+    "What are you having?"
+   ],
+   [
+    "para tomar aquí / para llevar",
+    "to have here / to take away"
+   ],
+   [
+    "la primera vez",
+    "the first time"
+   ],
+   [
+    "¿Puedo sentarme…?",
+    "Can I sit…?"
+   ],
+   [
+    "Me siento a gusto.",
+    "I feel comfortable."
+   ],
+   [
+    "¿Cuánto es?",
+    "How much is it?"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "Conversaciones de mi semana en Madrid.",
+  "c1": "Conversación uno. En la panadería.",
+  "c2": "Conversación dos. En el espacio compartido.",
+  "c3": "Conversación tres. En el mercado.",
+  "c4": "Conversación cuatro. En la cafetería.",
+  "repite": "Ahora, escucha y repite.",
+  "outro": "¡Muy bien! Hasta la próxima semana."
+ },
+ "voices": {
+  "Elena": "dNjJKg63Fr5AXwIdkATa",
+  "Panadero": "hFeIFfaOsIqH1YpJJFS0",
+  "Javier": "QdeV7TsH9psct2D4UdTk",
+  "Frutero": "ZCh4e9eZSUf41K4cmCEL",
+  "Camarera": "jQvo2VZEqNV6YXEBghzl"
+ },
+ "thumbnail": {
+  "line1": "Conversaciones en",
+  "line2": "Madrid",
+  "sub": "(Conversations in Madrid)",
+  "banner": "Conversación real • A1–A2"
+ }
+}

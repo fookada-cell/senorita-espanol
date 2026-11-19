@@ -73,3 +73,7 @@ _Update this section every time you finish work._
 - 2026-11-17: Case 3 model chosen (drama = funnel, readable chapter pack = product).
 - 2026-11-18: EP01 chapter locked. The assistant character stays unnamed.
 - 2026-11-18: Levels = A2 + B1. One Netlify site for this channel only. Claude maintains, Grok is backup. GitHub is the single source of truth.
+
+## 8. YouTube spin-off videos ("Conversaciones")
+A second product line: every Sunday story gets a conversation spin-off video, published 8 hours later.
+**Full workflow, locked decisions, voices and tools: `content/spinoffs/WORKFLOW.md`.** Week 1 is the finished example (`content/spinoffs/semana-01/`).
