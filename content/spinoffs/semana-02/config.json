@@ -1,0 +1,148 @@
+{
+ "slug": "semana-02-conversaciones",
+ "series_title": "Conversaciones en Toledo",
+ "intro_sub": "Mi primer viaje en tren a Toledo · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Taquillera",
+  "Vecino",
+  "Camarero",
+  "Dependienta"
+ ],
+ "titles": [
+  "En la estación de Atocha",
+  "En el casco antiguo",
+  "En una terraza",
+  "En la tienda de dulces"
+ ],
+ "spots": {},
+ "key_phrases": [
+  [
+   [
+    "¿Adónde vas?",
+    "Where are you going?"
+   ],
+   [
+    "solo ida / ida y vuelta",
+    "one way / return"
+   ],
+   [
+    "¿Cuánto dura el viaje?",
+    "How long is the journey?"
+   ],
+   [
+    "media hora, más o menos",
+    "about half an hour"
+   ],
+   [
+    "¿De qué andén sale?",
+    "Which platform does it leave from?"
+   ],
+   [
+    "¡Buen viaje!",
+    "Have a good trip!"
+   ]
+  ],
+  [
+   [
+    "Perdone, ¿me puede ayudar?",
+    "Excuse me, can you help me?"
+   ],
+   [
+    "Me he perdido.",
+    "I'm lost."
+   ],
+   [
+    "Quiero ir a…",
+    "I want to go to…"
+   ],
+   [
+    "Sigue todo recto.",
+    "Go straight on."
+   ],
+   [
+    "Gira a la izquierda.",
+    "Turn left."
+   ],
+   [
+    "el casco antiguo",
+    "the old town"
+   ]
+  ],
+  [
+   [
+    "¿Tenéis menú del día?",
+    "Do you have a set menu?"
+   ],
+   [
+    "de primero",
+    "for the first course"
+   ],
+   [
+    "de segundo",
+    "for the main course"
+   ],
+   [
+    "¿Y para beber?",
+    "And to drink?"
+   ],
+   [
+    "Todo está muy rico.",
+    "Everything is delicious."
+   ],
+   [
+    "La cuenta, por favor.",
+    "The bill, please."
+   ]
+  ],
+  [
+   [
+    "¿Qué es esto?",
+    "What is this?"
+   ],
+   [
+    "un dulce típico",
+    "a typical sweet"
+   ],
+   [
+    "¿Puedo probar uno?",
+    "Can I try one?"
+   ],
+   [
+    "Es un regalo para…",
+    "It's a present for…"
+   ],
+   [
+    "¿Te la envuelvo?",
+    "Shall I wrap it for you?"
+   ],
+   [
+    "¡Qué detalle!",
+    "How thoughtful!"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "Conversaciones de mi primer viaje en tren a Toledo.",
+  "c1": "Conversación uno. En la estación de Atocha.",
+  "c2": "Conversación dos. En el casco antiguo.",
+  "c3": "Conversación tres. En una terraza.",
+  "c4": "Conversación cuatro. En la tienda de dulces.",
+  "repite": "Ahora, escucha y repite.",
+  "outro": "¡Muy bien! Hasta la próxima semana."
+ },
+ "voices": {
+  "Elena": "dNjJKg63Fr5AXwIdkATa",
+  "Taquillera": "iuYybvSfclFoJ9ab2Im6",
+  "Vecino": "dabBScGPxrhZRE621vIm",
+  "Camarero": "Nh2zY9kknu6z4pZy6FhD",
+  "Dependienta": "qqTINV9edzRuH2zqZGSV"
+ },
+ "thumbnail": {
+  "line1": "TBD (copy Sunday EP02 thumbnail)",
+  "line2": "TBD",
+  "sub": "TBD",
+  "banner": "Conversación real · A1–A2",
+  "show_logo": false
+ }
+}
