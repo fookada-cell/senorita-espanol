@@ -284,9 +284,10 @@
   "Camarera": "jQvo2VZEqNV6YXEBghzl"
  },
  "thumbnail": {
-  "line1": "Conversaciones en",
+  "line1": "Mi semana en",
   "line2": "Madrid",
-  "sub": "(Conversations in Madrid)",
-  "banner": "Conversación real • A1–A2"
+  "sub": "(My Week in Madrid)",
+  "banner": "Conversación real · A1–A2",
+  "show_logo": false
  }
 }

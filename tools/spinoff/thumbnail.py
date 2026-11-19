@@ -43,10 +43,13 @@ d.rectangle([0, 628, W, H], fill=(181, 52, 42))
 fb = mont(52); tw = d.textlength(BANNER, font=fb)
 d.text(((W - tw) / 2, 640), BANNER, font=fb, fill=(255, 255, 255))
 
-logo = Image.open(LOGO).convert("RGBA"); lh = 118
-logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
-im.alpha_composite(logo, (30, 628 - lh - 8))
-txt((30 + logo.width + 12, 628 - 50), "Señorita Christina Español", mont(28), sw=4, shadow=False)
+# channel name as text, like the Sunday thumbnails (optional logo via config "show_logo")
+nx = 40
+if T.get("show_logo"):
+    logo = Image.open(LOGO).convert("RGBA"); lh = 118
+    logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
+    im.alpha_composite(logo, (30, 628 - lh - 8)); nx = 30 + logo.width + 12
+txt((nx, 628 - 52), "Señorita Christina Español", abril(32), sw=4, shadow=False)
 
 # Spain / UK badge: Spain lower-left, UK upper-right, white ring
 R = 62; cx, cy = W - 90, 92; S2 = 8 * R

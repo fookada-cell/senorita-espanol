@@ -11,7 +11,7 @@ Chapter times are taken from the v3 render (13:16).
 | | Sunday story | Spin-off (8 hours later) |
 |---|---|---|
 | YouTube title | Learn Spanish with an **Easy Story** (My Week in Madrid) | **Speak** Spanish with **Easy Conversations** (My Week in Madrid) |
-| Thumbnail title | Mi semana en Madrid | Conversaciones en Madrid |
+| Thumbnail title | Mi semana en Madrid | Mi semana en Madrid (identical) |
 | Thumbnail banner | Historia lenta · A1–A2 | Conversación real · A1–A2 |
 
 The bracket is the same in both titles, which ties the pair together. "Learn → Speak" and "Story → Conversations" show what's new.

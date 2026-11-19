@@ -48,7 +48,7 @@ For new characters, pick a **Peninsular** voice of the right age and gender from
 
 **On screen.** A top-left pill shows "Conversación N · Place", a top-right pill shows the round, and the line counter (e.g. "10 / 14") sits bottom-left. The **channel logo** sits bottom-right, stays still, and does a 1.4 s coin-flip spin every 20 s (`content/brand/senorita-christina-logo-transparent.png`).
 
-**Thumbnail** (same layout as the Sunday thumbnails). Abril Fatface title (line 1 smaller, line 2 huge, black with a white outline), English subtitle in brackets in Montserrat Bold, Spain/UK badge top-right, logo + "Señorita Christina Español" bottom-left, red banner **"Conversación real • A1–A2"** (the Sunday one says "Historia lenta").
+**Thumbnail** = **identical to that Sunday's thumbnail**, same title (e.g. "Mi semana en / Madrid / (My Week in Madrid)"), the Spain/UK badge top-right and "Señorita Christina Español" as text bottom-left (no logo). The **only** change is the red banner: **"Conversación real · A1–A2"** instead of "Historia lenta · A1–A2". Art: Elena alone on the right (new art each week). Set it in `config.json → thumbnail`.
 
 **YouTube title rule.** Sunday: *Learn Spanish with an Easy Story (X)*. Spin-off: ***Speak Spanish with Easy Conversations (X)***, with the same bracket.
 **Description.** Same structure as the Sunday description: ⏱️ Chapters → story-style summary → "This is Spanish from Spain…" → 📖 link to the Sunday story → 💡 Pregunta de Hoy 💡 (a question viewers answer by *using* a phrase) → 🔔 subscribe link → hashtags.
