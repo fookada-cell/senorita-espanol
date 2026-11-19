@@ -46,6 +46,8 @@
 | Camarera (20s woman) | Violeta | `jQvo2VZEqNV6YXEBghzl` |
 For new characters, pick a **Peninsular** voice of the right age and gender from the owner's ElevenLabs library (check the labels via the API). **Always level the volume.** Raw ElevenLabs voices differ by up to 12 dB.
 
+**Narrator (host lines).** The intro, the four conversation titles, "Now, listen and repeat" and the closing are read **in English** by **Daniel – Calm, Polished and Direct** (`ZMK5OD2jmsdse3EKE4W5`, speed 1.0), like the English host lines in the Sunday videos. Set in `config.json` (`narrator_voice`, `narration_language: "en"`). The on-screen title cards stay in Spanish.
+
 **On screen.** A top-left pill shows "Conversación N · Place", a top-right pill shows the round, and the line counter (e.g. "10 / 14") sits bottom-left. The **channel logo** sits bottom-right, stays still, and does a 1.4 s coin-flip spin every 20 s (`content/brand/senorita-christina-logo-transparent.png`).
 
 **Thumbnail** = **identical to that Sunday's thumbnail**, same title (e.g. "Mi semana en / Madrid / (My Week in Madrid)"), the Spain/UK badge top-right and "Señorita Christina Español" as text bottom-left (no logo). The **only** change is the red banner: **"Conversación real · A1–A2"** instead of "Historia lenta · A1–A2". Art: Elena alone on the right (new art each week). Set it in `config.json → thumbnail`.

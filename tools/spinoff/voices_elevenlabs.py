@@ -20,6 +20,9 @@ CFG = json.load(open(f"{WEEK}/config.json", encoding="utf-8"))
 RAW, NORM = f"{WEEK}/audio", f"{WEEK}/audio-norm"
 os.makedirs(RAW, exist_ok=True); os.makedirs(NORM, exist_ok=True)
 VOICES, NARR = CFG["voices"], CFG["narration"]
+NARRATOR = CFG.get("narrator_voice", VOICES["Elena"])          # host voice for the opening lines
+NARR_LANG = CFG.get("narration_language", "es")
+NARR_SETTINGS = {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": CFG.get("narrator_speed", 1.0)}
 SETTINGS = {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": 0.7}  # 0.7 = slowest ElevenLabs allows
 TARGET_LUFS = -19.0
 
@@ -35,10 +38,10 @@ for c in convs:
     for l in c["lines"]:
         assert l["who"] in VOICES, f"no voice in config.json for speaker {l['who']}"
 
-def tts(voice, text, path, prev=None, nxt=None):
+def tts(voice, text, path, prev=None, nxt=None, lang="es", settings=None):
     if os.path.exists(path) and os.path.getsize(path) > 1000:
         return "cached"
-    body = {"text": text, "model_id": "eleven_multilingual_v2", "language_code": "es", "voice_settings": SETTINGS}
+    body = {"text": text, "model_id": "eleven_multilingual_v2", "language_code": lang, "voice_settings": settings or SETTINGS}
     if prev: body["previous_text"] = prev
     if nxt: body["next_text"] = nxt
     for attempt in range(4):
@@ -74,14 +77,14 @@ def level(src, dst):
     os.remove(tmp)
 
 chars = 0
-jobs = [(VOICES["Elena"], t, f"n_{k}.mp3", None, None) for k, t in NARR.items()]
+jobs = [(NARRATOR, t, f"n_{k}.mp3", None, None, NARR_LANG, NARR_SETTINGS) for k, t in NARR.items()]
 for ci, c in enumerate(convs, 1):
     L = c["lines"]
     for i, l in enumerate(L):
         name = f"c{ci}_{l['n']:02d}_{l['who']}.mp3"; l["audio"] = name
-        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None))
-for voice, t, name, prev, nxt in jobs:
-    status = tts(voice, t, f"{RAW}/{name}", prev, nxt)
+        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", None))
+for voice, t, name, prev, nxt, lang, st in jobs:
+    status = tts(voice, t, f"{RAW}/{name}", prev, nxt, lang, st)
     if status == "ok": chars += len(t)
     level(f"{RAW}/{name}", f"{NORM}/{name}")
     print(name, status)

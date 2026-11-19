@@ -268,13 +268,13 @@
   ]
  ],
  "narration": {
-  "intro": "Conversaciones de mi semana en Madrid.",
-  "c1": "Conversación uno. En la panadería.",
-  "c2": "Conversación dos. En el espacio compartido.",
-  "c3": "Conversación tres. En el mercado.",
-  "c4": "Conversación cuatro. En la cafetería.",
-  "repite": "Ahora, escucha y repite.",
-  "outro": "¡Muy bien! Hasta la próxima semana."
+  "intro": "Welcome! Today, practise real conversations from Elena's week in Madrid. First listen, then repeat each line.",
+  "c1": "Conversation one: at the bakery.",
+  "c2": "Conversation two: at the shared workspace.",
+  "c3": "Conversation three: at the market.",
+  "c4": "Conversation four: at the café.",
+  "repite": "Now, listen and repeat.",
+  "outro": "Well done! See you next week."
  },
  "voices": {
   "Elena": "dNjJKg63Fr5AXwIdkATa",
@@ -289,5 +289,8 @@
   "sub": "(My Week in Madrid)",
   "banner": "Conversación real · A1–A2",
   "show_logo": false
- }
+ },
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": "en",
+ "narrator_speed": 1.0
 }
