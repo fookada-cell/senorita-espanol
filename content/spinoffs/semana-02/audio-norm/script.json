@@ -1,0 +1,411 @@
+{
+ "convs": [
+  {
+   "title": "1 · En la estación de Atocha (sábado, 9:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Taquillera",
+     "es": "Buenos días. ¿Adónde vas?",
+     "en": "Good morning. Where are you going?",
+     "audio": "c1_01_Taquillera.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Buenos días. Quiero un billete para Toledo, por favor.",
+     "en": "Good morning. I'd like a ticket to Toledo, please.",
+     "audio": "c1_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Taquillera",
+     "es": "¿Solo ida o ida y vuelta?",
+     "en": "One way or return?",
+     "audio": "c1_03_Taquillera.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "De ida y vuelta. Vuelvo esta tarde.",
+     "en": "Return. I'm coming back this afternoon.",
+     "audio": "c1_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Taquillera",
+     "es": "Muy bien. Hay un tren a las nueve y media. ¿Te va bien?",
+     "en": "Very good. There's a train at half past nine. Is that OK for you?",
+     "audio": "c1_05_Taquillera.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Sí, perfecto. ¿Cuánto dura el viaje?",
+     "en": "Yes, perfect. How long is the journey?",
+     "audio": "c1_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Taquillera",
+     "es": "Media hora, más o menos.",
+     "en": "About half an hour.",
+     "audio": "c1_07_Taquillera.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "¡Qué rápido! ¿Cuánto es?",
+     "en": "That's fast! How much is it?",
+     "audio": "c1_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Taquillera",
+     "es": "Son veinte euros.",
+     "en": "That's twenty euros.",
+     "audio": "c1_09_Taquillera.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "Aquí tienes. ¿De qué andén sale?",
+     "en": "Here you are. Which platform does it leave from?",
+     "audio": "c1_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Taquillera",
+     "es": "Del andén cinco. Mira las pantallas.",
+     "en": "From platform five. Look at the screens.",
+     "audio": "c1_11_Taquillera.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Vale, muchas gracias.",
+     "en": "OK, thank you very much.",
+     "audio": "c1_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Taquillera",
+     "es": "De nada. ¡Buen viaje!",
+     "en": "You're welcome. Have a good trip!",
+     "audio": "c1_13_Taquillera.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En el casco antiguo (10:30)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Elena",
+     "es": "Perdone, ¿me puede ayudar? Me he perdido un poco.",
+     "en": "Excuse me, can you help me? I'm a little lost.",
+     "audio": "c2_01_Elena.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Vecino",
+     "es": "¡Claro! ¿Adónde vas?",
+     "en": "Of course! Where are you going?",
+     "audio": "c2_02_Vecino.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Elena",
+     "es": "Quiero ir a la catedral.",
+     "en": "I want to go to the cathedral.",
+     "audio": "c2_03_Elena.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Vecino",
+     "es": "Está muy cerca. Sigue todo recto por esta calle.",
+     "en": "It's very close. Go straight on along this street.",
+     "audio": "c2_04_Vecino.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Elena",
+     "es": "¿Todo recto?",
+     "en": "Straight on?",
+     "audio": "c2_05_Elena.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Vecino",
+     "es": "Sí, y luego gira a la izquierda. Hay una cuesta.",
+     "en": "Yes, and then turn left. There's a slope.",
+     "audio": "c2_06_Vecino.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Elena",
+     "es": "¡Las calles aquí son muy estrechas!",
+     "en": "The streets here are very narrow!",
+     "audio": "c2_07_Elena.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Vecino",
+     "es": "Sí, son de piedra y muy antiguas. Es el casco antiguo.",
+     "en": "Yes, they're made of stone and very old. It's the old town.",
+     "audio": "c2_08_Vecino.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Elena",
+     "es": "Es muy bonito. Cada calle es una sorpresa.",
+     "en": "It's very pretty. Every street is a surprise.",
+     "audio": "c2_09_Elena.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Vecino",
+     "es": "¿Es tu primera vez en Toledo?",
+     "en": "Is it your first time in Toledo?",
+     "audio": "c2_10_Vecino.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Elena",
+     "es": "Sí, vivo en Madrid. Hoy he venido en tren.",
+     "en": "Yes, I live in Madrid. Today I came by train.",
+     "audio": "c2_11_Elena.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Vecino",
+     "es": "¡Pues bienvenida! Disfruta de la ciudad.",
+     "en": "Well, welcome! Enjoy the city.",
+     "audio": "c2_12_Vecino.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Elena",
+     "es": "¡Muchas gracias! Adiós.",
+     "en": "Thank you very much! Goodbye.",
+     "audio": "c2_13_Elena.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · En una terraza (14:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Camarero",
+     "es": "Hola, buenas tardes. ¿Vas a comer?",
+     "en": "Hi, good afternoon. Are you having lunch?",
+     "audio": "c3_01_Camarero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Sí, por favor. ¿Tenéis menú del día?",
+     "en": "Yes, please. Do you have a set menu?",
+     "audio": "c3_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Camarero",
+     "es": "Sí. De primero hay sopa o ensalada.",
+     "en": "Yes. For the first course there's soup or salad.",
+     "audio": "c3_03_Camarero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "Sopa, por favor.",
+     "en": "Soup, please.",
+     "audio": "c3_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Camarero",
+     "es": "Y de segundo, carne con patatas o pescado.",
+     "en": "And for the main course, meat with potatoes or fish.",
+     "audio": "c3_05_Camarero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Carne con patatas.",
+     "en": "Meat with potatoes.",
+     "audio": "c3_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Camarero",
+     "es": "Muy bien. ¿Y para beber?",
+     "en": "Very good. And to drink?",
+     "audio": "c3_07_Camarero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Agua, por favor.",
+     "en": "Water, please.",
+     "audio": "c3_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Camarero",
+     "es": "El menú incluye pan y postre.",
+     "en": "The menu includes bread and dessert.",
+     "audio": "c3_09_Camarero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "¡Genial! Me siento aquí, al sol.",
+     "en": "Great! I'll sit here, in the sun.",
+     "audio": "c3_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Camarero",
+     "es": "¿Qué tal la comida?",
+     "en": "How's the food?",
+     "audio": "c3_11_Camarero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Todo está muy rico, gracias. La cuenta, por favor.",
+     "en": "Everything is delicious, thanks. The bill, please.",
+     "audio": "c3_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Camarero",
+     "es": "Claro. Son catorce euros.",
+     "en": "Of course. That's fourteen euros.",
+     "audio": "c3_13_Camarero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · En la tienda de dulces (15:30)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Dependienta",
+     "es": "Hola, buenas tardes. ¿Qué quieres?",
+     "en": "Hi, good afternoon. What would you like?",
+     "audio": "c4_01_Dependienta.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Hola. ¿Qué es esto?",
+     "en": "Hi. What is this?",
+     "audio": "c4_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Dependienta",
+     "es": "Es mazapán. Es un dulce típico de Toledo.",
+     "en": "It's marzipan. It's a typical sweet from Toledo.",
+     "audio": "c4_03_Dependienta.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "¡Qué bonito! ¿Puedo probar uno?",
+     "en": "How pretty! Can I try one?",
+     "audio": "c4_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Dependienta",
+     "es": "Claro, toma.",
+     "en": "Of course, here you are.",
+     "audio": "c4_05_Dependienta.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Mmm… ¡Está muy rico!",
+     "en": "Mmm… It's delicious!",
+     "audio": "c4_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Dependienta",
+     "es": "¿Quieres una caja?",
+     "en": "Would you like a box?",
+     "audio": "c4_07_Dependienta.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Sí, una caja pequeña, por favor. Es un regalo para mi madre.",
+     "en": "Yes, a small box, please. It's a present for my mother.",
+     "audio": "c4_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Dependienta",
+     "es": "¡Qué detalle! ¿Te la envuelvo?",
+     "en": "How thoughtful! Shall I wrap it for you?",
+     "audio": "c4_09_Dependienta.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "Sí, por favor.",
+     "en": "Yes, please.",
+     "audio": "c4_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Dependienta",
+     "es": "Aquí tienes. Son ocho euros.",
+     "en": "Here you are. That's eight euros.",
+     "audio": "c4_11_Dependienta.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Gracias. ¡Le voy a mandar una foto!",
+     "en": "Thanks. I'm going to send her a photo!",
+     "audio": "c4_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Dependienta",
+     "es": "¡Seguro que le encanta!",
+     "en": "I'm sure she'll love it!",
+     "audio": "c4_13_Dependienta.mp3"
+    },
+    {
+     "n": 14,
+     "who": "Elena",
+     "es": "¡Adiós, hasta luego!",
+     "en": "Bye, see you!",
+     "audio": "c4_14_Elena.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "Welcome! Today, practise real conversations from Elena's first train trip to Toledo. First listen, then repeat each line.",
+  "c1": "Conversation one: at Atocha station.",
+  "c2": "Conversation two: in the old town.",
+  "c3": "Conversation three: on a terrace.",
+  "c4": "Conversation four: at the sweet shop.",
+  "repite": "Now, listen and repeat.",
+  "outro": "Well done! See you next week."
+ },
+ "voices": {
+  "Elena": "dNjJKg63Fr5AXwIdkATa",
+  "Taquillera": "iuYybvSfclFoJ9ab2Im6",
+  "Vecino": "dabBScGPxrhZRE621vIm",
+  "Camarero": "Nh2zY9kknu6z4pZy6FhD",
+  "Dependienta": "qqTINV9edzRuH2zqZGSV"
+ }
+}
