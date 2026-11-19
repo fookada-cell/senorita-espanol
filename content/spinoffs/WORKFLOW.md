@@ -50,6 +50,8 @@ For new characters, pick a **Peninsular** voice of the right age and gender from
 
 **Thumbnail** = **identical to that Sunday's thumbnail**, same title (e.g. "Mi semana en / Madrid / (My Week in Madrid)"), the Spain/UK badge top-right and "Señorita Christina Español" as text bottom-left (no logo). The **only** change is the red banner: **"Conversación real · A1–A2"** instead of "Historia lenta · A1–A2". Art: Elena alone on the right (new art each week). Set it in `config.json → thumbnail`.
 
+**File name rule.** Final video: `Senorita-SUNDAY-Conversation-EPxx.mp4` (EP number = the Sunday episode), set as `slug` in `config.json`. Captions use the same name with `.srt`.
+
 **YouTube title rule.** Sunday: *Learn Spanish with an Easy Story (X)*. Spin-off: ***Speak Spanish with Easy Conversations (X)***, with the same bracket.
 **Description.** Same structure as the Sunday description: ⏱️ Chapters → story-style summary → "This is Spanish from Spain…" → 📖 link to the Sunday story → 💡 Pregunta de Hoy 💡 (a question viewers answer by *using* a phrase) → 🔔 subscribe link → hashtags.
 
