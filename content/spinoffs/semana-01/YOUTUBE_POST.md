@@ -3,11 +3,21 @@
 Written in the channel's style, matching the description of *Learn Spanish with an Easy Story (My Week in Madrid)*.
 Chapter times are taken from the v3 render (13:16).
 
-## Title (choose one)
+## Title
 
-1. **Real Spanish Conversations in Madrid (Listen & Repeat, A1–A2)** ← recommended
-2. Speak Spanish Like a Local in Madrid: 4 Easy Conversations
-3. Order Bread, Coffee and Vegetables in Spanish (Real Conversations in Madrid)
+**Speak Spanish with Easy Conversations (My Week in Madrid)**
+
+### Series naming rule (Sunday story ↔ spin-off)
+| | Sunday story | Spin-off (8 hours later) |
+|---|---|---|
+| YouTube title | Learn Spanish with an **Easy Story** (My Week in Madrid) | **Speak** Spanish with **Easy Conversations** (My Week in Madrid) |
+| Thumbnail title | Mi semana en Madrid | Conversaciones en Madrid |
+| Thumbnail banner | Historia lenta · A1–A2 | Conversación real · A1–A2 |
+
+The bracket is the same in both titles, which ties the pair together. "Learn → Speak" and "Story → Conversations" show what's new.
+Next weeks: *Speak Spanish with Easy Conversations (My First Train Trip to Toledo)* · *Speak Spanish with Easy Conversations (My Rainy Week in Seville)*.
+
+Alternative hook-style titles: *Can You Order a Coffee in Spanish? (My Week in Madrid)* · *Your First Week in Madrid: 4 Easy Spanish Conversations*
 
 ## Description (copy everything between the lines)
 
