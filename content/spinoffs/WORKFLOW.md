@@ -46,7 +46,9 @@
 | Camarera (20s woman) | Violeta | `jQvo2VZEqNV6YXEBghzl` |
 For new characters, pick a **Peninsular** voice of the right age and gender from the owner's ElevenLabs library (check the labels via the API). **Always level the volume.** Raw ElevenLabs voices differ by up to 12 dB.
 
-**Narrator (host lines).** The intro, the four conversation titles, "Now, listen and repeat" and the closing are read **in English** by **Daniel – Calm, Polished and Direct** (`ZMK5OD2jmsdse3EKE4W5`, speed 1.0), like the English host lines in the Sunday videos. Set in `config.json` (`narrator_voice`, `narration_language: "en"`). The on-screen title cards stay in Spanish.
+**Narrator (host lines).** From EP02 on, the intro, the four conversation titles, "Ahora, escucha y repite" and the closing are read **in Peninsular Spanish** by **Alex – Smooth, Professional and Pleasant** (`7ilYbYb99yBZGMUUKSaf`, speed 0.9). No English. Set in `config.json` (`narrator_voice`, `narration_language: "es"`). EP01 used Daniel (English).
+
+**Per-character speed.** Default 0.7. If a voice sounds too slow, raise only that character with `config.json → voice_speeds` (e.g. EP02 Dependienta = 0.9).
 
 **On screen.** A top-left pill shows "Conversación N · Place", a top-right pill shows the round, and the line counter (e.g. "10 / 14") sits bottom-left. The **channel logo** sits bottom-right, stays still, and does a 1.4 s coin-flip spin every 20 s (`content/brand/senorita-christina-logo-transparent.png`).
 

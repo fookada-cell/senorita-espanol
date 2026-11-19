@@ -393,13 +393,13 @@
   }
  ],
  "narr": {
-  "intro": "Welcome! Today, practise real conversations from Elena's first train trip to Toledo. First listen, then repeat each line.",
-  "c1": "Conversation one: at Atocha station.",
-  "c2": "Conversation two: in the old town.",
-  "c3": "Conversation three: on a terrace.",
-  "c4": "Conversation four: at the sweet shop.",
-  "repite": "Now, listen and repeat.",
-  "outro": "Well done! See you next week."
+  "intro": "¡Bienvenidos! Hoy practicamos conversaciones del primer viaje en tren de Elena a Toledo. Primero escucha, después repite.",
+  "c1": "Conversación uno. En la estación de Atocha.",
+  "c2": "Conversación dos. En el casco antiguo.",
+  "c3": "Conversación tres. En una terraza.",
+  "c4": "Conversación cuatro. En la tienda de dulces.",
+  "repite": "Ahora, escucha y repite.",
+  "outro": "¡Muy bien! Hasta la próxima semana."
  },
  "voices": {
   "Elena": "dNjJKg63Fr5AXwIdkATa",

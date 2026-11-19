@@ -82,7 +82,9 @@ for ci, c in enumerate(convs, 1):
     L = c["lines"]
     for i, l in enumerate(L):
         name = f"c{ci}_{l['n']:02d}_{l['who']}.mp3"; l["audio"] = name
-        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", None))
+        sp = CFG.get("voice_speeds", {}).get(l["who"])
+        st = dict(SETTINGS, speed=sp) if sp else None
+        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", st))
 for voice, t, name, prev, nxt, lang, st in jobs:
     status = tts(voice, t, f"{RAW}/{name}", prev, nxt, lang, st)
     if status == "ok": chars += len(t)
