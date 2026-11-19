@@ -1,7 +1,7 @@
 # YouTube post · Spin-off Semana 1 · Conversaciones en Madrid
 
 Written in the channel's style, matching the description of *Learn Spanish with an Easy Story (My Week in Madrid)*.
-Chapter times are taken from the v3 render (13:16).
+Chapter times are taken from the final render with Daniel's openings (13:09).
 
 ## Title
 
@@ -24,15 +24,15 @@ Alternative hook-style titles: *Can You Order a Coffee in Spanish? (My Week in M
 ---
 ⏱️ Chapters
 00:00 Introduction
-00:05 Conversation 1: En la panadería (At the bakery)
-01:12 Listen and repeat
-03:31 Conversation 2: En el espacio compartido (At the shared workspace)
+00:08 Conversation 1: En la panadería (At the bakery)
+01:14 Listen and repeat
+03:32 Conversation 2: En el espacio compartido (At the shared workspace)
 04:30 Listen and repeat
 06:32 Conversation 3: En el mercado (At the market)
-07:29 Listen and repeat
-09:26 Conversation 4: En la cafetería (At the café)
-10:38 Listen and repeat
-13:09 Closing
+07:28 Listen and repeat
+09:23 Conversation 4: En la cafetería (At the café)
+10:34 Listen and repeat
+13:05 Closing
 
 Elena has just moved to Madrid, and now it's time to talk! In these four slow, clear A1–A2 conversations she buys a baguette at the neighbourhood bakery, meets Javier at her shared workspace, buys tomatoes, a cucumber and a red pepper at the market, and orders a café con leche in a café for the first time.
 
