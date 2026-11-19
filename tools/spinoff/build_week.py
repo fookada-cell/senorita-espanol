@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 S = os.path.dirname(os.path.abspath(__file__))
-IMG = f"{S}/w1img"; AUD = f"{S}/el/semana-01"; W = f"{S}/work_w1"; OUT = f"{S}/out"
+IMG = f"{S}/w1img"; AUD = f"{S}/el/semana-01-norm"; W = f"{S}/work_w1"; OUT = f"{S}/out"
 os.makedirs(W, exist_ok=True); os.makedirs(OUT, exist_ok=True)
 F = "/usr/share/fonts/opentype/inter/"
 def font(n, s): return ImageFont.truetype(F + n, s)
@@ -118,8 +118,8 @@ def chrome(frame, ev):
         pill(d, WID - 40, 32, ev["label"], f1, GOLD + (235,), right=True)
     if ev.get("step"):
         sw = d.textlength(ev["step"], font=f2)
-        d.rounded_rectangle([WID - 40 - sw - 36, HEI - 76, WID - 40, HEI - 32], radius=22, fill=(30, 22, 18, 170))
-        d.text((WID - 40 - sw - 18, HEI - 71), ev["step"], font=f2, fill=(255, 255, 255))
+        d.rounded_rectangle([40, HEI - 76, 40 + sw + 36, HEI - 32], radius=22, fill=(30, 22, 18, 170))
+        d.text((58, HEI - 71), ev["step"], font=f2, fill=(255, 255, 255))
     return frame
 
 def card_overlay(big, small, kicker=None):
@@ -195,6 +195,23 @@ with wave.open(f"{W}/mix.wav", "w") as w:
     w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR)
     w.writeframes((np.clip(mix, -1, 1) * 32767).astype(np.int16).tobytes())
 
+
+LOGO = Image.open(f"{IMG}/logo_rgba.png").convert("RGBA")
+LOGO_H = 175
+LOGO = LOGO.resize((round(LOGO.width * LOGO_H / LOGO.height), LOGO_H), Image.LANCZOS)
+SPIN_EVERY, SPIN_LEN = 20.0, 1.4
+def add_logo(fr, tt):
+    ph = (tt % SPIN_EVERY) - (SPIN_EVERY - SPIN_LEN)
+    lg = LOGO
+    if ph > 0:
+        ang = (ph / SPIN_LEN) * 2 * math.pi
+        sx = abs(math.cos(ang))
+        w = max(2, round(LOGO.width * sx))
+        lg = LOGO.resize((w, LOGO_H), Image.BILINEAR)
+    x = WID - 26 - LOGO.width + (LOGO.width - lg.width) // 2
+    fr.alpha_composite(lg, (x, HEI - 22 - LOGO_H))
+    return fr
+
 # ---------- frames ----------
 cache = {}
 def cam_target(ev):
@@ -250,7 +267,7 @@ def frame_at(tt, idx=[0]):
             d = ImageDraw.Draw(fr); pr = age / (ev["end"] - ev["start"])
             d.rounded_rectangle([WID // 2 - 300, HEI - 60, WID // 2 + 300, HEI - 44], radius=8, fill=(30, 22, 18, 160))
             d.rounded_rectangle([WID // 2 - 300, HEI - 60, WID // 2 - 300 + int(600 * pr), HEI - 44], radius=8, fill=GOLD + (255,))
-    return chrome(fr, ev).convert("RGB")
+    return add_logo(chrome(fr, ev), tt).convert("RGB")
 
 def ts(x): return f"{int(x//3600):02d}:{int(x%3600//60):02d}:{int(x%60):02d},{int(round((x%1)*1000))%1000:03d}"
 
