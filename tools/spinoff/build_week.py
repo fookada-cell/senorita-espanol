@@ -17,15 +17,15 @@ OTHER = ["Panadero", "Javier", "Frutero", "Camarera"]
 TITLES = ["En la panadería", "En el espacio compartido", "En el mercado", "En la cafetería"]
 
 # Per image: mouth positions (image-normalized) and the bubble centre (image-normalized, calm space between faces)
-SPOTS = {
- "01A": dict(Elena=(0.335, 0.33), Other=(0.690, 0.27), at=(0.500, 0.13)),
- "01B": dict(Elena=(0.330, 0.37), Other=(0.685, 0.28), at=(0.500, 0.13)),
- "02A": dict(Elena=(0.380, 0.52), Other=(0.670, 0.27), at=(0.450, 0.21)),
- "02B": dict(Elena=(0.370, 0.48), Other=(0.665, 0.28), at=(0.450, 0.20)),
- "03A": dict(Elena=(0.335, 0.33), Other=(0.680, 0.29), at=(0.465, 0.14)),
- "03B": dict(Elena=(0.330, 0.36), Other=(0.690, 0.29), at=(0.465, 0.14)),
- "04A": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), at=(0.475, 0.16)),
- "04B": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), at=(0.475, 0.16)),
+SPOTS = {  # mouths (tail targets) and chest centres (bubble positions), image-normalized
+ "01A": dict(Elena=(0.335, 0.33), Other=(0.690, 0.27), atElena=(0.285, 0.57), atOther=(0.745, 0.52)),
+ "01B": dict(Elena=(0.330, 0.37), Other=(0.685, 0.28), atElena=(0.270, 0.58), atOther=(0.735, 0.54)),
+ "02A": dict(Elena=(0.380, 0.52), Other=(0.670, 0.27), atElena=(0.330, 0.71), atOther=(0.735, 0.45)),
+ "02B": dict(Elena=(0.370, 0.48), Other=(0.665, 0.28), atElena=(0.310, 0.69), atOther=(0.745, 0.47)),
+ "03A": dict(Elena=(0.335, 0.33), Other=(0.680, 0.29), atElena=(0.270, 0.57), atOther=(0.745, 0.50)),
+ "03B": dict(Elena=(0.330, 0.36), Other=(0.690, 0.29), atElena=(0.265, 0.57), atOther=(0.750, 0.50)),
+ "04A": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), atElena=(0.320, 0.67), atOther=(0.705, 0.47)),
+ "04B": dict(Elena=(0.355, 0.44), Other=(0.645, 0.29), atElena=(0.320, 0.67), atOther=(0.705, 0.47)),
 }
 KEY = [
  [("¿Qué te pongo?", "What can I get you?"), ("una barra de pan", "a baguette"), ("¿Algo más?", "Anything else?"),
@@ -41,11 +41,12 @@ KEY = [
 CREAM, INK, MUTED, GOLD, RED = (250, 244, 228), (40, 30, 24), (110, 92, 78), (205, 145, 55), (176, 58, 46)
 
 # ---------- images ----------
-SW = 2112
+SW = 2304
 SCN, BLUR = {}, {}
 for k in list(SPOTS) + ["thumb"]:
     im = Image.open(f"{IMG}/{k}.png").convert("RGB")
-    im = im.resize((SW, round(SW * 9 / 16)), Image.LANCZOS).filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
+    im = im.resize((SW, round(SW * 9 / 16)), Image.LANCZOS)
+    if k == "thumb": im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
     SCN[k] = im
     BLUR[k] = im.filter(ImageFilter.GaussianBlur(10))
 SH = round(SW * 9 / 16)
@@ -98,7 +99,7 @@ def tail(frame, box, target, alpha):
         X = L if e == "l" else R; yb = min(max(ty, T + 34), B - 34); b1, b2, edge = (X, yb - 20), (X, yb + 20), (X, yb)
     else:
         Y = T if e == "t" else B; xb = min(max(tx, L + 34), R - 34); b1, b2, edge = (xb - 20, Y), (xb + 20, Y), (xb, Y)
-    k = 0.72; tip = (edge[0] + (tx - edge[0]) * k, edge[1] + (ty - edge[1]) * k)
+    k = 0.55; tip = (edge[0] + (tx - edge[0]) * k, edge[1] + (ty - edge[1]) * k)
     lay = Image.new("RGBA", frame.size, (0, 0, 0, 0))
     ImageDraw.Draw(lay).polygon([b1, b2, tip], fill=CREAM + (int(242 * alpha),))
     return Image.alpha_composite(frame, lay)
@@ -237,7 +238,7 @@ def frame_at(tt, idx=[0]):
         a = 1.0 if ev.get("cont") else min(1, age / 0.22)
         s = 1.0 if ev.get("cont") else 0.85 + 0.15 * (1 - (1 - a) ** 3) + 0.04 * math.sin(min(1, age / 0.35) * math.pi)
         spot = SPOTS[ev["img"]]
-        cxs, cys = img2scr(*spot["at"])
+        cxs, cys = img2scr(*spot["at" + ev["sp"]])
         bx = int(min(max(cxs - bw / 2, 40), WID - bw - 40)) - 20
         by = int(min(max(cys - bh / 2, 100), HEI - bh - 100)) - 20
         fr = tail(fr, (bx + 20, by + 20, bx + 20 + bw, by + 20 + bh), img2scr(*spot[ev["sp"]]), a)
