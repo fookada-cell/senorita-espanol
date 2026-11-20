@@ -1,6 +1,6 @@
 # YouTube post · Spin-off EP02 · Conversaciones en Toledo
 
-File: `Senorita-SUNDAY-Conversation-EP02.mp4` (13:33) + `Senorita-SUNDAY-Conversation-EP02.srt`
+File: `Senorita-SUNDAY-Conversation-EP02.mp4` (13:40) + `Senorita-SUNDAY-Conversation-EP02.srt`
 
 ## Title
 **Speak Spanish with Easy Conversations (My First Train Trip to Toledo)**
@@ -11,15 +11,15 @@ Hook alternative: *Can You Buy a Train Ticket in Spanish? (My First Train Trip t
 ---
 ⏱️ Chapters
 00:00 Introduction
-00:10 Conversation 1: En la estación de Atocha (At Atocha station)
-01:11 Listen and repeat
-03:17 Conversation 2: En el casco antiguo (In the old town)
-04:17 Listen and repeat
-06:22 Conversation 3: En una terraza (On a terrace)
-07:26 Listen and repeat
-09:42 Conversation 4: En la tienda de dulces (At the sweet shop)
-10:55 Listen and repeat
-13:28 Closing
+00:11 Conversation 1: En la estación de Atocha (At Atocha station)
+01:12 Listen and repeat
+03:19 Conversation 2: En el casco antiguo (In the old town)
+04:19 Listen and repeat
+06:25 Conversation 3: En una terraza (On a terrace)
+07:31 Listen and repeat
+09:48 Conversation 4: En la tienda de dulces (At the sweet shop)
+11:01 Listen and repeat
+13:34 Closing
 
 Elena takes her first train trip from Madrid to Toledo, and now it's time to talk! In these four slow, clear A1–A2 conversations she buys a return ticket at Atocha station, gets a little lost in the old town and asks a friendly local for directions, orders the menú del día on a sunny terrace, and buys a box of marzipan as a present for her mother.
 
