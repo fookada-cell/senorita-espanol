@@ -269,6 +269,12 @@ def frame_at(tt, idx=[0]):
 
 def ts(x): return f"{int(x//3600):02d}:{int(x%3600//60):02d}:{int(x%60):02d},{int(round((x%1)*1000))%1000:03d}"
 
+if MODE.startswith("check"):   # "check3" = one frame per Ronda 1 line of conversation 3 (and its turn frame)
+    n = int(MODE[5:]); k = 0
+    for i, e in enumerate(events):
+        if e["kind"] == "line" and e.get("conv") == n and "1" in e["label"]:
+            camera_fx[0] = cam_target(e); frame_at(e["start"] + 1.0, [i]).save(f"{OUT}/check{n}_{k:02d}.jpg", quality=80); k += 1
+    print("check frames", k); sys.exit()
 if MODE == "preview":
     picks = {}
     for e in events:
