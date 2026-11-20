@@ -1,0 +1,150 @@
+===== sheet-profesora · Profesora · cooking teacher   (attach Marina ref + main-video EP04 scenes with this character) =====
+Create a character reference sheet for a supporting character in the same series as the attached reference images. Match their rendering style exactly: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors; adult proportions; warm, naturally sized eyes (not oversized). Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic. If the attached main-video scenes already show this character, copy that exact face, hair and clothes.
+
+Layout, 16:9, plain warm cream background, no scenery: a large head-and-shoulders portrait on the left; in the middle the full body in front, three-quarter and back views; on the right three small head close-ups with different expressions (laughing, surprised, thinking/asking). Same face, hair, clothes and colors in every view.
+
+No text, letters, numbers, labels, names, color swatches, logos, watermarks, panels or grids.
+
+Character: the cooking teacher from the main EP04 video: a warm, confident Spanish woman in her late 40s, dark hair in a neat bun, kind smile. Outfit: white chef's jacket, plain white apron, dark trousers. Calm, encouraging personality. (If the main-video scenes show her differently, follow the main video.)
+
+===== sheet-laura · Laura · classmate   (attach Marina ref + main-video EP04 scenes with this character) =====
+Create a character reference sheet for a supporting character in the same series as the attached reference images. Match their rendering style exactly: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors; adult proportions; warm, naturally sized eyes (not oversized). Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic. If the attached main-video scenes already show this character, copy that exact face, hair and clothes.
+
+Layout, 16:9, plain warm cream background, no scenery: a large head-and-shoulders portrait on the left; in the middle the full body in front, three-quarter and back views; on the right three small head close-ups with different expressions (laughing, surprised, thinking/asking). Same face, hair, clothes and colors in every view.
+
+No text, letters, numbers, labels, names, color swatches, logos, watermarks, panels or grids.
+
+Character: Laura, Marina's new classmate from the main EP04 video: a friendly Spanish woman in her late 20s, shoulder-length dark brown wavy hair, bright smile. Outfit: casual blouse with a plain white apron over it. Cheerful, curious personality. (If the main-video scenes show her differently, follow the main video.)
+
+===== 01A · Llegada a la clase, wide   (attach Marina ref + sheet-profesora) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Scene: the bright, big cooking-school kitchen in Madrid at 10 in the morning, a long wooden worktable with eggs, potatoes, an onion and a bottle of olive oil (no label text), white aprons on hooks. Marina stands on the left, just arrived, holding her mustard bag, smiling a little nervously. On the right, the teacher stands at the worktable and greets her with a warm smile, holding out a folded white apron. Both waist-up.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 01B · Llegada a la clase, closer   (attach Marina ref + sheet-profesora) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Same kitchen, same two people. Closer shot, chest-up: Marina on the left now wearing the white apron, washing her hands at a small sink with soap, smiling; the teacher on the right nods encouragingly. Ingredients softly out of focus.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 02A · Con Laura, wide   (attach Marina ref + sheet-laura) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Scene: the same cooking-school kitchen, a little later; potatoes cooking slowly in a frying pan on the hob behind them. Marina stands on the left at the worktable in her white apron, cutting an onion slowly on a wooden board. On the right, Laura stands beside her in her white apron, smiling and introducing herself. Both waist-up.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 02B · Con Laura, closer   (attach Marina ref + sheet-laura) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Same kitchen, same two people. Closer shot, chest-up: Marina on the left smiles, more relaxed now; Laura on the right beats eggs in a bowl with a fork, laughing. Frying pan softly out of focus behind them.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 03A · Dar la vuelta, wide   (attach Marina ref + sheet-profesora) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Scene: the same kitchen at the hob. Marina stands on the left in her white apron, holding a large plate over the frying pan with both hands, concentrating; on the right, the teacher stands close beside her, guiding her calmly with one hand raised. Both waist-up.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 03B · Dar la vuelta, closer   (attach Marina ref + sheet-profesora) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Same kitchen, same two people. Closer shot, chest-up: Marina on the left looks at the plate in her hands with a funny surprised face; on the plate, a golden potato omelette that has broken a little, one piece separate. The teacher on the right smiles kindly, as if saying it doesn't matter.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 04A · En la mesa larga, wide   (attach Marina ref + sheet-laura) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Scene: the long table in the cooking school, later, warm light; plates with slices of golden potato omelette, glasses of water, other classmates small and out of focus at the far end. Marina stands on the left at the table in her white apron, holding a fork with a piece of omelette, delighted. On the right, Laura stands beside her, smiling and holding her plate. Both standing, waist-up.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== 04B · En la mesa larga, closer   (attach Marina ref + sheet-laura) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+This image is a conversation scene for a Spanish-learning video. Marina stands on the LEFT. The other character is on the RIGHT: a second main character in the foreground, drawn just as sharply as Marina; copy their face, hair and clothes exactly from their attached reference. They face each other in three-quarter view and are clearly talking to each other, with lively, natural expressions. Both faces are large and clearly readable in the upper half of the frame; both characters are STANDING (not seated), so their chests are clearly visible below their faces, where captions will be added later. Any other people are anonymous, small and out of focus. Setting: the same big, bright cooking-school kitchen as the main video, warm Madrid morning light. 16:9.
+
+Same table, same two people. Closer shot, chest-up: Marina on the left holds an open notebook and a pencil, writing new words (no readable text on the page), smiling; Laura on the right waves goodbye warmly. Table softly out of focus.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame. No speech bubbles.
+
+===== thumb-art   (attach Marina ref) =====
+Use the attached reference image(s) of Marina as her exact identity and rendering style. She is Marina, 27, the main character of this episode (not Elena). Copy her face, expression and cel-shaded look from the references; do not redesign her.
+
+Keep identical to the references: fair, warm peach-ivory skin; green eyes of normal human scale (not oversized); espresso-brown hair tied in a ponytail at mid-height (not low); adult proportions (no baby face).
+
+Outfit (unless a scene says otherwise): her everyday clothes exactly as in the reference, a mustard-coloured bag; in the kitchen scenes she wears a plain white apron over her clothes.
+
+Style: Japanese Retro Travel-Poster Anime: cel-shaded, with crisp confident linework and warm saturated poster colors. Not pixel art, not soft Ghibli watercolor, not 3D, not photorealistic.
+
+YouTube thumbnail art, 16:9. Marina alone on the RIGHT, face large and close to the camera, big proud smile, wearing her white apron, holding up a plate with a golden potato omelette that is not perfectly round. Background: the bright cooking-school kitchen, softly out of focus, warm light. Leave the top-left area calm and empty (soft cream wall) for a title that will be added later.
+
+No tan or olive skin for Marina and no low ponytail (rejected versions). Do not give her Elena's face or Elena's chestnut bob. No oversized anime eyes, chibi, baby face, 3D rendering, photorealism, pixel art, soft Ghibli watercolor, or muddy orange filter. No text, letters, numbers, logos, watermarks, captions, signs, recipe cards with writing, title cards or typography of any kind. No second Marina, no inset faces, no mirrored duplicates, no panels or grids. No distracting or clearly rendered background figures. Do not make her face small in the frame.

@@ -1,0 +1,155 @@
+{
+ "slug": "Senorita-SUNDAY-Conversation-EP04",
+ "series_title": "Conversaciones en la cocina",
+ "intro_sub": "Mi primera clase de cocina española · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Profesora",
+  "Laura",
+  "Profesora",
+  "Laura"
+ ],
+ "titles": [
+  "Llegada a la clase",
+  "Con Laura",
+  "Dar la vuelta",
+  "En la mesa larga"
+ ],
+ "spots": {},
+ "key_phrases": [
+  [
+   [
+    "¿Es aquí…?",
+    "Is … here?"
+   ],
+   [
+    "Me llamo…",
+    "My name is…"
+   ],
+   [
+    "¿Qué necesitamos?",
+    "What do we need?"
+   ],
+   [
+    "¿Dónde dejo…?",
+    "Where do I leave…?"
+   ],
+   [
+    "lavarse las manos",
+    "to wash your hands"
+   ],
+   [
+    "¡Vale, empiezo!",
+    "OK, I'm starting!"
+   ]
+  ],
+  [
+   [
+    "¿Eres nueva?",
+    "Are you new?"
+   ],
+   [
+    "yo también",
+    "me too"
+   ],
+   [
+    "Todo huele bien.",
+    "Everything smells good."
+   ],
+   [
+    "¿Cortas tú…?",
+    "Will you cut…?"
+   ],
+   [
+    "batir los huevos",
+    "to beat the eggs"
+   ],
+   [
+    "Quiero aprender.",
+    "I want to learn."
+   ]
+  ],
+  [
+   [
+    "con cuidado",
+    "carefully"
+   ],
+   [
+    "Coge… / Pon…",
+    "Take… / Put…"
+   ],
+   [
+    "dar la vuelta",
+    "to flip over"
+   ],
+   [
+    "¡Menudo lío!",
+    "What a mess!"
+   ],
+   [
+    "No pasa nada.",
+    "It doesn't matter."
+   ],
+   [
+    "un poco más",
+    "a little more"
+   ]
+  ],
+  [
+   [
+    "probar",
+    "to try / taste"
+   ],
+   [
+    "¡Está de muerte!",
+    "It's amazing! (food)"
+   ],
+   [
+    "Está muy rica.",
+    "It's very tasty."
+   ],
+   [
+    "apuntar",
+    "to note down"
+   ],
+   [
+    "¿Vienes…?",
+    "Are you coming…?"
+   ],
+   [
+    "¡Hasta pronto!",
+    "See you soon!"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's first Spanish cooking class! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: arriving at the class!",
+  "c2": "[cheerfully] Conversation two: with Laura!",
+  "c3": "[cheerfully] Conversation three: flip the omelette!",
+  "c4": "[cheerfully] Conversation four: at the long table!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Profesora": "Ugu6b5thG2v8TpHWKQhs",
+  "Laura": "F85f2z6OiMoDXtGx8TxR"
+ },
+ "thumbnail": {
+  "line1": "Mi primera clase de",
+  "line2": "cocina española",
+  "sub": "(My First Spanish Cooking Class)",
+  "banner": "Conversación real · A1–A2",
+  "show_logo": false
+ },
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": null,
+ "voice_speeds": {},
+ "narrator_model": "eleven_v4",
+ "narrator_settings": {
+  "stability": 0.0,
+  "similarity_boost": 0.75
+ },
+ "main_speaker": "Marina"
+}

@@ -20,7 +20,7 @@ CFG = json.load(open(f"{WEEK}/config.json", encoding="utf-8"))
 RAW, NORM = f"{WEEK}/audio", f"{WEEK}/audio-norm"
 os.makedirs(RAW, exist_ok=True); os.makedirs(NORM, exist_ok=True)
 VOICES, NARR = CFG["voices"], CFG["narration"]
-NARRATOR = CFG.get("narrator_voice", VOICES["Elena"])          # host voice for the opening lines
+NARRATOR = CFG.get("narrator_voice", VOICES.get(CFG.get("main_speaker", "Elena")))          # host voice for the opening lines
 NARR_LANG = CFG.get("narration_language", "es")
 NARR_SETTINGS = CFG.get("narrator_settings") or {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": CFG.get("narrator_speed", 1.0)}
 NARR_MODEL = CFG.get("narrator_model", "eleven_multilingual_v2")

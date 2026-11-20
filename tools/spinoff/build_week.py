@@ -160,13 +160,13 @@ for ci, c in enumerate(CONVS):
     def img_for(i): return f"0{n}A" if i < half else f"0{n}B"
     spoken("card", f"n_c{n}.mp3", 0.7, 1.4, img=f"0{n}A", big=TITLES[ci], small=f"Conversación {n}", kicker=f"Conversación {n}")
     for i, l in enumerate(L):
-        sp = "Elena" if l["who"] == "Elena" else "Other"
+        sp = "Elena" if l["who"] == CFG.get("main_speaker", "Elena") else "Other"
         spoken("line", l["audio"], 0.35, 0.8, img=img_for(i), sp=sp, es=l["es"], en=l["en"], conv=n,
                label="Ronda 1 · Escucha", step=f"{i+1} / {len(L)}")
     spoken("card", "n_repite.mp3", 0.6, 1.0, img=f"0{n}A", big="Escucha y repite", small="Listen, then repeat each line in the pause",
            kicker="Ronda 2")
     for i, l in enumerate(L):
-        sp = "Elena" if l["who"] == "Elena" else "Other"
+        sp = "Elena" if l["who"] == CFG.get("main_speaker", "Elena") else "Other"
         common = dict(img=img_for(i), sp=sp, es=l["es"], en=l["en"], conv=n, label="Ronda 2 · Repite", step=f"{i+1} / {len(L)}")
         spoken("line", l["audio"], 0.3, 0.2, **common)
         add("line", round(dur(l["audio"]) * 1.3 + 1.0, 2), turn=True, cont=True, **common)
