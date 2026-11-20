@@ -1,0 +1,156 @@
+{
+ "slug": "Senorita-SUNDAY-Conversation-EP03",
+ "series_title": "Conversaciones en Sevilla",
+ "intro_sub": "Mi semana de lluvia en Sevilla · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Vecina",
+  "Taquillero",
+  "Camarero",
+  "Chica"
+ ],
+ "titles": [
+  "Bajo los arcos",
+  "En el museo",
+  "En el patio",
+  "Junto al río"
+ ],
+ "spots": {},
+ "key_phrases": [
+  [
+   [
+    "Perdone, ¿me puede ayudar?",
+    "Excuse me, can you help me?"
+   ],
+   [
+    "Está lloviendo a cántaros.",
+    "It's pouring with rain."
+   ],
+   [
+    "¿Tienes paraguas?",
+    "Do you have an umbrella?"
+   ],
+   [
+    "bajo los arcos",
+    "under the arches"
+   ],
+   [
+    "¡Qué guay!",
+    "How cool!"
+   ],
+   [
+    "No pasa nada.",
+    "Never mind."
+   ]
+  ],
+  [
+   [
+    "una entrada",
+    "a ticket"
+   ],
+   [
+    "¿Cuánto cuesta?",
+    "How much is it?"
+   ],
+   [
+    "¿Puedo dejar…?",
+    "Can I leave…?"
+   ],
+   [
+    "Dentro está seco.",
+    "It's dry inside."
+   ],
+   [
+    "la primera planta",
+    "the first floor"
+   ],
+   [
+    "¿A qué hora cierra?",
+    "What time does it close?"
+   ]
+  ],
+  [
+   [
+    "¿Dónde quieres sentarte?",
+    "Where would you like to sit?"
+   ],
+   [
+    "a cubierto",
+    "under cover"
+   ],
+   [
+    "bien caliente",
+    "very hot"
+   ],
+   [
+    "Con este tiempo…",
+    "In this weather…"
+   ],
+   [
+    "quedarse un rato",
+    "to stay for a while"
+   ],
+   [
+    "No hay prisa.",
+    "There's no hurry."
+   ]
+  ],
+  [
+   [
+    "¡Madre mía!",
+    "Wow! / Oh my goodness!"
+   ],
+   [
+    "Sale el sol.",
+    "The sun is coming out."
+   ],
+   [
+    "¿Me haces una foto?",
+    "Could you take a photo of me?"
+   ],
+   [
+    "¿Cómo se llama…?",
+    "What is … called?"
+   ],
+   [
+    "de color dorado",
+    "golden"
+   ],
+   [
+    "cruzar el puente",
+    "to cross the bridge"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Elena's rainy week in Seville! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: under the arches!",
+  "c2": "[cheerfully] Conversation two: at the museum!",
+  "c3": "[cheerfully] Conversation three: in the patio!",
+  "c4": "[cheerfully] Conversation four: by the river!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Elena": "dNjJKg63Fr5AXwIdkATa",
+  "Vecina": "SDVJaMLoJa7wc3s2sn7d",
+  "Taquillero": "7QQzpAyzlKTVrRzQJmTE",
+  "Camarero": "orF2qy9215xjwqqxqsWW",
+  "Chica": "1eHrpOW5l98cxiSRjbzJ"
+ },
+ "thumbnail": {
+  "line1": "Mi semana de lluvia en",
+  "line2": "Sevilla",
+  "sub": "(My Rainy Week in Seville)",
+  "banner": "Conversación real · A1–A2",
+  "show_logo": false
+ },
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": null,
+ "voice_speeds": {},
+ "narrator_model": "eleven_v4",
+ "narrator_settings": {
+  "stability": 0.0,
+  "similarity_boost": 0.75
+ }
+}
