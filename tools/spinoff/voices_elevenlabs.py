@@ -22,7 +22,8 @@ os.makedirs(RAW, exist_ok=True); os.makedirs(NORM, exist_ok=True)
 VOICES, NARR = CFG["voices"], CFG["narration"]
 NARRATOR = CFG.get("narrator_voice", VOICES["Elena"])          # host voice for the opening lines
 NARR_LANG = CFG.get("narration_language", "es")
-NARR_SETTINGS = {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": CFG.get("narrator_speed", 1.0)}
+NARR_SETTINGS = CFG.get("narrator_settings") or {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": CFG.get("narrator_speed", 1.0)}
+NARR_MODEL = CFG.get("narrator_model", "eleven_multilingual_v2")
 SETTINGS = {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": 0.7}  # 0.7 = slowest ElevenLabs allows
 TARGET_LUFS = -19.0
 
@@ -38,10 +39,11 @@ for c in convs:
     for l in c["lines"]:
         assert l["who"] in VOICES, f"no voice in config.json for speaker {l['who']}"
 
-def tts(voice, text, path, prev=None, nxt=None, lang="es", settings=None):
+def tts(voice, text, path, prev=None, nxt=None, lang="es", settings=None, model="eleven_multilingual_v2"):
     if os.path.exists(path) and os.path.getsize(path) > 1000:
         return "cached"
-    body = {"text": text, "model_id": "eleven_multilingual_v2", "language_code": lang, "voice_settings": settings or SETTINGS}
+    body = {"text": text, "model_id": model, "voice_settings": settings or SETTINGS}
+    if lang: body["language_code"] = lang
     if prev: body["previous_text"] = prev
     if nxt: body["next_text"] = nxt
     for attempt in range(4):
@@ -77,16 +79,16 @@ def level(src, dst):
     os.remove(tmp)
 
 chars = 0
-jobs = [(NARRATOR, t, f"n_{k}.mp3", None, None, NARR_LANG, NARR_SETTINGS) for k, t in NARR.items()]
+jobs = [(NARRATOR, t, f"n_{k}.mp3", None, None, NARR_LANG, NARR_SETTINGS, NARR_MODEL) for k, t in NARR.items()]
 for ci, c in enumerate(convs, 1):
     L = c["lines"]
     for i, l in enumerate(L):
         name = f"c{ci}_{l['n']:02d}_{l['who']}.mp3"; l["audio"] = name
         sp = CFG.get("voice_speeds", {}).get(l["who"])
         st = dict(SETTINGS, speed=sp) if sp else None
-        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", st))
-for voice, t, name, prev, nxt, lang, st in jobs:
-    status = tts(voice, t, f"{RAW}/{name}", prev, nxt, lang, st)
+        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", st, "eleven_multilingual_v2"))
+for voice, t, name, prev, nxt, lang, st, model in jobs:
+    status = tts(voice, t, f"{RAW}/{name}", prev, nxt, lang, st, model)
     if status == "ok": chars += len(t)
     level(f"{RAW}/{name}", f"{NORM}/{name}")
     print(name, status)

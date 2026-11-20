@@ -283,14 +283,17 @@ if MODE == "preview":
     frame_at(1.0, [0]).save(f"{OUT}/preview_intro.jpg", quality=85)
     print("preview ok · total", round(TOTAL / 60, 2), "min"); sys.exit()
 
-out = f"{OUT}/{CFG['slug']}.mp4"
+TEST = MODE.startswith("test")   # e.g. "test30" renders only the first 30 seconds
+if TEST: TOTAL = min(TOTAL, float(MODE[4:] or 30))
+out = f"{OUT}/{CFG['slug']}" + ("-test.mp4" if TEST else ".mp4")
 ff = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{WID}x{HEI}", "-r", str(FPS), "-i", "-",
                        "-i", f"{W}/mix.wav", "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-tune", "animation", "-pix_fmt", "yuv420p",
-                       "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out], stdin=subprocess.PIPE)
+                       "-c:a", "aac", "-b:a", "160k", "-shortest", "-t", f"{TOTAL:.3f}", "-movflags", "+faststart", out], stdin=subprocess.PIPE)
 idx = [0]
 for nfr in range(int(TOTAL * FPS)):
     ff.stdin.write(frame_at(nfr / FPS, idx).tobytes())
 ff.stdin.close(); ff.wait()
+if TEST: sys.exit(print("test done", round(TOTAL, 1), "s"))
 srt, k = [], 1
 for e in events:
     if e["kind"] == "line" and not e.get("turn"):

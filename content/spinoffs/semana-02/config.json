@@ -268,13 +268,13 @@
   ]
  ],
  "narration": {
-  "intro": "¡Bienvenidos! Hoy practicamos conversaciones del primer viaje en tren de Elena a Toledo. Primero escucha, después repite.",
-  "c1": "Conversación uno. En la estación de Atocha.",
-  "c2": "Conversación dos. En el casco antiguo.",
-  "c3": "Conversación tres. En una terraza.",
-  "c4": "Conversación cuatro. En la tienda de dulces.",
-  "repite": "Ahora, escucha y repite.",
-  "outro": "¡Muy bien! Hasta la próxima semana."
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Elena's first train trip to Toledo! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at Atocha station!",
+  "c2": "[cheerfully] Conversation two: in the old town!",
+  "c3": "[cheerfully] Conversation three: on a terrace!",
+  "c4": "[cheerfully] Conversation four: at the sweet shop!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
  },
  "voices": {
   "Elena": "dNjJKg63Fr5AXwIdkATa",
@@ -290,10 +290,14 @@
   "banner": "Conversación real · A1–A2",
   "show_logo": false
  },
- "narrator_voice": "7ilYbYb99yBZGMUUKSaf",
- "narration_language": "es",
- "narrator_speed": 0.9,
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": null,
  "voice_speeds": {
   "Dependienta": 0.9
+ },
+ "narrator_model": "eleven_v4",
+ "narrator_settings": {
+  "stability": 0.0,
+  "similarity_boost": 0.75
  }
 }
