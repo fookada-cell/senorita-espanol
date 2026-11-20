@@ -52,7 +52,7 @@ For new characters, pick a **Peninsular** voice of the right age and gender from
 
 **On screen.** A top-left pill shows "Conversación N · Place", a top-right pill shows the round, and the line counter (e.g. "10 / 14") sits bottom-left. The **channel logo** sits bottom-right, stays still, and does a 1.4 s coin-flip spin every 20 s (`content/brand/senorita-christina-logo-transparent.png`).
 
-**Thumbnail** = **identical to that Sunday's thumbnail**, same title (e.g. "Mi semana en / Madrid / (My Week in Madrid)"), the Spain/UK badge top-right and "Señorita Christina Español" as text bottom-left (no logo). The **only** change is the red banner: **"Conversación real · A1–A2"** instead of "Historia lenta · A1–A2". Art: Elena alone on the right (new art each week). Set it in `config.json → thumbnail`.
+**Thumbnail** = **identical to that Sunday's thumbnail**, same title (e.g. "Mi semana en / Madrid / (My Week in Madrid)"), the Spain/UK badge top-right and "Señorita Christina Español" as text bottom-left (no logo). The **only** change is the red banner: **"Conversación real · A1–A2"** instead of "Historia lenta · A1–A2". Art: Elena alone on the right (new art each week). Set it in `config.json → thumbnail`. **EP04–06 (Marina) style:** stacked white serif title (Fraunces Black, dark outline) in 3 lines, e.g. "Mi primera clase / de cocina / española", sans channel name. Set `thumbnail.lines`, `title_fill`, `name_font: "sans"` in `config.json`.
 
 **File name rule.** Final video: `Senorita-SUNDAY-Conversation-EPxx.mp4` (EP number = the Sunday episode), set as `slug` in `config.json`. Captions use the same name with `.srt`.
 

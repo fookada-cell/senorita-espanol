@@ -137,10 +137,24 @@
   "Laura": "F85f2z6OiMoDXtGx8TxR"
  },
  "thumbnail": {
-  "line1": "Mi primera clase de",
-  "line2": "cocina española",
+  "lines": [
+   [
+    "Mi primera clase",
+    80
+   ],
+   [
+    "de cocina",
+    80
+   ],
+   [
+    "española",
+    150
+   ]
+  ],
   "sub": "(My First Spanish Cooking Class)",
   "banner": "Conversación real · A1–A2",
+  "title_fill": "white",
+  "name_font": "sans",
   "show_logo": false
  },
  "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",

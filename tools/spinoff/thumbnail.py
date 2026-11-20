@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WEEK = os.path.abspath(sys.argv[1]); T = json.load(open(f"{WEEK}/config.json", encoding="utf-8"))["thumbnail"]
 ART, OUT = f"{WEEK}/scenes/thumb-art.jpg", f"{WEEK}/thumbnail.jpg"
-LINE1, LINE2, SUB, BANNER = T["line1"], T["line2"], T["sub"], T["banner"]
+LINE1, LINE2, SUB, BANNER = T.get("line1"), T.get("line2"), T["sub"], T["banner"]
 W, H = 1280, 720
 F = f"{REPO}/tools/spinoff/fonts/"
 LOGO = f"{REPO}/content/brand/senorita-christina-logo-transparent.png"
@@ -33,10 +33,20 @@ def fit(t, maker, start, maxw):
     s = start
     while ImageDraw.Draw(im).textlength(t, font=maker(s)) > maxw and s > 20: s -= 2
     return maker(s)
-f1 = fit(LINE1, abril, 84, 700); f2 = fit(LINE2, abril, 196, 720)
-txt((40, 18), LINE1, f1)
-txt((36, 105), LINE2, f2, sw=8)
-txt((46, 322), SUB, fit(SUB, mont, 34, 700), sw=5)
+def fraunces(s):
+    f = ImageFont.truetype(F + "Fraunces[SOFT,WONK,opsz,wght].ttf", s); f.set_variation_by_name("Black"); return f
+if T.get("lines"):   # EP04+ style: stacked white serif lines, dark outline
+    y = 22
+    for text, size in T["lines"]:
+        f = fit(text, fraunces, size, 640)
+        txt((44, y), text, f, fill=(255, 255, 255), stroke=(40, 26, 18), sw=5)
+        y += int(f.size * 0.98)
+    txt((52, y + 6), SUB, fit(SUB, mont, 34, 640), fill=(255, 255, 255), stroke=(40, 26, 18), sw=4)
+else:
+    f1 = fit(LINE1, abril, 84, 700); f2 = fit(LINE2, abril, 196, 720)
+    txt((40, 18), LINE1, f1)
+    txt((36, 105), LINE2, f2, sw=8)
+    txt((46, 322), SUB, fit(SUB, mont, 34, 700), sw=5)
 
 d = ImageDraw.Draw(im)
 d.rectangle([0, 628, W, H], fill=(181, 52, 42))
@@ -49,7 +59,10 @@ if T.get("show_logo"):
     logo = Image.open(LOGO).convert("RGBA"); lh = 118
     logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
     im.alpha_composite(logo, (30, 628 - lh - 8)); nx = 30 + logo.width + 12
-txt((nx, 628 - 52), "Señorita Christina Español", abril(32), sw=4, shadow=False)
+if T.get("name_font") == "sans":
+    txt((nx + 6, 628 - 50), "Señorita Christina Español", mont(28, "SemiBold"), fill=(255, 255, 255), stroke=(40, 26, 18), sw=3, shadow=False)
+else:
+    txt((nx, 628 - 52), "Señorita Christina Español", abril(32), sw=4, shadow=False)
 
 # Spain / UK badge: Spain lower-left, UK upper-right, white ring
 R = 62; cx, cy = W - 90, 92; S2 = 8 * R

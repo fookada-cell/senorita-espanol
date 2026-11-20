@@ -99,7 +99,7 @@ Every conversation reuses words from the Sunday story, shown in **bold**, and it
 
 # Images
 
-**Marina's references:** attach her approved reference `Senorita-SUNDAY-EP04-Cocina-scene-03-Marina-cooking-class-character-test-fair-skin-v2.png` (and any approved EP04 scene showing her) to **every** image. The master block below is **reconstructed from the identity notes** (27, warm peach-ivory skin, green eyes, espresso-brown mid ponytail, mustard bag); please replace it with Marina's locked master prompt if you have one.
+**Marina's references:** `style-refs/OFFICIAL-Marina-kitchen-ref.png` and `style-refs/OFFICIAL-EP04-Sunday-thumbnail.png` (from the main EP04–06 videos). Attach **both** to every image. The prompts now describe her as in these images: long wavy espresso-brown hair in a loose ponytail over one shoulder, rust-red shirt, cream linen apron, silver hoops and bracelet, mustard canvas tote. ⚠️ The identity notes said *green eyes*; in these images they look warm brown/olive, so the prompt says *"eyes exactly as in the references"*.
 **Teacher and Laura:** they already appear in the main video, so attach those main-video scenes to their sheets, and they'll match.
 **All characters stand** in every scene (no sitting at tables), so the bubbles fit on their chests.
 **12 images:** 2 character sheets, 8 scenes and the thumbnail art. Ready-to-paste prompts: `GEMINI_PROMPTS_READY.txt`.
