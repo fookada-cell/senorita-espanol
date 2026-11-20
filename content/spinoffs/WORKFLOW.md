@@ -46,7 +46,7 @@
 | Camarera (20s woman) | Violeta | `jQvo2VZEqNV6YXEBghzl` |
 For new characters, pick a **Peninsular** voice of the right age and gender from the owner's ElevenLabs library (check the labels via the API). **Always level the volume.** Raw ElevenLabs voices differ by up to 12 dB.
 
-**Narrator (host lines).** From EP02 on, the intro, the four conversation titles, "Ahora, escucha y repite" and the closing are read **in Peninsular Spanish** by **Alex – Smooth, Professional and Pleasant** (`7ilYbYb99yBZGMUUKSaf`, speed 0.9). No English. Set in `config.json` (`narrator_voice`, `narration_language: "es"`). EP01 used Daniel (English).
+**Narrator (host lines).** The intro, the four conversation titles, "Now... listen and repeat!" and the closing are read **in English by Daniel – Calm, Polished and Direct** (`ZMK5OD2jmsdse3EKE4W5`), the same host as the Sunday videos, but **energetic**: model **`eleven_v4`**, stability **0.0**, similarity 0.75, normal speed (no slowing), with emotion tags in the text, e.g. `[excited] Welcome! [cheerfully] Today, practise real conversations from … ! [warmly] First listen... then repeat each line.` · `[cheerfully] Conversation one: at …!` · `[warmly] Now... listen and repeat!` · `[excited] Well done! [warmly] See you next week!` Set in `config.json` (`narrator_voice`, `narrator_model`, `narrator_settings`, `narration_language: null`). Approved by the owner on 20 Nov 2026 (EP02). EP01 keeps its earlier Daniel version.
 
 **Per-character speed.** Default 0.7. If a voice sounds too slow, raise only that character with `config.json → voice_speeds` (e.g. EP02 Dependienta = 0.9).
 
