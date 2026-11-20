@@ -256,7 +256,8 @@ def frame_at(tt, idx=[0]):
         cxs, cys = img2scr(*spot["at" + ev["sp"]])
         bx = int(min(max(cxs - bw / 2, 40), WID - bw - 40)) - 20
         by = int(min(max(cys - bh / 2, 100), HEI - bh - 100)) - 20
-        fr = tail(fr, (bx + 20, by + 20, bx + 20 + bw, by + 20 + bh), img2scr(*spot[ev["sp"]]), a)
+        if CFG.get("bubble_tail", False):
+            fr = tail(fr, (bx + 20, by + 20, bx + 20 + bw, by + 20 + bh), img2scr(*spot[ev["sp"]]), a)
         bb = b if s == 1 else b.resize((max(1, int(b.width * s)), max(1, int(b.height * s))), Image.BILINEAR)
         if a < 1:
             bb = bb.copy(); bb.putalpha(bb.getchannel("A").point(lambda v: int(v * a)))

@@ -34,7 +34,7 @@
 
 **Scene layout.** Elena LEFT, partner RIGHT, facing each other, faces in the upper half. No text in the images; the assistant adds all text.
 
-**Bubbles.** Small cream bubble (about 1/3 of the first version), **no name labels**. It sits on the **speaker's chest**, never over a face, with a short tail up to the mouth. It pops in when the line starts.
+**Bubbles.** Small cream bubble, **no name labels and no tail/pointer** (owner decision 20 Nov 2026, from EP03 on). It sits on the **speaker's chest**, never over a face, and pops in when the line starts. (`bubble_tail: true` in `config.json` would bring the pointer back; EP01–EP02 were made with it.)
 
 **Voices (ElevenLabs, all Peninsular Spanish, `eleven_multilingual_v2`, speed 0.7).**
 | Role | Voice | ID |
