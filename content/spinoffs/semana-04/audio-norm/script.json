@@ -1,0 +1,388 @@
+{
+ "convs": [
+  {
+   "title": "1 · Llegada a la clase (sábado, 10:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Marina",
+     "es": "Hola, buenos días. ¿Es aquí la clase de cocina?",
+     "en": "Hi, good morning. Is the cooking class here?",
+     "audio": "c1_01_Marina.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Profesora",
+     "es": "¡Sí! Bienvenida. ¿Cómo te llamas?",
+     "en": "Yes! Welcome. What's your name?",
+     "audio": "c1_02_Profesora.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Marina",
+     "es": "Me llamo Marina. Es mi primera clase.",
+     "en": "My name is Marina. It's my first class.",
+     "audio": "c1_03_Marina.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Profesora",
+     "es": "Encantada, Marina. ¿Estás nerviosa?",
+     "en": "Nice to meet you, Marina. Are you nervous?",
+     "audio": "c1_04_Profesora.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Marina",
+     "es": "Un poco nerviosa, pero también contenta.",
+     "en": "A little nervous, but also happy.",
+     "audio": "c1_05_Marina.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Profesora",
+     "es": "Tranquila. Hoy preparamos una tortilla de patatas.",
+     "en": "Don't worry. Today we're making a Spanish omelette.",
+     "audio": "c1_06_Profesora.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Marina",
+     "es": "¡Qué bien! ¿Qué necesitamos?",
+     "en": "Great! What do we need?",
+     "audio": "c1_07_Marina.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Profesora",
+     "es": "Huevos, patatas, cebolla y aceite de oliva.",
+     "en": "Eggs, potatoes, onion and olive oil.",
+     "audio": "c1_08_Profesora.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Marina",
+     "es": "Vale. ¿Dónde dejo mi bolsa?",
+     "en": "OK. Where do I leave my bag?",
+     "audio": "c1_09_Marina.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Profesora",
+     "es": "Aquí, en la silla. Y ponte este delantal blanco.",
+     "en": "Here, on the chair. And put on this white apron.",
+     "audio": "c1_10_Profesora.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Marina",
+     "es": "Gracias. ¿Me lavo las manos primero?",
+     "en": "Thanks. Do I wash my hands first?",
+     "audio": "c1_11_Marina.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Profesora",
+     "es": "Sí, con agua y jabón. Muy bien.",
+     "en": "Yes, with soap and water. Very good.",
+     "audio": "c1_12_Profesora.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Marina",
+     "es": "¡Vale, empiezo!",
+     "en": "OK, I'm starting!",
+     "audio": "c1_13_Marina.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · Con Laura (las patatas se cocinan)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Laura",
+     "es": "Hola, me llamo Laura. ¿Eres nueva?",
+     "en": "Hi, my name is Laura. Are you new?",
+     "audio": "c2_01_Laura.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "Sí, hola. Soy Marina. ¿Y tú?",
+     "en": "Yes, hi. I'm Marina. And you?",
+     "audio": "c2_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Laura",
+     "es": "Yo también soy nueva en la clase.",
+     "en": "I'm new in the class too.",
+     "audio": "c2_03_Laura.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "¡Qué bien! Ya no estoy tan nerviosa.",
+     "en": "Great! I'm not so nervous now.",
+     "audio": "c2_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Laura",
+     "es": "¡Mmm! Todo huele bien.",
+     "en": "Mmm! Everything smells good.",
+     "audio": "c2_05_Laura.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Sí. Las patatas se cocinan despacio.",
+     "en": "Yes. The potatoes are cooking slowly.",
+     "audio": "c2_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Laura",
+     "es": "¿Cortas tú la cebolla?",
+     "en": "Will you cut the onion?",
+     "audio": "c2_07_Laura.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "Vale. La corto despacio, con cuidado.",
+     "en": "OK. I'll cut it slowly, carefully.",
+     "audio": "c2_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Laura",
+     "es": "Yo bato los huevos en el bol.",
+     "en": "I'll beat the eggs in the bowl.",
+     "audio": "c2_09_Laura.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "Perfecto. ¿Cocinas mucho en casa?",
+     "en": "Perfect. Do you cook a lot at home?",
+     "audio": "c2_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Laura",
+     "es": "No mucho. Por eso quiero aprender.",
+     "en": "Not much. That's why I want to learn.",
+     "audio": "c2_11_Laura.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "Yo también. ¡Tengo curiosidad!",
+     "en": "Me too. I'm curious!",
+     "audio": "c2_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Laura",
+     "es": "¡Pues a cocinar!",
+     "en": "Well then, let's cook!",
+     "audio": "c2_13_Laura.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · Dar la vuelta (¡menudo lío!)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Profesora",
+     "es": "Ahora, con cuidado. Coge un plato grande.",
+     "en": "Now, carefully. Take a large plate.",
+     "audio": "c3_01_Profesora.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "¿Este plato?",
+     "en": "This plate?",
+     "audio": "c3_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Profesora",
+     "es": "Sí. Ponlo sobre la sartén.",
+     "en": "Yes. Put it over the frying pan.",
+     "audio": "c3_03_Profesora.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "Vale. ¿Y ahora?",
+     "en": "OK. And now?",
+     "audio": "c3_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Profesora",
+     "es": "Ahora, dale la vuelta. ¡Rápido!",
+     "en": "Now, flip it over. Quickly!",
+     "audio": "c3_05_Profesora.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "¡Ay! Un trozo se separa. ¡Menudo lío!",
+     "en": "Oh! A piece is breaking off. What a mess!",
+     "audio": "c3_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Profesora",
+     "es": "No pasa nada. Es normal la primera vez.",
+     "en": "It doesn't matter. It's normal the first time.",
+     "audio": "c3_07_Profesora.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "¿Qué hago ahora?",
+     "en": "What do I do now?",
+     "audio": "c3_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Profesora",
+     "es": "Pon la tortilla otra vez en la sartén.",
+     "en": "Put the omelette back in the frying pan.",
+     "audio": "c3_09_Profesora.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "¿Cocinamos un poco más?",
+     "en": "Shall we cook it a little more?",
+     "audio": "c3_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Profesora",
+     "es": "Sí. Mira, ya está dorada.",
+     "en": "Yes. Look, it's golden now.",
+     "audio": "c3_11_Profesora.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "No es redonda, pero está hecha.",
+     "en": "It's not round, but it's cooked.",
+     "audio": "c3_12_Marina.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · En la mesa larga",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Laura",
+     "es": "¡Por fin! Vamos a probar la tortilla.",
+     "en": "At last! Let's try the omelette.",
+     "audio": "c4_01_Laura.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "Sí. Pruebo un trozo… ¡Está de muerte!",
+     "en": "Yes. I'll try a piece… It's amazing!",
+     "audio": "c4_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Laura",
+     "es": "¡Es verdad! Está caliente y muy rica.",
+     "en": "It's true! It's hot and very tasty.",
+     "audio": "c4_03_Laura.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "No es perfecta, ¡pero está buenísima!",
+     "en": "It isn't perfect, but it's delicious!",
+     "audio": "c4_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Laura",
+     "es": "Cocinar con amigos es muy bonito.",
+     "en": "Cooking with friends is lovely.",
+     "audio": "c4_05_Laura.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Sí. Me siento bien aquí.",
+     "en": "Yes. I feel good here.",
+     "audio": "c4_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Laura",
+     "es": "¿Qué escribes en el cuaderno?",
+     "en": "What are you writing in your notebook?",
+     "audio": "c4_07_Laura.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "Apunto las palabras nuevas: sartén, bol, delantal…",
+     "en": "I'm noting down the new words: frying pan, bowl, apron…",
+     "audio": "c4_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Laura",
+     "es": "¡Buena idea! ¿Vienes a otra clase?",
+     "en": "Good idea! Are you coming to another class?",
+     "audio": "c4_09_Laura.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "¡Claro! Quiero otra clase.",
+     "en": "Of course! I want another class.",
+     "audio": "c4_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Laura",
+     "es": "Yo también. Pues… ¡hasta pronto, Marina!",
+     "en": "Me too. Well… see you soon, Marina!",
+     "audio": "c4_11_Laura.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "¡Hasta pronto, Laura!",
+     "en": "See you soon, Laura!",
+     "audio": "c4_12_Marina.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's first Spanish cooking class! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: arriving at the class!",
+  "c2": "[cheerfully] Conversation two: with Laura!",
+  "c3": "[cheerfully] Conversation three: flip the omelette!",
+  "c4": "[cheerfully] Conversation four: at the long table!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Profesora": "Ugu6b5thG2v8TpHWKQhs",
+  "Laura": "F85f2z6OiMoDXtGx8TxR"
+ }
+}
