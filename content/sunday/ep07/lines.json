@@ -1,0 +1,710 @@
+{
+ "M001": {
+  "voice": "en",
+  "text": "Welcome! This series follows Mateo, who tries something for the first time in Spain. Today: driving in Madrid. Listen first with Spanish subtitles."
+ },
+ "M002": {
+  "voice": "en",
+  "text": "Now listen again. Each Spanish line is followed by its English translation."
+ },
+ "M003": {
+  "voice": "en",
+  "text": "Now listen one last time, without story subtitles."
+ },
+ "F001": {
+  "voice": "es",
+  "text": "Es domingo por la mañana en Madrid."
+ },
+ "M011": {
+  "voice": "en",
+  "text": "It is Sunday morning in Madrid."
+ },
+ "F002": {
+  "voice": "es",
+  "text": "Hoy hago algo nuevo: voy a conducir en la ciudad."
+ },
+ "M012": {
+  "voice": "en",
+  "text": "Today I do something new: I am going to drive in the city."
+ },
+ "F003": {
+  "voice": "es",
+  "text": "Nunca he conducido en Madrid."
+ },
+ "M013": {
+  "voice": "en",
+  "text": "I have never driven in Madrid."
+ },
+ "F004": {
+  "voice": "es",
+  "text": "Hace sol, pero hace fresquito."
+ },
+ "M014": {
+  "voice": "en",
+  "text": "It is sunny, but it is cool."
+ },
+ "F005": {
+  "voice": "es",
+  "text": "Tomo un café con leche en la cocina y respiro hondo."
+ },
+ "M015": {
+  "voice": "en",
+  "text": "I have a coffee with milk in the kitchen and take a deep breath."
+ },
+ "F006": {
+  "voice": "es",
+  "text": "Voy a la oficina de alquiler de coches cerca de la estación de Atocha."
+ },
+ "M016": {
+  "voice": "en",
+  "text": "I go to the car rental office near Atocha station."
+ },
+ "F007": {
+  "voice": "es",
+  "text": "El empleado me da las llaves de un coche pequeño, blanco."
+ },
+ "M017": {
+  "voice": "en",
+  "text": "The clerk gives me the keys to a small white car."
+ },
+ "F008": {
+  "voice": "es",
+  "text": "Me explica: «Cuidado con la zona de bajas emisiones»."
+ },
+ "M018": {
+  "voice": "en",
+  "text": "He explains: \"Be careful with the low-emission zone.\""
+ },
+ "F009": {
+  "voice": "es",
+  "text": "Digo: «Perfecto, gracias», pero tengo las manos frías."
+ },
+ "M019": {
+  "voice": "en",
+  "text": "I say: \"Perfect, thanks,\" but my hands are cold."
+ },
+ "F010": {
+  "voice": "es",
+  "text": "Subo al coche y me pongo el cinturón."
+ },
+ "M020": {
+  "voice": "en",
+  "text": "I get into the car and fasten my seatbelt."
+ },
+ "F011": {
+  "voice": "es",
+  "text": "Ajusto el espejo y miro el GPS del móvil."
+ },
+ "M021": {
+  "voice": "en",
+  "text": "I adjust the mirror and look at the GPS on my phone."
+ },
+ "F012": {
+  "voice": "es",
+  "text": "El destino es la casa de mi amiga Carmen, en Chamartín."
+ },
+ "M022": {
+  "voice": "en",
+  "text": "The destination is my friend Carmen's home, in Chamartín."
+ },
+ "F013": {
+  "voice": "es",
+  "text": "Arranco despacio y salgo del aparcamiento."
+ },
+ "M023": {
+  "voice": "en",
+  "text": "I start slowly and leave the car park."
+ },
+ "F014": {
+  "voice": "es",
+  "text": "Un taxi toca el claxon detrás de mí."
+ },
+ "M024": {
+  "voice": "en",
+  "text": "A taxi honks behind me."
+ },
+ "F015": {
+  "voice": "es",
+  "text": "Respiro hondo otra vez y sigo recto."
+ },
+ "M025": {
+  "voice": "en",
+  "text": "I take another deep breath and keep going straight."
+ },
+ "F016": {
+  "voice": "es",
+  "text": "Estoy en el Paseo del Prado, con muchos coches alrededor."
+ },
+ "M026": {
+  "voice": "en",
+  "text": "I am on the Paseo del Prado, with many cars around me."
+ },
+ "F017": {
+  "voice": "es",
+  "text": "Hay una glorieta grande y no sé qué carril coger."
+ },
+ "M027": {
+  "voice": "en",
+  "text": "There is a big roundabout and I don't know which lane to take."
+ },
+ "F018": {
+  "voice": "es",
+  "text": "El GPS dice: «En cien metros, gire a la derecha»."
+ },
+ "M028": {
+  "voice": "en",
+  "text": "The GPS says: \"In one hundred metres, turn right.\""
+ },
+ "F019": {
+  "voice": "es",
+  "text": "Me equivoco de carril, pero nadie pita mucho."
+ },
+ "M029": {
+  "voice": "en",
+  "text": "I take the wrong lane, but nobody honks much."
+ },
+ "F020": {
+  "voice": "es",
+  "text": "Un motorista me adelanta y me saluda con la mano."
+ },
+ "M030": {
+  "voice": "en",
+  "text": "A motorcyclist overtakes me and waves at me."
+ },
+ "F021": {
+  "voice": "es",
+  "text": "Llego a la plaza de Cibeles y veo la fuente con la diosa."
+ },
+ "M031": {
+  "voice": "en",
+  "text": "I arrive at Cibeles square and see the fountain with the goddess."
+ },
+ "F022": {
+  "voice": "es",
+  "text": "Hay peatones que cruzan por todas partes."
+ },
+ "M032": {
+  "voice": "en",
+  "text": "Pedestrians cross everywhere."
+ },
+ "F023": {
+  "voice": "es",
+  "text": "Un semáforo se pone rojo y freno de golpe."
+ },
+ "M033": {
+  "voice": "en",
+  "text": "A traffic light turns red and I brake suddenly."
+ },
+ "F024": {
+  "voice": "es",
+  "text": "El coche se para un momento, y mi corazón también."
+ },
+ "M034": {
+  "voice": "en",
+  "text": "The car stops for a moment, and so does my heart."
+ },
+ "F025": {
+  "voice": "es",
+  "text": "Vuelvo a arrancar y miro el reloj: solo han pasado diez minutos."
+ },
+ "M035": {
+  "voice": "en",
+  "text": "I start again and look at the clock: only ten minutes have passed."
+ },
+ "F026": {
+  "voice": "es",
+  "text": "Entro en el Paseo de la Castellana, una avenida muy ancha."
+ },
+ "M036": {
+  "voice": "en",
+  "text": "I enter the Paseo de la Castellana, a very wide avenue."
+ },
+ "F027": {
+  "voice": "es",
+  "text": "Los coches van rápido, pero la calle está despejada."
+ },
+ "M037": {
+  "voice": "en",
+  "text": "The cars go fast, but the road is clear."
+ },
+ "F028": {
+  "voice": "es",
+  "text": "Cambio de marcha y me siento un poco más seguro."
+ },
+ "M038": {
+  "voice": "en",
+  "text": "I change gear and feel a little more confident."
+ },
+ "F029": {
+  "voice": "es",
+  "text": "El sol entra por el parabrisas y me calienta las manos."
+ },
+ "M039": {
+  "voice": "en",
+  "text": "The sun comes through the windscreen and warms my hands."
+ },
+ "F030": {
+  "voice": "es",
+  "text": "Por primera vez pienso: puedo hacerlo."
+ },
+ "M040": {
+  "voice": "en",
+  "text": "For the first time I think: I can do it."
+ },
+ "F031": {
+  "voice": "es",
+  "text": "Llego a la calle de Carmen, pero no hay sitio para aparcar."
+ },
+ "M041": {
+  "voice": "en",
+  "text": "I arrive at Carmen's street, but there is no space to park."
+ },
+ "F032": {
+  "voice": "es",
+  "text": "Doy una vuelta a la manzana y paso otra vez por la misma calle."
+ },
+ "M042": {
+  "voice": "en",
+  "text": "I go around the block and pass the same street again."
+ },
+ "F033": {
+  "voice": "es",
+  "text": "Carmen me escribe un mensaje: «Aparca en el parking de la esquina»."
+ },
+ "M043": {
+  "voice": "en",
+  "text": "Carmen sends me a message: \"Park in the car park on the corner.\""
+ },
+ "F034": {
+  "voice": "es",
+  "text": "Bajo por la rampa del parking, con cuidado, y busco una plaza."
+ },
+ "M044": {
+  "voice": "en",
+  "text": "I go down the car park ramp carefully and look for a space."
+ },
+ "F035": {
+  "voice": "es",
+  "text": "Encuentro una plaza libre y aparco, un poco torcido."
+ },
+ "M045": {
+  "voice": "en",
+  "text": "I find a free space and park, a bit crooked."
+ },
+ "F036": {
+  "voice": "es",
+  "text": "Salgo del coche y veo a Carmen en la puerta de su portal."
+ },
+ "M046": {
+  "voice": "en",
+  "text": "I get out of the car and see Carmen at the door of her building."
+ },
+ "F037": {
+  "voice": "es",
+  "text": "Ella aplaude y dice: «¡Mateo, lo has conseguido!»."
+ },
+ "M047": {
+  "voice": "en",
+  "text": "She claps and says: \"Mateo, you did it!\""
+ },
+ "F038": {
+  "voice": "es",
+  "text": "Yo me río y digo: «Ha sido una aventura»."
+ },
+ "M048": {
+  "voice": "en",
+  "text": "I laugh and say: \"It has been an adventure.\""
+ },
+ "F039": {
+  "voice": "es",
+  "text": "Subimos a su piso y comemos en la cocina."
+ },
+ "M049": {
+  "voice": "en",
+  "text": "We go up to her flat and eat in the kitchen."
+ },
+ "F040": {
+  "voice": "es",
+  "text": "Carmen me pregunta: «¿Qué sientes ahora?»."
+ },
+ "M050": {
+  "voice": "en",
+  "text": "Carmen asks me: \"What do you feel now?\""
+ },
+ "F041": {
+  "voice": "es",
+  "text": "Por la tarde tengo que volver al centro para devolver el coche."
+ },
+ "M051": {
+  "voice": "en",
+  "text": "In the afternoon I have to go back to the centre to return the car."
+ },
+ "F042": {
+  "voice": "es",
+  "text": "Carmen me dice: «Tranqui, Mateo, es solo Madrid»."
+ },
+ "M052": {
+  "voice": "en",
+  "text": "Carmen tells me: \"Chill, Mateo, it's just Madrid.\""
+ },
+ "F043": {
+  "voice": "es",
+  "text": "Respiro y pongo la radio."
+ },
+ "M053": {
+  "voice": "en",
+  "text": "I breathe and turn on the radio."
+ },
+ "F044": {
+  "voice": "es",
+  "text": "Conduzco despacio por la calle Serrano y miro los escaparates."
+ },
+ "M054": {
+  "voice": "en",
+  "text": "I drive slowly down Calle Serrano and look at the shop windows."
+ },
+ "F045": {
+  "voice": "es",
+  "text": "Carmen se ríe: «¡Vaya tela, qué bien conduces!»."
+ },
+ "M055": {
+  "voice": "en",
+  "text": "Carmen laughs: \"Wow, you drive so well!\""
+ },
+ "F046": {
+  "voice": "es",
+  "text": "Llego a la oficina de alquiler, cerca de Atocha, al atardecer."
+ },
+ "M056": {
+  "voice": "en",
+  "text": "I arrive at the rental office near Atocha at sunset."
+ },
+ "F047": {
+  "voice": "es",
+  "text": "El cielo está naranja y las luces de la ciudad se encienden."
+ },
+ "M057": {
+  "voice": "en",
+  "text": "The sky is orange and the city lights come on."
+ },
+ "F048": {
+  "voice": "es",
+  "text": "Aparco en la zona de devolución y apago el motor."
+ },
+ "M058": {
+  "voice": "en",
+  "text": "I park in the return area and switch off the engine."
+ },
+ "F049": {
+  "voice": "es",
+  "text": "Doy las llaves al empleado, que sonríe."
+ },
+ "M059": {
+  "voice": "en",
+  "text": "I hand the keys to the clerk, who smiles."
+ },
+ "F050": {
+  "voice": "es",
+  "text": "Él pregunta: «¿Primera vez conduciendo en Madrid?»."
+ },
+ "M060": {
+  "voice": "en",
+  "text": "He asks: \"First time driving in Madrid?\""
+ },
+ "F051": {
+  "voice": "es",
+  "text": "Le digo: «Sí, es mi primera vez, y ha sido difícil»."
+ },
+ "M061": {
+  "voice": "en",
+  "text": "I say: \"Yes, it's my first time, and it has been hard.\""
+ },
+ "F052": {
+  "voice": "es",
+  "text": "Hace cinco años dejé mi trabajo de oficina."
+ },
+ "M062": {
+  "voice": "en",
+  "text": "Five years ago I left my office job."
+ },
+ "F053": {
+  "voice": "es",
+  "text": "Desde entonces pruebo cosas nuevas por el mundo."
+ },
+ "M063": {
+  "voice": "en",
+  "text": "Since then I have been trying new things around the world."
+ },
+ "F054": {
+  "voice": "es",
+  "text": "Hoy conducir en Madrid es una de ellas."
+ },
+ "M064": {
+  "voice": "en",
+  "text": "Today, driving in Madrid is one of them."
+ },
+ "F055": {
+  "voice": "es",
+  "text": "Salgo caminando con una sonrisa."
+ },
+ "M065": {
+  "voice": "en",
+  "text": "I walk out with a smile."
+ },
+ "F056": {
+  "voice": "es",
+  "text": "Cojo el metro y pienso en mi próxima aventura."
+ },
+ "M066": {
+  "voice": "en",
+  "text": "I take the metro and think about my next adventure."
+ },
+ "F057": {
+  "voice": "es",
+  "text": "Hoy aprendo que el miedo es normal al empezar algo nuevo."
+ },
+ "M067": {
+  "voice": "en",
+  "text": "Today I learn that fear is normal when you start something new."
+ },
+ "F058": {
+  "voice": "es",
+  "text": "Conducir en Madrid no está chupado, pero es posible."
+ },
+ "M068": {
+  "voice": "en",
+  "text": "Driving in Madrid is not easy, but it is possible."
+ },
+ "F059": {
+  "voice": "es",
+  "text": "Cada primera vez es una pequeña victoria."
+ },
+ "M069": {
+  "voice": "en",
+  "text": "Every first time is a small victory."
+ },
+ "F060": {
+  "voice": "es",
+  "text": "Gracias por escuchar mi historia."
+ },
+ "M070": {
+  "voice": "en",
+  "text": "Thank you for listening to my story."
+ },
+ "F061": {
+  "voice": "es",
+  "text": "Mañana empieza otra aventura para mí."
+ },
+ "M071": {
+  "voice": "en",
+  "text": "Tomorrow another adventure begins for me."
+ },
+ "M004": {
+  "voice": "en",
+  "text": "Here are three questions. Pause the video and answer out loud. You will have five seconds after each one."
+ },
+ "Q1": {
+  "voice": "es",
+  "text": "¿Dónde alquila Mateo el coche?"
+ },
+ "Q2": {
+  "voice": "es",
+  "text": "¿Adónde va Mateo con el coche?"
+ },
+ "Q3": {
+  "voice": "es",
+  "text": "¿Dónde aparca Mateo cuando llega a la calle de Carmen?"
+ },
+ "M005": {
+  "voice": "en",
+  "text": "Now, sixteen useful words from the story. Spanish first, then English."
+ },
+ "V01": {
+  "voice": "es",
+  "text": "el coche"
+ },
+ "V01e": {
+  "voice": "en",
+  "text": "the car"
+ },
+ "V02": {
+  "voice": "es",
+  "text": "la llave"
+ },
+ "V02e": {
+  "voice": "en",
+  "text": "the key"
+ },
+ "V03": {
+  "voice": "es",
+  "text": "el cinturón"
+ },
+ "V03e": {
+  "voice": "en",
+  "text": "the seatbelt"
+ },
+ "V04": {
+  "voice": "es",
+  "text": "el espejo"
+ },
+ "V04e": {
+  "voice": "en",
+  "text": "the mirror"
+ },
+ "V05": {
+  "voice": "es",
+  "text": "la glorieta"
+ },
+ "V05e": {
+  "voice": "en",
+  "text": "the roundabout"
+ },
+ "V06": {
+  "voice": "es",
+  "text": "el carril"
+ },
+ "V06e": {
+  "voice": "en",
+  "text": "the lane"
+ },
+ "V07": {
+  "voice": "es",
+  "text": "el semáforo"
+ },
+ "V07e": {
+  "voice": "en",
+  "text": "the traffic light"
+ },
+ "V08": {
+  "voice": "es",
+  "text": "el peatón"
+ },
+ "V08e": {
+  "voice": "en",
+  "text": "the pedestrian"
+ },
+ "V09": {
+  "voice": "es",
+  "text": "el claxon"
+ },
+ "V09e": {
+  "voice": "en",
+  "text": "the car horn"
+ },
+ "V10": {
+  "voice": "es",
+  "text": "aparcar"
+ },
+ "V10e": {
+  "voice": "en",
+  "text": "to park"
+ },
+ "V11": {
+  "voice": "es",
+  "text": "el aparcamiento"
+ },
+ "V11e": {
+  "voice": "en",
+  "text": "the car park"
+ },
+ "V12": {
+  "voice": "es",
+  "text": "la rampa"
+ },
+ "V12e": {
+  "voice": "en",
+  "text": "the ramp"
+ },
+ "V13": {
+  "voice": "es",
+  "text": "frenar"
+ },
+ "V13e": {
+  "voice": "en",
+  "text": "to brake"
+ },
+ "V14": {
+  "voice": "es",
+  "text": "devolver"
+ },
+ "V14e": {
+  "voice": "en",
+  "text": "to return something"
+ },
+ "V15": {
+  "voice": "es",
+  "text": "el alquiler"
+ },
+ "V15e": {
+  "voice": "en",
+  "text": "the rental"
+ },
+ "V16": {
+  "voice": "es",
+  "text": "el atardecer"
+ },
+ "V16e": {
+  "voice": "en",
+  "text": "sunset"
+ },
+ "M006": {
+  "voice": "en",
+  "text": "Now, three expressions you will hear in Spain."
+ },
+ "S01": {
+  "voice": "es",
+  "text": "Tranqui."
+ },
+ "S01e": {
+  "voice": "en",
+  "text": "\"Tranqui\" means \"chill, take it easy.\""
+ },
+ "S01x": {
+  "voice": "es",
+  "text": "Carmen me dice: «Tranqui, Mateo, es solo Madrid»."
+ },
+ "S02": {
+  "voice": "es",
+  "text": "¡Vaya tela!"
+ },
+ "S02e": {
+  "voice": "en",
+  "text": "\"¡Vaya tela!\" means \"wow, that's really something,\" said when you're impressed or surprised."
+ },
+ "S02x": {
+  "voice": "es",
+  "text": "Carmen se ríe: «¡Vaya tela, qué bien conduces!»."
+ },
+ "S03": {
+  "voice": "es",
+  "text": "No está chupado."
+ },
+ "S03e": {
+  "voice": "en",
+  "text": "\"No está chupado\" means \"it isn't easy.\""
+ },
+ "S03x": {
+  "voice": "es",
+  "text": "Conducir en Madrid no está chupado, pero es posible."
+ },
+ "M007": {
+  "voice": "en",
+  "text": "That was the story! Here is a quick recap of the three expressions above."
+ },
+ "M008": {
+  "voice": "en",
+  "text": "Thanks for listening. Tell me in the comments: what is something you tried for the first time?"
+ },
+ "M009": {
+  "voice": "en",
+  "text": "Subscribe, so you do not miss Mateo's next adventure."
+ },
+ "M010": {
+  "voice": "en",
+  "text": "Hasta la próxima, and see you next time!"
+ },
+ "F-GB": {
+  "voice": "es",
+  "text": "Hasta la próxima."
+ }
+}
