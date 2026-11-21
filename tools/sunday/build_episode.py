@@ -71,27 +71,30 @@ def subtitle(frame, text, lang):
 
 def center_card(frame, kicker, big, small, tag=None):
     lay = Image.new("RGBA", frame.size, (0, 0, 0, 0)); d = ImageDraw.Draw(lay)
-    d.rounded_rectangle([240, 220, WID - 240, HEI - 220], radius=48, fill=(250, 244, 228, 238))
-    y = 290
-    if kicker:
-        fk = mont(36, "Bold"); kw = d.textlength(kicker, font=fk)
-        d.rounded_rectangle([(WID - kw) / 2 - 28, y, (WID + kw) / 2 + 28, y + 60], radius=30, fill=(181, 52, 42, 255))
-        d.text(((WID - kw) / 2, y + 9), kicker, font=fk, fill=(255, 255, 255)); y += 100
+    top, bot = 220, HEI - 220
+    d.rounded_rectangle([240, top, WID - 240, bot], radius=48, fill=(250, 244, 228, 238))
     size = 96
     while size > 50:
-        fb = serif(size); lines = wrap(d, big, fb, WID - 620)
-        if len(lines) <= 2: break
+        fb = serif(size); blines = wrap(d, big, fb, WID - 620)
+        if len(blines) <= 2: break
         size -= 6
-    for l in lines:
+    fs = mont(44, "Medium"); slines = wrap(d, small, fs, WID - 620)[:3] if small else []
+    fk = mont(36, "Bold")
+    h = (100 if kicker else 0) + len(blines) * int(size * 1.15) + (16 + 58 * len(slines) if slines else 0)
+    y = top + (bot - top - h) // 2
+    if kicker:
+        kw = d.textlength(kicker, font=fk)
+        d.rounded_rectangle([(WID - kw) / 2 - 28, y, (WID + kw) / 2 + 28, y + 60], radius=30, fill=(181, 52, 42, 255))
+        d.text(((WID - kw) / 2, y + 9), kicker, font=fk, fill=(255, 255, 255)); y += 100
+    for l in blines:
         d.text(((WID - d.textlength(l, font=fb)) / 2, y), l, font=fb, fill=(40, 30, 24)); y += int(size * 1.15)
-    if small:
-        fs = mont(44, "Medium")
-        for l in wrap(d, small, fs, WID - 620)[:3]:
-            d.text(((WID - d.textlength(l, font=fs)) / 2, y + 16), l, font=fs, fill=(110, 92, 78)); y += 58
+    y += 16
+    for l in slines:
+        d.text(((WID - d.textlength(l, font=fs)) / 2, y), l, font=fs, fill=(110, 92, 78)); y += 58
     if tag:
         ft = mont(30, "Bold"); tw = d.textlength(tag, font=ft)
-        d.rounded_rectangle([WID - 240 - tw - 90, 250, WID - 270, 304], radius=27, fill=(198, 11, 30, 255))
-        d.text((WID - 240 - tw - 66, 258), tag, font=ft, fill=(255, 196, 0))
+        d.rounded_rectangle([WID - 240 - tw - 90, top + 30, WID - 270, top + 84], radius=27, fill=(198, 11, 30, 255))
+        d.text((WID - 240 - tw - 66, top + 38), tag, font=ft, fill=(255, 196, 0))
     return Image.alpha_composite(frame, lay)
 
 # ---------- audio ----------
