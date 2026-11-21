@@ -165,5 +165,7 @@
   "stability": 0.0,
   "similarity_boost": 0.75
  },
- "main_speaker": "Marina"
+ "main_speaker": "Marina",
+ "dialogue_model": "eleven_v4",
+ "post_tempo": 0.7
 }

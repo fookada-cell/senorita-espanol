@@ -26,6 +26,11 @@ NARR_SETTINGS = CFG.get("narrator_settings") or {"stability": 0.55, "similarity_
 NARR_MODEL = CFG.get("narrator_model", "eleven_multilingual_v2")
 SETTINGS = {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "speed": 0.7}  # 0.7 = slowest ElevenLabs allows
 TARGET_LUFS = -19.0
+# "post" tempo mode (owner choice for EP04, matching the Sunday main videos): generate the dialogue with
+# DIALOGUE_MODEL at normal speed, then slow it with ffmpeg atempo (pitch preserved) as a separate step.
+POST_TEMPO = CFG.get("post_tempo")              # e.g. 0.7; None = use ElevenLabs speed setting instead
+DIALOGUE_MODEL = CFG.get("dialogue_model", "eleven_multilingual_v2")
+if POST_TEMPO: SETTINGS = dict(SETTINGS, speed=1.0)
 
 # --- parse the four dialogue tables ---
 text = open(f"{WEEK}/PRODUCTION_PACK.md", encoding="utf-8").read()
@@ -67,9 +72,14 @@ def lufs(path):
                          capture_output=True, text=True).stderr
     return float(re.search(r'"input_i" : "(-?[\d.]+)"', out).group(1))
 
-def level(src, dst):
-    """Two passes: loudnorm, then an exact gain correction so every line lands at TARGET_LUFS."""
+def level(src, dst, tempo=None):
+    """Optional slow-down (own step: atempo chained with loudnorm can output silence), then loudnorm,
+    then an exact gain correction so every line lands at TARGET_LUFS."""
     tmp = dst + ".tmp.mp3"
+    if tempo:
+        slow = dst + ".slow.wav"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src, "-af", f"atempo={tempo}", "-ar", "44100", slow], check=True)
+        src = slow
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src, "-af",
                     f"adelay=300|300,loudnorm=I={TARGET_LUFS}:TP=-1.5:LRA=11,atrim=start=0.3,asetpts=PTS-STARTPTS",
                     "-ar", "44100", "-b:a", "192k", tmp], check=True)
@@ -77,20 +87,25 @@ def level(src, dst):
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", tmp, "-af", f"volume={gain:.2f}dB,alimiter=limit=0.89",
                     "-ar", "44100", "-b:a", "192k", dst], check=True)
     os.remove(tmp)
+    if tempo: os.remove(src)
 
 chars = 0
-jobs = [(NARRATOR, t, f"n_{k}.mp3", None, None, NARR_LANG, NARR_SETTINGS, NARR_MODEL) for k, t in NARR.items()]
+jobs = [(NARRATOR, t, f"n_{k}.mp3", None, None, NARR_LANG, NARR_SETTINGS, NARR_MODEL, None) for k, t in NARR.items()]
 for ci, c in enumerate(convs, 1):
     L = c["lines"]
     for i, l in enumerate(L):
         name = f"c{ci}_{l['n']:02d}_{l['who']}.mp3"; l["audio"] = name
         sp = CFG.get("voice_speeds", {}).get(l["who"])
-        st = dict(SETTINGS, speed=sp) if sp else None
-        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, "es", st, "eleven_multilingual_v2"))
-for voice, t, name, prev, nxt, lang, st, model in jobs:
+        if POST_TEMPO:   # per-voice override = its own post tempo
+            st, tempo = None, (sp or POST_TEMPO)
+        else:
+            st, tempo = (dict(SETTINGS, speed=sp) if sp else None), None
+        lang = None if DIALOGUE_MODEL.startswith("eleven_v") else "es"
+        jobs.append((VOICES[l["who"]], l["es"], name, L[i - 1]["es"] if i else None, L[i + 1]["es"] if i + 1 < len(L) else None, lang, st, DIALOGUE_MODEL, tempo))
+for voice, t, name, prev, nxt, lang, st, model, tempo in jobs:
     status = tts(voice, t, f"{RAW}/{name}", prev, nxt, lang, st, model)
     if status == "ok": chars += len(t)
-    level(f"{RAW}/{name}", f"{NORM}/{name}")
+    level(f"{RAW}/{name}", f"{NORM}/{name}", tempo)
     print(name, status)
 json.dump(dict(convs=convs, narr=NARR, voices=VOICES), open(f"{NORM}/script.json", "w", encoding="utf-8"),
           ensure_ascii=False, indent=1)

@@ -48,6 +48,8 @@ For new characters, pick a **Peninsular** voice of the right age and gender from
 
 **Narrator (host lines).** The intro, the four conversation titles, "Now... listen and repeat!" and the closing are read **in English by Daniel – Calm, Polished and Direct** (`ZMK5OD2jmsdse3EKE4W5`), the same host as the Sunday videos, but **energetic**: model **`eleven_v4`**, stability **0.0**, similarity 0.75, normal speed (no slowing), with emotion tags in the text, e.g. `[excited] Welcome! [cheerfully] Today, practise real conversations from … ! [warmly] First listen... then repeat each line.` · `[cheerfully] Conversation one: at …!` · `[warmly] Now... listen and repeat!` · `[excited] Well done! [warmly] See you next week!` Set in `config.json` (`narrator_voice`, `narrator_model`, `narrator_settings`, `narration_language: null`). Approved by the owner on 20 Nov 2026 (EP02). EP01 keeps its earlier Daniel version.
 
+**Dialogue speed method (EP04 on, owner choice 21 Nov 2026).** Like the Sunday main videos: dialogue generated with **`eleven_v4` at normal speed**, then **slowed to 0.7× with pitch preserved** (ffmpeg atempo, as a separate step before levelling). Set `dialogue_model: "eleven_v4"`, `post_tempo: 0.7` in `config.json`. EP01–EP03 used the ElevenLabs speed setting 0.7.
+
 **Per-character speed.** Default 0.7. If a voice sounds too slow, raise only that character with `config.json → voice_speeds` (e.g. EP02 Dependienta = 0.9).
 
 **On screen.** A top-left pill shows "Conversación N · Place", a top-right pill shows the round, and the line counter (e.g. "10 / 14") sits bottom-left. The **channel logo** sits bottom-right, stays still, and does a 1.4 s coin-flip spin every 20 s (`content/brand/senorita-christina-logo-transparent.png`).
