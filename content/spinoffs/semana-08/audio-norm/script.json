@@ -1,0 +1,403 @@
+{
+ "convs": [
+  {
+   "title": "1 · En el taller",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Ines",
+     "es": "¡Hola, Mateo! Bienvenido al taller.",
+     "en": "Hi, Mateo! Welcome to the studio.",
+     "audio": "c1_01_Ines.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Gracias, Inés. Estoy un poco nervioso.",
+     "en": "Thanks, Inés. I'm a bit nervous.",
+     "audio": "c1_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Ines",
+     "es": "Tranquilo. Toma, ponte este delantal.",
+     "en": "Relax. Here, put on this apron.",
+     "audio": "c1_03_Ines.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "¿Para qué es?",
+     "en": "What is it for?",
+     "audio": "c1_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Ines",
+     "es": "Para no mancharte la camisa con la pintura.",
+     "en": "So you don't get paint on your shirt.",
+     "audio": "c1_05_Ines.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "¡Buena idea! ¿Dónde me pongo?",
+     "en": "Good idea! Where do I stand?",
+     "audio": "c1_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Ines",
+     "es": "Aquí, delante de este caballete.",
+     "en": "Here, in front of this easel.",
+     "audio": "c1_07_Ines.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "¿Me puede ayudar? No sé por dónde empezar.",
+     "en": "Can you help me? I don't know where to start.",
+     "audio": "c1_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Ines",
+     "es": "Claro. Coge el pincel así, con suavidad.",
+     "en": "Of course. Hold the brush like this, gently.",
+     "audio": "c1_09_Ines.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "¿Así? ¿Está bien?",
+     "en": "Like this? Is it right?",
+     "audio": "c1_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Ines",
+     "es": "Casi. Más arriba, con la mano relajada.",
+     "en": "Almost. Higher up, with your hand relaxed.",
+     "audio": "c1_11_Ines.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "Uf, no sé si puedo hacerlo. Ni idea.",
+     "en": "Phew, I don't know if I can do it. No idea.",
+     "audio": "c1_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Ines",
+     "es": "Sí puedes. Pintar es como caminar: paso a paso.",
+     "en": "Yes, you can. Painting is like walking: step by step.",
+     "audio": "c1_13_Ines.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En la tienda de arte",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Dependienta",
+     "es": "¡Hola! ¿Te puedo ayudar?",
+     "en": "Hi! Can I help you?",
+     "audio": "c2_01_Dependienta.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Sí, busco un lienzo pequeño para pintar en casa.",
+     "en": "Yes, I'm looking for a small canvas to paint at home.",
+     "audio": "c2_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Dependienta",
+     "es": "Este es muy bueno. Es de algodón.",
+     "en": "This one is very good. It's cotton.",
+     "audio": "c2_03_Dependienta.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "¿Cuánto cuesta ese lienzo pequeño?",
+     "en": "How much is that small canvas?",
+     "audio": "c2_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Dependienta",
+     "es": "Doce euros.",
+     "en": "Twelve euros.",
+     "audio": "c2_05_Dependienta.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "Vale. ¿Y tienes pinceles?",
+     "en": "OK. And do you have brushes?",
+     "audio": "c2_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Dependienta",
+     "es": "Sí, allí. ¿Quieres uno grande o uno fino?",
+     "en": "Yes, over there. Do you want a big one or a thin one?",
+     "audio": "c2_07_Dependienta.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "Uno de cada, por favor.",
+     "en": "One of each, please.",
+     "audio": "c2_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Dependienta",
+     "es": "Muy bien. ¿Algo más?",
+     "en": "Very good. Anything else?",
+     "audio": "c2_09_Dependienta.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "No, gracias. ¿Puedo pagar en efectivo?",
+     "en": "No, thanks. Can I pay in cash?",
+     "audio": "c2_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Dependienta",
+     "es": "Claro. Son doce euros con cincuenta.",
+     "en": "Of course. That's twelve euros fifty.",
+     "audio": "c2_11_Dependienta.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "Aquí tienes. ¡Me flipa esta tienda!",
+     "en": "Here you are. I love this shop!",
+     "audio": "c2_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Dependienta",
+     "es": "¡Gracias! Te lo envuelvo en papel.",
+     "en": "Thanks! I'll wrap it in paper for you.",
+     "audio": "c2_13_Dependienta.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · En el Museo Picasso",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Taquillero",
+     "es": "Buenas tardes. ¿Cuántas entradas?",
+     "en": "Good afternoon. How many tickets?",
+     "audio": "c3_01_Taquillero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Una, por favor. ¿Cuánto es?",
+     "en": "One, please. How much is it?",
+     "audio": "c3_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Taquillero",
+     "es": "Son nueve euros.",
+     "en": "That's nine euros.",
+     "audio": "c3_03_Taquillero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "¿Hay descuento para profesores?",
+     "en": "Is there a discount for teachers?",
+     "audio": "c3_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Taquillero",
+     "es": "No, lo siento. Solo para estudiantes.",
+     "en": "No, sorry. Only for students.",
+     "audio": "c3_05_Taquillero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "No pasa nada. Aquí tienes.",
+     "en": "No problem. Here you are.",
+     "audio": "c3_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Taquillero",
+     "es": "Gracias. Aquí tienes la entrada y un mapa.",
+     "en": "Thanks. Here's the ticket and a map.",
+     "audio": "c3_07_Taquillero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "¿Dónde están los cuadros más famosos?",
+     "en": "Where are the most famous paintings?",
+     "audio": "c3_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Taquillero",
+     "es": "En la sala tres, a la derecha.",
+     "en": "In room three, on the right.",
+     "audio": "c3_09_Taquillero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "¿Puedo hacer fotos?",
+     "en": "Can I take photos?",
+     "audio": "c3_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Taquillero",
+     "es": "Sí, pero sin flash, por favor.",
+     "en": "Yes, but without flash, please.",
+     "audio": "c3_11_Taquillero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "Perfecto. ¿A qué hora cierra el museo?",
+     "en": "Perfect. What time does the museum close?",
+     "audio": "c3_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Taquillero",
+     "es": "A las siete. ¡Que disfrutes!",
+     "en": "At seven. Enjoy!",
+     "audio": "c3_13_Taquillero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · En el patio",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Ines",
+     "es": "Mateo, ¿qué te trae a Málaga?",
+     "en": "Mateo, what brings you to Málaga?",
+     "audio": "c4_01_Ines.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Dejé mi trabajo de oficina a los cuarenta años.",
+     "en": "I left my office job at forty.",
+     "audio": "c4_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Ines",
+     "es": "¡Qué valiente! ¿Y ahora qué haces?",
+     "en": "How brave! And what do you do now?",
+     "audio": "c4_03_Ines.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "Viajo y pruebo cosas nuevas. ¡Me flipa!",
+     "en": "I travel and try new things. I love it!",
+     "audio": "c4_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Ines",
+     "es": "¿Y qué tal la clase de hoy?",
+     "en": "And how was today's class?",
+     "audio": "c4_05_Ines.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "Bien, pero el verde me salió muy oscuro. ¡Qué mala pata!",
+     "en": "Good, but my green came out very dark. What bad luck!",
+     "audio": "c4_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Ines",
+     "es": "¡Ja, ja! Los errores son parte del trabajo.",
+     "en": "Ha ha! Mistakes are part of the work.",
+     "audio": "c4_07_Ines.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "Quiero volver. ¿Puedo reservar el sábado?",
+     "en": "I want to come back. Can I book Saturday?",
+     "audio": "c4_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Ines",
+     "es": "Claro. ¿A qué hora te va bien?",
+     "en": "Of course. What time suits you?",
+     "audio": "c4_09_Ines.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "A las diez, si hay plaza.",
+     "en": "At ten, if there's a place.",
+     "audio": "c4_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Ines",
+     "es": "Sí, hay plaza. Te apunto en mi agenda.",
+     "en": "Yes, there's a place. I'll put you in my diary.",
+     "audio": "c4_11_Ines.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "¡Genial! ¿Tengo que traer algo?",
+     "en": "Great! Do I have to bring anything?",
+     "audio": "c4_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Ines",
+     "es": "Solo tu cuaderno y muchas ganas. ¡Hasta el sábado!",
+     "en": "Just your notebook and lots of enthusiasm. See you Saturday!",
+     "audio": "c4_13_Ines.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Mateo's first painting class in Málaga! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: in the studio!",
+  "c2": "[cheerfully] Conversation two: at the art shop!",
+  "c3": "[cheerfully] Conversation three: at the Picasso Museum!",
+  "c4": "[cheerfully] Conversation four: in the courtyard!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Mateo": "MQOw6rAjjxLeifjqjuCo",
+  "Ines": "SDVJaMLoJa7wc3s2sn7d",
+  "Dependienta": "jQvo2VZEqNV6YXEBghzl",
+  "Taquillero": "QdeV7TsH9psct2D4UdTk"
+ }
+}
