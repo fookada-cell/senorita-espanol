@@ -1,0 +1,69 @@
+{
+ "slug": "Senorita-SUNDAY-EP05-mercado-full-video-subtitled-1080p-v1",
+ "voices": {
+  "es": "dNjJKg63Fr5AXwIdkATa",
+  "en": "ZMK5OD2jmsdse3EKE4W5"
+ },
+ "voice_names": {
+  "es": "Cristina (Marina)",
+  "en": "Daniel"
+ },
+ "tempo": 0.7,
+ "skip": [],
+ "scenes": {
+  "01": [
+   1,
+   5
+  ],
+  "02": [
+   6,
+   10
+  ],
+  "03": [
+   11,
+   15
+  ],
+  "04": [
+   16,
+   20
+  ],
+  "05": [
+   21,
+   25
+  ],
+  "06": [
+   26,
+   30
+  ],
+  "07": [
+   31,
+   35
+  ],
+  "08": [
+   36,
+   40
+  ],
+  "09": [
+   41,
+   45
+  ],
+  "10": [
+   46,
+   50
+  ],
+  "11": [
+   51,
+   56
+  ],
+  "12": [
+   57,
+   61
+  ]
+ },
+ "question_scene": "08",
+ "slang_scenes": {
+  "S01": "01",
+  "S02": "04",
+  "S03": "07"
+ }
+}
