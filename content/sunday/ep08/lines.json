@@ -1,0 +1,710 @@
+{
+ "F001": {
+  "voice": "es",
+  "text": "Es sábado por la mañana en Málaga."
+ },
+ "M011": {
+  "voice": "en",
+  "text": "It is Saturday morning in Málaga."
+ },
+ "F002": {
+  "voice": "es",
+  "text": "Hoy hago algo que nunca he hecho: voy a pintar un cuadro."
+ },
+ "M012": {
+  "voice": "en",
+  "text": "Today I am doing something I have never done: I am going to paint a picture."
+ },
+ "F003": {
+  "voice": "es",
+  "text": "Nunca he pintado nada en mi vida."
+ },
+ "M013": {
+  "voice": "en",
+  "text": "I have never painted anything in my life."
+ },
+ "F004": {
+  "voice": "es",
+  "text": "Hace calor, aunque es temprano, y el mar está azul."
+ },
+ "M014": {
+  "voice": "en",
+  "text": "It is warm, even though it is early, and the sea is blue."
+ },
+ "F005": {
+  "voice": "es",
+  "text": "Desayuno pan con tomate y miro el horario de la clase."
+ },
+ "M015": {
+  "voice": "en",
+  "text": "I have breakfast with bread and tomato and look at the class timetable."
+ },
+ "F006": {
+  "voice": "es",
+  "text": "Camino hasta el taller, cerca del Museo Picasso, en el centro."
+ },
+ "M016": {
+  "voice": "en",
+  "text": "I walk to the studio, near the Picasso Museum, in the centre."
+ },
+ "F007": {
+  "voice": "es",
+  "text": "Las calles son estrechas y hay turistas con mapas."
+ },
+ "M017": {
+  "voice": "en",
+  "text": "The streets are narrow and there are tourists with maps."
+ },
+ "F008": {
+  "voice": "es",
+  "text": "Llego a la puerta y llamo al timbre."
+ },
+ "M018": {
+  "voice": "en",
+  "text": "I arrive at the door and ring the bell."
+ },
+ "F009": {
+  "voice": "es",
+  "text": "Una profesora sale y dice: «¡Hola! Tú debes de ser Mateo»."
+ },
+ "M019": {
+  "voice": "en",
+  "text": "A teacher comes out and says: \"Hi! You must be Mateo.\""
+ },
+ "F010": {
+  "voice": "es",
+  "text": "Se llama Inés y me da la mano con una sonrisa."
+ },
+ "M020": {
+  "voice": "en",
+  "text": "Her name is Inés, and she shakes my hand with a smile."
+ },
+ "F011": {
+  "voice": "es",
+  "text": "Entramos en un taller grande con mucha luz natural."
+ },
+ "M021": {
+  "voice": "en",
+  "text": "We go into a big studio with a lot of natural light."
+ },
+ "F012": {
+  "voice": "es",
+  "text": "Hay caballetes, pinceles y botes de pintura sobre las mesas."
+ },
+ "M022": {
+  "voice": "en",
+  "text": "There are easels, brushes and paint pots on the tables."
+ },
+ "F013": {
+  "voice": "es",
+  "text": "Inés me enseña mi caballete y un lienzo blanco."
+ },
+ "M023": {
+  "voice": "en",
+  "text": "Inés shows me my easel and a white canvas."
+ },
+ "F014": {
+  "voice": "es",
+  "text": "Yo pregunto: «¿Me puede ayudar, por favor? No sé por dónde empezar»."
+ },
+ "M024": {
+  "voice": "en",
+  "text": "I ask: \"Can you help me, please? I don't know where to start.\""
+ },
+ "F015": {
+  "voice": "es",
+  "text": "Inés responde: «No pasa nada, empezamos con formas sencillas»."
+ },
+ "M025": {
+  "voice": "en",
+  "text": "Inés replies: \"It's fine, we start with simple shapes.\""
+ },
+ "F016": {
+  "voice": "es",
+  "text": "Dibujo una línea con el lápiz y me tiembla la mano. ¿Está bien? Ni idea."
+ },
+ "M026": {
+  "voice": "en",
+  "text": "I draw a line with the pencil and my hand shakes. Is it right? No idea."
+ },
+ "F017": {
+  "voice": "es",
+  "text": "Inés me dice: «Mira la luz. Dibuja lo que ves, no lo que sabes»."
+ },
+ "M027": {
+  "voice": "en",
+  "text": "Inés tells me: \"Look at the light. Draw what you see, not what you know.\""
+ },
+ "F018": {
+  "voice": "es",
+  "text": "Me gusta la idea, pero me parece muy difícil."
+ },
+ "M028": {
+  "voice": "en",
+  "text": "I like the idea, but it seems very difficult to me."
+ },
+ "F019": {
+  "voice": "es",
+  "text": "Al final de la clase quiero llevarme un lienzo pequeño a casa."
+ },
+ "M029": {
+  "voice": "en",
+  "text": "At the end of the class I want to take a small canvas home."
+ },
+ "F020": {
+  "voice": "es",
+  "text": "Pregunto: «¿Cuánto cuesta ese lienzo pequeño?»."
+ },
+ "M030": {
+  "voice": "en",
+  "text": "I ask: \"How much does that small canvas cost?\""
+ },
+ "F021": {
+  "voice": "es",
+  "text": "La dependienta contesta: «Doce euros»."
+ },
+ "M031": {
+  "voice": "en",
+  "text": "The shop assistant answers: \"Twelve euros.\""
+ },
+ "F022": {
+  "voice": "es",
+  "text": "Es un precio justo, así que lo compro."
+ },
+ "M032": {
+  "voice": "en",
+  "text": "It is a fair price, so I buy it."
+ },
+ "F023": {
+  "voice": "es",
+  "text": "Luego mezclo azul y amarillo en la paleta para hacer verde."
+ },
+ "M033": {
+  "voice": "en",
+  "text": "Then I mix blue and yellow on the palette to make green."
+ },
+ "F024": {
+  "voice": "es",
+  "text": "El verde sale demasiado oscuro y digo: «¡Qué mala pata!», y me río."
+ },
+ "M034": {
+  "voice": "en",
+  "text": "The green comes out too dark and I say: \"What bad luck!\" and I laugh."
+ },
+ "F025": {
+  "voice": "es",
+  "text": "Inés dice que los errores son parte del trabajo."
+ },
+ "M035": {
+  "voice": "en",
+  "text": "Inés says that mistakes are part of the work."
+ },
+ "F026": {
+  "voice": "es",
+  "text": "Miramos por la ventana el puerto y la Alcazaba, un castillo antiguo."
+ },
+ "M036": {
+  "voice": "en",
+  "text": "We look through the window at the port and the Alcazaba, an old castle."
+ },
+ "F027": {
+  "voice": "es",
+  "text": "Pinto el cielo con azul claro y unas nubes blancas."
+ },
+ "M037": {
+  "voice": "en",
+  "text": "I paint the sky with light blue and some white clouds."
+ },
+ "F028": {
+  "voice": "es",
+  "text": "Un viento suave entra por la ventana y huele a mar."
+ },
+ "M038": {
+  "voice": "en",
+  "text": "A soft breeze comes in through the window and smells of the sea."
+ },
+ "F029": {
+  "voice": "es",
+  "text": "Por primera vez me concentro y el tiempo pasa muy rápido."
+ },
+ "M039": {
+  "voice": "en",
+  "text": "For the first time I concentrate and time passes very quickly."
+ },
+ "F030": {
+  "voice": "es",
+  "text": "Pienso: quizá yo también puedo pintar bien."
+ },
+ "M040": {
+  "voice": "en",
+  "text": "I think: maybe I can also paint well."
+ },
+ "F031": {
+  "voice": "es",
+  "text": "A la una hacemos un descanso de media hora."
+ },
+ "M041": {
+  "voice": "en",
+  "text": "At one o'clock we take a half-hour break."
+ },
+ "F032": {
+  "voice": "es",
+  "text": "Inés me pregunta: «¿Quieres ver el Museo Picasso después?»."
+ },
+ "M042": {
+  "voice": "en",
+  "text": "Inés asks me: \"Do you want to see the Picasso Museum afterwards?\""
+ },
+ "F033": {
+  "voice": "es",
+  "text": "Me gusta mucho la idea, pero prefiero ir a las cuatro."
+ },
+ "M043": {
+  "voice": "en",
+  "text": "I like the idea a lot, but I prefer to go at four."
+ },
+ "F034": {
+  "voice": "es",
+  "text": "Quedamos a las cuatro en la puerta del museo."
+ },
+ "M044": {
+  "voice": "en",
+  "text": "We agree to meet at four at the museum entrance."
+ },
+ "F035": {
+  "voice": "es",
+  "text": "Ella dice: «Perfecto. Trae tu cuaderno para tomar notas»."
+ },
+ "M045": {
+  "voice": "en",
+  "text": "She says: \"Perfect. Bring your notebook to take notes.\""
+ },
+ "F036": {
+  "voice": "es",
+  "text": "A las cuatro llego al museo y compro una entrada."
+ },
+ "M046": {
+  "voice": "en",
+  "text": "At four I arrive at the museum and buy a ticket."
+ },
+ "F037": {
+  "voice": "es",
+  "text": "La entrada cuesta lo normal, y el chico me da un mapa."
+ },
+ "M047": {
+  "voice": "en",
+  "text": "The ticket costs the usual price, and the young man gives me a map."
+ },
+ "F038": {
+  "voice": "es",
+  "text": "Dentro veo cuadros de colores fuertes y figuras muy raras."
+ },
+ "M048": {
+  "voice": "en",
+  "text": "Inside I see paintings with strong colours and very strange figures."
+ },
+ "F039": {
+  "voice": "es",
+  "text": "Pienso que Picasso miraba las cosas de otra manera."
+ },
+ "M049": {
+  "voice": "en",
+  "text": "I think Picasso looked at things in a different way."
+ },
+ "F040": {
+  "voice": "es",
+  "text": "Miro los detalles con calma y escribo en mi cuaderno."
+ },
+ "M050": {
+  "voice": "en",
+  "text": "I look at the details calmly and write in my notebook."
+ },
+ "F041": {
+  "voice": "es",
+  "text": "Inés me pregunta: «¿Qué te trae a Málaga?»."
+ },
+ "M051": {
+  "voice": "en",
+  "text": "Inés asks me: \"What brings you to Málaga?\""
+ },
+ "F042": {
+  "voice": "es",
+  "text": "Le digo que dejé mi trabajo de oficina a los cuarenta años."
+ },
+ "M052": {
+  "voice": "en",
+  "text": "I tell her that I left my office job at forty."
+ },
+ "F043": {
+  "voice": "es",
+  "text": "Ella dice: «¡Qué valiente! ¿Y qué te gusta ahora?»."
+ },
+ "M053": {
+  "voice": "en",
+  "text": "She says: \"How brave! And what do you like now?\""
+ },
+ "F044": {
+  "voice": "es",
+  "text": "Yo contesto: «Me flipa probar cosas nuevas, aunque me equivoque»."
+ },
+ "M054": {
+  "voice": "en",
+  "text": "I answer: \"I love trying new things, even when I make mistakes.\""
+ },
+ "F045": {
+  "voice": "es",
+  "text": "Inés sonríe y me dice que la próxima vez pinte el mar."
+ },
+ "M055": {
+  "voice": "en",
+  "text": "Inés smiles and tells me that next time I should paint the sea."
+ },
+ "F046": {
+  "voice": "es",
+  "text": "Al atardecer camino por el paseo marítimo con mi cuadro."
+ },
+ "M056": {
+  "voice": "en",
+  "text": "At sunset I walk along the seafront with my painting."
+ },
+ "F047": {
+  "voice": "es",
+  "text": "El cielo está rosa y naranja, y la gente pasea con sus perros."
+ },
+ "M057": {
+  "voice": "en",
+  "text": "The sky is pink and orange, and people stroll with their dogs."
+ },
+ "F048": {
+  "voice": "es",
+  "text": "Me siento en un banco y miro el mar un buen rato."
+ },
+ "M058": {
+  "voice": "en",
+  "text": "I sit on a bench and look at the sea for a good while."
+ },
+ "F049": {
+  "voice": "es",
+  "text": "Quiero volver al taller el próximo sábado, si hay plaza."
+ },
+ "M059": {
+  "voice": "en",
+  "text": "I want to go back to the studio next Saturday, if there is a place."
+ },
+ "F050": {
+  "voice": "es",
+  "text": "Escribo a Inés: «¿Puedo reservar el sábado a las diez?»."
+ },
+ "M060": {
+  "voice": "en",
+  "text": "I write to Inés: \"Can I book Saturday at ten?\""
+ },
+ "F051": {
+  "voice": "es",
+  "text": "Ella responde enseguida: «Claro, te espero a las diez»."
+ },
+ "M061": {
+  "voice": "en",
+  "text": "She replies at once: \"Of course, I'll expect you at ten.\""
+ },
+ "F052": {
+  "voice": "es",
+  "text": "Miro mi cuadro, con sus errores y su verde oscuro."
+ },
+ "M062": {
+  "voice": "en",
+  "text": "I look at my painting, with its mistakes and its dark green."
+ },
+ "F053": {
+  "voice": "es",
+  "text": "Ahora lo miro con cariño, aunque no sea perfecto."
+ },
+ "M063": {
+  "voice": "en",
+  "text": "Now I look at it fondly, even though it is not perfect."
+ },
+ "F054": {
+  "voice": "es",
+  "text": "Pienso en todo lo que he aprendido en un solo día."
+ },
+ "M064": {
+  "voice": "en",
+  "text": "I think about everything I have learned in a single day."
+ },
+ "F055": {
+  "voice": "es",
+  "text": "Guardo el cuadro con cuidado en mi mochila."
+ },
+ "M065": {
+  "voice": "en",
+  "text": "I carefully put the painting in my backpack."
+ },
+ "F056": {
+  "voice": "es",
+  "text": "Mañana quiero caminar por el puerto y dibujar los barcos."
+ },
+ "M066": {
+  "voice": "en",
+  "text": "Tomorrow I want to walk along the port and draw the boats."
+ },
+ "F057": {
+  "voice": "es",
+  "text": "Hoy aprendo que pintar no es solo para artistas."
+ },
+ "M067": {
+  "voice": "en",
+  "text": "Today I learn that painting is not only for artists."
+ },
+ "F058": {
+  "voice": "es",
+  "text": "Me equivoco mucho, pero también disfruto muchísimo."
+ },
+ "M068": {
+  "voice": "en",
+  "text": "I make many mistakes, but I also enjoy myself enormously."
+ },
+ "F059": {
+  "voice": "es",
+  "text": "Cada error es una lección nueva."
+ },
+ "M069": {
+  "voice": "en",
+  "text": "Every mistake is a new lesson."
+ },
+ "F060": {
+  "voice": "es",
+  "text": "Gracias por escuchar mi historia."
+ },
+ "M070": {
+  "voice": "en",
+  "text": "Thank you for listening to my story."
+ },
+ "F061": {
+  "voice": "es",
+  "text": "El sábado vuelvo al taller con muchas ganas."
+ },
+ "M071": {
+  "voice": "en",
+  "text": "On Saturday I go back to the studio with great enthusiasm."
+ },
+ "F-GB": {
+  "voice": "es",
+  "text": "Hasta la próxima."
+ },
+ "M001": {
+  "voice": "en",
+  "text": "Welcome! This week Mateo tries something new in Málaga: painting. Listen first with Spanish subtitles."
+ },
+ "M002": {
+  "voice": "en",
+  "text": "Now listen again. Each Spanish line is followed by its English translation."
+ },
+ "M003": {
+  "voice": "en",
+  "text": "Now listen one last time, without story subtitles."
+ },
+ "M004": {
+  "voice": "en",
+  "text": "Here are three questions. Pause the video and answer out loud. You will have five seconds after each one."
+ },
+ "M005": {
+  "voice": "en",
+  "text": "Now, sixteen useful words from the story. Spanish first, then English."
+ },
+ "M006": {
+  "voice": "en",
+  "text": "Now, three expressions you will hear in Spain."
+ },
+ "M007": {
+  "voice": "en",
+  "text": "That was the story! Here is a quick recap of the three expressions above."
+ },
+ "M008": {
+  "voice": "en",
+  "text": "Thanks for listening. Tell me in the comments: have you ever painted a picture?"
+ },
+ "M009": {
+  "voice": "en",
+  "text": "Subscribe, so you do not miss Mateo's next adventure."
+ },
+ "M010": {
+  "voice": "en",
+  "text": "Hasta la próxima, and see you next time!"
+ },
+ "Q1": {
+  "voice": "es",
+  "text": "¿Dónde pinta Mateo su primer cuadro?"
+ },
+ "Q2": {
+  "voice": "es",
+  "text": "¿Cuánto cuesta el lienzo pequeño?"
+ },
+ "Q3": {
+  "voice": "es",
+  "text": "¿Cuándo quiere volver al taller Mateo?"
+ },
+ "V01": {
+  "voice": "es",
+  "text": "el taller"
+ },
+ "V01e": {
+  "voice": "en",
+  "text": "the studio"
+ },
+ "V02": {
+  "voice": "es",
+  "text": "el caballete"
+ },
+ "V02e": {
+  "voice": "en",
+  "text": "the easel"
+ },
+ "V03": {
+  "voice": "es",
+  "text": "el lienzo"
+ },
+ "V03e": {
+  "voice": "en",
+  "text": "the canvas"
+ },
+ "V04": {
+  "voice": "es",
+  "text": "el pincel"
+ },
+ "V04e": {
+  "voice": "en",
+  "text": "the paintbrush"
+ },
+ "V05": {
+  "voice": "es",
+  "text": "la pintura"
+ },
+ "V05e": {
+  "voice": "en",
+  "text": "the paint"
+ },
+ "V06": {
+  "voice": "es",
+  "text": "la paleta"
+ },
+ "V06e": {
+  "voice": "en",
+  "text": "the palette"
+ },
+ "V07": {
+  "voice": "es",
+  "text": "el cuaderno"
+ },
+ "V07e": {
+  "voice": "en",
+  "text": "the notebook"
+ },
+ "V08": {
+  "voice": "es",
+  "text": "la entrada"
+ },
+ "V08e": {
+  "voice": "en",
+  "text": "the ticket"
+ },
+ "V09": {
+  "voice": "es",
+  "text": "el mapa"
+ },
+ "V09e": {
+  "voice": "en",
+  "text": "the map"
+ },
+ "V10": {
+  "voice": "es",
+  "text": "el puerto"
+ },
+ "V10e": {
+  "voice": "en",
+  "text": "the port"
+ },
+ "V11": {
+  "voice": "es",
+  "text": "el viento"
+ },
+ "V11e": {
+  "voice": "en",
+  "text": "the wind"
+ },
+ "V12": {
+  "voice": "es",
+  "text": "el banco"
+ },
+ "V12e": {
+  "voice": "en",
+  "text": "the bench"
+ },
+ "V13": {
+  "voice": "es",
+  "text": "el mar"
+ },
+ "V13e": {
+  "voice": "en",
+  "text": "the sea"
+ },
+ "V14": {
+  "voice": "es",
+  "text": "mezclar"
+ },
+ "V14e": {
+  "voice": "en",
+  "text": "to mix"
+ },
+ "V15": {
+  "voice": "es",
+  "text": "equivocarse"
+ },
+ "V15e": {
+  "voice": "en",
+  "text": "to make a mistake"
+ },
+ "V16": {
+  "voice": "es",
+  "text": "reservar"
+ },
+ "V16e": {
+  "voice": "en",
+  "text": "to book"
+ },
+ "S01": {
+  "voice": "es",
+  "text": "Me flipa."
+ },
+ "S01e": {
+  "voice": "en",
+  "text": "\"Me flipa\" means \"I love it\" or \"I'm crazy about it\"."
+ },
+ "S01x": {
+  "voice": "es",
+  "text": "Yo contesto: «Me flipa probar cosas nuevas, aunque me equivoque»."
+ },
+ "S02": {
+  "voice": "es",
+  "text": "¡Qué mala pata!"
+ },
+ "S02e": {
+  "voice": "en",
+  "text": "\"¡Qué mala pata!\" means \"what bad luck!\""
+ },
+ "S02x": {
+  "voice": "es",
+  "text": "El verde sale demasiado oscuro y digo: «¡Qué mala pata!», y me río."
+ },
+ "S03": {
+  "voice": "es",
+  "text": "Ni idea."
+ },
+ "S03e": {
+  "voice": "en",
+  "text": "\"Ni idea\" means \"no idea\"."
+ },
+ "S03x": {
+  "voice": "es",
+  "text": "Dibujo una línea con el lápiz y me tiembla la mano. ¿Está bien? Ni idea."
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "Senorita-SUNDAY-EP08-painting-class-malaga-full-video-subtitled-1080p-v1",
+ "voices": {
+  "es": "MQOw6rAjjxLeifjqjuCo",
+  "en": "dNjJKg63Fr5AXwIdkATa"
+ },
+ "voice_names": {
+  "es": "Mateo (El Faraon)",
+  "en": "Cristina"
+ },
+ "tempo": 0.7,
+ "skip": [
+  "M007"
+ ],
+ "scenes": {
+  "01": [
+   1,
+   5
+  ],
+  "02": [
+   6,
+   10
+  ],
+  "03": [
+   11,
+   15
+  ],
+  "04": [
+   16,
+   20
+  ],
+  "05": [
+   21,
+   25
+  ],
+  "06": [
+   26,
+   30
+  ],
+  "07": [
+   31,
+   35
+  ],
+  "08": [
+   36,
+   40
+  ],
+  "09": [
+   41,
+   45
+  ],
+  "10": [
+   46,
+   50
+  ],
+  "11": [
+   51,
+   56
+  ],
+  "12": [
+   57,
+   61
+  ]
+ },
+ "question_scene": "06",
+ "slang_scenes": {
+  "S01": "09",
+  "S02": "05",
+  "S03": "04"
+ }
+}
