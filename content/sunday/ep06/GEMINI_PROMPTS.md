@@ -11,3 +11,8 @@ Laura is the culinary instructor from EP04: ~30, shoulder-length curly black hai
 Refs: `content/sunday/style-refs/OFFICIAL-Laura-sheet.jpg`, `OFFICIAL-Marina-Laura-kitchen.jpg`.
 Marina keeps her official rust-red shirt (no sage, to avoid matching Laura). No new outfit sheets needed.
 The EP05 prompts' Laura (black bob, striped top) is wrong: use the official Laura sheet instead.
+
+## Laura LOCK (user, 2026-11-23) — overrides the notes above
+Laura is Marina's cooking CLASSMATE (not the teacher). About 30, SHORT curly black hair, warm medium skin, brown eyes, friendly smile, muted sage-green blouse with rolled sleeves (+ natural cream apron when cooking).
+Reference: `content/sunday/style-refs/OFFICIAL-EP04-Laura-short-curly.png` (Laura is on the right, behind Marina). The shoulder-length "Laura sheet" image is NOT the reference.
+Next step: the user makes a standalone sheet-laura from this ref, then uses it for EP05 swaps and EP06.
