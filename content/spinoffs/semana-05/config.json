@@ -1,0 +1,173 @@
+{
+ "slug": "Senorita-SUNDAY-Conversation-EP05",
+ "series_title": "Conversaciones en el mercado",
+ "intro_sub": "De compras en el mercado · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Frutero",
+  "Aceitera",
+  "Camarero",
+  "Laura"
+ ],
+ "titles": [
+  "En el puesto de verduras",
+  "En la tienda de aceite",
+  "En el bar del mercado",
+  "A la salida del mercado"
+ ],
+ "spots": {},
+ "key_phrases": [
+  [
+   [
+    "¿Qué te pongo?",
+    "What can I get you?"
+   ],
+   [
+    "¿A cuánto está el kilo?",
+    "How much is a kilo?"
+   ],
+   [
+    "¡Está tirado!",
+    "It's dirt cheap!"
+   ],
+   [
+    "¿Algo más?",
+    "Anything else?"
+   ],
+   [
+    "¿Cuánto es todo?",
+    "How much is everything?"
+   ],
+   [
+    "¿Puedo pagar con tarjeta?",
+    "Can I pay by card?"
+   ]
+  ],
+  [
+   [
+    "¿Quieres probar…?",
+    "Would you like to taste…?"
+   ],
+   [
+    "un trozo de pan",
+    "a piece of bread"
+   ],
+   [
+    "¡Qué rico!",
+    "How delicious!"
+   ],
+   [
+    "¿Cuánto cuesta…?",
+    "How much does … cost?"
+   ],
+   [
+    "Es un poco caro.",
+    "It's a bit expensive."
+   ],
+   [
+    "en total",
+    "in total"
+   ]
+  ],
+  [
+   [
+    "¿Qué os pongo?",
+    "What can I get you (all)?"
+   ],
+   [
+    "Para mí…",
+    "For me…"
+   ],
+   [
+    "un café con leche",
+    "a white coffee"
+   ],
+   [
+    "¿Qué tapas tenéis?",
+    "What tapas do you have?"
+   ],
+   [
+    "para compartir",
+    "to share"
+   ],
+   [
+    "¿Me cobras?",
+    "Can I pay? (Will you charge me?)"
+   ]
+  ],
+  [
+   [
+    "Falta algo.",
+    "Something's missing."
+   ],
+   [
+    "¡Es verdad!",
+    "That's true!"
+   ],
+   [
+    "Las bolsas pesan mucho.",
+    "The bags are really heavy."
+   ],
+   [
+    "cocinar juntas",
+    "to cook together"
+   ],
+   [
+    "¡Venga!",
+    "Great! / Come on!"
+   ],
+   [
+    "¡Trato hecho!",
+    "Deal!"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's morning at a Madrid market! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at the vegetable stall!",
+  "c2": "[cheerfully] Conversation two: at the olive oil shop!",
+  "c3": "[cheerfully] Conversation three: at the market bar!",
+  "c4": "[cheerfully] Conversation four: leaving the market!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Frutero": "ZCh4e9eZSUf41K4cmCEL",
+  "Aceitera": "SDVJaMLoJa7wc3s2sn7d",
+  "Camarero": "orF2qy9215xjwqqxqsWW",
+  "Laura": "F85f2z6OiMoDXtGx8TxR"
+ },
+ "thumbnail": {
+  "lines": [
+   [
+    "De compras",
+    80
+   ],
+   [
+    "en el",
+    80
+   ],
+   [
+    "mercado",
+    150
+   ]
+  ],
+  "sub": "(Shopping at a Madrid Market)",
+  "banner": "Conversación real · A1–A2",
+  "title_fill": "white",
+  "name_font": "sans",
+  "show_logo": false
+ },
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": null,
+ "voice_speeds": {},
+ "narrator_model": "eleven_v4",
+ "narrator_settings": {
+  "stability": 0.0,
+  "similarity_boost": 0.75
+ },
+ "main_speaker": "Marina",
+ "dialogue_model": "eleven_v4",
+ "post_tempo": 0.7
+}
