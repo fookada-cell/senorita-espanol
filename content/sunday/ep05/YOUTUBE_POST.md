@@ -1,6 +1,6 @@
 # YouTube post · SUNDAY EP05 · Shopping at a Madrid Market (Marina)
 
-Files: `Senorita-SUNDAY-EP05-mercado-full-video-subtitled-1080p-v1.mp4` + `.srt` + `thumbnail.jpg`
+Files: `Senorita-SUNDAY-EP05-mercado-full-video-subtitled-1080p-v1.mp4` (23:13) + `.srt` + `thumbnail.jpg`
 Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
@@ -9,7 +9,14 @@ Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. El
 ## Description
 ---
 ⏱️ Chapters
-CHAPTERS_HERE
+00:00 Introduction
+00:15 Listen in Spanish with subtitles
+05:11 With English translation
+15:16 Spanish only, no subtitles
+20:18 Questions
+20:52 Vocabulary
+22:05 Expressions from Spain
+22:53 Closing
 
 Marina is back! After her first Spanish cooking class, she meets her classmate Laura at a traditional market in Madrid to buy everything for gazpacho. They ask for ripe tomatoes at two euros a kilo, pay by card, find stale bread for the recipe, taste olive oil, stop for a coffee at the market bar, and then realise something is missing from the list.
 
@@ -36,6 +43,6 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
-- End screen from the closing: previous Sunday story (EP04 cooking class) + Best for viewer + Subscribe
+- End screen from 22:55: previous Sunday story (EP04 cooking class) + Best for viewer + Subscribe
 - Quiz: **¿Qué significa "¡Está tirado!"?** ✅ It's dirt cheap! · ❌ It's thrown away! · ❌ It's tired! *Explanation:* informal Spain Spanish for "it's very cheap" (or "very easy").
 - Playlist: SUNDAY SERIES · Small Story Español
