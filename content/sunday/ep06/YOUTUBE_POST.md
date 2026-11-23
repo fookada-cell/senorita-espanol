@@ -1,6 +1,6 @@
 # YouTube post · SUNDAY EP06 · Dinner for Laura at Home (Marina)
 
-Files: `Senorita-SUNDAY-EP06-cena-para-laura-full-video-subtitled-1080p-v1.mp4` + `.srt` + `thumbnail.jpg`
+Files: `Senorita-SUNDAY-EP06-cena-para-laura-full-video-subtitled-1080p-v1.mp4` (22:30) + `.srt` + `thumbnail.jpg`
 Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
@@ -9,7 +9,14 @@ Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. El
 ## Description
 ---
 ⏱️ Chapters
-CHAPTERS_HERE
+00:00 Introduction
+00:19 Listen in Spanish with subtitles
+05:01 With English translation
+14:41 Spanish only, no subtitles
+19:30 Questions
+20:03 Vocabulary
+21:17 Expressions from Spain
+22:11 Closing
 
 Marina invites her cooking classmate Laura to dinner at her flat in Madrid. She sets the table, makes gazpacho and a Spanish potato omelette… and then the tortilla breaks in two, just before Laura arrives! Laura brings a homemade cheesecake, they cook a salad together, make a toast, talk on the balcony under the lights of Madrid, and plan their next dinner.
 
@@ -36,6 +43,6 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
-- End screen from the closing: previous Sunday story (EP05 market) + Best for viewer + Subscribe
+- End screen from 22:11: previous Sunday story (EP05 market) + Best for viewer + Subscribe
 - Quiz: **¿Qué significa "¡Buen provecho!"?** ✅ Enjoy your meal! · ❌ Good luck! · ❌ Good morning! *Explanation:* said before eating in Spain; the answer is "¡Igualmente!".
 - Playlist: SUNDAY SERIES · Small Story Español
