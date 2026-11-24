@@ -1,6 +1,6 @@
 # YouTube post · Spin-off EP05 · Conversaciones en el mercado (Marina)
 
-Files: `Senorita-SUNDAY-Conversation-EP05.mp4` + `.srt` + `thumbnail.jpg`
+Files: `Senorita-SUNDAY-Conversation-EP05.mp4` (13:22) + `.srt` + `thumbnail.jpg`
 
 ## Title
 **Speak Spanish with Easy Conversations (Shopping at a Madrid Market)**
@@ -8,7 +8,16 @@ Files: `Senorita-SUNDAY-Conversation-EP05.mp4` + `.srt` + `thumbnail.jpg`
 ## Description
 ---
 ⏱️ Chapters
-CHAPTERS_HERE
+00:00 Introduction
+00:11 Conversation 1: En el puesto de verduras (At the vegetable stall)
+01:17 Listen and repeat
+03:35 Conversation 2: En la tienda de aceite (At the olive oil shop)
+04:41 Listen and repeat
+06:59 Conversation 3: En el bar del mercado (At the market bar)
+07:59 Listen and repeat
+10:04 Conversation 4: A la salida del mercado (Leaving the market)
+11:06 Listen and repeat
+13:16 Closing
 
 Marina goes shopping at a market in Madrid, and now it's time to talk! In these four slow, clear A1–A2 conversations she buys tomatoes, peppers and garlic at a vegetable stall, tastes olive oil from Jaén, orders a coffee and a tapa at the market bar, and makes a plan with her classmate Laura after they notice the salt is missing.
 
@@ -34,7 +43,7 @@ learn spanish, spanish conversation, spanish for beginners, slow spanish, spanis
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
-- End screen: Sunday EP05 story + Subscribe
+- End screen from 13:17: Sunday EP05 story + Subscribe
 - Card at ~0:10: Sunday EP05 story
 - Quiz: **¿Qué significa "¿Qué te pongo?"?** ✅ What can I get you? · ❌ What should I wear? · ❌ Where do I put it?
 - Playlist: SUNDAY SERIES · Small Story Español (right after the EP05 story)
