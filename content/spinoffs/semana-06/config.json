@@ -1,0 +1,317 @@
+{
+ "slug": "Senorita-SUNDAY-Conversation-EP06",
+ "series_title": "Conversaciones en casa",
+ "intro_sub": "Una cena para Laura · A1–A2 · Español de España",
+ "outro_sub": "Hasta la próxima semana · Señorita Christina Español",
+ "other_speakers": [
+  "Tendero",
+  "Laura",
+  "Laura",
+  "Vecina"
+ ],
+ "titles": [
+  "En la tienda del barrio",
+  "En la puerta",
+  "En la mesa",
+  "Con la vecina en la escalera"
+ ],
+ "spots": {
+  "01A": {
+   "Elena": [
+    0.35,
+    0.28
+   ],
+   "Other": [
+    0.73,
+    0.25
+   ],
+   "atElena": [
+    0.26,
+    0.62
+   ],
+   "atOther": [
+    0.78,
+    0.6
+   ]
+  },
+  "01B": {
+   "Elena": [
+    0.3,
+    0.25
+   ],
+   "Other": [
+    0.75,
+    0.22
+   ],
+   "atElena": [
+    0.2,
+    0.56
+   ],
+   "atOther": [
+    0.8,
+    0.64
+   ]
+  },
+  "02A": {
+   "Elena": [
+    0.3,
+    0.22
+   ],
+   "Other": [
+    0.58,
+    0.3
+   ],
+   "atElena": [
+    0.22,
+    0.58
+   ],
+   "atOther": [
+    0.7,
+    0.8
+   ]
+  },
+  "02B": {
+   "Elena": [
+    0.3,
+    0.22
+   ],
+   "Other": [
+    0.58,
+    0.3
+   ],
+   "atElena": [
+    0.22,
+    0.62
+   ],
+   "atOther": [
+    0.7,
+    0.8
+   ]
+  },
+  "03A": {
+   "Elena": [
+    0.3,
+    0.27
+   ],
+   "Other": [
+    0.66,
+    0.27
+   ],
+   "atElena": [
+    0.24,
+    0.6
+   ],
+   "atOther": [
+    0.76,
+    0.62
+   ]
+  },
+  "03B": {
+   "Elena": [
+    0.3,
+    0.27
+   ],
+   "Other": [
+    0.66,
+    0.27
+   ],
+   "atElena": [
+    0.2,
+    0.62
+   ],
+   "atOther": [
+    0.8,
+    0.64
+   ]
+  },
+  "04A": {
+   "Elena": [
+    0.33,
+    0.25
+   ],
+   "Other": [
+    0.7,
+    0.3
+   ],
+   "atElena": [
+    0.26,
+    0.62
+   ],
+   "atOther": [
+    0.72,
+    0.66
+   ]
+  },
+  "04B": {
+   "Elena": [
+    0.33,
+    0.25
+   ],
+   "Other": [
+    0.7,
+    0.3
+   ],
+   "atElena": [
+    0.24,
+    0.6
+   ],
+   "atOther": [
+    0.78,
+    0.66
+   ]
+  }
+ },
+ "key_phrases": [
+  [
+   [
+    "¿Qué necesitas?",
+    "What do you need?"
+   ],
+   [
+    "una docena de huevos",
+    "a dozen eggs"
+   ],
+   [
+    "¿Algo más?",
+    "Anything else?"
+   ],
+   [
+    "con o sin cebolla",
+    "with or without onion"
+   ],
+   [
+    "dar la vuelta",
+    "to flip (it over)"
+   ],
+   [
+    "No te preocupes.",
+    "Don't worry."
+   ]
+  ],
+  [
+   [
+    "¿Llego pronto?",
+    "Am I early?"
+   ],
+   [
+    "Pasa, pasa.",
+    "Come in, come in."
+   ],
+   [
+    "He traído…",
+    "I've brought…"
+   ],
+   [
+    "¿Qué pasa?",
+    "What's wrong?"
+   ],
+   [
+    "¡Qué apuro!",
+    "How embarrassing!"
+   ],
+   [
+    "Tienes razón.",
+    "You're right."
+   ]
+  ],
+  [
+   [
+    "¡Qué buena pinta!",
+    "It looks so good!"
+   ],
+   [
+    "¡Salud!",
+    "Cheers!"
+   ],
+   [
+    "¡Buen provecho!",
+    "Enjoy your meal!"
+   ],
+   [
+    "¡Igualmente!",
+    "You too!"
+   ],
+   [
+    "¿Me pasas…?",
+    "Can you pass me…?"
+   ],
+   [
+    "Me alegro.",
+    "I'm glad."
+   ]
+  ],
+  [
+   [
+    "¡Ay, perdón!",
+    "Oh, sorry!"
+   ],
+   [
+    "hacer ruido",
+    "to make noise"
+   ],
+   [
+    "no te preocupes",
+    "don't worry"
+   ],
+   [
+    "A mí me pasa siempre.",
+    "It always happens to me."
+   ],
+   [
+    "Gracias por el consejo.",
+    "Thanks for the tip."
+   ],
+   [
+    "¡Qué amable!",
+    "How kind!"
+   ]
+  ]
+ ],
+ "narration": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's dinner for Laura! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at the corner shop!",
+  "c2": "[cheerfully] Conversation two: at the door!",
+  "c3": "[cheerfully] Conversation three: at the table!",
+  "c4": "[cheerfully] Conversation four: with the neighbour on the stairs!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Tendero": "dabBScGPxrhZRE621vIm",
+  "Laura": "F85f2z6OiMoDXtGx8TxR",
+  "Vecina": "SDVJaMLoJa7wc3s2sn7d"
+ },
+ "thumbnail": {
+  "lines": [
+   [
+    "Una cena",
+    80
+   ],
+   [
+    "para",
+    80
+   ],
+   [
+    "Laura",
+    150
+   ]
+  ],
+  "sub": "(Dinner for Laura at Home)",
+  "banner": "Conversación real · A1–A2",
+  "title_fill": "white",
+  "name_font": "sans",
+  "show_logo": false
+ },
+ "narrator_voice": "ZMK5OD2jmsdse3EKE4W5",
+ "narration_language": null,
+ "voice_speeds": {},
+ "narrator_model": "eleven_v4",
+ "narrator_settings": {
+  "stability": 0.0,
+  "similarity_boost": 0.75
+ },
+ "main_speaker": "Marina",
+ "dialogue_model": "eleven_v4",
+ "post_tempo": 0.7
+}

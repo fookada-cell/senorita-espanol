@@ -1,0 +1,40 @@
+# YouTube post · Spin-off EP06 · Conversaciones en casa (Marina)
+
+Files: `Senorita-SUNDAY-Conversation-EP06.mp4` + `.srt` + `thumbnail.jpg`
+
+## Title
+**Speak Spanish with Easy Conversations (Dinner for Laura at Home)**
+
+## Description
+---
+⏱️ Chapters
+CHAPTERS_HERE
+
+Marina invites her classmate Laura to dinner, and now it's time to talk! In these four slow, clear A1–A2 conversations she buys eggs, potatoes and an onion at the corner shop (and gets a tip for flipping the tortilla), welcomes Laura and her cheesecake at the door, makes a toast at the dinner table, and the next morning chats with her neighbour on the stairs.
+
+Every conversation comes from this week's story, Dinner for Laura at Home, and uses its three expressions from Spain: ¡qué apuro!, no te preocupes and ¡buen provecho! This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
+
+📖 Watch Marina's story first: [link to the Sunday EP06 video]
+
+💡 Pregunta de Hoy 💡
+¿Qué llevas cuando vas a cenar a casa de un amigo?
+Write your answer in Spanish in the comments 👇
+
+🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
+https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
+
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+---
+
+## Pinned comment
+¡Qué apuro! 🍳 Which conversation was the most useful for you: the corner shop, the door, the dinner table or the neighbour? Tell us in Spanish! 👇
+
+## Tags
+learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, dinner in spanish, food vocabulary in spanish, spanish omelette, buen provecho, spanish expressions from spain, español lento
+
+## Video elements
+- Subtitles: upload the `.srt` (With timing)
+- End screen: Sunday EP06 story + Subscribe
+- Card at ~0:10: Sunday EP06 story
+- Quiz: **¿Qué significa "¡Qué apuro!"?** ✅ How embarrassing! · ❌ What a hurry! · ❌ How pure! *Explanation:* in Spain, "apuro" means embarrassment.
+- Playlist: SUNDAY SERIES · Small Story Español (right after the EP06 story)

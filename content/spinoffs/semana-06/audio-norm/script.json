@@ -1,0 +1,403 @@
+{
+ "convs": [
+  {
+   "title": "1 · En la tienda del barrio",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Tendero",
+     "es": "Buenas tardes, Marina. ¿Qué necesitas hoy?",
+     "en": "Good afternoon, Marina. What do you need today?",
+     "audio": "c1_01_Tendero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "Hola. Una docena de huevos, por favor.",
+     "en": "Hi. A dozen eggs, please.",
+     "audio": "c1_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Tendero",
+     "es": "Aquí tienes. ¿Algo más?",
+     "en": "Here you are. Anything else?",
+     "audio": "c1_03_Tendero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "Sí, un kilo de patatas y una cebolla.",
+     "en": "Yes, a kilo of potatoes and an onion.",
+     "audio": "c1_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Tendero",
+     "es": "¿Vas a hacer una tortilla?",
+     "en": "Are you going to make an omelette?",
+     "audio": "c1_05_Tendero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "¡Sí! Esta noche viene una amiga a cenar.",
+     "en": "Yes! A friend is coming for dinner tonight.",
+     "audio": "c1_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Tendero",
+     "es": "¡Qué bien! ¿Con cebolla o sin cebolla?",
+     "en": "How nice! With onion or without?",
+     "audio": "c1_07_Tendero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "Con cebolla, claro.",
+     "en": "With onion, of course.",
+     "audio": "c1_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Tendero",
+     "es": "Un consejo: dale la vuelta con un plato grande.",
+     "en": "A tip: flip it with a big plate.",
+     "audio": "c1_09_Tendero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "Gracias. Estoy un poco nerviosa.",
+     "en": "Thanks. I'm a bit nervous.",
+     "audio": "c1_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Tendero",
+     "es": "No te preocupes. ¡Te va a salir muy bien!",
+     "en": "Don't worry. It's going to turn out great!",
+     "audio": "c1_11_Tendero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "¿Cuánto es?",
+     "en": "How much is it?",
+     "audio": "c1_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Tendero",
+     "es": "Cuatro euros con veinte. ¡Que aproveche!",
+     "en": "Four euros twenty. Enjoy your meal!",
+     "audio": "c1_13_Tendero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En la puerta",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Laura",
+     "es": "¡Hola, Marina! ¿Llego pronto?",
+     "en": "Hi, Marina! Am I early?",
+     "audio": "c2_01_Laura.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "¡No, llegas perfecta! Pasa, pasa.",
+     "en": "No, you're right on time! Come in, come in.",
+     "audio": "c2_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Laura",
+     "es": "Mira, he traído una tarta de queso para el postre.",
+     "en": "Look, I've brought a cheesecake for dessert.",
+     "audio": "c2_03_Laura.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "¡Qué bonita! ¿La has hecho tú?",
+     "en": "How lovely! Did you make it?",
+     "audio": "c2_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Laura",
+     "es": "Sí, es la receta de mi abuela.",
+     "en": "Yes, it's my grandmother's recipe.",
+     "audio": "c2_05_Laura.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "¡Gracias! Pero tengo que decirte algo…",
+     "en": "Thanks! But I have to tell you something…",
+     "audio": "c2_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Laura",
+     "es": "¿Qué pasa?",
+     "en": "What's wrong?",
+     "audio": "c2_07_Laura.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "La tortilla se ha roto. ¡Qué apuro!",
+     "en": "The omelette has broken. How embarrassing!",
+     "audio": "c2_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Laura",
+     "es": "¡Ja, ja! No te preocupes.",
+     "en": "Ha ha! Don't worry.",
+     "audio": "c2_09_Laura.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "Pero quería una cena perfecta…",
+     "en": "But I wanted a perfect dinner…",
+     "audio": "c2_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Laura",
+     "es": "Una tortilla rota también está rica.",
+     "en": "A broken omelette is tasty too.",
+     "audio": "c2_11_Laura.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "Tienes razón. ¿Me ayudas con la ensalada?",
+     "en": "You're right. Will you help me with the salad?",
+     "audio": "c2_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Laura",
+     "es": "¡Claro! ¿Dónde está el delantal?",
+     "en": "Of course! Where's the apron?",
+     "audio": "c2_13_Laura.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · En la mesa",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Marina",
+     "es": "Bueno, la cena está lista. ¡Siéntate!",
+     "en": "Well, dinner is ready. Sit down!",
+     "audio": "c3_01_Marina.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Laura",
+     "es": "¡Qué buena pinta tiene todo!",
+     "en": "Everything looks so good!",
+     "audio": "c3_02_Laura.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Marina",
+     "es": "Hay gazpacho, tortilla y ensalada.",
+     "en": "There's gazpacho, omelette and salad.",
+     "audio": "c3_03_Marina.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Laura",
+     "es": "Entonces… ¡brindamos!",
+     "en": "Then… let's make a toast!",
+     "audio": "c3_04_Laura.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Marina",
+     "es": "¡Por nuestra clase de cocina!",
+     "en": "To our cooking class!",
+     "audio": "c3_05_Marina.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Laura",
+     "es": "¡Salud! Y… ¡buen provecho!",
+     "en": "Cheers! And… enjoy your meal!",
+     "audio": "c3_06_Laura.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Marina",
+     "es": "¡Igualmente!",
+     "en": "You too!",
+     "audio": "c3_07_Marina.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Laura",
+     "es": "Mmm, la tortilla está buenísima.",
+     "en": "Mmm, the omelette is delicious.",
+     "audio": "c3_08_Laura.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Marina",
+     "es": "¿De verdad? ¿No está muy seca?",
+     "en": "Really? Isn't it too dry?",
+     "audio": "c3_09_Marina.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Laura",
+     "es": "No, está perfecta. ¿Me pasas el pan?",
+     "en": "No, it's perfect. Can you pass me the bread?",
+     "audio": "c3_10_Laura.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Marina",
+     "es": "Toma. ¿Quieres más gazpacho?",
+     "en": "Here. Do you want more gazpacho?",
+     "audio": "c3_11_Marina.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Laura",
+     "es": "Sí, un poco más, por favor.",
+     "en": "Yes, a bit more, please.",
+     "audio": "c3_12_Laura.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Marina",
+     "es": "¡Me alegro mucho de que te guste!",
+     "en": "I'm so glad you like it!",
+     "audio": "c3_13_Marina.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · Con la vecina en la escalera",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Vecina",
+     "es": "Buenos días, Marina. ¡Anoche había mucha alegría en tu casa!",
+     "en": "Good morning, Marina. There was a lot of fun at your place last night!",
+     "audio": "c4_01_Vecina.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "¡Ay, perdón! ¿Hicimos mucho ruido?",
+     "en": "Oh, sorry! Did we make a lot of noise?",
+     "audio": "c4_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Vecina",
+     "es": "No, no te preocupes. Solo risas.",
+     "en": "No, don't worry. Just laughter.",
+     "audio": "c4_03_Vecina.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "Es que vino mi amiga Laura a cenar.",
+     "en": "It's just that my friend Laura came for dinner.",
+     "audio": "c4_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Vecina",
+     "es": "¡Qué bien! ¿Y qué cocinaste?",
+     "en": "How nice! And what did you cook?",
+     "audio": "c4_05_Vecina.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Gazpacho y tortilla… pero la tortilla se rompió.",
+     "en": "Gazpacho and omelette… but the omelette broke.",
+     "audio": "c4_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Vecina",
+     "es": "¡Ja, ja! A mí me pasa siempre.",
+     "en": "Ha ha! It always happens to me.",
+     "audio": "c4_07_Vecina.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "¿De verdad? ¿Y qué hace usted?",
+     "en": "Really? And what do you do?",
+     "audio": "c4_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Vecina",
+     "es": "Uso una sartén pequeña y mucho aceite.",
+     "en": "I use a small frying pan and lots of oil.",
+     "audio": "c4_09_Vecina.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "¡Gracias por el consejo!",
+     "en": "Thanks for the tip!",
+     "audio": "c4_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Vecina",
+     "es": "De nada. ¿Me guardas un poco la próxima vez?",
+     "en": "You're welcome. Will you save me some next time?",
+     "audio": "c4_11_Vecina.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "¡Claro! Ahora tengo un poco en la nevera.",
+     "en": "Of course! I have a little in the fridge right now.",
+     "audio": "c4_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Vecina",
+     "es": "¡Qué amable eres! ¡Buen provecho para mí, entonces!",
+     "en": "How kind you are! Enjoy my meal, then! (joke)",
+     "audio": "c4_13_Vecina.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's dinner for Laura! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at the corner shop!",
+  "c2": "[cheerfully] Conversation two: at the door!",
+  "c3": "[cheerfully] Conversation three: at the table!",
+  "c4": "[cheerfully] Conversation four: with the neighbour on the stairs!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Tendero": "dabBScGPxrhZRE621vIm",
+  "Laura": "F85f2z6OiMoDXtGx8TxR",
+  "Vecina": "SDVJaMLoJa7wc3s2sn7d"
+ }
+}
