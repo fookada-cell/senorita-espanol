@@ -1,2 +1,5 @@
 content/misterios/*/src/*.mp3
 **/out/*.mp4
+content/misterios/*/audio/
+content/misterios/*/out/*.wav
+content/misterios/*/out/prev_*
