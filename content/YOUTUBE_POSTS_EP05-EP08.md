@@ -1,4 +1,4 @@
-# YouTube posts · EP05–EP08 (main videos + conversation spin-offs)
+# YouTube posts · EP05–EP08 (main videos + conversation spin-offs) · DELE A2 focus
 
 Order: each Sunday main video, then its spin-off 8 hours later.
 
@@ -10,10 +10,12 @@ Files: `Senorita-SUNDAY-EP05-mercado-full-video-subtitled-1080p-v1.mp4` (23:13) 
 Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
-**Learn Spanish with an Easy Story (Shopping at a Madrid Market)**
+**Learn Spanish with an Easy Story (Shopping at a Madrid Market) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? This story is built on DELE A2 vocabulary, so you learn the words you need for the exam in context, while you listen to an easy, slow story in Spanish from Spain.
+
 ⏱️ Chapters
 00:00 Introduction
 00:15 Listen in Spanish with subtitles
@@ -26,9 +28,9 @@ Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. El
 
 Marina is back! After her first Spanish cooking class, she meets her classmate Laura at a traditional market in Madrid to buy everything for gazpacho. They ask for ripe tomatoes at two euros a kilo, pay by card, find stale bread for the recipe, taste olive oil, stop for a coffee at the market bar, and then realise something is missing from the list.
 
-This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen vocabulary words and three expressions you will hear in Spain.
+This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen DELE A2 vocabulary words and three expressions you will hear in Spain.
 
-📚 DELE A2 words in this episode:
+📚 DELE A2 words in this episode (learn them in the story, then review them in the vocabulary section):
 el mercado · el puesto · la lista de la compra · el kilo · maduro · el ajo · el pimiento · el pan duro · el aceite de oliva · el vinagre · probar · la tapa · el zumo · la sal · pesar · la nevera
 
 💡 Pregunta de Hoy 💡
@@ -38,14 +40,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Venga! 🍅 Do you prefer the market or the supermarket? Tell us in Spanish in the comments! 👇
 
 ## Tags
-learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, DELE A2, DELE A2 vocabulary, spanish listening practice, A1 spanish, A2 spanish, shopping in spanish, food vocabulary in spanish, spanish in madrid, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, spanish listening practice, A1 spanish, A2 spanish, shopping in spanish, food vocabulary in spanish, spanish in madrid, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -60,10 +62,12 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 Files: `Senorita-SUNDAY-Conversation-EP05.mp4` (13:22) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (Shopping at a Madrid Market)**
+**Speak Spanish with Easy Conversations (Shopping at a Madrid Market) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Conversation 1: En el puesto de verduras (At the vegetable stall)
@@ -80,6 +84,9 @@ Marina goes shopping at a market in Madrid, and now it's time to talk! In these 
 
 Every conversation comes from this week's story, Shopping at a Madrid Market, and uses its three expressions from Spain: ¡venga!, ¡está tirado! and ¡qué rico! This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+el aceite de oliva · el ajo · el kilo · la lista · maduro · pesar · el pimiento · probar · la sal · la tapa · el vinagre · el zumo
+
 📖 Watch Marina's story first: [link to the Sunday EP05 video]
 
 💡 Pregunta de Hoy 💡
@@ -89,14 +96,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Está tirado! 🍅 Which conversation was the most useful for you: the vegetable stall, the olive oil shop, the market bar or leaving the market? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, ordering food in spanish, spanish market, spanish in madrid, spanish expressions from spain, está tirado, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, ordering food in spanish, spanish market, spanish in madrid, spanish expressions from spain, está tirado, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -113,10 +120,12 @@ Files: `Senorita-SUNDAY-EP06-cena-para-laura-full-video-subtitled-1080p-v1.mp4` 
 Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
-**Learn Spanish with an Easy Story (Dinner for Laura at Home)**
+**Learn Spanish with an Easy Story (Dinner for Laura at Home) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? This story is built on DELE A2 vocabulary, so you learn the words you need for the exam in context, while you listen to an easy, slow story in Spanish from Spain.
+
 ⏱️ Chapters
 00:00 Introduction
 00:19 Listen in Spanish with subtitles
@@ -129,9 +138,9 @@ Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. El
 
 Marina invites her cooking classmate Laura to dinner at her flat in Madrid. She sets the table, makes gazpacho and a Spanish potato omelette… and then the tortilla breaks in two, just before Laura arrives! Laura brings a homemade cheesecake, they cook a salad together, make a toast, talk on the balcony under the lights of Madrid, and plan their next dinner.
 
-This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen vocabulary words and three expressions you will hear in Spain.
+This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen DELE A2 vocabulary words and three expressions you will hear in Spain.
 
-📚 DELE A2 words in this episode:
+📚 DELE A2 words in this episode (learn them in the story, then review them in the vocabulary section):
 la cena · poner la mesa · el mantel · la tortilla de patatas · la cebolla · el huevo · pelar · dar la vuelta · romperse · el timbre · el postre · la tarta de queso · el delantal · brindar · el balcón · lavar los platos
 
 💡 Pregunta de Hoy 💡
@@ -141,14 +150,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Qué apuro! 🍳 What do you like to cook for your friends? Tell us in Spanish in the comments! 👇
 
 ## Tags
-learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, DELE A2, DELE A2 vocabulary, spanish listening practice, A1 spanish, A2 spanish, spanish food vocabulary, spanish omelette, tortilla de patatas, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, spanish listening practice, A1 spanish, A2 spanish, spanish food vocabulary, spanish omelette, tortilla de patatas, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -163,10 +172,12 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 Files: `Senorita-SUNDAY-Conversation-EP06.mp4` (13:59) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (Dinner for Laura at Home)**
+**Speak Spanish with Easy Conversations (Dinner for Laura at Home) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:10 Conversation 1: En la tienda del barrio (At the corner shop)
@@ -183,6 +194,9 @@ Marina invites her classmate Laura to dinner, and now it's time to talk! In thes
 
 Every conversation comes from this week's story, Dinner for Laura at Home, and uses its three expressions from Spain: ¡qué apuro!, no te preocupes and ¡buen provecho! This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+brindar · la cebolla · cenar · dar la vuelta · el delantal · el huevo · el postre · romperse · la tarta de queso
+
 📖 Watch Marina's story first: [link to the Sunday EP06 video]
 
 💡 Pregunta de Hoy 💡
@@ -192,14 +206,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Qué apuro! 🍳 Which conversation was the most useful for you: the corner shop, the door, the dinner table or the neighbour? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, dinner in spanish, food vocabulary in spanish, spanish omelette, buen provecho, spanish expressions from spain, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, dinner in spanish, food vocabulary in spanish, spanish omelette, buen provecho, spanish expressions from spain, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -216,10 +230,12 @@ Files: `Senorita-SUNDAY-EP07-driving-in-madrid-full-video-subtitled-1080p-v1.mp4
 Voices: Mateo (El Faraon, `MQOw6rAjjxLeifjqjuCo`) reads his story in Spanish; Cristina (`dNjJKg63Fr5AXwIdkATa`) is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
-**Learn Spanish with an Easy Story (My First Time Driving in Madrid)**
+**Learn Spanish with an Easy Story (My First Time Driving in Madrid) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? This story is built on DELE A2 vocabulary, so you learn the words you need for the exam in context, while you listen to an easy, slow story in Spanish from Spain.
+
 ⏱️ Chapters
 00:00 Introduction
 00:15 Listen in Spanish with subtitles
@@ -232,9 +248,9 @@ Voices: Mateo (El Faraon, `MQOw6rAjjxLeifjqjuCo`) reads his story in Spanish; Cr
 
 Mateo has quit his office job and is trying new things around the world. This time he is in Madrid, and today he drives in the city for the very first time. He picks up a small white car near Atocha, finds his way through a big roundabout and the traffic lights at Cibeles, parks a little crooked on his friend Carmen's street, and drives back to the centre at sunset.
 
-This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen vocabulary words and three expressions you will hear in Spain.
+This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen DELE A2 vocabulary words and three expressions you will hear in Spain.
 
-📚 DELE A2 words in this episode:
+📚 DELE A2 words in this episode (learn them in the story, then review them in the vocabulary section):
 el coche · la llave · el cinturón · el espejo · la glorieta · el carril · el semáforo · el peatón · el claxon · aparcar · el aparcamiento · la rampa · frenar · devolver · el alquiler · el atardecer
 
 💡 Pregunta de Hoy 💡
@@ -244,14 +260,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Tranqui! 🚗 What did you try for the first time recently? Tell us in Spanish in the comments! 👇
 
 ## Tags
-learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, DELE A2, DELE A2 vocabulary, spanish listening practice, A1 spanish, A2 spanish, driving in spanish, spanish in madrid, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, spanish listening practice, A1 spanish, A2 spanish, driving in spanish, spanish in madrid, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -267,10 +283,12 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 Files: `Senorita-SUNDAY-Conversation-EP07.mp4` (15:12) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (My First Time Driving in Madrid)**
+**Speak Spanish with Easy Conversations (My First Time Driving in Madrid) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Conversation 1: En la oficina de alquiler (At the car rental office)
@@ -287,6 +305,9 @@ Mateo drives in Madrid for the first time, and now it's time to talk! In these f
 
 Every conversation comes from this week's story, My First Time Driving in Madrid, and uses its three expressions from Spain: tranqui, ¡vaya tela! and no está chupado. This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+aparcar · el atardecer · el carril · el cinturón · el coche · devolver · frenar · la glorieta · las llaves · el peatón · el semáforo
+
 📖 Watch Mateo's story first: [link to the Sunday EP07 video]
 
 💡 Pregunta de Hoy 💡
@@ -296,14 +317,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Tranqui! 🚗 Which conversation was the most useful for you: the rental office, Carmen's door, Calle Serrano or returning the car? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, rent a car in spanish, driving in spanish, spanish in madrid, spanish expressions from spain, vaya tela, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, rent a car in spanish, driving in spanish, spanish in madrid, spanish expressions from spain, vaya tela, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -320,10 +341,12 @@ Files: `Senorita-SUNDAY-EP08-painting-class-malaga-full-video-subtitled-1080p-v1
 Voices: Mateo (El Faraon) reads the story in Spanish; Cristina is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
-**Learn Spanish with an Easy Story (My First Painting Class in Málaga)**
+**Learn Spanish with an Easy Story (My First Painting Class in Málaga) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? This story is built on DELE A2 vocabulary, so you learn the words you need for the exam in context, while you listen to an easy, slow story in Spanish from Spain.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Listen in Spanish with subtitles
@@ -336,9 +359,9 @@ Voices: Mateo (El Faraon) reads the story in Spanish; Cristina is the English ho
 
 Mateo is in Málaga, and today he does something he has never done: he paints a picture. He meets his teacher Inés at a studio near the Picasso Museum, draws his first shaky line, mixes a green that comes out far too dark, paints the sky above the port and the Alcazaba, visits the Picasso Museum, and ends the day on the seafront at sunset, already booking his next class.
 
-This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen vocabulary words and three expressions you will hear in Spain.
+This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen DELE A2 vocabulary words and three expressions you will hear in Spain.
 
-📚 DELE A2 words in this episode:
+📚 DELE A2 words in this episode (learn them in the story, then review them in the vocabulary section):
 el taller · el caballete · el lienzo · el pincel · la pintura · la paleta · el cuaderno · la entrada · el mapa · el puerto · el viento · el banco · el mar · mezclar · equivocarse · reservar
 
 💡 Pregunta de Hoy 💡
@@ -348,14 +371,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Qué mala pata! 🎨 Have you ever painted a picture? Tell us in Spanish in the comments! 👇
 
 ## Tags
-learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, DELE A2, DELE A2 vocabulary, spanish listening practice, A1 spanish, A2 spanish, spanish in malaga, art vocabulary in spanish, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, spanish listening practice, A1 spanish, A2 spanish, spanish in malaga, art vocabulary in spanish, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
@@ -370,10 +393,12 @@ learn spanish, spanish story, easy spanish story, slow spanish, spanish for begi
 Files: `Senorita-SUNDAY-Conversation-EP08.mp4` (14:29) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (My First Painting Class in Málaga)**
+**Speak Spanish with Easy Conversations (My First Painting Class in Málaga) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Conversation 1: En el taller (In the studio)
@@ -390,6 +415,9 @@ Mateo takes his first painting class in Málaga, and now it's time to talk! In t
 
 Every conversation comes from this week's story, My First Painting Class in Málaga, and uses its three expressions from Spain: me flipa, ¡qué mala pata! and ni idea. This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+el caballete · el cuaderno · la entrada · el lienzo · el mapa · el pincel · la pintura · reservar · el taller
+
 📖 Watch Mateo's story first: [link to the Sunday EP08 video]
 
 💡 Pregunta de Hoy 💡
@@ -399,14 +427,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Me flipa! 🎨 Which conversation was the most useful for you: the studio, the art shop, the museum or the courtyard? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, museum spanish, spanish in malaga, spanish expressions from spain, me flipa, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, museum spanish, spanish in malaga, spanish expressions from spain, me flipa, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)

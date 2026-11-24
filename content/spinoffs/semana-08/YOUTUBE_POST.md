@@ -3,10 +3,12 @@
 Files: `Senorita-SUNDAY-Conversation-EP08.mp4` (14:29) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (My First Painting Class in Málaga)**
+**Speak Spanish with Easy Conversations (My First Painting Class in Málaga) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Conversation 1: En el taller (In the studio)
@@ -23,6 +25,9 @@ Mateo takes his first painting class in Málaga, and now it's time to talk! In t
 
 Every conversation comes from this week's story, My First Painting Class in Málaga, and uses its three expressions from Spain: me flipa, ¡qué mala pata! and ni idea. This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+el caballete · el cuaderno · la entrada · el lienzo · el mapa · el pincel · la pintura · reservar · el taller
+
 📖 Watch Mateo's story first: [link to the Sunday EP08 video]
 
 💡 Pregunta de Hoy 💡
@@ -32,14 +37,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Me flipa! 🎨 Which conversation was the most useful for you: the studio, the art shop, the museum or the courtyard? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, museum spanish, spanish in malaga, spanish expressions from spain, me flipa, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, museum spanish, spanish in malaga, spanish expressions from spain, me flipa, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)

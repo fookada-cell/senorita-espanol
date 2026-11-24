@@ -4,10 +4,12 @@ Files: `Senorita-SUNDAY-EP06-cena-para-laura-full-video-subtitled-1080p-v1.mp4` 
 Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. Eleven v4, slowed 0.7× with pitch kept.
 
 ## Title
-**Learn Spanish with an Easy Story (Dinner for Laura at Home)**
+**Learn Spanish with an Easy Story (Dinner for Laura at Home) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? This story is built on DELE A2 vocabulary, so you learn the words you need for the exam in context, while you listen to an easy, slow story in Spanish from Spain.
+
 ⏱️ Chapters
 00:00 Introduction
 00:19 Listen in Spanish with subtitles
@@ -20,9 +22,9 @@ Voices: Cristina reads Marina's story in Spanish; Daniel is the English host. El
 
 Marina invites her cooking classmate Laura to dinner at her flat in Madrid. She sets the table, makes gazpacho and a Spanish potato omelette… and then the tortilla breaks in two, just before Laura arrives! Laura brings a homemade cheesecake, they cook a salad together, make a toast, talk on the balcony under the lights of Madrid, and plan their next dinner.
 
-This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen vocabulary words and three expressions you will hear in Spain.
+This is Spanish from Spain, spoken slowly, in three passes: first with Spanish subtitles, then with an English translation after each sentence, and finally in Spanish only, with no story subtitles. Then come three questions, sixteen DELE A2 vocabulary words and three expressions you will hear in Spain.
 
-📚 DELE A2 words in this episode:
+📚 DELE A2 words in this episode (learn them in the story, then review them in the vocabulary section):
 la cena · poner la mesa · el mantel · la tortilla de patatas · la cebolla · el huevo · pelar · dar la vuelta · romperse · el timbre · el postre · la tarta de queso · el delantal · brindar · el balcón · lavar los platos
 
 💡 Pregunta de Hoy 💡
@@ -32,14 +34,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Qué apuro! 🍳 What do you like to cook for your friends? Tell us in Spanish in the comments! 👇
 
 ## Tags
-learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, DELE A2, DELE A2 vocabulary, spanish listening practice, A1 spanish, A2 spanish, spanish food vocabulary, spanish omelette, tortilla de patatas, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish story, easy spanish story, slow spanish, spanish for beginners, spanish from spain, castilian spanish, spanish listening practice, A1 spanish, A2 spanish, spanish food vocabulary, spanish omelette, tortilla de patatas, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)

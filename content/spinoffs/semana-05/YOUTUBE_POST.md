@@ -3,10 +3,12 @@
 Files: `Senorita-SUNDAY-Conversation-EP05.mp4` (13:22) + `.srt` + `thumbnail.jpg`
 
 ## Title
-**Speak Spanish with Easy Conversations (Shopping at a Madrid Market)**
+**Speak Spanish with Easy Conversations (Shopping at a Madrid Market) | DELE A2 Vocabulary**
 
 ## Description
 ---
+🎯 Preparing for the DELE A2 exam? These conversations practise everyday situations from the DELE A2 speaking and listening tasks with DELE A2 vocabulary, so you hear and repeat exam words in real dialogues.
+
 ⏱️ Chapters
 00:00 Introduction
 00:11 Conversation 1: En el puesto de verduras (At the vegetable stall)
@@ -23,6 +25,9 @@ Marina goes shopping at a market in Madrid, and now it's time to talk! In these 
 
 Every conversation comes from this week's story, Shopping at a Madrid Market, and uses its three expressions from Spain: ¡venga!, ¡está tirado! and ¡qué rico! This is Spanish from Spain, spoken slowly, in two rounds: first listen and read each line in Spanish with an English translation, then listen again and repeat each line in the pause. After each conversation, we review the key phrases.
 
+📚 DELE A2 words you practise:
+el aceite de oliva · el ajo · el kilo · la lista · maduro · pesar · el pimiento · probar · la sal · la tapa · el vinagre · el zumo
+
 📖 Watch Marina's story first: [link to the Sunday EP05 video]
 
 💡 Pregunta de Hoy 💡
@@ -32,14 +37,14 @@ Write your answer in Spanish in the comments 👇
 🔔 Subscribe to Señorita Christina Español for more easy stories and conversations in slow Spanish:
 https://www.youtube.com/@SenioritaChristina?sub_confirmation=1
 
-#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #EspañolLento #Español
+#LearnSpanish #SpanishForBeginners #SlowSpanish #SpanishConversation #DELEA2 #DELE #EspañolLento #Español
 ---
 
 ## Pinned comment
 ¡Está tirado! 🍅 Which conversation was the most useful for you: the vegetable stall, the olive oil shop, the market bar or leaving the market? Tell us in Spanish! 👇
 
 ## Tags
-learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, ordering food in spanish, spanish market, spanish in madrid, spanish expressions from spain, está tirado, español lento
+DELE A2, DELE A2 vocabulary, DELE A2 preparation, DELE A2 Spanish exam, DELE exam practice, learn spanish, spanish conversation, spanish for beginners, slow spanish, spanish from spain, castilian spanish, listen and repeat spanish, A1 spanish, A2 spanish, shopping in spanish, ordering food in spanish, spanish market, spanish in madrid, spanish expressions from spain, está tirado, español lento
 
 ## Video elements
 - Subtitles: upload the `.srt` (With timing)
