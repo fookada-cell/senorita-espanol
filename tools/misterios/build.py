@@ -17,10 +17,12 @@ VOICE = {"Lucía": "JddqVF50ZSIR7SRbJE6u", "Marcos": "uPc5TJmLHicJAPs7qpif", "Ab
 SR = 44100; A = f"{EP}/audio"; os.makedirs(A, exist_ok=True); OUT = f"{EP}/out"; os.makedirs(OUT, exist_ok=True)
 SPEAK = set(VOICE)
 
+import hashlib
 def tts(i, who, text, slow=1.0):
-    wav = f"{A}/{i:03d}.wav"
+    i = hashlib.md5(f"{who}|{text}|{slow}".encode()).hexdigest()[:12]   # cache by content, not position
+    wav = f"{A}/{i}.wav"
     if os.path.exists(wav): return wav
-    mp3 = f"{A}/{i:03d}.mp3"
+    mp3 = f"{A}/{i}.mp3"
     if not os.path.exists(mp3):
         body = json.dumps({"text": text, "model_id": "eleven_multilingual_v2",
                            "voice_settings": {"stability": 0.5, "similarity_boost": 0.75, "speed": 0.7}}).encode()

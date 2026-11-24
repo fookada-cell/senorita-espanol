@@ -1,6 +1,6 @@
 # YouTube post · Misterios de cada día · 12/31 · ¿Y las uvas? (Nochevieja)
 
-Files: `12-31 Y las uvas (Nochevieja).mp4` (8:20) + `.srt` + thumbnail `scenes/IMG_0943.jpg` + `12-31 Y las uvas (Nochevieja).mp3`
+Files: `12-31 Nochebuena (Christmas Eve).mp4` (8:43) + `.srt` + thumbnail `scenes/IMG_0943.jpg` + `12-31 Nochebuena (Christmas Eve).mp3` (new grapes audio)
 Voices (as in MP3_WORKFLOW): Lucía = Valeria · Marcos = Andrés · Abuela Carmen = Estela · eleven_multilingual_v2, speed 0.7.
 
 ## Title
@@ -41,10 +41,10 @@ Misterios de cada día · Everyday Mysteries – Nochevieja
 0:36 Parte 1 – El misterio
 2:56 ¿Qué crees tú?
 3:15 Parte 2 – Primer giro
-4:27 Parte 3 – Segundo giro y solución
-5:51 Repite conmigo
-7:09 Mini quiz
-7:43 Moraleja y cierre
+4:50 Parte 3 – Segundo giro y solución
+6:14 Repite conmigo
+7:32 Mini quiz
+8:05 Moraleja y cierre
 
 📄 Free PDF with the full story and vocabulary: [PDF LINK]
 ▶️ Next mystery: [NEXT MYSTERY LINK]
@@ -69,3 +69,6 @@ señorita christina español, spain spanish, learn spanish, spanish story for be
 ## Notes
 - The thumbnail (IMG_0943) says A2–B1, so the title uses A2–B1. Earlier Misterios episodes used A1–A2.
 - The old `12-31 Nochebuena (Christmas Eve).mp3` in Drive is a turrón/Nochebuena story, so it doesn't match these images. This episode uses a new script (`script.py`) and new audio.
+
+## Scene index (ESCENA → image)
+Escena 1–14 = IMG_0930 … IMG_0943, in order (Escena 14 = end screen). Escena 9 (suspect list) added to the script.
