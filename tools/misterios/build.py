@@ -103,8 +103,9 @@ def draw(e):
         le, ln = wrap(d, es, fe, 1560), wrap(d, en, fn, 1560)
         h = 30 + (44 if who else 0) + 68 * len(le) + 50 * len(ln) + 20
         bw = max([d.textlength(l, font=fe) for l in le] + [d.textlength(l, font=fn) for l in ln] + [d.textlength(who, font=fw)]) + 90
-        y0 = H - 50 - h
-        d.rounded_rectangle([(W - bw) / 2, y0, (W + bw) / 2, H - 50], radius=26, fill=(14, 10, 8, 190))
+        bot = H - (175 if e["img"] == CFG["title_image"] else 50)   # end screen: stay above the thumbnail's banner
+        y0 = bot - h
+        d.rounded_rectangle([(W - bw) / 2, y0, (W + bw) / 2, bot], radius=26, fill=(14, 10, 8, 190))
         y = y0 + 22
         if who: d.text(((W - d.textlength(who, font=fw)) / 2, y), who, font=fw, fill=COL[who] + (255,)); y += 44
         for l in le: d.text(((W - d.textlength(l, font=fe)) / 2, y), l, font=fe, fill=(255, 255, 255)); y += 68
@@ -126,7 +127,7 @@ def frame(tt, idx=[0], cache={}):
         if len(cache) > 20: cache.clear()
         cache[key] = draw(e)
     fr = cache[key].copy()
-    if not e.get("title"):
+    if not e.get("title") and e["img"] != CFG["title_image"]:   # no logo over the thumbnail's flag badge
         ph = (tt - 1.0) % 60.0; lg = LOGO
         if ph < 1.2: lg = LOGO.resize((max(2, round(LOGO.width * abs(math.cos(ph / 1.2 * 2 * math.pi)))), 150))
         fr.alpha_composite(lg, (W - 24 - LOGO.width + (LOGO.width - lg.width) // 2, 24))
