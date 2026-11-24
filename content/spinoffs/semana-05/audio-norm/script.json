@@ -1,0 +1,404 @@
+{
+ "convs": [
+  {
+   "title": "1 · En el puesto de verduras",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Frutero",
+     "es": "¡Buenos días! ¿Qué te pongo?",
+     "en": "Good morning! What can I get you?",
+     "audio": "c1_01_Frutero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "Buenos días. ¿A cuánto está el kilo de tomates?",
+     "en": "Good morning. How much is a kilo of tomatoes?",
+     "audio": "c1_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Frutero",
+     "es": "A dos euros el kilo. Están muy maduros.",
+     "en": "Two euros a kilo. They're very ripe.",
+     "audio": "c1_03_Frutero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "¡Está tirado! Un kilo, por favor.",
+     "en": "That's dirt cheap! A kilo, please.",
+     "audio": "c1_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Frutero",
+     "es": "Aquí tienes. ¿Algo más?",
+     "en": "Here you are. Anything else?",
+     "audio": "c1_05_Frutero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Sí, un pepino y dos pimientos verdes.",
+     "en": "Yes, a cucumber and two green peppers.",
+     "audio": "c1_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Frutero",
+     "es": "¿Son para un gazpacho?",
+     "en": "Are they for a gazpacho?",
+     "audio": "c1_07_Frutero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "¡Sí! Para mi clase de cocina.",
+     "en": "Yes! For my cooking class.",
+     "audio": "c1_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Frutero",
+     "es": "Entonces necesitas ajo. ¿Una cabeza?",
+     "en": "Then you need garlic. A head?",
+     "audio": "c1_09_Frutero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "Sí, gracias. ¿Cuánto es todo?",
+     "en": "Yes, thanks. How much is everything?",
+     "audio": "c1_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Frutero",
+     "es": "Cuatro euros con cincuenta.",
+     "en": "Four euros fifty.",
+     "audio": "c1_11_Frutero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "¿Puedo pagar con tarjeta?",
+     "en": "Can I pay by card?",
+     "audio": "c1_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Frutero",
+     "es": "Claro. ¡Que te salga muy rico el gazpacho!",
+     "en": "Of course. I hope your gazpacho turns out delicious!",
+     "audio": "c1_13_Frutero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En la tienda de aceite",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Aceitera",
+     "es": "Hola, buenos días. ¿Quieres probar nuestro aceite de oliva?",
+     "en": "Hello, good morning. Would you like to taste our olive oil?",
+     "audio": "c2_01_Aceitera.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "¡Sí, por favor!",
+     "en": "Yes, please!",
+     "audio": "c2_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Aceitera",
+     "es": "Toma un trozo de pan. Es aceite de Jaén.",
+     "en": "Take a piece of bread. It's oil from Jaén.",
+     "audio": "c2_03_Aceitera.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "Mmm… ¡Qué rico!",
+     "en": "Mmm… How delicious!",
+     "audio": "c2_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Aceitera",
+     "es": "¿Verdad? Es muy suave.",
+     "en": "Isn't it? It's very smooth.",
+     "audio": "c2_05_Aceitera.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "¿Cuánto cuesta esta botella?",
+     "en": "How much does this bottle cost?",
+     "audio": "c2_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Aceitera",
+     "es": "La grande, doce euros. La pequeña, seis.",
+     "en": "The big one, twelve euros. The small one, six.",
+     "audio": "c2_07_Aceitera.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "Es un poco caro… La pequeña, por favor.",
+     "en": "It's a bit expensive… The small one, please.",
+     "audio": "c2_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Aceitera",
+     "es": "Muy bien. ¿Necesitas algo más?",
+     "en": "Very good. Do you need anything else?",
+     "audio": "c2_09_Aceitera.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "Sí, también una botella de vinagre.",
+     "en": "Yes, also a bottle of vinegar.",
+     "audio": "c2_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Aceitera",
+     "es": "Aquí tienes. Son ocho euros en total.",
+     "en": "Here you are. That's eight euros in total.",
+     "audio": "c2_11_Aceitera.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "Muy bien. ¡Muchas gracias!",
+     "en": "Great. Thank you very much!",
+     "audio": "c2_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Aceitera",
+     "es": "A ti. ¡Y vuelve pronto!",
+     "en": "Thank you. And come back soon!",
+     "audio": "c2_13_Aceitera.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · En el bar del mercado",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Camarero",
+     "es": "¡Hola! ¿Qué os pongo?",
+     "en": "Hi! What can I get you two?",
+     "audio": "c3_01_Camarero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "Para mí, un café con leche, por favor.",
+     "en": "For me, a white coffee, please.",
+     "audio": "c3_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Camarero",
+     "es": "¿Y para tu amiga?",
+     "en": "And for your friend?",
+     "audio": "c3_03_Camarero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "Un zumo de naranja.",
+     "en": "An orange juice.",
+     "audio": "c3_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Camarero",
+     "es": "¿Algo de comer?",
+     "en": "Anything to eat?",
+     "audio": "c3_05_Camarero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Sí. ¿Qué tapas tenéis?",
+     "en": "Yes. What tapas do you have?",
+     "audio": "c3_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Camarero",
+     "es": "Tortilla de patatas, croquetas y pan con tomate.",
+     "en": "Potato omelette, croquettes and bread with tomato.",
+     "audio": "c3_07_Camarero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "Una tapa de tortilla para compartir.",
+     "en": "A tapa of omelette to share.",
+     "audio": "c3_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Camarero",
+     "es": "Muy bien. ¿Algo más?",
+     "en": "Very good. Anything else?",
+     "audio": "c3_09_Camarero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "No, nada más, gracias.",
+     "en": "No, nothing else, thanks.",
+     "audio": "c3_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Camarero",
+     "es": "Aquí tenéis. ¡Que aproveche!",
+     "en": "Here you are. Enjoy!",
+     "audio": "c3_11_Camarero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "¿Me cobras, por favor?",
+     "en": "Can I pay, please?",
+     "audio": "c3_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Camarero",
+     "es": "Son cinco euros con veinte.",
+     "en": "That's five euros twenty.",
+     "audio": "c3_13_Camarero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · A la salida del mercado",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Laura",
+     "es": "¡Espera, Marina! Falta algo en la lista.",
+     "en": "Wait, Marina! Something's missing from the list.",
+     "audio": "c4_01_Laura.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Marina",
+     "es": "¿Qué falta?",
+     "en": "What's missing?",
+     "audio": "c4_02_Marina.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Laura",
+     "es": "¡La sal!",
+     "en": "The salt!",
+     "audio": "c4_03_Laura.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Marina",
+     "es": "¡Ay, es verdad! Vamos a otro puesto.",
+     "en": "Oh, that's true! Let's go to another stall.",
+     "audio": "c4_04_Marina.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Laura",
+     "es": "Vale. ¡Uf, las bolsas pesan mucho!",
+     "en": "OK. Phew, the bags are really heavy!",
+     "audio": "c4_05_Laura.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Marina",
+     "es": "Sí, pero ya tenemos todo para la clase.",
+     "en": "Yes, but now we have everything for the class.",
+     "audio": "c4_06_Marina.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Laura",
+     "es": "Oye, ¿quieres cocinar juntas un día en tu casa?",
+     "en": "Hey, do you want to cook together one day at your place?",
+     "audio": "c4_07_Laura.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Marina",
+     "es": "¡Claro! ¿El próximo sábado?",
+     "en": "Of course! Next Saturday?",
+     "audio": "c4_08_Marina.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Laura",
+     "es": "¡Venga! Me encanta la idea.",
+     "en": "Great! I love the idea.",
+     "audio": "c4_09_Laura.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Marina",
+     "es": "¿Qué preparamos?",
+     "en": "What shall we make?",
+     "audio": "c4_10_Marina.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Laura",
+     "es": "¿Una tortilla de patatas?",
+     "en": "A Spanish omelette?",
+     "audio": "c4_11_Laura.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Marina",
+     "es": "Vale. ¡Yo hago la tortilla y tú el postre!",
+     "en": "OK. I'll make the omelette and you make dessert!",
+     "audio": "c4_12_Marina.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Laura",
+     "es": "¡Trato hecho! Hasta el sábado.",
+     "en": "Deal! See you on Saturday.",
+     "audio": "c4_13_Laura.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Marina's morning at a Madrid market! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at the vegetable stall!",
+  "c2": "[cheerfully] Conversation two: at the olive oil shop!",
+  "c3": "[cheerfully] Conversation three: at the market bar!",
+  "c4": "[cheerfully] Conversation four: leaving the market!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Marina": "dNjJKg63Fr5AXwIdkATa",
+  "Frutero": "ZCh4e9eZSUf41K4cmCEL",
+  "Aceitera": "SDVJaMLoJa7wc3s2sn7d",
+  "Camarero": "orF2qy9215xjwqqxqsWW",
+  "Laura": "F85f2z6OiMoDXtGx8TxR"
+ }
+}
