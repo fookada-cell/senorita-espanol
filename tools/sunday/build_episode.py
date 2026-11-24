@@ -3,6 +3,10 @@ Order: English opening -> listen 1 (Spanish subtitles) -> listen 2 (Spanish line
 -> listen 3 (no story subtitles, same speed) -> 3 questions (5 s pause each) -> 16 vocabulary cards
 -> expressions from Spain -> closing. Same 12 images and the same recordings in all three listens.
 
+Format 2 (config "format": 2, EP09 onwards): 3-step roadmap card at the intro and before listens 2 and 3,
+a "Repite · Your turn" pause after every Spanish line in listen 2 (line length + 1 s), questions say "answer in the comments",
+vocabulary = 25-35 phrases in story order with a repeat pause. EP01-EP08 (no "format" key) render exactly as before.
+
 Usage: python3 tools/sunday/build_episode.py content/sunday/epXX [preview|chapters|testNN]
 Inputs in the episode folder: lines.json, config.json, audio/<ID>.wav (tools/sunday/voices.py), scenes/scene-NN.jpg
 """
@@ -16,6 +20,7 @@ C = json.load(open(f"{EP}/config.json", encoding="utf-8"))
 L = json.load(open(f"{EP}/lines.json", encoding="utf-8"))
 OUT = f"{EP}/out"; os.makedirs(OUT, exist_ok=True)
 WID, HEI, FPS, SR = 1920, 1080, 30, 44100
+V2 = C.get("format", 1) >= 2   # EP09+: repeat gaps, 3-step roadmap, comment questions, phrase vocab
 FONTS = f"{REPO}/tools/spinoff/fonts"
 
 def mont(size, w="SemiBold"):
@@ -97,6 +102,37 @@ def center_card(frame, kicker, big, small, tag=None):
         d.text((WID - 240 - tw - 66, top + 38), tag, font=ft, fill=(255, 196, 0))
     return Image.alpha_composite(frame, lay)
 
+STEPS = [("Escucha con subtítulos", "Listen with subtitles"), ("Escucha con traducción", "Listen with translation"),
+         ("Escucha sin subtítulos", "Listen without subtitles")]
+def roadmap(frame, active):
+    """3-step method graphic. active = 0 (all equal), 1, 2 or 3 (that step highlighted, the done ones ticked)."""
+    lay = Image.new("RGBA", frame.size, (0, 0, 0, 0)); d = ImageDraw.Draw(lay)
+    bw, bh, gapx = 470, 430, 60; x0 = (WID - 3 * bw - 2 * gapx) // 2; y0 = 250
+    fn, fe, fs = serif(120), mont(40, "Bold"), mont(32, "Medium")
+    for i, (es, en) in enumerate(STEPS):
+        n = i + 1; x = x0 + i * (bw + gapx)
+        on = active in (0, n); done = active and n < active
+        fill = (181, 52, 42, 245) if active == n else (250, 244, 228, 238 if on else 150)
+        ink = (255, 255, 255) if active == n else (40, 30, 24) if on else (120, 105, 95)
+        d.rounded_rectangle([x, y0, x + bw, y0 + bh], radius=40, fill=fill)
+        if done:   # drawn tick (fonts have no check-mark glyph)
+            cx, cy = x + bw / 2, y0 + 100
+            d.line([(cx - 45, cy), (cx - 12, cy + 35), (cx + 50, cy - 40)], fill=ink, width=16, joint="curve")
+        else:
+            d.text((x + (bw - d.textlength(str(n), font=fn)) / 2, y0 + 30), str(n), font=fn, fill=ink)
+        yy = y0 + 200
+        for l in wrap(d, es, fe, bw - 60):
+            d.text((x + (bw - d.textlength(l, font=fe)) / 2, yy), l, font=fe, fill=ink); yy += 52
+        for l in wrap(d, en, fs, bw - 60):
+            d.text((x + (bw - d.textlength(l, font=fs)) / 2, yy + 8), l, font=fs, fill=ink); yy += 42
+    return Image.alpha_composite(frame, lay)
+def turn_pill(frame, text="Repite · Your turn"):
+    lay = Image.new("RGBA", frame.size, (0, 0, 0, 0)); d = ImageDraw.Draw(lay); f = mont(40, "Bold")
+    w = d.textlength(text, font=f) + 70
+    d.rounded_rectangle([(WID - w) / 2, 60, (WID + w) / 2, 130], radius=35, fill=(181, 52, 42, 235))
+    d.text(((WID - w) / 2 + 35, 72), text, font=f, fill=(255, 255, 255))
+    return Image.alpha_composite(frame, lay)
+
 # ---------- audio ----------
 def load(id_):
     with wave.open(f"{EP}/audio/{id_}.wav") as w:
@@ -125,7 +161,8 @@ M = lambda f: f"M{int(f[1:]) + 10:03d}"
 first = list(C["scenes"])[0]; last = list(C["scenes"])[-1]
 
 chapter("Introduction")
-say("M001", 0.8, img=first, sub=(L["M001"]["text"], "en"))
+if V2: say("M001", 0.8, img=first, blur=True, road=0, sub=(L["M001"]["text"], "en"))
+else: say("M001", 0.8, img=first, sub=(L["M001"]["text"], "en"))
 gap(0.6, img=first)
 chapter("Listen in Spanish with subtitles")
 for i, f in enumerate(F):
@@ -133,33 +170,41 @@ for i, f in enumerate(F):
     say(f, 1.0 if (nxt and scene_of(nxt) != scene_of(f)) else 0.6, img=scene_of(f), sub=(L[f]["text"], "es"))
 gap(0.6, img=last)
 chapter("With English translation")
-say("M002", 0.9, img=first, sub=(L["M002"]["text"], "en"))
+say("M002", 0.9, img=first, sub=(L["M002"]["text"], "en"), **(dict(blur=True, road=2) if V2 else {}))
 for i, f in enumerate(F):
     k = scene_of(f)
-    say(f, 0.4, img=k, sub=(L[f]["text"], "es"))
+    say(f, 0.2 if V2 else 0.4, img=k, sub=(L[f]["text"], "es"))
+    if V2: gap(round(dur(f) + 1.0, 2), img=k, sub=(L[f]["text"], "es"), turn=True)
     nxt = F[i + 1] if i + 1 < len(F) else None
     say(M(f), 1.0 if (nxt and scene_of(nxt) != k) else 0.7, img=k, sub=(L[M(f)]["text"], "en"))
 gap(0.6, img=last)
 chapter("Spanish only, no subtitles")
-say("M003", 0.9, img=first, sub=(L["M003"]["text"], "en"))
+say("M003", 0.9, img=first, sub=(L["M003"]["text"], "en"), **(dict(blur=True, road=3) if V2 else {}))
 for i, f in enumerate(F):
     nxt = F[i + 1] if i + 1 < len(F) else None
     say(f, 1.0 if (nxt and scene_of(nxt) != scene_of(f)) else 0.6, img=scene_of(f))
 gap(1.0, img=last)
 chapter("Questions")
 qs = C.get("question_scene", first)
-say("M004", 0.8, img=qs, blur=True, card=("", "Preguntas", "Three questions · Tres preguntas"))
+QSUB = "Answer in the comments · Responde en los comentarios" if V2 else ""
+say("M004", 0.8, img=qs, blur=True, card=("", "Preguntas", "Three questions · Tres preguntas" + (" · Answer in the comments" if V2 else "")))
 for n, q in enumerate([k for k in ("Q1", "Q2", "Q3") if k in L], 1):
-    say(q, 5.0, img=qs, blur=True, card=(f"Pregunta {n}", L[q]["text"], ""))
+    say(q, 5.0, img=qs, blur=True, card=(f"Pregunta {n}", L[q]["text"], QSUB))
 gap(0.8, img=qs, blur=True)
 chapter("Vocabulary")
 vs = sorted([k for k in L if k[0] == "V" and k[1:].isdigit()])
-say("M005", 0.8, img=qs, blur=True, card=("", "Vocabulario", "Sixteen useful words · Spanish first, then English"))
-for v in vs:
+VSUB = (f"{len(vs)} useful phrases from the story · Repeat each one" if V2 else "Sixteen useful words · Spanish first, then English")
+say("M005", 0.8, img=qs, blur=True, card=("", "Vocabulario", VSUB))
+for n, v in enumerate(vs, 1):
     img = scene_of(f"F{C.get('vocab_lines', {}).get(v, 30):03d}") if C.get("vocab_lines") else qs
-    card = ("Vocabulario", L[v]["text"], L[v + "e"]["text"])
-    say(v, 0.3, img=img, blur=True, card=card)
-    say(v + "e", 0.5, img=img, blur=True, card=card)
+    card = ("Vocabulario" + (f" · {n}/{len(vs)}" if V2 else ""), L[v]["text"], L[v + "e"]["text"])
+    if V2:
+        say(v, 0.2, img=img, blur=True, card=card[:2] + ("",))
+        gap(round(dur(v) + 1.0, 2), img=img, blur=True, card=card[:2] + ("",), turn=True)
+        say(v + "e", 0.6, img=img, blur=True, card=card)
+    else:
+        say(v, 0.3, img=img, blur=True, card=card)
+        say(v + "e", 0.5, img=img, blur=True, card=card)
 gap(0.6, img=qs, blur=True)
 chapter("Expressions from Spain")
 say("M006", 0.8, img=qs, blur=True, card=("", "Expresiones de España", "Expressions you will hear in Spain"))
@@ -193,13 +238,15 @@ def logo_at(tt):
     return LOGO.resize((max(2, round(LOGO.width * sx)), LH), Image.BILINEAR)
 def base_frame(e):
     fr = (BLUR if e.get("blur") else SCN)[e["img"]].convert("RGBA")
+    if e.get("road") is not None: fr = roadmap(fr, e["road"])
     if e.get("card"): fr = center_card(fr, *e["card"])
+    if e.get("turn"): fr = turn_pill(fr)
     if e.get("sub"): fr = subtitle(fr, *e["sub"])
     return fr
 CACHE = {}
 def frame_at(tt, idx=[0]):
     while idx[0] + 1 < len(EV) and tt >= EV[idx[0]]["end"]: idx[0] += 1
-    e = EV[idx[0]]; key = (e["img"], e.get("blur"), str(e.get("card")), str(e.get("sub")))
+    e = EV[idx[0]]; key = (e["img"], e.get("blur"), str(e.get("card")), str(e.get("sub")), e.get("road"), e.get("turn"))
     if key not in CACHE:
         if len(CACHE) > 40: CACHE.clear()
         CACHE[key] = base_frame(e)
@@ -215,6 +262,16 @@ if MODE == "preview":
     for n, ((img, tag), e) in enumerate(sorted(picks.items())):
         frame_at(e["start"] + 0.5, [EV.index(e)]).resize((960, 540)).save(f"{OUT}/preview_{img}_{tag}.jpg", quality=80)
     print("preview frames:", len(picks), "· total", mmss(TOTAL)); sys.exit()
+
+if MODE == "v2check":   # one frame per new format-2 element
+    want = {"roadmap-intro": lambda e: e.get("road") == 0, "roadmap-step2": lambda e: e.get("road") == 2,
+            "roadmap-step3": lambda e: e.get("road") == 3, "repeat-turn": lambda e: e.get("turn") and e.get("sub"),
+            "question": lambda e: (e.get("card") or ("",))[0].startswith("Pregunta"),
+            "vocab-turn": lambda e: e.get("turn") and e.get("card")}
+    for name, ok in want.items():
+        e = next((e for e in EV if ok(e)), None)
+        if e: frame_at(e["start"] + 0.2, [EV.index(e)]).resize((960, 540)).save(f"{OUT}/v2_{name}.jpg", quality=82)
+    print("v2 frames saved"); sys.exit()
 
 # ---------- audio mix ----------
 END = TOTAL if not MODE.startswith("test") else min(TOTAL, float(MODE[4:] or 60))
