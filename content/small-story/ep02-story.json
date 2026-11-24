@@ -1,0 +1,345 @@
+{
+ "source": "Aired video transcript (automatic speech-to-text), cleaned; missing translations added by Claude 2026-11-24",
+ "lines": [
+  {
+   "es": "Hola, me llamo Elena.",
+   "en": "Hello, my name is Elena."
+  },
+  {
+   "es": "Tengo 32 años.",
+   "en": "I am 32 years old."
+  },
+  {
+   "es": "Este es mi primer viaje en tren a Toledo.",
+   "en": "This is my first train trip to Toledo."
+  },
+  {
+   "es": "Hoy es sábado, son las 8 de la mañana.",
+   "en": "Today is Saturday, it is eight in the morning."
+  },
+  {
+   "es": "Vivo en Madrid, pero hoy voy a Toledo.",
+   "en": "I live in Madrid, but today I am going to Toledo."
+  },
+  {
+   "es": "Preparo mi bolso marrón.",
+   "en": "I get my brown bag ready."
+  },
+  {
+   "es": "Llevo agua, un mapa y mi móvil.",
+   "en": "I take water, a map and my phone."
+  },
+  {
+   "es": "Riego mi planta verde.",
+   "en": "I water my green plant."
+  },
+  {
+   "es": "Estoy un poco nerviosa, pero también muy contenta.",
+   "en": "I am a little nervous, but also very happy."
+  },
+  {
+   "es": "A las 9 llego a la estación de Atocha.",
+   "en": "At nine, I arrive at Atocha Station."
+  },
+  {
+   "es": "Hay mucha gente y muchas pantallas.",
+   "en": "There are lots of people and lots of screens."
+  },
+  {
+   "es": "Compro un billete de ida y vuelta.",
+   "en": "I buy a return ticket."
+  },
+  {
+   "es": "Busco mi andén.",
+   "en": "I look for my platform."
+  },
+  {
+   "es": "¡Aquí está!",
+   "en": "Here it is."
+  },
+  {
+   "es": "Subo al tren con mi billete en la mano.",
+   "en": "I get on the train with my ticket in my hand."
+  },
+  {
+   "es": "Busco mi asiento.",
+   "en": "I look for my seat."
+  },
+  {
+   "es": "Está junto a la ventana.",
+   "en": "It is by the window."
+  },
+  {
+   "es": "Me siento y respiro.",
+   "en": "I sit down and breathe."
+  },
+  {
+   "es": "El tren es rápido y cómodo.",
+   "en": "The train is fast and comfortable."
+  },
+  {
+   "es": "El viaje dura media hora, más o menos.",
+   "en": "The journey takes about half an hour."
+  },
+  {
+   "es": "Miro por la ventana.",
+   "en": "I look out of the window."
+  },
+  {
+   "es": "Veo campos amarillos y el cielo azul.",
+   "en": "I see yellow fields and the blue sky."
+  },
+  {
+   "es": "Hay pocas casas y algunos olivos.",
+   "en": "There are few houses and some olive trees."
+  },
+  {
+   "es": "Después de un rato veo una ciudad en una colina.",
+   "en": "After a while, I see a city on a hill."
+  },
+  {
+   "es": "¡Es Toledo!",
+   "en": "It's Toledo."
+  },
+  {
+   "es": "Llego a la estación de Toledo.",
+   "en": "I arrive at Toledo Station."
+  },
+  {
+   "es": "Es muy bonita.",
+   "en": "It is very pretty."
+  },
+  {
+   "es": "Tiene arcos y una torre con reloj.",
+   "en": "It has arches and a clock tower."
+  },
+  {
+   "es": "Abro mi mapa y camino hacia el centro.",
+   "en": "I open my map and walk towards the center."
+  },
+  {
+   "es": "Cruzo un puente sobre el río Tajo.",
+   "en": "I cross a bridge over the river Tagus."
+  },
+  {
+   "es": "El agua corre despacio.",
+   "en": "The water flows slowly."
+  },
+  {
+   "es": "Son las diez y media.",
+   "en": "It is half past ten."
+  },
+  {
+   "es": "Estoy en el casco antiguo.",
+   "en": "I am in the old town."
+  },
+  {
+   "es": "Las calles son estrechas y de piedra.",
+   "en": "The streets are narrow and made of stone."
+  },
+  {
+   "es": "Subo y bajo muchas cuestas.",
+   "en": "I go up and down lots of slopes."
+  },
+  {
+   "es": "Me pierdo un poco, pero no pasa nada.",
+   "en": "I get a little lost, but it's no problem."
+  },
+  {
+   "es": "Cada calle es una sorpresa.",
+   "en": "Every street is a surprise."
+  },
+  {
+   "es": "A las doce llego a la catedral.",
+   "en": "At twelve, I arrive at the cathedral."
+  },
+  {
+   "es": "Es enorme y muy antigua.",
+   "en": "It is huge and very old."
+  },
+  {
+   "es": "Entro despacio.",
+   "en": "I go in slowly."
+  },
+  {
+   "es": "Dentro hay silencio y mucha luz.",
+   "en": "Inside, there is silence and lots of light."
+  },
+  {
+   "es": "Miro hacia arriba.",
+   "en": "I look up."
+  },
+  {
+   "es": "¡Qué alto es el techo!",
+   "en": "The ceiling is so high."
+  },
+  {
+   "es": "A las dos, como en una plaza pequeña, me siento en una terraza, al sol.",
+   "en": "At two, I have lunch in a small square."
+  },
+  {
+   "es": "Pido el menú del día, como sopa, carne con patatas y pan.",
+   "en": "I eat soup, meat with potatoes and bread."
+  },
+  {
+   "es": "Todo está muy rico.",
+   "en": "Everything is delicious."
+  },
+  {
+   "es": "Después de comer, entro en una tienda de dulces.",
+   "en": "After lunch, I go into a sweet shop."
+  },
+  {
+   "es": "Compro una caja pequeña de mazapán.",
+   "en": "I buy a small box of marzipan."
+  },
+  {
+   "es": "El mazapán es un dulce típico de Toledo.",
+   "en": "Marzipan is a typical sweet from Toledo."
+  },
+  {
+   "es": "Es un regalo para mi madre.",
+   "en": "It is a present for my mother."
+  },
+  {
+   "es": "Le mando una foto.",
+   "en": "I send her a photo."
+  },
+  {
+   "es": "Ella responde con un corazón.",
+   "en": "She replies with a heart."
+  },
+  {
+   "es": "Por la tarde voy a un mirador.",
+   "en": "In the afternoon, I go to a viewpoint."
+  },
+  {
+   "es": "Desde aquí veo el río Tajo y los tejados de la ciudad.",
+   "en": "From here, I see the river Tagus and the roofs of the city."
+  },
+  {
+   "es": "La ciudad parece una postal.",
+   "en": "The city looks like a postcard."
+  },
+  {
+   "es": "Me siento en un muro de piedra y descanso.",
+   "en": "I sit on a stone wall and rest."
+  },
+  {
+   "es": "Pienso, hoy es un día especial.",
+   "en": "I think, today is a special day."
+  },
+  {
+   "es": "Al atardecer camino otra vez hacia la estación.",
+   "en": "At sunset, I walk back towards the station."
+  },
+  {
+   "es": "El sol baja detrás de las colinas.",
+   "en": "The sun goes down behind the hills."
+  },
+  {
+   "es": "El cielo es naranja y rosa.",
+   "en": "The sky is orange and pink."
+  },
+  {
+   "es": "Estoy cansada, pero muy feliz.",
+   "en": "I am tired, but very happy."
+  },
+  {
+   "es": "Subo al tren de vuelta a Madrid.",
+   "en": "I get on the train back to Madrid."
+  },
+  {
+   "es": "Me siento junto a la ventana otra vez.",
+   "en": "I sit by the window again."
+  },
+  {
+   "es": "Fuera, el cielo ya está oscuro.",
+   "en": "Outside, the sky is already dark."
+  },
+  {
+   "es": "Tengo la caja de mazapán en mi bolso.",
+   "en": "I have the box of marzipan in my bag."
+  },
+  {
+   "es": "Toledo ya es un recuerdo bonito.",
+   "en": "Toledo is already a lovely memory."
+  },
+  {
+   "es": "Este es mi primer viaje en tren a Toledo.",
+   "en": "This is my first train trip to Toledo."
+  }
+ ],
+ "vocab": [
+  {
+   "es": "el tren",
+   "en": "the train"
+  },
+  {
+   "es": "la estación",
+   "en": "the station"
+  },
+  {
+   "es": "el billete de ida y vuelta",
+   "en": "the return ticket"
+  },
+  {
+   "es": "el andén",
+   "en": "the platform"
+  },
+  {
+   "es": "el asiento",
+   "en": "the seat"
+  },
+  {
+   "es": "el campo",
+   "en": "the countryside"
+  },
+  {
+   "es": "la colina",
+   "en": "the hill"
+  },
+  {
+   "es": "el puente",
+   "en": "the bridge"
+  },
+  {
+   "es": "el río",
+   "en": "the river"
+  },
+  {
+   "es": "el casco antiguo",
+   "en": "the old town"
+  },
+  {
+   "es": "la cuesta",
+   "en": "the slope"
+  },
+  {
+   "es": "perderse",
+   "en": "to get lost"
+  },
+  {
+   "es": "la catedral",
+   "en": "the cathedral"
+  },
+  {
+   "es": "el menú del día",
+   "en": "the set menu of the day"
+  },
+  {
+   "es": "el regalo",
+   "en": "the present"
+  },
+  {
+   "es": "el atardecer",
+   "en": "the sunset"
+  }
+ ],
+ "slang": [],
+ "questions": [
+  "¿Cuánto dura el viaje en tren de Madrid a Toledo?",
+  "¿Qué compra Elena para su madre?",
+  "¿De qué color es el cielo al atardecer?"
+ ]
+}

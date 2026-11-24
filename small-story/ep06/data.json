@@ -1,0 +1,628 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 6,
+ "pageTitle": "Semana 6: Una cena para Laura",
+ "chapterTitle": "Una cena para Laura",
+ "chipLabel": "Historia · Semana 6",
+ "levels": "DELE A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hola, me llamo Marina. Hoy es sábado y estoy muy contenta.",
+   "en": "Hello, my name is Marina. Today is Saturday and I am very happy."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Esta noche Laura, mi compañera de la clase de cocina, viene a [[cena|cenar]] a mi casa.",
+   "en": "Tonight Laura, my classmate from the cooking class, is coming to my place for dinner."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde limpio el salón y pongo la mesa.",
+   "en": "In the afternoon I clean the living room and set the table."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pongo un [[mantel|mantel]] blanco, dos platos y unas flores amarillas.",
+   "en": "I put on a white tablecloth, two plates and some yellow flowers."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Quiero una cena perfecta para mi amiga.",
+   "en": "I want a perfect dinner for my friend."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las seis empiezo a cocinar.",
+   "en": "At six I start cooking."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El gazpacho ya está hecho y está en la nevera.",
+   "en": "The gazpacho is already made and it is in the fridge."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ahora preparo una [[tortilla_de_patatas|tortilla de patatas]].",
+   "en": "Now I am making a Spanish potato omelette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pelo las patatas y corto una [[cebolla|cebolla]].",
+   "en": "I peel the potatoes and cut an onion."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después bato seis [[huevo|huevos]] en un bol.",
+   "en": "Then I beat six eggs in a bowl."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Frío las patatas despacio en aceite de oliva.",
+   "en": "I fry the potatoes slowly in olive oil."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Luego llega el momento más difícil: [[dar_la_vuelta|dar la vuelta]] a la tortilla.",
+   "en": "Then comes the hardest moment: flipping the omelette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Uso un plato grande y… ¡ay! La tortilla se [[romperse|rompe]] en dos.",
+   "en": "I use a big plate and… oh no! The omelette breaks in two."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡[[x_que_apuro|Qué apuro]]! Laura llega en media hora.",
+   "en": "How embarrassing! Laura arrives in half an hour."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso: «¿Y ahora qué hago?».",
+   "en": "I think: \"And now what do I do?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las ocho y media suena el [[timbre|timbre]].",
+   "en": "At half past eight the doorbell rings."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Abro la puerta y allí está Laura, con una gran sonrisa.",
+   "en": "I open the door and there is Laura, with a big smile."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Trae una [[tarta_de_queso|tarta de queso]] hecha por ella.",
+   "en": "She brings a cheesecake she made herself."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "«¡Hola, Marina! Esto es para el [[postre|postre]]», dice.",
+   "en": "\"Hi, Marina! This is for dessert,\" she says."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo digo: «¡Qué bonita! Muchas gracias. Pasa, pasa».",
+   "en": "I say: \"How lovely! Thank you very much. Come in, come in.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "En la cocina le enseño la tortilla rota.",
+   "en": "In the kitchen I show her the broken omelette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "«Mira, se ha roto. ¡Qué vergüenza!», le digo.",
+   "en": "\"Look, it broke. How embarrassing!\" I tell her."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura se ríe y me pone la mano en el hombro.",
+   "en": "Laura laughs and puts her hand on my shoulder."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "«[[x_no_te_preocupes|No te preocupes]]. ¡Las tortillas rotas también están buenas!»",
+   "en": "\"Don't worry. Broken omelettes taste good too!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento mucho mejor.",
+   "en": "I feel much better."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura se pone un [[delantal|delantal]] y me ayuda.",
+   "en": "Laura puts on an apron and helps me."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella prepara una ensalada con lechuga y tomate.",
+   "en": "She makes a salad with lettuce and tomato."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo sirvo el gazpacho en dos cuencos.",
+   "en": "I serve the gazpacho in two bowls."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hablamos de la clase de cocina y de la profesora.",
+   "en": "We talk about the cooking class and the teacher."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cocinar con una amiga es muy divertido.",
+   "en": "Cooking with a friend is a lot of fun."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las nueve nos sentamos a la mesa, al lado de la ventana.",
+   "en": "At nine we sit down at the table, next to the window."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay gazpacho, tortilla, ensalada y pan.",
+   "en": "There is gazpacho, omelette, salad and bread."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Levantamos los vasos y [[brindar|brindamos]].",
+   "en": "We raise our glasses and make a toast."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura dice: «¡[[x_buen_provecho|Buen provecho]]!».",
+   "en": "Laura says: \"Enjoy your meal!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Y yo respondo: «¡Igualmente!».",
+   "en": "And I answer: \"You too!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Primero probamos el gazpacho. Está muy fresco.",
+   "en": "First we taste the gazpacho. It is very fresh."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Luego Laura prueba la tortilla.",
+   "en": "Then Laura tries the omelette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Sonríe y levanta el pulgar.",
+   "en": "She smiles and gives a thumbs-up."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "«¡Está buenísima! Rota, pero buenísima», dice.",
+   "en": "\"It's delicious! Broken, but delicious,\" she says."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nos reímos mucho.",
+   "en": "We laugh a lot."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después de la cena, preparo dos cafés.",
+   "en": "After dinner, I make two coffees."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura corta la tarta de queso.",
+   "en": "Laura cuts the cheesecake."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es suave y no muy dulce.",
+   "en": "It is soft and not very sweet."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Le pregunto: «¿Me das la receta?».",
+   "en": "I ask her: \"Will you give me the recipe?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella responde: «¡Claro! Es muy fácil».",
+   "en": "She answers: \"Of course! It's very easy.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Salimos al [[balcon|balcón]] con los cafés.",
+   "en": "We go out onto the balcony with our coffees."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es de noche y Madrid tiene muchas luces.",
+   "en": "It is night and Madrid has lots of lights."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hace un poco de fresco, pero se está muy bien.",
+   "en": "It is a little chilly, but it is very nice out here."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hablamos de nuestros planes para el verano.",
+   "en": "We talk about our plans for the summer."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura quiere ir a la playa y yo quiero visitar a mis padres en Valencia.",
+   "en": "Laura wants to go to the beach and I want to visit my parents in Valencia."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las once volvemos a la cocina.",
+   "en": "At eleven we go back to the kitchen."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo lavo los platos y Laura los seca.",
+   "en": "I wash the dishes and Laura dries them."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay mucha espuma y nos reímos otra vez.",
+   "en": "There are lots of bubbles and we laugh again."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura dice: «La próxima vez, ¡cocino yo!».",
+   "en": "Laura says: \"Next time, I'm cooking!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo digo: «¡Vale! El próximo sábado, en tu casa».",
+   "en": "I say: \"OK! Next Saturday, at your place.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella responde: «Y preparo una paella».",
+   "en": "She answers: \"And I'll make a paella.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A medianoche Laura se va a casa.",
+   "en": "At midnight Laura goes home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Le doy un poco de tortilla en un táper.",
+   "en": "I give her some omelette in a plastic container."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nos damos un abrazo en la puerta.",
+   "en": "We give each other a hug at the door."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso: la tortilla no es perfecta, pero la noche sí.",
+   "en": "I think: the omelette isn't perfect, but the evening is."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡Qué buena noche con mi amiga!",
+   "en": "What a lovely evening with my friend!"
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "cena": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la cena",
+   "en": "dinner",
+   "say": "la cena",
+   "line": "Esta noche Laura, mi compañera de la clase de cocina, viene a cenar a mi casa.",
+   "lineEn": "Tonight Laura, my classmate from the cooking class, is coming to my place for dinner."
+  },
+  "poner_la_mesa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "poner la mesa",
+   "en": "to set the table",
+   "say": "poner la mesa"
+  },
+  "mantel": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el mantel",
+   "en": "the tablecloth",
+   "say": "el mantel",
+   "line": "Pongo un mantel blanco, dos platos y unas flores amarillas.",
+   "lineEn": "I put on a white tablecloth, two plates and some yellow flowers."
+  },
+  "tortilla_de_patatas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la tortilla de patatas",
+   "en": "the Spanish potato omelette",
+   "say": "la tortilla de patatas",
+   "line": "Ahora preparo una tortilla de patatas.",
+   "lineEn": "Now I am making a Spanish potato omelette."
+  },
+  "cebolla": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la cebolla",
+   "en": "the onion",
+   "say": "la cebolla",
+   "line": "Pelo las patatas y corto una cebolla.",
+   "lineEn": "I peel the potatoes and cut an onion."
+  },
+  "huevo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el huevo",
+   "en": "the egg",
+   "say": "el huevo",
+   "line": "Después bato seis huevos en un bol.",
+   "lineEn": "Then I beat six eggs in a bowl."
+  },
+  "pelar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "pelar",
+   "en": "to peel",
+   "say": "pelar"
+  },
+  "dar_la_vuelta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "dar la vuelta",
+   "en": "to flip / to turn over",
+   "say": "dar la vuelta",
+   "line": "Luego llega el momento más difícil: dar la vuelta a la tortilla.",
+   "lineEn": "Then comes the hardest moment: flipping the omelette."
+  },
+  "romperse": {
+   "target": true,
+   "lvl": "A2",
+   "w": "romperse",
+   "en": "to break",
+   "say": "romperse",
+   "line": "Uso un plato grande y… ¡ay! La tortilla se rompe en dos.",
+   "lineEn": "I use a big plate and… oh no! The omelette breaks in two."
+  },
+  "timbre": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el timbre",
+   "en": "the doorbell",
+   "say": "el timbre",
+   "line": "A las ocho y media suena el timbre.",
+   "lineEn": "At half past eight the doorbell rings."
+  },
+  "postre": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el postre",
+   "en": "dessert",
+   "say": "el postre",
+   "line": "«¡Hola, Marina! Esto es para el postre», dice.",
+   "lineEn": "\"Hi, Marina! This is for dessert,\" she says."
+  },
+  "tarta_de_queso": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la tarta de queso",
+   "en": "the cheesecake",
+   "say": "la tarta de queso",
+   "line": "Trae una tarta de queso hecha por ella.",
+   "lineEn": "She brings a cheesecake she made herself."
+  },
+  "delantal": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el delantal",
+   "en": "the apron",
+   "say": "el delantal",
+   "line": "Laura se pone un delantal y me ayuda.",
+   "lineEn": "Laura puts on an apron and helps me."
+  },
+  "brindar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "brindar",
+   "en": "to make a toast",
+   "say": "brindar",
+   "line": "Levantamos los vasos y brindamos.",
+   "lineEn": "We raise our glasses and make a toast."
+  },
+  "balcon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el balcón",
+   "en": "the balcony",
+   "say": "el balcón",
+   "line": "Salimos al balcón con los cafés.",
+   "lineEn": "We go out onto the balcony with our coffees."
+  },
+  "lavar_los_platos": {
+   "target": true,
+   "lvl": "A2",
+   "w": "lavar los platos",
+   "en": "to wash the dishes",
+   "say": "lavar los platos"
+  },
+  "x_que_apuro": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Qué apuro!",
+   "en": "\"¡Qué apuro!\" means \"how embarrassing!\" You say it when you feel awkward in front of someone.",
+   "say": "¡Qué apuro!",
+   "exact": false,
+   "line": "¡Qué apuro! Laura llega en media hora.",
+   "lineEn": "How embarrassing! Laura arrives in half an hour."
+  },
+  "x_no_te_preocupes": {
+   "target": true,
+   "lvl": "España",
+   "w": "No te preocupes",
+   "en": "\"No te preocupes\" means \"don't worry\". You say it to make someone feel better.",
+   "say": "No te preocupes",
+   "exact": false,
+   "line": "«No te preocupes. ¡Las tortillas rotas también están buenas!»",
+   "lineEn": "\"Don't worry. Broken omelettes taste good too!\""
+  },
+  "x_buen_provecho": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Buen provecho!",
+   "en": "\"¡Buen provecho!\" means \"enjoy your meal!\" In Spain people say it before eating, and the answer is \"¡Igualmente!\"",
+   "say": "¡Buen provecho!",
+   "exact": false,
+   "line": "Laura dice: «¡Buen provecho!».",
+   "lineEn": "Laura says: \"Enjoy your meal!\""
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "España",
+   "title": "¡Qué apuro!",
+   "body": "\"¡Qué apuro!\" means \"how embarrassing!\" You say it when you feel awkward in front of someone."
+  },
+  {
+   "lvl": "España",
+   "title": "No te preocupes",
+   "body": "\"No te preocupes\" means \"don't worry\". You say it to make someone feel better."
+  },
+  {
+   "lvl": "España",
+   "title": "¡Buen provecho!",
+   "body": "\"¡Buen provecho!\" means \"enjoy your meal!\" In Spain people say it before eating, and the answer is \"¡Igualmente!\""
+  },
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Qué trae Laura para el postre? · ¿Qué le pasa a la tortilla? · ¿Qué dice Laura antes de comer?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «brindar»?",
+   "o": [
+    "the onion",
+    "to wash the dishes",
+    "to make a toast"
+   ],
+   "a": 2,
+   "tag": "brindar"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «poner la mesa»?",
+   "o": [
+    "the apron",
+    "the tablecloth",
+    "to set the table"
+   ],
+   "a": 2,
+   "tag": "poner la mesa"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «romperse»?",
+   "o": [
+    "to peel",
+    "to flip / to turn over",
+    "to break"
+   ],
+   "a": 2,
+   "tag": "romperse"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 6",
+  "teaser": "Speak like Marina: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

@@ -1,0 +1,628 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 8,
+ "pageTitle": "Semana 8: Mi primera clase de pintura en Málaga",
+ "chapterTitle": "Mi primera clase de pintura en Málaga",
+ "chipLabel": "Historia · Semana 8",
+ "levels": "DELE A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es sábado por la mañana en Málaga.",
+   "en": "It is Saturday morning in Málaga."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy hago algo que nunca he hecho: voy a pintar un cuadro.",
+   "en": "Today I am doing something I have never done: I am going to paint a picture."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nunca he pintado nada en mi vida.",
+   "en": "I have never painted anything in my life."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hace calor, aunque es temprano, y el [[mar|mar]] está azul.",
+   "en": "It is warm, even though it is early, and the sea is blue."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Desayuno pan con tomate y miro el horario de la clase.",
+   "en": "I have breakfast with bread and tomato and look at the class timetable."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Camino hasta el [[taller|taller]], cerca del Museo Picasso, en el centro.",
+   "en": "I walk to the studio, near the Picasso Museum, in the centre."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Las calles son estrechas y hay turistas con [[mapa|mapas]].",
+   "en": "The streets are narrow and there are tourists with maps."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llego a la puerta y llamo al timbre.",
+   "en": "I arrive at the door and ring the bell."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Una profesora sale y dice: «¡Hola! Tú debes de ser Mateo».",
+   "en": "A teacher comes out and says: \"Hi! You must be Mateo.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Se llama Inés y me da la mano con una sonrisa.",
+   "en": "Her name is Inés, and she shakes my hand with a smile."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Entramos en un taller grande con mucha luz natural.",
+   "en": "We go into a big studio with a lot of natural light."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay [[caballete|caballetes]], pinceles y botes de pintura sobre las mesas.",
+   "en": "There are easels, brushes and paint pots on the tables."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés me enseña mi caballete y un [[lienzo|lienzo]] blanco.",
+   "en": "Inés shows me my easel and a white canvas."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo pregunto: «¿Me puede ayudar, por favor? No sé por dónde empezar».",
+   "en": "I ask: \"Can you help me, please? I don't know where to start.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés responde: «No pasa nada, empezamos con formas sencillas».",
+   "en": "Inés replies: \"It's fine, we start with simple shapes.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Dibujo una línea con el lápiz y me tiembla la mano. ¿Está bien? [[x_ni_idea|Ni idea]].",
+   "en": "I draw a line with the pencil and my hand shakes. Is it right? No idea."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés me dice: «Mira la luz. Dibuja lo que ves, no lo que sabes».",
+   "en": "Inés tells me: \"Look at the light. Draw what you see, not what you know.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me gusta la idea, pero me parece muy difícil.",
+   "en": "I like the idea, but it seems very difficult to me."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Al final de la clase quiero llevarme un lienzo pequeño a casa.",
+   "en": "At the end of the class I want to take a small canvas home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pregunto: «¿Cuánto cuesta ese lienzo pequeño?».",
+   "en": "I ask: \"How much does that small canvas cost?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La dependienta contesta: «Doce euros».",
+   "en": "The shop assistant answers: \"Twelve euros.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es un precio justo, así que lo compro.",
+   "en": "It is a fair price, so I buy it."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Luego mezclo azul y amarillo en la [[paleta|paleta]] para hacer verde.",
+   "en": "Then I mix blue and yellow on the palette to make green."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El verde sale demasiado oscuro y digo: «¡[[x_que_mala_pata|Qué mala pata]]!», y me río.",
+   "en": "The green comes out too dark and I say: \"What bad luck!\" and I laugh."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés dice que los errores son parte del trabajo.",
+   "en": "Inés says that mistakes are part of the work."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miramos por la ventana el [[puerto|puerto]] y la Alcazaba, un castillo antiguo.",
+   "en": "We look through the window at the port and the Alcazaba, an old castle."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pinto el cielo con azul claro y unas nubes blancas.",
+   "en": "I paint the sky with light blue and some white clouds."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Un [[viento|viento]] suave entra por la ventana y huele a mar.",
+   "en": "A soft breeze comes in through the window and smells of the sea."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por primera vez me concentro y el tiempo pasa muy rápido.",
+   "en": "For the first time I concentrate and time passes very quickly."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso: quizá yo también puedo pintar bien.",
+   "en": "I think: maybe I can also paint well."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A la una hacemos un descanso de media hora.",
+   "en": "At one o'clock we take a half-hour break."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés me pregunta: «¿Quieres ver el Museo Picasso después?».",
+   "en": "Inés asks me: \"Do you want to see the Picasso Museum afterwards?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me gusta mucho la idea, pero prefiero ir a las cuatro.",
+   "en": "I like the idea a lot, but I prefer to go at four."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Quedamos a las cuatro en la puerta del museo.",
+   "en": "We agree to meet at four at the museum entrance."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella dice: «Perfecto. Trae tu [[cuaderno|cuaderno]] para tomar notas».",
+   "en": "She says: \"Perfect. Bring your notebook to take notes.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las cuatro llego al museo y compro una [[entrada|entrada]].",
+   "en": "At four I arrive at the museum and buy a ticket."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La entrada cuesta lo normal, y el chico me da un mapa.",
+   "en": "The ticket costs the usual price, and the young man gives me a map."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Dentro veo cuadros de colores fuertes y figuras muy raras.",
+   "en": "Inside I see paintings with strong colours and very strange figures."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso que Picasso miraba las cosas de otra manera.",
+   "en": "I think Picasso looked at things in a different way."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miro los detalles con calma y escribo en mi cuaderno.",
+   "en": "I look at the details calmly and write in my notebook."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés me pregunta: «¿Qué te trae a Málaga?».",
+   "en": "Inés asks me: \"What brings you to Málaga?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Le digo que dejé mi trabajo de oficina a los cuarenta años.",
+   "en": "I tell her that I left my office job at forty."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella dice: «¡Qué valiente! ¿Y qué te gusta ahora?».",
+   "en": "She says: \"How brave! And what do you like now?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo contesto: «[[x_me_flipa|Me flipa]] probar cosas nuevas, aunque me equivoque».",
+   "en": "I answer: \"I love trying new things, even when I make mistakes.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Inés sonríe y me dice que la próxima vez pinte el mar.",
+   "en": "Inés smiles and tells me that next time I should paint the sea."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Al atardecer camino por el paseo marítimo con mi cuadro.",
+   "en": "At sunset I walk along the seafront with my painting."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El cielo está rosa y naranja, y la gente pasea con sus perros.",
+   "en": "The sky is pink and orange, and people stroll with their dogs."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento en un [[banco|banco]] y miro el mar un buen rato.",
+   "en": "I sit on a bench and look at the sea for a good while."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Quiero volver al taller el próximo sábado, si hay plaza.",
+   "en": "I want to go back to the studio next Saturday, if there is a place."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Escribo a Inés: «¿Puedo [[reservar|reservar]] el sábado a las diez?».",
+   "en": "I write to Inés: \"Can I book Saturday at ten?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella responde enseguida: «Claro, te espero a las diez».",
+   "en": "She replies at once: \"Of course, I'll expect you at ten.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miro mi cuadro, con sus errores y su verde oscuro.",
+   "en": "I look at my painting, with its mistakes and its dark green."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ahora lo miro con cariño, aunque no sea perfecto.",
+   "en": "Now I look at it fondly, even though it is not perfect."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso en todo lo que he aprendido en un solo día.",
+   "en": "I think about everything I have learned in a single day."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Guardo el cuadro con cuidado en mi mochila.",
+   "en": "I carefully put the painting in my backpack."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Mañana quiero caminar por el puerto y dibujar los barcos.",
+   "en": "Tomorrow I want to walk along the port and draw the boats."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy aprendo que pintar no es solo para artistas.",
+   "en": "Today I learn that painting is not only for artists."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me [[equivocarse|equivoco]] mucho, pero también disfruto muchísimo.",
+   "en": "I make many mistakes, but I also enjoy myself enormously."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cada error es una lección nueva.",
+   "en": "Every mistake is a new lesson."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Gracias por escuchar mi historia.",
+   "en": "Thank you for listening to my story."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El sábado vuelvo al taller con muchas ganas.",
+   "en": "On Saturday I go back to the studio with great enthusiasm."
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "taller": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el taller",
+   "en": "the studio",
+   "say": "el taller",
+   "line": "Camino hasta el taller, cerca del Museo Picasso, en el centro.",
+   "lineEn": "I walk to the studio, near the Picasso Museum, in the centre."
+  },
+  "caballete": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el caballete",
+   "en": "the easel",
+   "say": "el caballete",
+   "line": "Hay caballetes, pinceles y botes de pintura sobre las mesas.",
+   "lineEn": "There are easels, brushes and paint pots on the tables."
+  },
+  "lienzo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el lienzo",
+   "en": "the canvas",
+   "say": "el lienzo",
+   "line": "Inés me enseña mi caballete y un lienzo blanco.",
+   "lineEn": "Inés shows me my easel and a white canvas."
+  },
+  "pincel": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el pincel",
+   "en": "the paintbrush",
+   "say": "el pincel"
+  },
+  "pintura": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la pintura",
+   "en": "the paint",
+   "say": "la pintura"
+  },
+  "paleta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la paleta",
+   "en": "the palette",
+   "say": "la paleta",
+   "line": "Luego mezclo azul y amarillo en la paleta para hacer verde.",
+   "lineEn": "Then I mix blue and yellow on the palette to make green."
+  },
+  "cuaderno": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el cuaderno",
+   "en": "the notebook",
+   "say": "el cuaderno",
+   "line": "Ella dice: «Perfecto. Trae tu cuaderno para tomar notas».",
+   "lineEn": "She says: \"Perfect. Bring your notebook to take notes.\""
+  },
+  "entrada": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la entrada",
+   "en": "the ticket",
+   "say": "la entrada",
+   "line": "A las cuatro llego al museo y compro una entrada.",
+   "lineEn": "At four I arrive at the museum and buy a ticket."
+  },
+  "mapa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el mapa",
+   "en": "the map",
+   "say": "el mapa",
+   "line": "Las calles son estrechas y hay turistas con mapas.",
+   "lineEn": "The streets are narrow and there are tourists with maps."
+  },
+  "puerto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el puerto",
+   "en": "the port",
+   "say": "el puerto",
+   "line": "Miramos por la ventana el puerto y la Alcazaba, un castillo antiguo.",
+   "lineEn": "We look through the window at the port and the Alcazaba, an old castle."
+  },
+  "viento": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el viento",
+   "en": "the wind",
+   "say": "el viento",
+   "line": "Un viento suave entra por la ventana y huele a mar.",
+   "lineEn": "A soft breeze comes in through the window and smells of the sea."
+  },
+  "banco": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el banco",
+   "en": "the bench",
+   "say": "el banco",
+   "line": "Me siento en un banco y miro el mar un buen rato.",
+   "lineEn": "I sit on a bench and look at the sea for a good while."
+  },
+  "mar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el mar",
+   "en": "the sea",
+   "say": "el mar",
+   "line": "Hace calor, aunque es temprano, y el mar está azul.",
+   "lineEn": "It is warm, even though it is early, and the sea is blue."
+  },
+  "mezclar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "mezclar",
+   "en": "to mix",
+   "say": "mezclar"
+  },
+  "equivocarse": {
+   "target": true,
+   "lvl": "A2",
+   "w": "equivocarse",
+   "en": "to make a mistake",
+   "say": "equivocarse",
+   "line": "Me equivoco mucho, pero también disfruto muchísimo.",
+   "lineEn": "I make many mistakes, but I also enjoy myself enormously."
+  },
+  "reservar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "reservar",
+   "en": "to book",
+   "say": "reservar",
+   "line": "Escribo a Inés: «¿Puedo reservar el sábado a las diez?».",
+   "lineEn": "I write to Inés: \"Can I book Saturday at ten?\""
+  },
+  "x_me_flipa": {
+   "target": true,
+   "lvl": "España",
+   "w": "Me flipa.",
+   "en": "\"Me flipa\" means \"I love it\" or \"I'm crazy about it\".",
+   "say": "Me flipa.",
+   "exact": false,
+   "line": "Yo contesto: «Me flipa probar cosas nuevas, aunque me equivoque».",
+   "lineEn": "I answer: \"I love trying new things, even when I make mistakes.\""
+  },
+  "x_que_mala_pata": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Qué mala pata!",
+   "en": "\"¡Qué mala pata!\" means \"what bad luck!\"",
+   "say": "¡Qué mala pata!",
+   "exact": false,
+   "line": "El verde sale demasiado oscuro y digo: «¡Qué mala pata!», y me río.",
+   "lineEn": "The green comes out too dark and I say: \"What bad luck!\" and I laugh."
+  },
+  "x_ni_idea": {
+   "target": true,
+   "lvl": "España",
+   "w": "Ni idea.",
+   "en": "\"Ni idea\" means \"no idea\".",
+   "say": "Ni idea.",
+   "exact": false,
+   "line": "Dibujo una línea con el lápiz y me tiembla la mano. ¿Está bien? Ni idea.",
+   "lineEn": "I draw a line with the pencil and my hand shakes. Is it right? No idea."
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "España",
+   "title": "Me flipa.",
+   "body": "\"Me flipa\" means \"I love it\" or \"I'm crazy about it\"."
+  },
+  {
+   "lvl": "España",
+   "title": "¡Qué mala pata!",
+   "body": "\"¡Qué mala pata!\" means \"what bad luck!\""
+  },
+  {
+   "lvl": "España",
+   "title": "Ni idea.",
+   "body": "\"Ni idea\" means \"no idea\"."
+  },
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Dónde pinta Mateo su primer cuadro? · ¿Cuánto cuesta el lienzo pequeño? · ¿Cuándo quiere volver al taller Mateo?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «equivocarse»?",
+   "o": [
+    "the palette",
+    "to make a mistake",
+    "to mix"
+   ],
+   "a": 1,
+   "tag": "equivocarse"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el viento»?",
+   "o": [
+    "the wind",
+    "the sea",
+    "the palette"
+   ],
+   "a": 0,
+   "tag": "el viento"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el mapa»?",
+   "o": [
+    "the port",
+    "the map",
+    "the canvas"
+   ],
+   "a": 1,
+   "tag": "el mapa"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 8",
+  "teaser": "Speak like Mateo: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

@@ -1,0 +1,630 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 5,
+ "pageTitle": "Semana 5: De compras en el mercado",
+ "chapterTitle": "De compras en el mercado",
+ "chipLabel": "Historia · Semana 5",
+ "levels": "DELE A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hola, me llamo Marina. Tengo veintisiete años.",
+   "en": "Hello, my name is Marina. I am twenty-seven years old."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es sábado y son las nueve de la mañana.",
+   "en": "Today is Saturday and it is nine in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura me escribe un mensaje: «¿Vamos al [[mercado|mercado]]?».",
+   "en": "Laura sends me a message: \"Shall we go to the market?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El martes tenemos la segunda clase de cocina: ¡gazpacho!",
+   "en": "On Tuesday we have our second cooking class: gazpacho!"
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Necesitamos ingredientes, así que digo: «¡[[x_venga|Venga]], vamos!».",
+   "en": "We need ingredients, so I say: \"Come on, let's go!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cojo mi bolsa de color mostaza y [[sal|salgo]] de casa.",
+   "en": "I take my mustard-coloured bag and leave home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy en metro hasta el centro. Tardo quince minutos.",
+   "en": "I take the metro to the centre. It takes me fifteen minutes."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura me espera en la puerta del mercado.",
+   "en": "Laura is waiting for me at the market door."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Lleva una [[lista_de_la_compra|lista de la compra]] en la mano.",
+   "en": "She has a shopping list in her hand."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nos damos dos besos y entramos juntas.",
+   "en": "We give each other two kisses and go in together."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El mercado es grande, con muchos [[puesto|puestos]] y mucha gente.",
+   "en": "The market is big, with lots of stalls and lots of people."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay fruta, verdura, [[pesar|pescado]], carne y queso.",
+   "en": "There is fruit, vegetables, fish, meat and cheese."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Todo tiene colores muy bonitos.",
+   "en": "Everything has very pretty colours."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura lee la lista: tomates, pepino, pimiento, [[ajo|ajo]] y pan.",
+   "en": "Laura reads the list: tomatoes, cucumber, pepper, garlic and bread."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "También necesitamos [[aceite_de_oliva|aceite de oliva]] y vinagre.",
+   "en": "We also need olive oil and vinegar."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Primero vamos a un puesto de verdura.",
+   "en": "First we go to a vegetable stall."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pregunto al frutero: «¿A cuánto están los tomates?».",
+   "en": "I ask the greengrocer: \"How much are the tomatoes?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Él responde: «A dos euros el [[kilo|kilo]]».",
+   "en": "He answers: \"Two euros a kilo.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura sonríe y dice: «¡[[x_esta_tirado|Está tirado]]!».",
+   "en": "Laura smiles and says: \"That's dirt cheap!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compramos un kilo de tomates rojos y [[maduro|maduros]].",
+   "en": "We buy a kilo of red, ripe tomatoes."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después pedimos un pepino y dos pimientos verdes.",
+   "en": "Then we ask for a cucumber and two green peppers."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El frutero pregunta: «¿Algo más?».",
+   "en": "The greengrocer asks: \"Anything else?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo digo: «Sí, una cabeza de ajo, por favor».",
+   "en": "I say: \"Yes, a head of garlic, please.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "En total son cuatro euros con cincuenta.",
+   "en": "In total it is four euros fifty."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pago con tarjeta y guardo la verdura en mi bolsa.",
+   "en": "I pay by card and put the vegetables in my bag."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Luego buscamos el pan.",
+   "en": "Then we look for the bread."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "En la panadería del mercado huele muy bien.",
+   "en": "The market bakery smells very good."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compramos una barra de pan del día anterior.",
+   "en": "We buy a loaf of bread from the day before."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Para el gazpacho, el [[pan_duro|pan duro]] es perfecto.",
+   "en": "For gazpacho, stale bread is perfect."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura dice que su abuela siempre lo hace así.",
+   "en": "Laura says her grandmother always makes it like that."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después vamos a una tienda de aceite.",
+   "en": "Afterwards we go to an olive oil shop."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La dependienta nos da a [[probar|probar]] un aceite de oliva.",
+   "en": "The shop assistant lets us taste an olive oil."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Lo pruebo con un trozo de pan. ¡[[x_que_rico|Qué rico]]!",
+   "en": "I taste it with a piece of bread. How delicious!"
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es un poco caro, pero es muy bueno.",
+   "en": "It is a bit expensive, but it is very good."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compramos una botella pequeña de aceite y otra de vinagre.",
+   "en": "We buy a small bottle of oil and another of vinegar."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las once tenemos hambre y sed.",
+   "en": "At eleven we are hungry and thirsty."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nos sentamos en la barra de un bar dentro del mercado.",
+   "en": "We sit at the counter of a bar inside the market."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pido un café con leche y Laura pide un [[zumo|zumo]] de naranja.",
+   "en": "I order a white coffee and Laura orders an orange juice."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "También compartimos una [[tapa|tapa]] de tortilla.",
+   "en": "We also share a tapa of Spanish omelette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura dice: «¡No está tan rica como la tuya!», y nos reímos.",
+   "en": "Laura says: \"It's not as tasty as yours!\" and we laugh."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hablamos de nuestras familias.",
+   "en": "We talk about our families."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura tiene dos hermanos y vive con su madre.",
+   "en": "Laura has two brothers and lives with her mother."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo vivo sola en un piso pequeño en Madrid.",
+   "en": "I live alone in a small flat in Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Mis padres viven en Valencia, cerca del mar.",
+   "en": "My parents live in Valencia, near the sea."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura dice que el gazpacho le recuerda a su abuela.",
+   "en": "Laura says gazpacho reminds her of her grandmother."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Antes de salir, Laura mira otra vez la lista.",
+   "en": "Before leaving, Laura looks at the list again."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "«¡Falta algo!», dice. «¡La sal!».",
+   "en": "\"Something's missing!\" she says. \"The salt!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Volvemos a un puesto y compramos un paquete de sal.",
+   "en": "We go back to a stall and buy a packet of salt."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ahora tenemos todo para la clase.",
+   "en": "Now we have everything for the class."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Las bolsas pesan mucho, pero estamos contentas.",
+   "en": "The bags are very heavy, but we are happy."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Salimos del mercado a las doce y media.",
+   "en": "We leave the market at half past twelve."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hace sol y la calle está llena de gente.",
+   "en": "It is sunny and the street is full of people."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Laura me pregunta: «¿Quieres cocinar juntas un día en tu casa?».",
+   "en": "Laura asks me: \"Do you want to cook together one day at your place?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo digo: «¡Claro! El próximo sábado, si quieres».",
+   "en": "I say: \"Of course! Next Saturday, if you like.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella responde: «¡Venga! Me encanta la idea».",
+   "en": "She answers: \"Great! I love the idea.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nos despedimos en la boca del metro.",
+   "en": "We say goodbye at the metro entrance."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "En casa guardo los tomates y los pimientos en la [[nevera|nevera]].",
+   "en": "At home I put the tomatoes and peppers in the fridge."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pongo el pan y el aceite en la mesa de la cocina.",
+   "en": "I put the bread and the oil on the kitchen table."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso: comprar en el mercado es más divertido que en el supermercado.",
+   "en": "I think: shopping at the market is more fun than at the supermarket."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ahora sé preguntar precios y pedir cantidades en español.",
+   "en": "Now I know how to ask for prices and quantities in Spanish."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El martes, ¡a preparar gazpacho!",
+   "en": "On Tuesday, let's make gazpacho!"
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "mercado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el mercado",
+   "en": "the market",
+   "say": "el mercado",
+   "line": "Laura me escribe un mensaje: «¿Vamos al mercado?».",
+   "lineEn": "Laura sends me a message: \"Shall we go to the market?\""
+  },
+  "puesto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el puesto",
+   "en": "the stall",
+   "say": "el puesto",
+   "line": "El mercado es grande, con muchos puestos y mucha gente.",
+   "lineEn": "The market is big, with lots of stalls and lots of people."
+  },
+  "lista_de_la_compra": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la lista de la compra",
+   "en": "the shopping list",
+   "say": "la lista de la compra",
+   "line": "Lleva una lista de la compra en la mano.",
+   "lineEn": "She has a shopping list in her hand."
+  },
+  "kilo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el kilo",
+   "en": "the kilo",
+   "say": "el kilo",
+   "line": "Él responde: «A dos euros el kilo».",
+   "lineEn": "He answers: \"Two euros a kilo.\""
+  },
+  "maduro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "maduro",
+   "en": "ripe",
+   "say": "maduro",
+   "line": "Compramos un kilo de tomates rojos y maduros.",
+   "lineEn": "We buy a kilo of red, ripe tomatoes."
+  },
+  "ajo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el ajo",
+   "en": "the garlic",
+   "say": "el ajo",
+   "line": "Laura lee la lista: tomates, pepino, pimiento, ajo y pan.",
+   "lineEn": "Laura reads the list: tomatoes, cucumber, pepper, garlic and bread."
+  },
+  "pimiento": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el pimiento",
+   "en": "the pepper",
+   "say": "el pimiento"
+  },
+  "pan_duro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el pan duro",
+   "en": "stale bread",
+   "say": "el pan duro",
+   "line": "Para el gazpacho, el pan duro es perfecto.",
+   "lineEn": "For gazpacho, stale bread is perfect."
+  },
+  "aceite_de_oliva": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el aceite de oliva",
+   "en": "the olive oil",
+   "say": "el aceite de oliva",
+   "line": "También necesitamos aceite de oliva y vinagre.",
+   "lineEn": "We also need olive oil and vinegar."
+  },
+  "vinagre": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el vinagre",
+   "en": "the vinegar",
+   "say": "el vinagre"
+  },
+  "probar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "probar",
+   "en": "to taste / to try",
+   "say": "probar",
+   "line": "La dependienta nos da a probar un aceite de oliva.",
+   "lineEn": "The shop assistant lets us taste an olive oil."
+  },
+  "tapa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la tapa",
+   "en": "the tapa (small dish)",
+   "say": "la tapa",
+   "line": "También compartimos una tapa de tortilla.",
+   "lineEn": "We also share a tapa of Spanish omelette."
+  },
+  "zumo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el zumo",
+   "en": "the juice",
+   "say": "el zumo",
+   "line": "Pido un café con leche y Laura pide un zumo de naranja.",
+   "lineEn": "I order a white coffee and Laura orders an orange juice."
+  },
+  "sal": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la sal",
+   "en": "the salt",
+   "say": "la sal",
+   "line": "Cojo mi bolsa de color mostaza y salgo de casa.",
+   "lineEn": "I take my mustard-coloured bag and leave home."
+  },
+  "pesar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "pesar",
+   "en": "to weigh / to be heavy",
+   "say": "pesar",
+   "line": "Hay fruta, verdura, pescado, carne y queso.",
+   "lineEn": "There is fruit, vegetables, fish, meat and cheese."
+  },
+  "nevera": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la nevera",
+   "en": "the fridge",
+   "say": "la nevera",
+   "line": "En casa guardo los tomates y los pimientos en la nevera.",
+   "lineEn": "At home I put the tomatoes and peppers in the fridge."
+  },
+  "x_venga": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Venga!",
+   "en": "\"¡Venga!\" means \"come on!\" or \"great, let's do it!\"",
+   "say": "¡Venga!",
+   "exact": false,
+   "line": "Necesitamos ingredientes, así que digo: «¡Venga, vamos!».",
+   "lineEn": "We need ingredients, so I say: \"Come on, let's go!\""
+  },
+  "x_esta_tirado": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Está tirado!",
+   "en": "\"¡Está tirado!\" means \"it's dirt cheap!\" It can also mean \"it's really easy.\"",
+   "say": "¡Está tirado!",
+   "exact": false,
+   "line": "Laura sonríe y dice: «¡Está tirado!».",
+   "lineEn": "Laura smiles and says: \"That's dirt cheap!\""
+  },
+  "x_que_rico": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Qué rico!",
+   "en": "\"¡Qué rico!\" means \"how delicious!\"",
+   "say": "¡Qué rico!",
+   "exact": false,
+   "line": "Lo pruebo con un trozo de pan. ¡Qué rico!",
+   "lineEn": "I taste it with a piece of bread. How delicious!"
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "España",
+   "title": "¡Venga!",
+   "body": "\"¡Venga!\" means \"come on!\" or \"great, let's do it!\""
+  },
+  {
+   "lvl": "España",
+   "title": "¡Está tirado!",
+   "body": "\"¡Está tirado!\" means \"it's dirt cheap!\" It can also mean \"it's really easy.\""
+  },
+  {
+   "lvl": "España",
+   "title": "¡Qué rico!",
+   "body": "\"¡Qué rico!\" means \"how delicious!\""
+  },
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Qué van a preparar Marina y Laura en la segunda clase? · ¿A cuánto están los tomates? · ¿Qué falta en la lista?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «la lista de la compra»?",
+   "o": [
+    "the shopping list",
+    "to taste / to try",
+    "the olive oil"
+   ],
+   "a": 0,
+   "tag": "la lista de la compra"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el kilo»?",
+   "o": [
+    "stale bread",
+    "the salt",
+    "the kilo"
+   ],
+   "a": 2,
+   "tag": "el kilo"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «maduro»?",
+   "o": [
+    "ripe",
+    "the tapa (small dish)",
+    "stale bread"
+   ],
+   "a": 0,
+   "tag": "maduro"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 5",
+  "teaser": "Speak like Marina: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

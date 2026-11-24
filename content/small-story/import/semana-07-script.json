@@ -1,0 +1,402 @@
+{
+ "convs": [
+  {
+   "title": "1 · En la oficina de alquiler",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Empleado",
+     "es": "Buenos días. ¿Tienes una reserva?",
+     "en": "Good morning. Do you have a booking?",
+     "audio": "c1_01_Empleado.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Sí, a nombre de Mateo. Un coche pequeño, por favor.",
+     "en": "Yes, under the name Mateo. A small car, please.",
+     "audio": "c1_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Empleado",
+     "es": "Perfecto. ¿Me das tu carné de conducir?",
+     "en": "Perfect. Can you give me your driving licence?",
+     "audio": "c1_03_Empleado.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "Aquí tienes. Es mi primera vez conduciendo en Madrid.",
+     "en": "Here you are. It's my first time driving in Madrid.",
+     "audio": "c1_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Empleado",
+     "es": "¡No pasa nada! Aquí tienes las llaves. Es el coche blanco.",
+     "en": "No problem! Here are the keys. It's the white car.",
+     "audio": "c1_05_Empleado.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "Gracias. ¿Tengo que devolver el coche hoy?",
+     "en": "Thanks. Do I have to return the car today?",
+     "audio": "c1_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Empleado",
+     "es": "Sí, esta tarde, antes de las ocho.",
+     "en": "Yes, this afternoon, before eight.",
+     "audio": "c1_07_Empleado.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "Vale. ¿Algo más?",
+     "en": "OK. Anything else?",
+     "audio": "c1_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Empleado",
+     "es": "Cuidado con la zona de bajas emisiones en el centro.",
+     "en": "Be careful with the low-emission zone in the centre.",
+     "audio": "c1_09_Empleado.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "¿Qué es eso?",
+     "en": "What's that?",
+     "audio": "c1_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Empleado",
+     "es": "Una zona con normas especiales. El GPS te avisa.",
+     "en": "An area with special rules. The GPS warns you.",
+     "audio": "c1_11_Empleado.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "Perfecto, gracias. ¡Estoy un poco nervioso!",
+     "en": "Perfect, thanks. I'm a bit nervous!",
+     "audio": "c1_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Empleado",
+     "es": "¡Tranquilo! Ponte el cinturón y ve despacio. ¡Buen viaje!",
+     "en": "Relax! Put on your seatbelt and go slowly. Have a good trip!",
+     "audio": "c1_13_Empleado.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En la puerta de Carmen",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Carmen",
+     "es": "¡Mateo! ¡Lo has conseguido!",
+     "en": "Mateo! You did it!",
+     "audio": "c2_01_Carmen.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "¡Hola, Carmen! Ha sido una aventura.",
+     "en": "Hi, Carmen! It has been an adventure.",
+     "audio": "c2_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Carmen",
+     "es": "¿Qué tal el viaje?",
+     "en": "How was the journey?",
+     "audio": "c2_03_Carmen.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "Bien, pero en la glorieta me equivoqué de carril.",
+     "en": "Fine, but at the roundabout I took the wrong lane.",
+     "audio": "c2_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Carmen",
+     "es": "¡Es normal! ¿Y dónde has aparcado?",
+     "en": "That's normal! And where have you parked?",
+     "audio": "c2_05_Carmen.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "En el parking de la esquina, como dijiste.",
+     "en": "In the car park on the corner, as you said.",
+     "audio": "c2_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Carmen",
+     "es": "¡Muy bien! ¿Has aparcado recto?",
+     "en": "Very good! Did you park straight?",
+     "audio": "c2_07_Carmen.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "Bueno… un poco torcido.",
+     "en": "Well… a bit crooked.",
+     "audio": "c2_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Carmen",
+     "es": "¡Ja, ja! No importa. ¿Tienes hambre?",
+     "en": "Ha ha! It doesn't matter. Are you hungry?",
+     "audio": "c2_09_Carmen.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "Sí, mucha. ¡Conducir da hambre!",
+     "en": "Yes, very. Driving makes you hungry!",
+     "audio": "c2_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Carmen",
+     "es": "Pues sube. La comida está en la mesa.",
+     "en": "Then come up. Lunch is on the table.",
+     "audio": "c2_11_Carmen.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "¡Genial! ¿Qué has preparado?",
+     "en": "Great! What have you made?",
+     "audio": "c2_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Carmen",
+     "es": "Tortilla de patatas y ensalada.",
+     "en": "Spanish omelette and salad.",
+     "audio": "c2_13_Carmen.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · Por la calle Serrano",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Carmen",
+     "es": "Mateo, ¿estás bien? Estás muy serio.",
+     "en": "Mateo, are you OK? You look very serious.",
+     "audio": "c3_01_Carmen.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Es que hay muchos coches y peatones.",
+     "en": "It's just that there are lots of cars and pedestrians.",
+     "audio": "c3_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Carmen",
+     "es": "Tranqui, Mateo, es solo Madrid.",
+     "en": "Chill, Mateo, it's just Madrid.",
+     "audio": "c3_03_Carmen.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "Vale… Voy despacio.",
+     "en": "OK… I'm going slowly.",
+     "audio": "c3_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Carmen",
+     "es": "¿Ponemos la radio?",
+     "en": "Shall we put the radio on?",
+     "audio": "c3_05_Carmen.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "Sí, buena idea.",
+     "en": "Yes, good idea.",
+     "audio": "c3_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Carmen",
+     "es": "Mira los escaparates. ¡Qué bonitos!",
+     "en": "Look at the shop windows. How pretty!",
+     "audio": "c3_07_Carmen.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "No puedo, ¡tengo que mirar el semáforo!",
+     "en": "I can't, I have to watch the traffic light!",
+     "audio": "c3_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Carmen",
+     "es": "¡Ja, ja! Tienes razón. Está en rojo, frena.",
+     "en": "Ha ha! You're right. It's red, brake.",
+     "audio": "c3_09_Carmen.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "Ya freno. ¿Lo hago bien?",
+     "en": "I'm braking. Am I doing it right?",
+     "audio": "c3_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Carmen",
+     "es": "¡Vaya tela, qué bien conduces!",
+     "en": "Wow, you drive so well!",
+     "audio": "c3_11_Carmen.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "¿De verdad? Gracias. No está chupado.",
+     "en": "Really? Thanks. It isn't easy.",
+     "audio": "c3_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Carmen",
+     "es": "Pero tú puedes. ¡Sigue así!",
+     "en": "But you can do it. Keep it up!",
+     "audio": "c3_13_Carmen.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · Devolver el coche",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Empleado",
+     "es": "Buenas tardes. ¿Vienes a devolver el coche?",
+     "en": "Good evening. Are you here to return the car?",
+     "audio": "c4_01_Empleado.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Mateo",
+     "es": "Sí, aquí tienes las llaves.",
+     "en": "Yes, here are the keys.",
+     "audio": "c4_02_Mateo.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Empleado",
+     "es": "Gracias. ¿Qué tal todo?",
+     "en": "Thanks. How was everything?",
+     "audio": "c4_03_Empleado.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Mateo",
+     "es": "Bien, pero ha sido difícil.",
+     "en": "Fine, but it was hard.",
+     "audio": "c4_04_Mateo.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Empleado",
+     "es": "¿Primera vez conduciendo en Madrid?",
+     "en": "First time driving in Madrid?",
+     "audio": "c4_05_Empleado.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Mateo",
+     "es": "Sí, es mi primera vez.",
+     "en": "Yes, it's my first time.",
+     "audio": "c4_06_Mateo.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Empleado",
+     "es": "¿Y el depósito? ¿Está lleno?",
+     "en": "And the tank? Is it full?",
+     "audio": "c4_07_Empleado.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Mateo",
+     "es": "Sí, he echado gasolina antes de venir.",
+     "en": "Yes, I put petrol in before coming.",
+     "audio": "c4_08_Mateo.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Empleado",
+     "es": "Perfecto. ¿Algún problema con el coche?",
+     "en": "Perfect. Any problem with the car?",
+     "audio": "c4_09_Empleado.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Mateo",
+     "es": "No, ninguno. Solo un taxi me pitó por la mañana.",
+     "en": "No, none. Just a taxi honked at me this morning.",
+     "audio": "c4_10_Mateo.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Empleado",
+     "es": "¡Eso es Madrid! Aquí tienes tu factura.",
+     "en": "That's Madrid! Here's your receipt.",
+     "audio": "c4_11_Empleado.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Mateo",
+     "es": "Gracias. ¡Qué bonito es el atardecer!",
+     "en": "Thanks. What a beautiful sunset!",
+     "audio": "c4_12_Mateo.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Empleado",
+     "es": "Sí. ¡Hasta la próxima aventura!",
+     "en": "Yes. Until the next adventure!",
+     "audio": "c4_13_Empleado.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "[excited] Welcome! [cheerfully] Today, practise real conversations from Mateo's first time driving in Madrid! [warmly] First listen... then repeat each line.",
+  "c1": "[cheerfully] Conversation one: at the car rental office!",
+  "c2": "[cheerfully] Conversation two: at Carmen's door!",
+  "c3": "[cheerfully] Conversation three: on Calle Serrano!",
+  "c4": "[cheerfully] Conversation four: returning the car!",
+  "repite": "[warmly] Now... listen and repeat!",
+  "outro": "[excited] Well done! [warmly] See you next week!"
+ },
+ "voices": {
+  "Mateo": "MQOw6rAjjxLeifjqjuCo",
+  "Empleado": "Nh2zY9kknu6z4pZy6FhD",
+  "Carmen": "iuYybvSfclFoJ9ab2Im6"
+ }
+}

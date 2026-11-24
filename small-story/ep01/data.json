@@ -1,0 +1,637 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 1,
+ "pageTitle": "Semana 1: Mi semana en Madrid",
+ "chapterTitle": "Mi semana en Madrid",
+ "chipLabel": "Historia · Semana 1",
+ "levels": "A1–A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la historia en YouTube",
+  "url": "https://youtu.be/8Snx4RInMRY",
+  "videoId": "8Snx4RInMRY"
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hola, me llamo Elena.",
+   "en": "Hello, my name is Elena."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tengo 32 años.",
+   "en": "I am 32 years old."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Esta es mi semana en Madrid.",
+   "en": "This is my week in Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es lunes.",
+   "en": "Today is Monday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las ocho y media de la mañana.",
+   "en": "It is half past eight in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Acabo de [[mudarse|mudarme]] a Madrid.",
+   "en": "I have just moved to Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy en mi [[piso|piso]] pequeño.",
+   "en": "I am in my small flat."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay una maleta y dos cajas.",
+   "en": "There is a suitcase and two boxes."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Saco una planta verde.",
+   "en": "I take out a green plant."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy un poco nerviosa, pero también contenta.",
+   "en": "I am a little nervous, but also happy."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Empieza una semana nueva.",
+   "en": "A new week begins."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las diez voy a la [[panaderia|panadería]] del barrio.",
+   "en": "At ten, I go to the neighbourhood bakery."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compro una [[barra_de_pan|barra de pan]].",
+   "en": "I buy a baguette."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Conozco mi barrio poco a poco.",
+   "en": "I get to know my neighbourhood little by little."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡Qué bien huele el pan!",
+   "en": "The bread smells so good."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es martes.",
+   "en": "Today is Tuesday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las ocho y media.",
+   "en": "It is half past eight."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "[[desayunar|Desayuno]] en casa.",
+   "en": "I have breakfast at home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Como pan y bebo café.",
+   "en": "I eat bread and drink coffee."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La planta está en la mesa.",
+   "en": "The plant is on the table."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Empiezo mi rutina.",
+   "en": "I start my routine."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde, a las dos, [[caminar|camino]] al trabajo.",
+   "en": "In the afternoon, at two, I walk to work."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy a un espacio compartido cerca de casa.",
+   "en": "I go to a shared workspace near home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La calle ya me parece familiar.",
+   "en": "The street already feels familiar."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Camino con mi bolso marrón.",
+   "en": "I walk with my brown bag."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es miércoles.",
+   "en": "Today is Wednesday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las 10 de la mañana.",
+   "en": "It is 10 in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Trabajo con el ordenador.",
+   "en": "I work on the computer."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Bebo un vaso de agua.",
+   "en": "I drink a glass of water."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy concentrada.",
+   "en": "I am focused."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El nuevo espacio ya no es tan nuevo.",
+   "en": "The new space doesn't feel so new any more."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde, a las 4, voy al [[parque|parque]].",
+   "en": "In the afternoon, at four, I go to the park."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento en un banco de madera.",
+   "en": "I sit on a wooden bench."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Respiro.",
+   "en": "I breathe."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Relajo los hombros.",
+   "en": "I relax my shoulders."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después del trabajo, descanso un poco.",
+   "en": "After work, I rest a little."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es jueves.",
+   "en": "Today is Thursday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las diez y media.",
+   "en": "It is half past ten."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy al [[mercado|mercado]].",
+   "en": "I go to the market."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compro [[tomate|tomates]], un pepino y un pimiento rojo.",
+   "en": "I buy tomatoes, a cucumber, and a red pepper."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Los pongo en mi bolsa de tela.",
+   "en": "I put them in my cloth bag."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy a cocinar en casa.",
+   "en": "I am going to cook at home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde, [[preparar|preparo]] una ensalada simple.",
+   "en": "In the afternoon, I make a simple salad."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tomate, pepino y pimiento.",
+   "en": "Tomato, cucumber and pepper."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Mi piso ya parece mi casa.",
+   "en": "My flat already feels like home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy contenta.",
+   "en": "I am focused."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es viernes.",
+   "en": "Today is Friday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las cuatro de la tarde.",
+   "en": "It is four in the afternoon."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy a una [[cafeteria|cafetería]] del barrio.",
+   "en": "I go to a café in my neighbourhood."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es la primera vez en esta cafetería.",
+   "en": "It is the first time in this café."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pido un café y leo un libro.",
+   "en": "I order a coffee and read a book."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento a gusto aquí.",
+   "en": "I feel comfortable here."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es sábado.",
+   "en": "Today is Saturday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las 11 de la mañana.",
+   "en": "It is 10 in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy al Parque del Retiro.",
+   "en": "I go to Retiro Park."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "[[pasear|Paseo]] junto al lago.",
+   "en": "I walk by the lake."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Veo el agua y los árboles.",
+   "en": "I see the water and the trees."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Madrid tiene mucho verde.",
+   "en": "Madrid has a lot of green."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Disfruto del fin de semana.",
+   "en": "I enjoy the weekend."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es domingo.",
+   "en": "Today is Sunday."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las 10 de la mañana.",
+   "en": "It is 10 in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ordeno mi piso.",
+   "en": "I tidy my flat."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Las cajas ya no están.",
+   "en": "The boxes are gone."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pongo la planta junto a la [[ventana|ventana]].",
+   "en": "I put the plant by the window."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El piso está limpio y cómodo.",
+   "en": "The flat is clean and comfortable."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde me siento con un café.",
+   "en": "In the afternoon I sit with a coffee."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miro por la ventana.",
+   "en": "I look out the window."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La planta está en el alféizar.",
+   "en": "The plant is on the windowsill."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "En Madrid empiezo a sentirme como en casa.",
+   "en": "In Madrid, I am beginning to feel at home."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Esta es mi semana en Madrid.",
+   "en": "This is my week in Madrid."
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "mudarse": {
+   "target": true,
+   "lvl": "A2",
+   "w": "mudarse",
+   "en": "to move house",
+   "say": "mudarse",
+   "line": "Acabo de mudarme a Madrid.",
+   "lineEn": "I have just moved to Madrid."
+  },
+  "piso": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el piso",
+   "en": "the flat",
+   "say": "el piso",
+   "line": "Estoy en mi piso pequeño.",
+   "lineEn": "I am in my small flat."
+  },
+  "panaderia": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la panadería",
+   "en": "the bakery",
+   "say": "la panadería",
+   "line": "A las diez voy a la panadería del barrio.",
+   "lineEn": "At ten, I go to the neighbourhood bakery."
+  },
+  "barra_de_pan": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la barra de pan",
+   "en": "the baguette",
+   "say": "la barra de pan",
+   "line": "Compro una barra de pan.",
+   "lineEn": "I buy a baguette."
+  },
+  "barrio": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el barrio",
+   "en": "the neighbourhood",
+   "say": "el barrio"
+  },
+  "desayunar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "desayunar",
+   "en": "to have breakfast",
+   "say": "desayunar",
+   "line": "Desayuno en casa.",
+   "lineEn": "I have breakfast at home."
+  },
+  "caminar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "caminar",
+   "en": "to walk",
+   "say": "caminar",
+   "line": "Por la tarde, a las dos, camino al trabajo.",
+   "lineEn": "In the afternoon, at two, I walk to work."
+  },
+  "trabajo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el trabajo",
+   "en": "work",
+   "say": "el trabajo"
+  },
+  "parque": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el parque",
+   "en": "the park",
+   "say": "el parque",
+   "line": "Por la tarde, a las 4, voy al parque.",
+   "lineEn": "In the afternoon, at four, I go to the park."
+  },
+  "mercado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el mercado",
+   "en": "the market",
+   "say": "el mercado",
+   "line": "Voy al mercado.",
+   "lineEn": "I go to the market."
+  },
+  "tomate": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el tomate",
+   "en": "the tomato",
+   "say": "el tomate",
+   "line": "Compro tomates, un pepino y un pimiento rojo.",
+   "lineEn": "I buy tomatoes, a cucumber, and a red pepper."
+  },
+  "preparar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "preparar",
+   "en": "to prepare",
+   "say": "preparar",
+   "line": "Por la tarde, preparo una ensalada simple.",
+   "lineEn": "In the afternoon, I make a simple salad."
+  },
+  "cafeteria": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la cafetería",
+   "en": "the café",
+   "say": "la cafetería",
+   "line": "Voy a una cafetería del barrio.",
+   "lineEn": "I go to a café in my neighbourhood."
+  },
+  "pasear": {
+   "target": true,
+   "lvl": "A2",
+   "w": "pasear",
+   "en": "to go for a walk",
+   "say": "pasear",
+   "line": "Paseo junto al lago.",
+   "lineEn": "I walk by the lake."
+  },
+  "ventana": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la ventana",
+   "en": "the window",
+   "say": "la ventana",
+   "line": "Pongo la planta junto a la ventana.",
+   "lineEn": "I put the plant by the window."
+  },
+  "sentirse_como_en_casa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "sentirse como en casa",
+   "en": "to feel at home",
+   "say": "sentirse como en casa"
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Qué compra Elena el lunes en la panadería? · ¿Qué verduras compra Elena el jueves?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «la panadería»?",
+   "o": [
+    "the baguette",
+    "the bakery",
+    "to walk"
+   ],
+   "a": 1,
+   "tag": "la panadería"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el tomate»?",
+   "o": [
+    "the tomato",
+    "to prepare",
+    "to go for a walk"
+   ],
+   "a": 0,
+   "tag": "el tomate"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «mudarse»?",
+   "o": [
+    "to have breakfast",
+    "to move house",
+    "the market"
+   ],
+   "a": 1,
+   "tag": "mudarse"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 1",
+  "teaser": "Speak like Elena: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

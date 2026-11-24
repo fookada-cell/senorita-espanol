@@ -1,0 +1,411 @@
+{
+ "convs": [
+  {
+   "title": "1 · En la panadería (lunes, 10:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Panadero",
+     "es": "¡Buenos días! ¿Qué te pongo?",
+     "en": "Good morning! What can I get you?",
+     "audio": "c1_01_Panadero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Hola, buenos días. Una barra de pan, por favor.",
+     "en": "Hi, good morning. A baguette, please.",
+     "audio": "c1_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Panadero",
+     "es": "Aquí tienes. ¿Algo más?",
+     "en": "Here you are. Anything else?",
+     "audio": "c1_03_Panadero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "No, gracias. ¡Qué bien huele el pan!",
+     "en": "No, thanks. The bread smells so good!",
+     "audio": "c1_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Panadero",
+     "es": "Es pan del día. ¿Eres nueva en el barrio?",
+     "en": "It's fresh today. Are you new in the neighbourhood?",
+     "audio": "c1_05_Panadero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Sí, acabo de mudarme a Madrid.",
+     "en": "Yes, I've just moved to Madrid.",
+     "audio": "c1_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Panadero",
+     "es": "¡Bienvenida! ¿Y te gusta el barrio?",
+     "en": "Welcome! And do you like the neighbourhood?",
+     "audio": "c1_07_Panadero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Sí, mucho. Lo conozco poco a poco.",
+     "en": "Yes, a lot. I'm getting to know it little by little.",
+     "audio": "c1_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Panadero",
+     "es": "Son ochenta céntimos.",
+     "en": "That's eighty cents.",
+     "audio": "c1_09_Panadero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "Aquí tienes. ¿Abrís todos los días?",
+     "en": "Here you are. Are you open every day?",
+     "audio": "c1_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Panadero",
+     "es": "Sí, de lunes a sábado, desde las ocho.",
+     "en": "Yes, Monday to Saturday, from eight.",
+     "audio": "c1_11_Panadero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Perfecto. Entonces, hasta mañana.",
+     "en": "Perfect. See you tomorrow, then.",
+     "audio": "c1_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Panadero",
+     "es": "¡Hasta mañana!",
+     "en": "See you tomorrow!",
+     "audio": "c1_13_Panadero.mp3"
+    }
+   ]
+  },
+  {
+   "title": "2 · En el espacio compartido (miércoles, 10:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Javier",
+     "es": "Hola, ¿eres nueva aquí?",
+     "en": "Hi, are you new here?",
+     "audio": "c2_01_Javier.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Sí, hola. Me llamo Elena.",
+     "en": "Yes, hi. My name is Elena.",
+     "audio": "c2_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Javier",
+     "es": "Encantado, Elena. Yo soy Javier.",
+     "en": "Nice to meet you, Elena. I'm Javier.",
+     "audio": "c2_03_Javier.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "Encantada. Acabo de mudarme a Madrid. Vivo cerca de aquí.",
+     "en": "Nice to meet you. I've just moved to Madrid. I live near here.",
+     "audio": "c2_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Javier",
+     "es": "¡Bienvenida! ¿Quieres un vaso de agua?",
+     "en": "Welcome! Would you like a glass of water?",
+     "audio": "c2_05_Javier.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Sí, gracias. Hoy estoy muy concentrada.",
+     "en": "Yes, thanks. I'm very focused today.",
+     "audio": "c2_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Javier",
+     "es": "¿Trabajas con el ordenador todo el día?",
+     "en": "Do you work on the computer all day?",
+     "audio": "c2_07_Javier.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Sí, casi todo el día.",
+     "en": "Yes, almost all day.",
+     "audio": "c2_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Javier",
+     "es": "Pues a las cuatro voy al parque. ¿Vienes?",
+     "en": "Well, at four I'm going to the park. Are you coming?",
+     "audio": "c2_09_Javier.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "¡Vale! Necesito descansar un poco.",
+     "en": "OK! I need to rest a bit.",
+     "audio": "c2_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Javier",
+     "es": "Hay un banco de madera muy tranquilo.",
+     "en": "There's a very quiet wooden bench.",
+     "audio": "c2_11_Javier.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Perfecto. Nos vemos a las cuatro.",
+     "en": "Perfect. See you at four.",
+     "audio": "c2_12_Elena.mp3"
+    }
+   ]
+  },
+  {
+   "title": "3 · En el mercado (jueves, 10:30)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Frutero",
+     "es": "Buenos días. ¿Qué te pongo?",
+     "en": "Good morning. What can I get you?",
+     "audio": "c3_01_Frutero.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Buenos días. Quiero tomates, por favor.",
+     "en": "Good morning. I'd like some tomatoes, please.",
+     "audio": "c3_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Frutero",
+     "es": "¿Cuántos quieres?",
+     "en": "How many would you like?",
+     "audio": "c3_03_Frutero.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "Medio kilo.",
+     "en": "Half a kilo.",
+     "audio": "c3_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Frutero",
+     "es": "Muy bien. ¿Algo más?",
+     "en": "Very good. Anything else?",
+     "audio": "c3_05_Frutero.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Sí, un pepino y un pimiento rojo.",
+     "en": "Yes, a cucumber and a red pepper.",
+     "audio": "c3_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Frutero",
+     "es": "¿Vas a hacer una ensalada?",
+     "en": "Are you going to make a salad?",
+     "audio": "c3_07_Frutero.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Sí, una ensalada simple. Voy a cocinar en casa.",
+     "en": "Yes, a simple salad. I'm going to cook at home.",
+     "audio": "c3_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Frutero",
+     "es": "¡Qué rica! Son tres euros con veinte.",
+     "en": "Yummy! That's three euros twenty.",
+     "audio": "c3_09_Frutero.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "¿Puedo pagar con tarjeta?",
+     "en": "Can I pay by card?",
+     "audio": "c3_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Frutero",
+     "es": "Claro. ¿Tienes bolsa?",
+     "en": "Of course. Do you have a bag?",
+     "audio": "c3_11_Frutero.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "Sí, tengo mi bolsa de tela.",
+     "en": "Yes, I have my cloth bag.",
+     "audio": "c3_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Frutero",
+     "es": "¡Muy bien! Hasta la próxima.",
+     "en": "Great! Until next time.",
+     "audio": "c3_13_Frutero.mp3"
+    },
+    {
+     "n": 14,
+     "who": "Elena",
+     "es": "Gracias, ¡hasta luego!",
+     "en": "Thanks, see you!",
+     "audio": "c3_14_Elena.mp3"
+    }
+   ]
+  },
+  {
+   "title": "4 · En la cafetería (viernes, 16:00)",
+   "lines": [
+    {
+     "n": 1,
+     "who": "Camarera",
+     "es": "Hola, buenas tardes. ¿Qué vas a tomar?",
+     "en": "Hi, good afternoon. What are you having?",
+     "audio": "c4_01_Camarera.mp3"
+    },
+    {
+     "n": 2,
+     "who": "Elena",
+     "es": "Hola. Un café con leche, por favor.",
+     "en": "Hi. A white coffee, please.",
+     "audio": "c4_02_Elena.mp3"
+    },
+    {
+     "n": 3,
+     "who": "Camarera",
+     "es": "¿Para tomar aquí o para llevar?",
+     "en": "To have here or to take away?",
+     "audio": "c4_03_Camarera.mp3"
+    },
+    {
+     "n": 4,
+     "who": "Elena",
+     "es": "Para tomar aquí. Es la primera vez que vengo.",
+     "en": "To have here. It's my first time here.",
+     "audio": "c4_04_Elena.mp3"
+    },
+    {
+     "n": 5,
+     "who": "Camarera",
+     "es": "¡Bienvenida! Siéntate donde quieras.",
+     "en": "Welcome! Sit wherever you like.",
+     "audio": "c4_05_Camarera.mp3"
+    },
+    {
+     "n": 6,
+     "who": "Elena",
+     "es": "Gracias. ¿Puedo sentarme junto a la ventana?",
+     "en": "Thanks. Can I sit by the window?",
+     "audio": "c4_06_Elena.mp3"
+    },
+    {
+     "n": 7,
+     "who": "Camarera",
+     "es": "Claro… Aquí tienes tu café.",
+     "en": "Of course… Here's your coffee.",
+     "audio": "c4_07_Camarera.mp3"
+    },
+    {
+     "n": 8,
+     "who": "Elena",
+     "es": "Gracias. Me siento a gusto aquí.",
+     "en": "Thanks. I feel comfortable here.",
+     "audio": "c4_08_Elena.mp3"
+    },
+    {
+     "n": 9,
+     "who": "Camarera",
+     "es": "¿Qué estás leyendo?",
+     "en": "What are you reading?",
+     "audio": "c4_09_Camarera.mp3"
+    },
+    {
+     "n": 10,
+     "who": "Elena",
+     "es": "Un libro en español. Leo un poco cada día.",
+     "en": "A book in Spanish. I read a little every day.",
+     "audio": "c4_10_Elena.mp3"
+    },
+    {
+     "n": 11,
+     "who": "Camarera",
+     "es": "¡Qué bien! ¿Quieres algo más?",
+     "en": "How nice! Would you like anything else?",
+     "audio": "c4_11_Camarera.mp3"
+    },
+    {
+     "n": 12,
+     "who": "Elena",
+     "es": "No, gracias. ¿Cuánto es?",
+     "en": "No, thanks. How much is it?",
+     "audio": "c4_12_Elena.mp3"
+    },
+    {
+     "n": 13,
+     "who": "Camarera",
+     "es": "Un euro con ochenta.",
+     "en": "One euro eighty.",
+     "audio": "c4_13_Camarera.mp3"
+    },
+    {
+     "n": 14,
+     "who": "Elena",
+     "es": "Aquí tienes. ¡Hasta luego!",
+     "en": "Here you are. See you!",
+     "audio": "c4_14_Elena.mp3"
+    }
+   ]
+  }
+ ],
+ "narr": {
+  "intro": "Welcome! Today, practise real conversations from Elena's week in Madrid. First listen, then repeat each line.",
+  "c1": "Conversation one: at the bakery.",
+  "c2": "Conversation two: at the shared workspace.",
+  "c3": "Conversation three: at the market.",
+  "c4": "Conversation four: at the café.",
+  "repite": "Now, listen and repeat.",
+  "outro": "Well done! See you next week."
+ },
+ "voices": {
+  "Elena": "dNjJKg63Fr5AXwIdkATa",
+  "Panadero": "hFeIFfaOsIqH1YpJJFS0",
+  "Javier": "QdeV7TsH9psct2D4UdTk",
+  "Frutero": "ZCh4e9eZSUf41K4cmCEL",
+  "Camarera": "jQvo2VZEqNV6YXEBghzl"
+ }
+}

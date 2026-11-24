@@ -1,0 +1,623 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 2,
+ "pageTitle": "Semana 2: Mi primer viaje en tren a Toledo",
+ "chapterTitle": "Mi primer viaje en tren a Toledo",
+ "chipLabel": "Historia · Semana 2",
+ "levels": "A1–A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la historia en YouTube",
+  "url": "https://youtu.be/AnBuvDNf9Hg",
+  "videoId": "AnBuvDNf9Hg"
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hola, me llamo Elena.",
+   "en": "Hello, my name is Elena."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tengo 32 años.",
+   "en": "I am 32 years old."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Este es mi primer viaje en [[tren|tren]] a Toledo.",
+   "en": "This is my first train trip to Toledo."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy es sábado, son las 8 de la mañana.",
+   "en": "Today is Saturday, it is eight in the morning."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Vivo en Madrid, pero hoy voy a Toledo.",
+   "en": "I live in Madrid, but today I am going to Toledo."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Preparo mi bolso marrón.",
+   "en": "I get my brown bag ready."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llevo agua, un mapa y mi móvil.",
+   "en": "I take water, a map and my phone."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Riego mi planta verde.",
+   "en": "I water my green plant."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy un poco nerviosa, pero también muy contenta.",
+   "en": "I am a little nervous, but also very happy."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las 9 llego a la [[estacion|estación]] de Atocha.",
+   "en": "At nine, I arrive at Atocha Station."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay mucha gente y muchas pantallas.",
+   "en": "There are lots of people and lots of screens."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compro un [[billete_de_ida_y_vuelta|billete de ida y vuelta]].",
+   "en": "I buy a return ticket."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Busco mi [[anden|andén]].",
+   "en": "I look for my platform."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡Aquí está!",
+   "en": "Here it is."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Subo al tren con mi billete en la mano.",
+   "en": "I get on the train with my ticket in my hand."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Busco mi [[asiento|asiento]].",
+   "en": "I look for my seat."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Está junto a la ventana.",
+   "en": "It is by the window."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento y respiro.",
+   "en": "I sit down and breathe."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El tren es rápido y cómodo.",
+   "en": "The train is fast and comfortable."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El viaje dura media hora, más o menos.",
+   "en": "The journey takes about half an hour."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miro por la ventana.",
+   "en": "I look out of the window."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Veo [[campo|campos]] amarillos y el cielo azul.",
+   "en": "I see yellow fields and the blue sky."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay pocas casas y algunos olivos.",
+   "en": "There are few houses and some olive trees."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después de un rato veo una ciudad en una [[colina|colina]].",
+   "en": "After a while, I see a city on a hill."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡Es Toledo!",
+   "en": "It's Toledo."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llego a la estación de Toledo.",
+   "en": "I arrive at Toledo Station."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es muy bonita.",
+   "en": "It is very pretty."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tiene arcos y una torre con reloj.",
+   "en": "It has arches and a clock tower."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Abro mi mapa y camino hacia el centro.",
+   "en": "I open my map and walk towards the center."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cruzo un [[puente|puente]] sobre el río Tajo.",
+   "en": "I cross a bridge over the river Tagus."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El agua corre despacio.",
+   "en": "The water flows slowly."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Son las diez y media.",
+   "en": "It is half past ten."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy en el [[casco_antiguo|casco antiguo]].",
+   "en": "I am in the old town."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Las calles son estrechas y de piedra.",
+   "en": "The streets are narrow and made of stone."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Subo y bajo muchas [[cuesta|cuestas]].",
+   "en": "I go up and down lots of slopes."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me pierdo un poco, pero no pasa nada.",
+   "en": "I get a little lost, but it's no problem."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cada calle es una sorpresa.",
+   "en": "Every street is a surprise."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las doce llego a la [[catedral|catedral]].",
+   "en": "At twelve, I arrive at the cathedral."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es enorme y muy antigua.",
+   "en": "It is huge and very old."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Entro despacio.",
+   "en": "I go in slowly."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Dentro hay silencio y mucha luz.",
+   "en": "Inside, there is silence and lots of light."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Miro hacia arriba.",
+   "en": "I look up."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "¡Qué alto es el techo!",
+   "en": "The ceiling is so high."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "A las dos, como en una plaza pequeña, me siento en una terraza, al sol.",
+   "en": "At two, I have lunch in a small square."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pido el [[menu_del_dia|menú del día]], como sopa, carne con patatas y pan.",
+   "en": "I eat soup, meat with potatoes and bread."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Todo está muy rico.",
+   "en": "Everything is delicious."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Después de comer, entro en una tienda de dulces.",
+   "en": "After lunch, I go into a sweet shop."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Compro una caja pequeña de mazapán.",
+   "en": "I buy a small box of marzipan."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El mazapán es un dulce típico de Toledo.",
+   "en": "Marzipan is a typical sweet from Toledo."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es un [[regalo|regalo]] para mi madre.",
+   "en": "It is a present for my mother."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Le mando una foto.",
+   "en": "I send her a photo."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella responde con un corazón.",
+   "en": "She replies with a heart."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde voy a un mirador.",
+   "en": "In the afternoon, I go to a viewpoint."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Desde aquí veo el [[rio|río]] Tajo y los tejados de la ciudad.",
+   "en": "From here, I see the river Tagus and the roofs of the city."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "La ciudad parece una postal.",
+   "en": "The city looks like a postcard."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento en un muro de piedra y descanso.",
+   "en": "I sit on a stone wall and rest."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Pienso, hoy es un día especial.",
+   "en": "I think, today is a special day."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Al [[atardecer|atardecer]] camino otra vez hacia la estación.",
+   "en": "At sunset, I walk back towards the station."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El sol baja detrás de las colinas.",
+   "en": "The sun goes down behind the hills."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El cielo es naranja y rosa.",
+   "en": "The sky is orange and pink."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy cansada, pero muy feliz.",
+   "en": "I am tired, but very happy."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Subo al tren de vuelta a Madrid.",
+   "en": "I get on the train back to Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me siento junto a la ventana otra vez.",
+   "en": "I sit by the window again."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Fuera, el cielo ya está oscuro.",
+   "en": "Outside, the sky is already dark."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tengo la caja de mazapán en mi bolso.",
+   "en": "I have the box of marzipan in my bag."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Toledo ya es un recuerdo bonito.",
+   "en": "Toledo is already a lovely memory."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Este es mi primer viaje en tren a Toledo.",
+   "en": "This is my first train trip to Toledo."
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "tren": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el tren",
+   "en": "the train",
+   "say": "el tren",
+   "line": "Este es mi primer viaje en tren a Toledo.",
+   "lineEn": "This is my first train trip to Toledo."
+  },
+  "estacion": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la estación",
+   "en": "the station",
+   "say": "la estación",
+   "line": "A las 9 llego a la estación de Atocha.",
+   "lineEn": "At nine, I arrive at Atocha Station."
+  },
+  "billete_de_ida_y_vuelta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el billete de ida y vuelta",
+   "en": "the return ticket",
+   "say": "el billete de ida y vuelta",
+   "line": "Compro un billete de ida y vuelta.",
+   "lineEn": "I buy a return ticket."
+  },
+  "anden": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el andén",
+   "en": "the platform",
+   "say": "el andén",
+   "line": "Busco mi andén.",
+   "lineEn": "I look for my platform."
+  },
+  "asiento": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el asiento",
+   "en": "the seat",
+   "say": "el asiento",
+   "line": "Busco mi asiento.",
+   "lineEn": "I look for my seat."
+  },
+  "campo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el campo",
+   "en": "the countryside",
+   "say": "el campo",
+   "line": "Veo campos amarillos y el cielo azul.",
+   "lineEn": "I see yellow fields and the blue sky."
+  },
+  "colina": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la colina",
+   "en": "the hill",
+   "say": "la colina",
+   "line": "Después de un rato veo una ciudad en una colina.",
+   "lineEn": "After a while, I see a city on a hill."
+  },
+  "puente": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el puente",
+   "en": "the bridge",
+   "say": "el puente",
+   "line": "Cruzo un puente sobre el río Tajo.",
+   "lineEn": "I cross a bridge over the river Tagus."
+  },
+  "rio": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el río",
+   "en": "the river",
+   "say": "el río",
+   "line": "Desde aquí veo el río Tajo y los tejados de la ciudad.",
+   "lineEn": "From here, I see the river Tagus and the roofs of the city."
+  },
+  "casco_antiguo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el casco antiguo",
+   "en": "the old town",
+   "say": "el casco antiguo",
+   "line": "Estoy en el casco antiguo.",
+   "lineEn": "I am in the old town."
+  },
+  "cuesta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la cuesta",
+   "en": "the slope",
+   "say": "la cuesta",
+   "line": "Subo y bajo muchas cuestas.",
+   "lineEn": "I go up and down lots of slopes."
+  },
+  "perderse": {
+   "target": true,
+   "lvl": "A2",
+   "w": "perderse",
+   "en": "to get lost",
+   "say": "perderse"
+  },
+  "catedral": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la catedral",
+   "en": "the cathedral",
+   "say": "la catedral",
+   "line": "A las doce llego a la catedral.",
+   "lineEn": "At twelve, I arrive at the cathedral."
+  },
+  "menu_del_dia": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el menú del día",
+   "en": "the set menu of the day",
+   "say": "el menú del día",
+   "line": "Pido el menú del día, como sopa, carne con patatas y pan.",
+   "lineEn": "I eat soup, meat with potatoes and bread."
+  },
+  "regalo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el regalo",
+   "en": "the present",
+   "say": "el regalo",
+   "line": "Es un regalo para mi madre.",
+   "lineEn": "It is a present for my mother."
+  },
+  "atardecer": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el atardecer",
+   "en": "the sunset",
+   "say": "el atardecer",
+   "line": "Al atardecer camino otra vez hacia la estación.",
+   "lineEn": "At sunset, I walk back towards the station."
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Cuánto dura el viaje en tren de Madrid a Toledo? · ¿Qué compra Elena para su madre? · ¿De qué color es el cielo al atardecer?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «la catedral»?",
+   "o": [
+    "the sunset",
+    "the station",
+    "the cathedral"
+   ],
+   "a": 2,
+   "tag": "la catedral"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «perderse»?",
+   "o": [
+    "the river",
+    "the return ticket",
+    "to get lost"
+   ],
+   "a": 2,
+   "tag": "perderse"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el puente»?",
+   "o": [
+    "the bridge",
+    "the cathedral",
+    "to get lost"
+   ],
+   "a": 0,
+   "tag": "el puente"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 2",
+  "teaser": "Speak like Elena: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

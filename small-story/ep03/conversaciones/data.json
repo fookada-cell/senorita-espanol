@@ -1,0 +1,679 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 3,
+ "pageTitle": "Conversaciones · Semana 3",
+ "chapterTitle": "Mi semana de lluvia en Sevilla",
+ "chipLabel": "Conversaciones · Semana 3",
+ "levels": "A1–A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: Mi semana de lluvia en Sevilla",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · Bajo los arcos (lunes, por la tarde)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "[[c1_perdone_me_puede_ayudar|Perdone, ¿me puede ayudar]]? Busco mi piso.",
+   "en": "Excuse me, can you help me? I'm looking for my flat.",
+   "who": "Elena",
+   "audio": "audio/c1_01_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A ver… Sí, está muy cerca, a cinco minutos.",
+   "en": "Let's see… Yes, it's very close, five minutes away.",
+   "who": "Vecina",
+   "audio": "audio/c1_02_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bien! [[c1_esta_lloviendo_a_cantaro|Está lloviendo a cántaros]].",
+   "en": "Great! It's pouring with rain.",
+   "who": "Elena",
+   "audio": "audio/c1_03_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, hoy llueve mucho. ¿[[c1_tienes_paraguas|Tienes paraguas]]?",
+   "en": "Yes, it's raining a lot today. Do you have an umbrella?",
+   "who": "Vecina",
+   "audio": "audio/c1_04_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, pero tengo los zapatos mojados.",
+   "en": "Yes, but my shoes are wet.",
+   "who": "Elena",
+   "audio": "audio/c1_05_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Quédate un rato aquí, [[c1_bajo_los_arcos|bajo los arcos]].",
+   "en": "Stay here for a while, under the arches.",
+   "who": "Vecina",
+   "audio": "audio/c1_06_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Buena idea. ¡Mira los azulejos! ¡[[c1_que_guay|Qué guay]]!",
+   "en": "Good idea. Look at the tiles! How cool!",
+   "who": "Elena",
+   "audio": "audio/c1_07_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Son de muchos colores. ¿Es tu primera vez en Sevilla?",
+   "en": "They're many colours. Is it your first time in Seville?",
+   "who": "Vecina",
+   "audio": "audio/c1_08_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí. Vivo en Madrid, pero esta semana trabajo en Sevilla.",
+   "en": "Yes. I live in Madrid, but this week I'm working in Seville.",
+   "who": "Elena",
+   "audio": "audio/c1_09_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué pena la lluvia! Normalmente hace sol.",
+   "en": "What a shame about the rain! It's usually sunny.",
+   "who": "Vecina",
+   "audio": "audio/c1_10_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c1_no_pasa_nada|No pasa nada]]. Quiero ver Sevilla al sol otro día.",
+   "en": "Never mind. I want to see Seville in the sun another day.",
+   "who": "Elena",
+   "audio": "audio/c1_11_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Seguro que sí. ¡Bienvenida a Sevilla!",
+   "en": "I'm sure you will. Welcome to Seville!",
+   "who": "Vecina",
+   "audio": "audio/c1_12_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Muchas gracias! Hasta luego.",
+   "en": "Thank you very much! See you.",
+   "who": "Elena",
+   "audio": "audio/c1_13_Elena.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En el museo (martes por la mañana)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenos días. ¿Una [[c2_entrada|entrada]]?",
+   "en": "Good morning. One ticket?",
+   "who": "Taquillero",
+   "audio": "audio/c2_01_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, una entrada, por favor. ¿[[c2_cuanto_cuesta|Cuánto cuesta]]?",
+   "en": "Yes, one ticket, please. How much is it?",
+   "who": "Elena",
+   "audio": "audio/c2_02_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Son seis euros.",
+   "en": "That's six euros.",
+   "who": "Taquillero",
+   "audio": "audio/c2_03_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. ¿Puedo dejar el paraguas?",
+   "en": "Here you are. Can I leave my umbrella?",
+   "who": "Elena",
+   "audio": "audio/c2_04_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, claro. Déjalo aquí. Está muy mojado.",
+   "en": "Yes, of course. Leave it here. It's very wet.",
+   "who": "Taquillero",
+   "audio": "audio/c2_05_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, fuera llueve otra vez.",
+   "en": "Yes, it's raining again outside.",
+   "who": "Elena",
+   "audio": "audio/c2_06_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Por eso hoy hay poca gente.",
+   "en": "That's why there are few people today.",
+   "who": "Taquillero",
+   "audio": "audio/c2_07_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mejor. [[c2_dentro_esta_seco|Dentro está seco]] y tranquilo.",
+   "en": "Better. Inside it's dry and quiet.",
+   "who": "Elena",
+   "audio": "audio/c2_08_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Te gustan los cuadros?",
+   "en": "Do you like paintings?",
+   "who": "Taquillero",
+   "audio": "audio/c2_09_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, mucho. Me gusta mirarlos despacio.",
+   "en": "Yes, a lot. I like to look at them slowly.",
+   "who": "Elena",
+   "audio": "audio/c2_10_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Las salas de pintura están en la [[c2_primera_planta|primera planta]].",
+   "en": "The painting rooms are on the first floor.",
+   "who": "Taquillero",
+   "audio": "audio/c2_11_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto. ¿[[c2_a_que_hora_cierra|A qué hora cierra]] el museo?",
+   "en": "Perfect. What time does the museum close?",
+   "who": "Elena",
+   "audio": "audio/c2_12_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A las ocho. ¡Que disfrutes!",
+   "en": "At eight. Enjoy!",
+   "who": "Taquillero",
+   "audio": "audio/c2_13_Taquillero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · En el patio (jueves por la tarde)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenas tardes. ¿[[c3_donde_quieres_sentarte|Dónde quieres sentarte]]?",
+   "en": "Good afternoon. Where would you like to sit?",
+   "who": "Camarero",
+   "audio": "audio/c3_01_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí, bajo el techo. [[c3_a_cubierto|A cubierto]], por favor.",
+   "en": "Here, under the roof. Under cover, please.",
+   "who": "Elena",
+   "audio": "audio/c3_02_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¿Qué te pongo?",
+   "en": "Very good. What can I get you?",
+   "who": "Camarero",
+   "audio": "audio/c3_03_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Un café con leche [[c3_bien_caliente|bien caliente]], por favor.",
+   "en": "A very hot white coffee, please.",
+   "who": "Elena",
+   "audio": "audio/c3_04_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. Con este tiempo, apetece.",
+   "en": "Of course. In this weather, you fancy one.",
+   "who": "Camarero",
+   "audio": "audio/c3_05_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bonito es el patio!",
+   "en": "What a beautiful patio!",
+   "who": "Elena",
+   "audio": "audio/c3_06_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí. Mira, la lluvia cae sobre el naranjo.",
+   "en": "Yes. Look, the rain is falling on the orange tree.",
+   "who": "Camarero",
+   "audio": "audio/c3_07_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Las naranjas son muy naranjas bajo la lluvia.",
+   "en": "The oranges are very orange in the rain.",
+   "who": "Elena",
+   "audio": "audio/c3_08_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Es verdad! Aquí tienes tu café.",
+   "en": "That's true! Here's your coffee.",
+   "who": "Camarero",
+   "audio": "audio/c3_09_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. ¿Puedo quedarme un rato?",
+   "en": "Thanks. Can I stay for a while?",
+   "who": "Elena",
+   "audio": "audio/c3_10_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Por supuesto. Aquí [[c3_no_hay_prisa|no hay prisa]].",
+   "en": "Of course. There's no hurry here.",
+   "who": "Camarero",
+   "audio": "audio/c3_11_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto. Ya no estoy tan triste con la lluvia.",
+   "en": "Perfect. I'm not so sad about the rain any more.",
+   "who": "Elena",
+   "audio": "audio/c3_12_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Me alegro! La lluvia también puede ser bonita.",
+   "en": "I'm glad! The rain can be beautiful too.",
+   "who": "Camarero",
+   "audio": "audio/c3_13_Camarero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · Junto al río (viernes por la mañana)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_madre_mia|Madre mía]]! ¡Por fin sale el sol!",
+   "en": "Wow! The sun is finally coming out!",
+   "who": "Elena",
+   "audio": "audio/c4_01_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Sí! Hoy por fin no llueve.",
+   "en": "Yes! At last it isn't raining today.",
+   "who": "Chica",
+   "audio": "audio/c4_02_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perdona, ¿[[c4_me_haces_una_foto|me haces una foto]]?",
+   "en": "Excuse me, could you take a photo of me?",
+   "who": "Elena",
+   "audio": "audio/c4_03_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Claro! ¿Con la torre detrás?",
+   "en": "Of course! With the tower behind you?",
+   "who": "Chica",
+   "audio": "audio/c4_04_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, por favor. ¿Cómo se llama esa torre?",
+   "en": "Yes, please. What's that tower called?",
+   "who": "Elena",
+   "audio": "audio/c4_05_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es la Torre del Oro. Es muy famosa.",
+   "en": "It's the Torre del Oro. It's very famous.",
+   "who": "Chica",
+   "audio": "audio/c4_06_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Es preciosa! Es [[c4_de_color_dorado|de color dorado]].",
+   "en": "It's beautiful! It's golden.",
+   "who": "Elena",
+   "audio": "audio/c4_07_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A ver… ¡Sonríe! ¡Ya está!",
+   "en": "Let's see… Smile! Done!",
+   "who": "Chica",
+   "audio": "audio/c4_08_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Muchas gracias! ¡Qué foto tan bonita!",
+   "en": "Thank you so much! What a lovely photo!",
+   "who": "Elena",
+   "audio": "audio/c4_09_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "De nada. ¿Vas a [[c4_cruzar_el_puente|cruzar el puente]]?",
+   "en": "You're welcome. Are you going to cross the bridge?",
+   "who": "Chica",
+   "audio": "audio/c4_10_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, quiero ir a Triana.",
+   "en": "Yes, I want to go to Triana.",
+   "who": "Elena",
+   "audio": "audio/c4_11_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es un barrio muy bonito. ¡Disfruta del sol!",
+   "en": "It's a very pretty neighbourhood. Enjoy the sun!",
+   "who": "Chica",
+   "audio": "audio/c4_12_Chica.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Gracias! ¡Adiós!",
+   "en": "Thanks! Bye!",
+   "who": "Elena",
+   "audio": "audio/c4_13_Elena.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_perdone_me_puede_ayudar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Perdone, ¿me puede ayudar?",
+   "say": "Perdone, ¿me puede ayudar?",
+   "line": "Perdone, ¿me puede ayudar? Busco mi piso.",
+   "en": "Excuse me, can you help me?",
+   "exact": true
+  },
+  "c1_esta_lloviendo_a_cantaro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Está lloviendo a cántaros",
+   "say": "Está lloviendo a cántaros",
+   "line": "¡Qué bien! Está lloviendo a cántaros.",
+   "en": "It's pouring with rain.",
+   "exact": true
+  },
+  "c1_tienes_paraguas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Tienes paraguas?",
+   "say": "¿Tienes paraguas?",
+   "line": "Sí, hoy llueve mucho. ¿Tienes paraguas?",
+   "en": "Do you have an umbrella?",
+   "exact": true
+  },
+  "c1_bajo_los_arcos": {
+   "target": true,
+   "lvl": "A2",
+   "w": "bajo los arcos",
+   "say": "bajo los arcos",
+   "line": "Quédate un rato aquí, bajo los arcos.",
+   "lineEn": "Stay here for a while, under the arches.",
+   "en": "Stay here for a while, under the arches.",
+   "exact": false
+  },
+  "c1_que_guay": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué guay!",
+   "say": "¡Qué guay!",
+   "line": "Buena idea. ¡Mira los azulejos! ¡Qué guay!",
+   "en": "How cool!",
+   "exact": true
+  },
+  "c1_no_pasa_nada": {
+   "target": true,
+   "lvl": "A2",
+   "w": "No pasa nada",
+   "say": "No pasa nada",
+   "line": "No pasa nada. Quiero ver Sevilla al sol otro día.",
+   "en": "Never mind.",
+   "exact": true
+  },
+  "c2_entrada": {
+   "target": true,
+   "lvl": "A2",
+   "w": "una entrada",
+   "say": "una entrada",
+   "line": "Buenos días. ¿Una entrada?",
+   "en": "One ticket?",
+   "exact": true
+  },
+  "c2_cuanto_cuesta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuánto cuesta?",
+   "say": "¿Cuánto cuesta?",
+   "line": "Sí, una entrada, por favor. ¿Cuánto cuesta?",
+   "en": "How much is it?",
+   "exact": true
+  },
+  "c2_puedo_dejar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Puedo dejar…?",
+   "say": "¿Puedo dejar…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_dentro_esta_seco": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Dentro está seco",
+   "say": "Dentro está seco",
+   "line": "Mejor. Dentro está seco y tranquilo.",
+   "lineEn": "Inside it's dry and quiet.",
+   "en": "Inside it's dry and quiet.",
+   "exact": false
+  },
+  "c2_primera_planta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la primera planta",
+   "say": "la primera planta",
+   "line": "Las salas de pintura están en la primera planta.",
+   "lineEn": "The painting rooms are on the first floor.",
+   "en": "The painting rooms are on the first floor.",
+   "exact": false
+  },
+  "c2_a_que_hora_cierra": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿A qué hora cierra?",
+   "say": "¿A qué hora cierra?",
+   "line": "Perfecto. ¿A qué hora cierra el museo?",
+   "en": "What time does the museum close?",
+   "exact": true
+  },
+  "c3_donde_quieres_sentarte": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Dónde quieres sentarte?",
+   "say": "¿Dónde quieres sentarte?",
+   "line": "Buenas tardes. ¿Dónde quieres sentarte?",
+   "en": "Where would you like to sit?",
+   "exact": true
+  },
+  "c3_a_cubierto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "a cubierto",
+   "say": "a cubierto",
+   "line": "Aquí, bajo el techo. A cubierto, por favor.",
+   "lineEn": "Under cover, please.",
+   "en": "Under cover, please.",
+   "exact": false
+  },
+  "c3_bien_caliente": {
+   "target": true,
+   "lvl": "A2",
+   "w": "bien caliente",
+   "say": "bien caliente",
+   "line": "Un café con leche bien caliente, por favor.",
+   "lineEn": "A very hot white coffee, please.",
+   "en": "A very hot white coffee, please.",
+   "exact": false
+  },
+  "c3_con_este_tiempo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Con este tiempo…",
+   "say": "Con este tiempo…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c3_quedarse_un_rato": {
+   "target": true,
+   "lvl": "A2",
+   "w": "quedarse un rato",
+   "say": "quedarse un rato",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c3_no_hay_prisa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "No hay prisa",
+   "say": "No hay prisa",
+   "line": "Por supuesto. Aquí no hay prisa.",
+   "en": "There's no hurry here.",
+   "exact": true
+  },
+  "c4_madre_mia": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Madre mía!",
+   "say": "¡Madre mía!",
+   "line": "¡Madre mía! ¡Por fin sale el sol!",
+   "en": "Wow!",
+   "exact": true
+  },
+  "c4_sale_el_sol": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Sale el sol",
+   "say": "Sale el sol",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_me_haces_una_foto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Me haces una foto?",
+   "say": "¿Me haces una foto?",
+   "line": "Perdona, ¿me haces una foto?",
+   "en": "Excuse me, could you take a photo of me?",
+   "exact": true
+  },
+  "c4_como_se_llama": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cómo se llama…?",
+   "say": "¿Cómo se llama…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_de_color_dorado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "de color dorado",
+   "say": "de color dorado",
+   "line": "¡Es preciosa! Es de color dorado.",
+   "en": "It's golden.",
+   "exact": true
+  },
+  "c4_cruzar_el_puente": {
+   "target": true,
+   "lvl": "A2",
+   "w": "cruzar el puente",
+   "say": "cruzar el puente",
+   "line": "De nada. ¿Vas a cruzar el puente?",
+   "en": "Are you going to cross the bridge?",
+   "exact": true
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Dónde quieres sentarte?»?",
+   "o": [
+    "One ticket?",
+    "Where would you like to sit?",
+    "Excuse me, could you take a photo of me?"
+   ],
+   "a": 1,
+   "tag": "¿Dónde quieres sentarte?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «una entrada»?",
+   "o": [
+    "Do you have an umbrella?",
+    "Excuse me, could you take a photo of me?",
+    "One ticket?"
+   ],
+   "a": 2,
+   "tag": "una entrada"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «No pasa nada»?",
+   "o": [
+    "Never mind.",
+    "There's no hurry here.",
+    "One ticket?"
+   ],
+   "a": 0,
+   "tag": "No pasa nada"
+  }
+ ],
+ "next": {
+  "title": "Semana 4: Mi primera clase de cocina española",
+  "teaser": "Next week's story.",
+  "url": "../../ep04/"
+ }
+}

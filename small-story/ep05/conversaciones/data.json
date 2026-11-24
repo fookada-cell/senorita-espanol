@@ -1,0 +1,684 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 5,
+ "pageTitle": "Conversaciones · Semana 5",
+ "chapterTitle": "De compras en el mercado",
+ "chipLabel": "Conversaciones · Semana 5",
+ "levels": "DELE A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: De compras en el mercado",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · En el puesto de verduras",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Buenos días! ¿[[c1_que_te_pongo|Qué te pongo]]?",
+   "en": "Good morning! What can I get you?",
+   "who": "Frutero",
+   "audio": "audio/c1_01_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Buenos días. ¿[[c1_a_cuanto_esta_el_kilo|A cuánto está el kilo]] de tomates?",
+   "en": "Good morning. How much is a kilo of tomatoes?",
+   "who": "Marina",
+   "audio": "audio/c1_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A dos euros el kilo. Están muy maduros.",
+   "en": "Two euros a kilo. They're very ripe.",
+   "who": "Frutero",
+   "audio": "audio/c1_03_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c1_esta_tirado|Está tirado]]! Un kilo, por favor.",
+   "en": "That's dirt cheap! A kilo, please.",
+   "who": "Marina",
+   "audio": "audio/c1_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. ¿[[c1_algo_mas|Algo más]]?",
+   "en": "Here you are. Anything else?",
+   "who": "Frutero",
+   "audio": "audio/c1_05_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, un pepino y dos pimientos verdes.",
+   "en": "Yes, a cucumber and two green peppers.",
+   "who": "Marina",
+   "audio": "audio/c1_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Son para un gazpacho?",
+   "en": "Are they for a gazpacho?",
+   "who": "Frutero",
+   "audio": "audio/c1_07_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Sí! Para mi clase de cocina.",
+   "en": "Yes! For my cooking class.",
+   "who": "Marina",
+   "audio": "audio/c1_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Entonces necesitas ajo. ¿Una cabeza?",
+   "en": "Then you need garlic. A head?",
+   "who": "Frutero",
+   "audio": "audio/c1_09_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, gracias. ¿[[c1_cuanto_es_todo|Cuánto es todo]]?",
+   "en": "Yes, thanks. How much is everything?",
+   "who": "Marina",
+   "audio": "audio/c1_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Cuatro euros con cincuenta.",
+   "en": "Four euros fifty.",
+   "who": "Frutero",
+   "audio": "audio/c1_11_Frutero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c1_puedo_pagar_con_tarjeta|Puedo pagar con tarjeta]]?",
+   "en": "Can I pay by card?",
+   "who": "Marina",
+   "audio": "audio/c1_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. ¡Que te salga muy rico el gazpacho!",
+   "en": "Of course. I hope your gazpacho turns out delicious!",
+   "who": "Frutero",
+   "audio": "audio/c1_13_Frutero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En la tienda de aceite",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Hola, buenos días. ¿Quieres probar nuestro aceite de oliva?",
+   "en": "Hello, good morning. Would you like to taste our olive oil?",
+   "who": "Aceitera",
+   "audio": "audio/c2_01_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Sí, por favor!",
+   "en": "Yes, please!",
+   "who": "Marina",
+   "audio": "audio/c2_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Toma un [[c2_trozo_de_pan|trozo de pan]]. Es aceite de Jaén.",
+   "en": "Take a piece of bread. It's oil from Jaén.",
+   "who": "Aceitera",
+   "audio": "audio/c2_03_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mmm… ¡[[c2_que_rico|Qué rico]]!",
+   "en": "Mmm… How delicious!",
+   "who": "Marina",
+   "audio": "audio/c2_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Verdad? Es muy suave.",
+   "en": "Isn't it? It's very smooth.",
+   "who": "Aceitera",
+   "audio": "audio/c2_05_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Cuánto cuesta esta botella?",
+   "en": "How much does this bottle cost?",
+   "who": "Marina",
+   "audio": "audio/c2_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "La grande, doce euros. La pequeña, seis.",
+   "en": "The big one, twelve euros. The small one, six.",
+   "who": "Aceitera",
+   "audio": "audio/c2_07_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c2_es_un_poco_caro|Es un poco caro]]… La pequeña, por favor.",
+   "en": "It's a bit expensive… The small one, please.",
+   "who": "Marina",
+   "audio": "audio/c2_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¿Necesitas algo más?",
+   "en": "Very good. Do you need anything else?",
+   "who": "Aceitera",
+   "audio": "audio/c2_09_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, también una botella de vinagre.",
+   "en": "Yes, also a bottle of vinegar.",
+   "who": "Marina",
+   "audio": "audio/c2_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. Son ocho euros [[c2_en_total|en total]].",
+   "en": "Here you are. That's eight euros in total.",
+   "who": "Aceitera",
+   "audio": "audio/c2_11_Aceitera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¡Muchas gracias!",
+   "en": "Great. Thank you very much!",
+   "who": "Marina",
+   "audio": "audio/c2_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A ti. ¡Y vuelve pronto!",
+   "en": "Thank you. And come back soon!",
+   "who": "Aceitera",
+   "audio": "audio/c2_13_Aceitera.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · En el bar del mercado",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Hola! ¿[[c3_que_os_pongo|Qué os pongo]]?",
+   "en": "Hi! What can I get you two?",
+   "who": "Camarero",
+   "audio": "audio/c3_01_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Para mí, un [[c3_cafe_con_leche|café con leche]], por favor.",
+   "en": "For me, a white coffee, please.",
+   "who": "Marina",
+   "audio": "audio/c3_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Y para tu amiga?",
+   "en": "And for your friend?",
+   "who": "Camarero",
+   "audio": "audio/c3_03_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Un zumo de naranja.",
+   "en": "An orange juice.",
+   "who": "Marina",
+   "audio": "audio/c3_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Algo de comer?",
+   "en": "Anything to eat?",
+   "who": "Camarero",
+   "audio": "audio/c3_05_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí. ¿[[c3_que_tapas_teneis|Qué tapas tenéis]]?",
+   "en": "Yes. What tapas do you have?",
+   "who": "Marina",
+   "audio": "audio/c3_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Tortilla de patatas, croquetas y pan con tomate.",
+   "en": "Potato omelette, croquettes and bread with tomato.",
+   "who": "Camarero",
+   "audio": "audio/c3_07_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Una tapa de tortilla [[c3_para_compartir|para compartir]].",
+   "en": "A tapa of omelette to share.",
+   "who": "Marina",
+   "audio": "audio/c3_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¿Algo más?",
+   "en": "Very good. Anything else?",
+   "who": "Camarero",
+   "audio": "audio/c3_09_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, nada más, gracias.",
+   "en": "No, nothing else, thanks.",
+   "who": "Marina",
+   "audio": "audio/c3_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tenéis. ¡Que aproveche!",
+   "en": "Here you are. Enjoy!",
+   "who": "Camarero",
+   "audio": "audio/c3_11_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c3_me_cobras|Me cobras]], por favor?",
+   "en": "Can I pay, please?",
+   "who": "Marina",
+   "audio": "audio/c3_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Son cinco euros con veinte.",
+   "en": "That's five euros twenty.",
+   "who": "Camarero",
+   "audio": "audio/c3_13_Camarero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · A la salida del mercado",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Espera, Marina! [[c4_falta_algo|Falta algo]] en la lista.",
+   "en": "Wait, Marina! Something's missing from the list.",
+   "who": "Laura",
+   "audio": "audio/c4_01_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Qué falta?",
+   "en": "What's missing?",
+   "who": "Marina",
+   "audio": "audio/c4_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡La sal!",
+   "en": "The salt!",
+   "who": "Laura",
+   "audio": "audio/c4_03_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ay, [[c4_es_verdad|es verdad]]! Vamos a otro puesto.",
+   "en": "Oh, that's true! Let's go to another stall.",
+   "who": "Marina",
+   "audio": "audio/c4_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale. ¡Uf, las [[c4_bolsas_pesan_mucho|bolsas pesan mucho]]!",
+   "en": "OK. Phew, the bags are really heavy!",
+   "who": "Laura",
+   "audio": "audio/c4_05_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, pero ya tenemos todo para la clase.",
+   "en": "Yes, but now we have everything for the class.",
+   "who": "Marina",
+   "audio": "audio/c4_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Oye, ¿quieres [[c4_cocinar_juntas|cocinar juntas]] un día en tu casa?",
+   "en": "Hey, do you want to cook together one day at your place?",
+   "who": "Laura",
+   "audio": "audio/c4_07_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Claro! ¿El próximo sábado?",
+   "en": "Of course! Next Saturday?",
+   "who": "Marina",
+   "audio": "audio/c4_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_venga|Venga]]! Me encanta la idea.",
+   "en": "Great! I love the idea.",
+   "who": "Laura",
+   "audio": "audio/c4_09_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Qué preparamos?",
+   "en": "What shall we make?",
+   "who": "Marina",
+   "audio": "audio/c4_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Una tortilla de patatas?",
+   "en": "A Spanish omelette?",
+   "who": "Laura",
+   "audio": "audio/c4_11_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale. ¡Yo hago la tortilla y tú el postre!",
+   "en": "OK. I'll make the omelette and you make dessert!",
+   "who": "Marina",
+   "audio": "audio/c4_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_trato_hecho|Trato hecho]]! Hasta el sábado.",
+   "en": "Deal! See you on Saturday.",
+   "who": "Laura",
+   "audio": "audio/c4_13_Laura.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_que_te_pongo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué te pongo?",
+   "say": "¿Qué te pongo?",
+   "line": "¡Buenos días! ¿Qué te pongo?",
+   "en": "What can I get you?",
+   "exact": true
+  },
+  "c1_a_cuanto_esta_el_kilo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿A cuánto está el kilo?",
+   "say": "¿A cuánto está el kilo?",
+   "line": "Buenos días. ¿A cuánto está el kilo de tomates?",
+   "en": "How much is a kilo of tomatoes?",
+   "exact": true
+  },
+  "c1_esta_tirado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Está tirado!",
+   "say": "¡Está tirado!",
+   "line": "¡Está tirado! Un kilo, por favor.",
+   "en": "That's dirt cheap!",
+   "exact": true
+  },
+  "c1_algo_mas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Algo más?",
+   "say": "¿Algo más?",
+   "line": "Aquí tienes. ¿Algo más?",
+   "en": "Anything else?",
+   "exact": true
+  },
+  "c1_cuanto_es_todo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuánto es todo?",
+   "say": "¿Cuánto es todo?",
+   "line": "Sí, gracias. ¿Cuánto es todo?",
+   "en": "How much is everything?",
+   "exact": true
+  },
+  "c1_puedo_pagar_con_tarjeta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Puedo pagar con tarjeta?",
+   "say": "¿Puedo pagar con tarjeta?",
+   "line": "¿Puedo pagar con tarjeta?",
+   "en": "Can I pay by card?",
+   "exact": true
+  },
+  "c2_quieres_probar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Quieres probar…?",
+   "say": "¿Quieres probar…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_trozo_de_pan": {
+   "target": true,
+   "lvl": "A2",
+   "w": "un trozo de pan",
+   "say": "un trozo de pan",
+   "line": "Toma un trozo de pan. Es aceite de Jaén.",
+   "en": "Take a piece of bread.",
+   "exact": true
+  },
+  "c2_que_rico": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué rico!",
+   "say": "¡Qué rico!",
+   "line": "Mmm… ¡Qué rico!",
+   "lineEn": "Mmm… How delicious!",
+   "en": "Mmm… How delicious!",
+   "exact": false
+  },
+  "c2_cuanto_cuesta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuánto cuesta…?",
+   "say": "¿Cuánto cuesta…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_es_un_poco_caro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Es un poco caro",
+   "say": "Es un poco caro",
+   "line": "Es un poco caro… La pequeña, por favor.",
+   "lineEn": "It's a bit expensive… The small one, please.",
+   "en": "It's a bit expensive… The small one, please.",
+   "exact": false
+  },
+  "c2_en_total": {
+   "target": true,
+   "lvl": "A2",
+   "w": "en total",
+   "say": "en total",
+   "line": "Aquí tienes. Son ocho euros en total.",
+   "lineEn": "That's eight euros in total.",
+   "en": "That's eight euros in total.",
+   "exact": false
+  },
+  "c3_que_os_pongo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué os pongo?",
+   "say": "¿Qué os pongo?",
+   "line": "¡Hola! ¿Qué os pongo?",
+   "en": "What can I get you two?",
+   "exact": true
+  },
+  "c3_para_mi": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Para mí…",
+   "say": "Para mí…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c3_cafe_con_leche": {
+   "target": true,
+   "lvl": "A2",
+   "w": "un café con leche",
+   "say": "un café con leche",
+   "line": "Para mí, un café con leche, por favor.",
+   "lineEn": "For me, a white coffee, please.",
+   "en": "For me, a white coffee, please.",
+   "exact": false
+  },
+  "c3_que_tapas_teneis": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué tapas tenéis?",
+   "say": "¿Qué tapas tenéis?",
+   "line": "Sí. ¿Qué tapas tenéis?",
+   "en": "What tapas do you have?",
+   "exact": true
+  },
+  "c3_para_compartir": {
+   "target": true,
+   "lvl": "A2",
+   "w": "para compartir",
+   "say": "para compartir",
+   "line": "Una tapa de tortilla para compartir.",
+   "lineEn": "A tapa of omelette to share.",
+   "en": "A tapa of omelette to share.",
+   "exact": false
+  },
+  "c3_me_cobras": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Me cobras?",
+   "say": "¿Me cobras?",
+   "line": "¿Me cobras, por favor?",
+   "lineEn": "Can I pay, please?",
+   "en": "Can I pay, please?",
+   "exact": false
+  },
+  "c4_falta_algo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Falta algo",
+   "say": "Falta algo",
+   "line": "¡Espera, Marina! Falta algo en la lista.",
+   "lineEn": "Something's missing from the list.",
+   "en": "Something's missing from the list.",
+   "exact": false
+  },
+  "c4_es_verdad": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Es verdad!",
+   "say": "¡Es verdad!",
+   "line": "¡Ay, es verdad! Vamos a otro puesto.",
+   "en": "Oh, that's true!",
+   "exact": true
+  },
+  "c4_bolsas_pesan_mucho": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Las bolsas pesan mucho",
+   "say": "Las bolsas pesan mucho",
+   "line": "Vale. ¡Uf, las bolsas pesan mucho!",
+   "en": "Phew, the bags are really heavy!",
+   "exact": true
+  },
+  "c4_cocinar_juntas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "cocinar juntas",
+   "say": "cocinar juntas",
+   "line": "Oye, ¿quieres cocinar juntas un día en tu casa?",
+   "lineEn": "Hey, do you want to cook together one day at your place?",
+   "en": "Hey, do you want to cook together one day at your place?",
+   "exact": false
+  },
+  "c4_venga": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Venga!",
+   "say": "¡Venga!",
+   "line": "¡Venga! Me encanta la idea.",
+   "en": "Great!",
+   "exact": true
+  },
+  "c4_trato_hecho": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Trato hecho!",
+   "say": "¡Trato hecho!",
+   "line": "¡Trato hecho! Hasta el sábado.",
+   "en": "Deal!",
+   "exact": true
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Algo más?»?",
+   "o": [
+    "Anything else?",
+    "What tapas do you have?",
+    "Great!"
+   ],
+   "a": 0,
+   "tag": "¿Algo más?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «Las bolsas pesan mucho»?",
+   "o": [
+    "How much is everything?",
+    "Phew, the bags are really heavy!",
+    "Deal!"
+   ],
+   "a": 1,
+   "tag": "Las bolsas pesan mucho"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Qué tapas tenéis?»?",
+   "o": [
+    "What can I get you?",
+    "Phew, the bags are really heavy!",
+    "What tapas do you have?"
+   ],
+   "a": 2,
+   "tag": "¿Qué tapas tenéis?"
+  }
+ ],
+ "next": {
+  "title": "Semana 6: Una cena para Laura",
+  "teaser": "Next week's story.",
+  "url": "../../ep06/"
+ }
+}

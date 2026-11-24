@@ -1,0 +1,683 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 8,
+ "pageTitle": "Conversaciones · Semana 8",
+ "chapterTitle": "Mi primera clase de pintura en Málaga",
+ "chipLabel": "Conversaciones · Semana 8",
+ "levels": "DELE A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: Mi primera clase de pintura en Málaga",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · En el taller",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Hola, Mateo! [[c1_bienvenido|Bienvenido]] al taller.",
+   "en": "Hi, Mateo! Welcome to the studio.",
+   "who": "Ines",
+   "audio": "audio/c1_01_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias, Inés. Estoy un poco nervioso.",
+   "en": "Thanks, Inés. I'm a bit nervous.",
+   "who": "Mateo",
+   "audio": "audio/c1_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Tranquilo. Toma, ponte este delantal.",
+   "en": "Relax. Here, put on this apron.",
+   "who": "Ines",
+   "audio": "audio/c1_03_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Para qué es?",
+   "en": "What is it for?",
+   "who": "Mateo",
+   "audio": "audio/c1_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Para no mancharte la camisa con la pintura.",
+   "en": "So you don't get paint on your shirt.",
+   "who": "Ines",
+   "audio": "audio/c1_05_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Buena idea! ¿[[c1_donde_me_pongo|Dónde me pongo]]?",
+   "en": "Good idea! Where do I stand?",
+   "who": "Mateo",
+   "audio": "audio/c1_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí, delante de este caballete.",
+   "en": "Here, in front of this easel.",
+   "who": "Ines",
+   "audio": "audio/c1_07_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c1_me_puede_ayudar|Me puede ayudar]]? No sé por dónde empezar.",
+   "en": "Can you help me? I don't know where to start.",
+   "who": "Mateo",
+   "audio": "audio/c1_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. Coge el pincel así, con suavidad.",
+   "en": "Of course. Hold the brush like this, gently.",
+   "who": "Ines",
+   "audio": "audio/c1_09_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Así? ¿Está bien?",
+   "en": "Like this? Is it right?",
+   "who": "Mateo",
+   "audio": "audio/c1_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Casi. Más arriba, con la mano relajada.",
+   "en": "Almost. Higher up, with your hand relaxed.",
+   "who": "Ines",
+   "audio": "audio/c1_11_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Uf, no sé si puedo hacerlo. [[c1_ni_idea|Ni idea]].",
+   "en": "Phew, I don't know if I can do it. No idea.",
+   "who": "Mateo",
+   "audio": "audio/c1_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí puedes. Pintar es como caminar: paso a paso.",
+   "en": "Yes, you can. Painting is like walking: step by step.",
+   "who": "Ines",
+   "audio": "audio/c1_13_Ines.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En la tienda de arte",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Hola! ¿[[c2_te_puedo_ayudar|Te puedo ayudar]]?",
+   "en": "Hi! Can I help you?",
+   "who": "Dependienta",
+   "audio": "audio/c2_01_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, busco un lienzo pequeño para pintar en casa.",
+   "en": "Yes, I'm looking for a small canvas to paint at home.",
+   "who": "Mateo",
+   "audio": "audio/c2_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Este es muy bueno. Es de algodón.",
+   "en": "This one is very good. It's cotton.",
+   "who": "Dependienta",
+   "audio": "audio/c2_03_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c2_cuanto_cuesta|Cuánto cuesta]] ese lienzo pequeño?",
+   "en": "How much is that small canvas?",
+   "who": "Mateo",
+   "audio": "audio/c2_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Doce euros.",
+   "en": "Twelve euros.",
+   "who": "Dependienta",
+   "audio": "audio/c2_05_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale. ¿Y tienes pinceles?",
+   "en": "OK. And do you have brushes?",
+   "who": "Mateo",
+   "audio": "audio/c2_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, allí. ¿Quieres uno grande o uno fino?",
+   "en": "Yes, over there. Do you want a big one or a thin one?",
+   "who": "Dependienta",
+   "audio": "audio/c2_07_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c2_uno_de_cada|Uno de cada]], por favor.",
+   "en": "One of each, please.",
+   "who": "Mateo",
+   "audio": "audio/c2_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¿Algo más?",
+   "en": "Very good. Anything else?",
+   "who": "Dependienta",
+   "audio": "audio/c2_09_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, gracias. ¿Puedo [[c2_pagar_en_efectivo|pagar en efectivo]]?",
+   "en": "No, thanks. Can I pay in cash?",
+   "who": "Mateo",
+   "audio": "audio/c2_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. Son doce euros con cincuenta.",
+   "en": "Of course. That's twelve euros fifty.",
+   "who": "Dependienta",
+   "audio": "audio/c2_11_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. ¡[[c2_me_flipa|Me flipa]] esta tienda!",
+   "en": "Here you are. I love this shop!",
+   "who": "Mateo",
+   "audio": "audio/c2_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Gracias! Te lo envuelvo en papel.",
+   "en": "Thanks! I'll wrap it in paper for you.",
+   "who": "Dependienta",
+   "audio": "audio/c2_13_Dependienta.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · En el Museo Picasso",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenas tardes. ¿[[c3_cuantas_entradas|Cuántas entradas]]?",
+   "en": "Good afternoon. How many tickets?",
+   "who": "Taquillero",
+   "audio": "audio/c3_01_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Una, por favor. ¿Cuánto es?",
+   "en": "One, please. How much is it?",
+   "who": "Mateo",
+   "audio": "audio/c3_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Son nueve euros.",
+   "en": "That's nine euros.",
+   "who": "Taquillero",
+   "audio": "audio/c3_03_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c3_hay_descuento|Hay descuento]] para profesores?",
+   "en": "Is there a discount for teachers?",
+   "who": "Mateo",
+   "audio": "audio/c3_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, lo siento. Solo para estudiantes.",
+   "en": "No, sorry. Only for students.",
+   "who": "Taquillero",
+   "audio": "audio/c3_05_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No pasa nada. Aquí tienes.",
+   "en": "No problem. Here you are.",
+   "who": "Mateo",
+   "audio": "audio/c3_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. Aquí tienes la entrada y un mapa.",
+   "en": "Thanks. Here's the ticket and a map.",
+   "who": "Taquillero",
+   "audio": "audio/c3_07_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Dónde están los cuadros más famosos?",
+   "en": "Where are the most famous paintings?",
+   "who": "Mateo",
+   "audio": "audio/c3_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "En la [[c3_sala_tres_a_la_derecha|sala tres, a la derecha]].",
+   "en": "In room three, on the right.",
+   "who": "Taquillero",
+   "audio": "audio/c3_09_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c3_puedo_hacer_fotos|Puedo hacer fotos]]?",
+   "en": "Can I take photos?",
+   "who": "Mateo",
+   "audio": "audio/c3_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, pero [[c3_sin_flash|sin flash]], por favor.",
+   "en": "Yes, but without flash, please.",
+   "who": "Taquillero",
+   "audio": "audio/c3_11_Taquillero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto. ¿[[c3_a_que_hora_cierra|A qué hora cierra]] el museo?",
+   "en": "Perfect. What time does the museum close?",
+   "who": "Mateo",
+   "audio": "audio/c3_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A las siete. ¡Que disfrutes!",
+   "en": "At seven. Enjoy!",
+   "who": "Taquillero",
+   "audio": "audio/c3_13_Taquillero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · En el patio",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Mateo, ¿qué te trae a Málaga?",
+   "en": "Mateo, what brings you to Málaga?",
+   "who": "Ines",
+   "audio": "audio/c4_01_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Dejé mi trabajo de oficina a los cuarenta años.",
+   "en": "I left my office job at forty.",
+   "who": "Mateo",
+   "audio": "audio/c4_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_que_valiente|Qué valiente]]! ¿Y ahora qué haces?",
+   "en": "How brave! And what do you do now?",
+   "who": "Ines",
+   "audio": "audio/c4_03_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Viajo y pruebo cosas nuevas. ¡Me flipa!",
+   "en": "I travel and try new things. I love it!",
+   "who": "Mateo",
+   "audio": "audio/c4_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Y qué tal la clase de hoy?",
+   "en": "And how was today's class?",
+   "who": "Ines",
+   "audio": "audio/c4_05_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Bien, pero el verde me salió muy oscuro. ¡[[c4_que_mala_pata|Qué mala pata]]!",
+   "en": "Good, but my green came out very dark. What bad luck!",
+   "who": "Mateo",
+   "audio": "audio/c4_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ja, ja! Los errores son parte del trabajo.",
+   "en": "Ha ha! Mistakes are part of the work.",
+   "who": "Ines",
+   "audio": "audio/c4_07_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Quiero volver. ¿Puedo [[c4_reservar|reservar]] el sábado?",
+   "en": "I want to come back. Can I book Saturday?",
+   "who": "Mateo",
+   "audio": "audio/c4_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. ¿[[c4_a_que_hora_te_va_bien|A qué hora te va bien]]?",
+   "en": "Of course. What time suits you?",
+   "who": "Ines",
+   "audio": "audio/c4_09_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "A las diez, [[c4_si_hay_plaza|si hay plaza]].",
+   "en": "At ten, if there's a place.",
+   "who": "Mateo",
+   "audio": "audio/c4_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, hay plaza. Te apunto en mi agenda.",
+   "en": "Yes, there's a place. I'll put you in my diary.",
+   "who": "Ines",
+   "audio": "audio/c4_11_Ines.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Genial! ¿Tengo que traer algo?",
+   "en": "Great! Do I have to bring anything?",
+   "who": "Mateo",
+   "audio": "audio/c4_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Solo tu cuaderno y muchas ganas. ¡Hasta el sábado!",
+   "en": "Just your notebook and lots of enthusiasm. See you Saturday!",
+   "who": "Ines",
+   "audio": "audio/c4_13_Ines.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_bienvenido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Bienvenido",
+   "say": "Bienvenido",
+   "line": "¡Hola, Mateo! Bienvenido al taller.",
+   "lineEn": "Welcome to the studio.",
+   "en": "Welcome to the studio.",
+   "exact": false
+  },
+  "c1_ponerse_el_delantal": {
+   "target": true,
+   "lvl": "A2",
+   "w": "ponerse el delantal",
+   "say": "ponerse el delantal",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_donde_me_pongo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Dónde me pongo?",
+   "say": "¿Dónde me pongo?",
+   "line": "¡Buena idea! ¿Dónde me pongo?",
+   "en": "Where do I stand?",
+   "exact": true
+  },
+  "c1_me_puede_ayudar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Me puede ayudar?",
+   "say": "¿Me puede ayudar?",
+   "line": "¿Me puede ayudar? No sé por dónde empezar.",
+   "en": "Can you help me?",
+   "exact": true
+  },
+  "c1_coger_el_pincel": {
+   "target": true,
+   "lvl": "A2",
+   "w": "coger el pincel",
+   "say": "coger el pincel",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_ni_idea": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Ni idea",
+   "say": "Ni idea",
+   "line": "Uf, no sé si puedo hacerlo. Ni idea.",
+   "en": "No idea.",
+   "exact": true
+  },
+  "c2_te_puedo_ayudar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Te puedo ayudar?",
+   "say": "¿Te puedo ayudar?",
+   "line": "¡Hola! ¿Te puedo ayudar?",
+   "en": "Can I help you?",
+   "exact": true
+  },
+  "c2_busco": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Busco…",
+   "say": "Busco…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_cuanto_cuesta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuánto cuesta?",
+   "say": "¿Cuánto cuesta?",
+   "line": "¿Cuánto cuesta ese lienzo pequeño?",
+   "lineEn": "How much is that small canvas?",
+   "en": "How much is that small canvas?",
+   "exact": false
+  },
+  "c2_uno_de_cada": {
+   "target": true,
+   "lvl": "A2",
+   "w": "uno de cada",
+   "say": "uno de cada",
+   "line": "Uno de cada, por favor.",
+   "lineEn": "One of each, please.",
+   "en": "One of each, please.",
+   "exact": false
+  },
+  "c2_pagar_en_efectivo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "pagar en efectivo",
+   "say": "pagar en efectivo",
+   "line": "No, gracias. ¿Puedo pagar en efectivo?",
+   "en": "Can I pay in cash?",
+   "exact": true
+  },
+  "c2_me_flipa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Me flipa!",
+   "say": "¡Me flipa!",
+   "line": "Aquí tienes. ¡Me flipa esta tienda!",
+   "lineEn": "I love this shop!",
+   "en": "I love this shop!",
+   "exact": false
+  },
+  "c3_cuantas_entradas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuántas entradas?",
+   "say": "¿Cuántas entradas?",
+   "line": "Buenas tardes. ¿Cuántas entradas?",
+   "en": "How many tickets?",
+   "exact": true
+  },
+  "c3_hay_descuento": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Hay descuento?",
+   "say": "¿Hay descuento?",
+   "line": "¿Hay descuento para profesores?",
+   "lineEn": "Is there a discount for teachers?",
+   "en": "Is there a discount for teachers?",
+   "exact": false
+  },
+  "c3_sala_tres_a_la_derecha": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la sala tres, a la derecha",
+   "say": "la sala tres, a la derecha",
+   "line": "En la sala tres, a la derecha.",
+   "en": "In room three, on the right.",
+   "exact": true
+  },
+  "c3_puedo_hacer_fotos": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Puedo hacer fotos?",
+   "say": "¿Puedo hacer fotos?",
+   "line": "¿Puedo hacer fotos?",
+   "en": "Can I take photos?",
+   "exact": true
+  },
+  "c3_sin_flash": {
+   "target": true,
+   "lvl": "A2",
+   "w": "sin flash",
+   "say": "sin flash",
+   "line": "Sí, pero sin flash, por favor.",
+   "lineEn": "Yes, but without flash, please.",
+   "en": "Yes, but without flash, please.",
+   "exact": false
+  },
+  "c3_a_que_hora_cierra": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿A qué hora cierra?",
+   "say": "¿A qué hora cierra?",
+   "line": "Perfecto. ¿A qué hora cierra el museo?",
+   "en": "What time does the museum close?",
+   "exact": true
+  },
+  "c4_que_te_trae_a": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué te trae a…?",
+   "say": "¿Qué te trae a…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_que_valiente": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué valiente!",
+   "say": "¡Qué valiente!",
+   "line": "¡Qué valiente! ¿Y ahora qué haces?",
+   "en": "How brave!",
+   "exact": true
+  },
+  "c4_que_mala_pata": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué mala pata!",
+   "say": "¡Qué mala pata!",
+   "line": "Bien, pero el verde me salió muy oscuro. ¡Qué mala pata!",
+   "en": "What bad luck!",
+   "exact": true
+  },
+  "c4_reservar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "reservar",
+   "say": "reservar",
+   "line": "Quiero volver. ¿Puedo reservar el sábado?",
+   "lineEn": "Can I book Saturday?",
+   "en": "Can I book Saturday?",
+   "exact": false
+  },
+  "c4_a_que_hora_te_va_bien": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿A qué hora te va bien?",
+   "say": "¿A qué hora te va bien?",
+   "line": "Claro. ¿A qué hora te va bien?",
+   "en": "What time suits you?",
+   "exact": true
+  },
+  "c4_si_hay_plaza": {
+   "target": true,
+   "lvl": "A2",
+   "w": "si hay plaza",
+   "say": "si hay plaza",
+   "line": "A las diez, si hay plaza.",
+   "lineEn": "At ten, if there's a place.",
+   "en": "At ten, if there's a place.",
+   "exact": false
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Te puedo ayudar?»?",
+   "o": [
+    "How brave!",
+    "Can I help you?",
+    "In room three, on the right."
+   ],
+   "a": 1,
+   "tag": "¿Te puedo ayudar?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿A qué hora cierra?»?",
+   "o": [
+    "What time does the museum close?",
+    "Can I pay in cash?",
+    "What bad luck!"
+   ],
+   "a": 0,
+   "tag": "¿A qué hora cierra?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Cuántas entradas?»?",
+   "o": [
+    "What time does the museum close?",
+    "In room three, on the right.",
+    "How many tickets?"
+   ],
+   "a": 2,
+   "tag": "¿Cuántas entradas?"
+  }
+ ],
+ "next": {
+  "title": "Fin de la temporada",
+  "teaser": "More stories every Sunday on YouTube.",
+  "url": "../../"
+ }
+}

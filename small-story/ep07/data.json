@@ -1,0 +1,628 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-",
+ "episode": 7,
+ "pageTitle": "Semana 7: Mi primera vez conduciendo en Madrid",
+ "chapterTitle": "Mi primera vez conduciendo en Madrid",
+ "chipLabel": "Historia · Semana 7",
+ "levels": "DELE A2",
+ "wordLabel": "palabras",
+ "lineAudio": true,
+ "lineLabel": "En la historia",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "💬 Practica las conversaciones de esta semana →",
+   "url": "conversaciones/"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "d",
+   "who": "",
+   "es": "Es domingo por la mañana en Madrid.",
+   "en": "It is Sunday morning in Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy hago algo nuevo: voy a conducir en la ciudad.",
+   "en": "Today I do something new: I am going to drive in the city."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Nunca he conducido en Madrid.",
+   "en": "I have never driven in Madrid."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hace sol, pero hace fresquito.",
+   "en": "It is sunny, but it is cool."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Tomo un café con leche en la cocina y respiro hondo.",
+   "en": "I have a coffee with milk in the kitchen and take a deep breath."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Voy a la oficina de alquiler de [[coche|coches]] cerca de la estación de Atocha.",
+   "en": "I go to the car rental office near Atocha station."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El empleado me da las [[llave|llaves]] de un coche pequeño, blanco.",
+   "en": "The clerk gives me the keys to a small white car."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me explica: «Cuidado con la zona de bajas emisiones».",
+   "en": "He explains: \"Be careful with the low-emission zone.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Digo: «Perfecto, gracias», pero tengo las manos frías.",
+   "en": "I say: \"Perfect, thanks,\" but my hands are cold."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Subo al coche y me pongo el [[cinturon|cinturón]].",
+   "en": "I get into the car and fasten my seatbelt."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ajusto el [[espejo|espejo]] y miro el GPS del móvil.",
+   "en": "I adjust the mirror and look at the GPS on my phone."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El destino es la casa de mi amiga Carmen, en Chamartín.",
+   "en": "The destination is my friend Carmen's home, in Chamartín."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Arranco despacio y salgo del [[aparcamiento|aparcamiento]].",
+   "en": "I start slowly and leave the car park."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Un taxi toca el [[claxon|claxon]] detrás de mí.",
+   "en": "A taxi honks behind me."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Respiro hondo otra vez y sigo recto.",
+   "en": "I take another deep breath and keep going straight."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Estoy en el Paseo del Prado, con muchos coches alrededor.",
+   "en": "I am on the Paseo del Prado, with many cars around me."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay una [[glorieta|glorieta]] grande y no sé qué carril coger.",
+   "en": "There is a big roundabout and I don't know which lane to take."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El GPS dice: «En cien metros, gire a la derecha».",
+   "en": "The GPS says: \"In one hundred metres, turn right.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Me equivoco de carril, pero nadie pita mucho.",
+   "en": "I take the wrong lane, but nobody honks much."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Un motorista me adelanta y me saluda con la mano.",
+   "en": "A motorcyclist overtakes me and waves at me."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llego a la plaza de Cibeles y veo la fuente con la diosa.",
+   "en": "I arrive at Cibeles square and see the fountain with the goddess."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hay [[peaton|peatones]] que cruzan por todas partes.",
+   "en": "Pedestrians cross everywhere."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Un [[semaforo|semáforo]] se pone rojo y freno de golpe.",
+   "en": "A traffic light turns red and I brake suddenly."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El coche se para un momento, y mi corazón también.",
+   "en": "The car stops for a moment, and so does my heart."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Vuelvo a arrancar y miro el reloj: solo han pasado diez minutos.",
+   "en": "I start again and look at the clock: only ten minutes have passed."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Entro en el Paseo de la Castellana, una avenida muy ancha.",
+   "en": "I enter the Paseo de la Castellana, a very wide avenue."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Los coches van rápido, pero la calle está despejada.",
+   "en": "The cars go fast, but the road is clear."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cambio de marcha y me siento un poco más seguro.",
+   "en": "I change gear and feel a little more confident."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El sol entra por el parabrisas y me calienta las manos.",
+   "en": "The sun comes through the windscreen and warms my hands."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por primera vez pienso: puedo hacerlo.",
+   "en": "For the first time I think: I can do it."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llego a la calle de Carmen, pero no hay sitio para [[aparcar|aparcar]].",
+   "en": "I arrive at Carmen's street, but there is no space to park."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Doy una vuelta a la manzana y paso otra vez por la misma calle.",
+   "en": "I go around the block and pass the same street again."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Carmen me escribe un mensaje: «Aparca en el parking de la esquina».",
+   "en": "Carmen sends me a message: \"Park in the car park on the corner.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Bajo por la [[rampa|rampa]] del parking, con cuidado, y busco una plaza.",
+   "en": "I go down the car park ramp carefully and look for a space."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Encuentro una plaza libre y aparco, un poco torcido.",
+   "en": "I find a free space and park, a bit crooked."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Salgo del coche y veo a Carmen en la puerta de su portal.",
+   "en": "I get out of the car and see Carmen at the door of her building."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Ella aplaude y dice: «¡Mateo, lo has conseguido!».",
+   "en": "She claps and says: \"Mateo, you did it!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Yo me río y digo: «Ha sido una aventura».",
+   "en": "I laugh and say: \"It has been an adventure.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Subimos a su piso y comemos en la cocina.",
+   "en": "We go up to her flat and eat in the kitchen."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Carmen me pregunta: «¿Qué sientes ahora?».",
+   "en": "Carmen asks me: \"What do you feel now?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Por la tarde tengo que volver al centro para [[devolver|devolver]] el coche.",
+   "en": "In the afternoon I have to go back to the centre to return the car."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Carmen me dice: «[[x_tranqui|Tranqui]], Mateo, es solo Madrid».",
+   "en": "Carmen tells me: \"Chill, Mateo, it's just Madrid.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Respiro y pongo la radio.",
+   "en": "I breathe and turn on the radio."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Conduzco despacio por la calle Serrano y miro los escaparates.",
+   "en": "I drive slowly down Calle Serrano and look at the shop windows."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Carmen se ríe: «¡[[x_vaya_tela|Vaya tela]], qué bien conduces!».",
+   "en": "Carmen laughs: \"Wow, you drive so well!\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Llego a la oficina de alquiler, cerca de Atocha, al [[atardecer|atardecer]].",
+   "en": "I arrive at the rental office near Atocha at sunset."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "El cielo está naranja y las luces de la ciudad se encienden.",
+   "en": "The sky is orange and the city lights come on."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Aparco en la zona de devolución y apago el motor.",
+   "en": "I park in the return area and switch off the engine."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Doy las llaves al empleado, que sonríe.",
+   "en": "I hand the keys to the clerk, who smiles."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Él pregunta: «¿Primera vez conduciendo en Madrid?».",
+   "en": "He asks: \"First time driving in Madrid?\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Le digo: «Sí, es mi primera vez, y ha sido difícil».",
+   "en": "I say: \"Yes, it's my first time, and it has been hard.\""
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hace cinco años dejé mi trabajo de oficina.",
+   "en": "Five years ago I left my office job."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Desde entonces pruebo cosas nuevas por el mundo.",
+   "en": "Since then I have been trying new things around the world."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy conducir en Madrid es una de ellas.",
+   "en": "Today, driving in Madrid is one of them."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Salgo caminando con una sonrisa.",
+   "en": "I walk out with a smile."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cojo el metro y pienso en mi próxima aventura.",
+   "en": "I take the metro and think about my next adventure."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Hoy aprendo que el miedo es normal al empezar algo nuevo.",
+   "en": "Today I learn that fear is normal when you start something new."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Conducir en Madrid [[x_no_esta_chupado|no está chupado]], pero es posible.",
+   "en": "Driving in Madrid is not easy, but it is possible."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Cada primera vez es una pequeña victoria.",
+   "en": "Every first time is a small victory."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Gracias por escuchar mi historia.",
+   "en": "Thank you for listening to my story."
+  },
+  {
+   "t": "d",
+   "who": "",
+   "es": "Mañana empieza otra aventura para mí.",
+   "en": "Tomorrow another adventure begins for me."
+  },
+  {
+   "t": "v",
+   "es": "Vocabulario del episodio"
+  }
+ ],
+ "words": {
+  "coche": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el coche",
+   "en": "the car",
+   "say": "el coche",
+   "line": "Voy a la oficina de alquiler de coches cerca de la estación de Atocha.",
+   "lineEn": "I go to the car rental office near Atocha station."
+  },
+  "llave": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la llave",
+   "en": "the key",
+   "say": "la llave",
+   "line": "El empleado me da las llaves de un coche pequeño, blanco.",
+   "lineEn": "The clerk gives me the keys to a small white car."
+  },
+  "cinturon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el cinturón",
+   "en": "the seatbelt",
+   "say": "el cinturón",
+   "line": "Subo al coche y me pongo el cinturón.",
+   "lineEn": "I get into the car and fasten my seatbelt."
+  },
+  "espejo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el espejo",
+   "en": "the mirror",
+   "say": "el espejo",
+   "line": "Ajusto el espejo y miro el GPS del móvil.",
+   "lineEn": "I adjust the mirror and look at the GPS on my phone."
+  },
+  "glorieta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la glorieta",
+   "en": "the roundabout",
+   "say": "la glorieta",
+   "line": "Hay una glorieta grande y no sé qué carril coger.",
+   "lineEn": "There is a big roundabout and I don't know which lane to take."
+  },
+  "carril": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el carril",
+   "en": "the lane",
+   "say": "el carril"
+  },
+  "semaforo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el semáforo",
+   "en": "the traffic light",
+   "say": "el semáforo",
+   "line": "Un semáforo se pone rojo y freno de golpe.",
+   "lineEn": "A traffic light turns red and I brake suddenly."
+  },
+  "peaton": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el peatón",
+   "en": "the pedestrian",
+   "say": "el peatón",
+   "line": "Hay peatones que cruzan por todas partes.",
+   "lineEn": "Pedestrians cross everywhere."
+  },
+  "claxon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el claxon",
+   "en": "the car horn",
+   "say": "el claxon",
+   "line": "Un taxi toca el claxon detrás de mí.",
+   "lineEn": "A taxi honks behind me."
+  },
+  "aparcar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "aparcar",
+   "en": "to park",
+   "say": "aparcar",
+   "line": "Llego a la calle de Carmen, pero no hay sitio para aparcar.",
+   "lineEn": "I arrive at Carmen's street, but there is no space to park."
+  },
+  "aparcamiento": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el aparcamiento",
+   "en": "the car park",
+   "say": "el aparcamiento",
+   "line": "Arranco despacio y salgo del aparcamiento.",
+   "lineEn": "I start slowly and leave the car park."
+  },
+  "rampa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la rampa",
+   "en": "the ramp",
+   "say": "la rampa",
+   "line": "Bajo por la rampa del parking, con cuidado, y busco una plaza.",
+   "lineEn": "I go down the car park ramp carefully and look for a space."
+  },
+  "frenar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "frenar",
+   "en": "to brake",
+   "say": "frenar"
+  },
+  "devolver": {
+   "target": true,
+   "lvl": "A2",
+   "w": "devolver",
+   "en": "to return something",
+   "say": "devolver",
+   "line": "Por la tarde tengo que volver al centro para devolver el coche.",
+   "lineEn": "In the afternoon I have to go back to the centre to return the car."
+  },
+  "alquiler": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el alquiler",
+   "en": "the rental",
+   "say": "el alquiler"
+  },
+  "atardecer": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el atardecer",
+   "en": "sunset",
+   "say": "el atardecer",
+   "line": "Llego a la oficina de alquiler, cerca de Atocha, al atardecer.",
+   "lineEn": "I arrive at the rental office near Atocha at sunset."
+  },
+  "x_tranqui": {
+   "target": true,
+   "lvl": "España",
+   "w": "Tranqui.",
+   "en": "\"Tranqui\" means \"chill, take it easy.\"",
+   "say": "Tranqui.",
+   "exact": false,
+   "line": "Carmen me dice: «Tranqui, Mateo, es solo Madrid».",
+   "lineEn": "Carmen tells me: \"Chill, Mateo, it's just Madrid.\""
+  },
+  "x_vaya_tela": {
+   "target": true,
+   "lvl": "España",
+   "w": "¡Vaya tela!",
+   "en": "\"¡Vaya tela!\" means \"wow, that's really something,\" said when you're impressed or surprised.",
+   "say": "¡Vaya tela!",
+   "exact": false,
+   "line": "Carmen se ríe: «¡Vaya tela, qué bien conduces!».",
+   "lineEn": "Carmen laughs: \"Wow, you drive so well!\""
+  },
+  "x_no_esta_chupado": {
+   "target": true,
+   "lvl": "España",
+   "w": "No está chupado.",
+   "en": "\"No está chupado\" means \"it isn't easy.\"",
+   "say": "No está chupado.",
+   "exact": false,
+   "line": "Conducir en Madrid no está chupado, pero es posible.",
+   "lineEn": "Driving in Madrid is not easy, but it is possible."
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "España",
+   "title": "Tranqui.",
+   "body": "\"Tranqui\" means \"chill, take it easy.\""
+  },
+  {
+   "lvl": "España",
+   "title": "¡Vaya tela!",
+   "body": "\"¡Vaya tela!\" means \"wow, that's really something,\" said when you're impressed or surprised."
+  },
+  {
+   "lvl": "España",
+   "title": "No está chupado.",
+   "body": "\"No está chupado\" means \"it isn't easy.\""
+  },
+  {
+   "lvl": "Preguntas",
+   "title": "Preguntas del vídeo",
+   "body": "¿Dónde alquila Mateo el coche? · ¿Adónde va Mateo con el coche? · ¿Dónde aparca Mateo cuando llega a la calle de Carmen?<br><small>Answer in Spanish in the YouTube comments.</small>"
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el espejo»?",
+   "o": [
+    "to return something",
+    "the mirror",
+    "the pedestrian"
+   ],
+   "a": 1,
+   "tag": "el espejo"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el alquiler»?",
+   "o": [
+    "the rental",
+    "the car",
+    "the ramp"
+   ],
+   "a": 0,
+   "tag": "el alquiler"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «el peatón»?",
+   "o": [
+    "the roundabout",
+    "the pedestrian",
+    "to park"
+   ],
+   "a": 1,
+   "tag": "el peatón"
+  }
+ ],
+ "next": {
+  "title": "Ahora: Conversaciones · Semana 7",
+  "teaser": "Speak like Mateo: 4 short dialogues with real voices.",
+  "url": "conversaciones/"
+ }
+}

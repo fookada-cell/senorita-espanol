@@ -1,0 +1,414 @@
+{
+ "source": "Aired video transcript (automatic speech-to-text), cleaned; missing translations added by Claude 2026-11-24",
+ "lines": [
+  {
+   "es": "Hola, me llamo Elena.",
+   "en": "Hello, my name is Elena."
+  },
+  {
+   "es": "Tengo 32 años.",
+   "en": "I am 32 years old."
+  },
+  {
+   "es": "Esta es mi semana de lluvia en Sevilla.",
+   "en": "This is my rainy week in Sevilla."
+  },
+  {
+   "es": "Vivo en Madrid, pero esta semana trabajo en Sevilla.",
+   "en": "I live in Madrid, but this week I am working in Sevilla."
+  },
+  {
+   "es": "Hoy es lunes.",
+   "en": "Today is Monday."
+  },
+  {
+   "es": "Son las 8 de la mañana.",
+   "en": "It is eight in the morning."
+  },
+  {
+   "es": "Preparo mi bolso marrón.",
+   "en": "I get my brown bag ready."
+  },
+  {
+   "es": "Llevo un paraguas, un libro y mi móvil.",
+   "en": "I take an umbrella, a book, and my phone."
+  },
+  {
+   "es": "Riego mi planta verde.",
+   "en": "I water my green plant."
+  },
+  {
+   "es": "Estoy contenta.",
+   "en": "I am happy."
+  },
+  {
+   "es": "Quiero ver Sevilla al sol.",
+   "en": "I want to see Sevilla in the sun."
+  },
+  {
+   "es": "Por la tarde llego a Sevilla.",
+   "en": "In the afternoon, I arrive in Sevilla."
+  },
+  {
+   "es": "Está lloviendo a cántaros.",
+   "en": "It's pouring."
+  },
+  {
+   "es": "Las calles están mojadas.",
+   "en": "The streets are wet."
+  },
+  {
+   "es": "Abro mi paraguas y camino despacio.",
+   "en": "I open my umbrella and walk slowly."
+  },
+  {
+   "es": "Busco mi piso pequeño.",
+   "en": "I look for my little flat."
+  },
+  {
+   "es": "¡Aquí está!",
+   "en": "Here it is."
+  },
+  {
+   "es": "Estoy un poco triste.",
+   "en": "I am a little sad."
+  },
+  {
+   "es": "Quiero sol, pero hoy llueve.",
+   "en": "I want sun, but today it is raining."
+  },
+  {
+   "es": "Después camino hacia el centro.",
+   "en": "Afterwards, I walk towards the centre."
+  },
+  {
+   "es": "Llego a una plaza muy grande, con arcos.",
+   "en": "I arrive at a very large square with arches."
+  },
+  {
+   "es": "Me quedo bajo los arcos.",
+   "en": "I stay under the arches."
+  },
+  {
+   "es": "Hay azulejos de muchos colores.",
+   "en": "There are tiles of many colors."
+  },
+  {
+   "es": "¡Qué guay!",
+   "en": "How cool!"
+  },
+  {
+   "es": "Los naranjos están mojados.",
+   "en": "The orange trees are wet."
+  },
+  {
+   "es": "Todo brilla un poco.",
+   "en": "Everything shines a little."
+  },
+  {
+   "es": "El martes por la mañana llueve otra vez.",
+   "en": "On Tuesday morning, it is raining again."
+  },
+  {
+   "es": "Voy a un museo.",
+   "en": "I go to a museum."
+  },
+  {
+   "es": "Dentro está seco y tranquilo.",
+   "en": "Inside, it is dry and quiet."
+  },
+  {
+   "es": "Miro los cuadros despacio.",
+   "en": "I look at the paintings slowly."
+  },
+  {
+   "es": "Hay poca gente.",
+   "en": "There are not many people."
+  },
+  {
+   "es": "Descubro Sevilla por dentro.",
+   "en": "I discover Sevilla from the inside."
+  },
+  {
+   "es": "Por la tarde vuelvo al piso.",
+   "en": "In the afternoon, I go back to the flat."
+  },
+  {
+   "es": "Fuera la lluvia cae y cae.",
+   "en": "Outside, the rain falls and falls."
+  },
+  {
+   "es": "En la cocina preparo una sopa de verduras.",
+   "en": "In the kitchen, I make a vegetable soup."
+  },
+  {
+   "es": "Oigo la lluvia en la ventana.",
+   "en": "I hear the rain on the window."
+  },
+  {
+   "es": "La casa está caliente.",
+   "en": "The house is warm."
+  },
+  {
+   "es": "Me siento bien.",
+   "en": "I feel good."
+  },
+  {
+   "es": "El miércoles salgo con el paraguas.",
+   "en": "On Wednesday, I go out with the umbrella."
+  },
+  {
+   "es": "Camino por un barrio antiguo.",
+   "en": "I walk through an old neighbourhood."
+  },
+  {
+   "es": "Las calles son estrechas.",
+   "en": "The streets are narrow."
+  },
+  {
+   "es": "Hay muchos naranjos.",
+   "en": "There are lots of orange trees."
+  },
+  {
+   "es": "Las naranjas son muy naranjas bajo la lluvia.",
+   "en": "The oranges are very orange in the rain."
+  },
+  {
+   "es": "Ya no estoy tan triste.",
+   "en": "I am not so sad now."
+  },
+  {
+   "es": "Tengo curiosidad.",
+   "en": "I am curious."
+  },
+  {
+   "es": "El jueves tomo un café en un patio.",
+   "en": "On Thursday, I have a coffee on a patio."
+  },
+  {
+   "es": "El patio tiene un techo en los lados y está abierto en el centro.",
+   "en": "The patio has a roof at the sides and it is open in the center."
+  },
+  {
+   "es": "Me siento bajo el techo, a cubierto.",
+   "en": "I sit under the roof, undercover."
+  },
+  {
+   "es": "En el centro cae la lluvia sobre un naranjo.",
+   "en": "In the center, the rain falls on an orange tree."
+  },
+  {
+   "es": "El café está caliente.",
+   "en": "The coffee is hot."
+  },
+  {
+   "es": "Me quedo un rato.",
+   "en": "I stay for a while."
+  },
+  {
+   "es": "El viernes por la mañana miro por la ventana.",
+   "en": "On Friday morning, I look out of the window."
+  },
+  {
+   "es": "Las nubes se abren un poco.",
+   "en": "The clouds open a little."
+  },
+  {
+   "es": "Sale el sol.",
+   "en": "The sun comes out."
+  },
+  {
+   "es": "¡Madre mía!",
+   "en": "Oh my goodness!"
+  },
+  {
+   "es": "Solo un rato, pero hay sol.",
+   "en": "Only for a while, but there is sun."
+  },
+  {
+   "es": "Cojo mi bolso y salgo rápido.",
+   "en": "I take my bag and go out quickly."
+  },
+  {
+   "es": "Camino junto al río Guadalquivir.",
+   "en": "I walk beside the river Guadalquivir."
+  },
+  {
+   "es": "El agua es ancha y tranquila.",
+   "en": "The water is wide and calm."
+  },
+  {
+   "es": "Veo una torre redonda, de color dorado.",
+   "en": "I see a round, golden-colored tower."
+  },
+  {
+   "es": "Es la Torre del Oro.",
+   "en": "It is the Torre del Oro."
+  },
+  {
+   "es": "El cielo está claro.",
+   "en": "The sky is clear, at last."
+  },
+  {
+   "es": "Por fin.",
+   "en": "At last."
+  },
+  {
+   "es": "Cruzo un puente y llego a Triana.",
+   "en": "I cross a bridge and arrive in Triana."
+  },
+  {
+   "es": "Me siento un rato junto al río.",
+   "en": "I sit for a while by the river."
+  },
+  {
+   "es": "Siento el sol en la cara.",
+   "en": "I feel the sun on my face."
+  },
+  {
+   "es": "Estoy tranquila y contenta.",
+   "en": "I am calm and happy."
+  },
+  {
+   "es": "Este rato de sol es especial.",
+   "en": "This little while in the sun is special."
+  },
+  {
+   "es": "El sábado llueve otra vez.",
+   "en": "On Saturday, it is raining again."
+  },
+  {
+   "es": "Abro el paraguas, pero ahora sonrío.",
+   "en": "I open the umbrella, but now I smile."
+  },
+  {
+   "es": "Camino sin prisa.",
+   "en": "I walk without hurry."
+  },
+  {
+   "es": "Miro los azulejos y los naranjos.",
+   "en": "I look at the tiles and the orange trees."
+  },
+  {
+   "es": "Mis planes cambian y no pasa nada.",
+   "en": "My plans change and it's no problem."
+  },
+  {
+   "es": "El domingo me quedo en el piso.",
+   "en": "On Sunday, I stay in the flat."
+  },
+  {
+   "es": "Me siento junto a la ventana.",
+   "en": "I sit by the window."
+  },
+  {
+   "es": "La lluvia es suave.",
+   "en": "The rain is soft."
+  },
+  {
+   "es": "No es solo triste.",
+   "en": "It is not only sad."
+  },
+  {
+   "es": "Pienso, la lluvia también puede ser bonita.",
+   "en": "I think the rain can be beautiful too."
+  },
+  {
+   "es": "Extraño un poco mi planta verde en Madrid.",
+   "en": "I miss my green plant in Madrid a little."
+  },
+  {
+   "es": "Sevilla ya es un recuerdo tranquilo.",
+   "en": "Sevilla is already a calm memory."
+  },
+  {
+   "es": "Esta es mi semana de lluvia en Sevilla.",
+   "en": "This is my rainy week in Sevilla."
+  }
+ ],
+ "vocab": [
+  {
+   "es": "la lluvia",
+   "en": "the rain"
+  },
+  {
+   "es": "el paraguas",
+   "en": "the umbrella"
+  },
+  {
+   "es": "mojado",
+   "en": "wet"
+  },
+  {
+   "es": "el arco",
+   "en": "the arch"
+  },
+  {
+   "es": "el azulejo",
+   "en": "the ceramic tile"
+  },
+  {
+   "es": "el naranjo",
+   "en": "the orange tree"
+  },
+  {
+   "es": "el museo",
+   "en": "the museum"
+  },
+  {
+   "es": "la sopa de verduras",
+   "en": "the vegetable soup"
+  },
+  {
+   "es": "el patio",
+   "en": "the patio"
+  },
+  {
+   "es": "a cubierto",
+   "en": "under cover"
+  },
+  {
+   "es": "quedarse",
+   "en": "to stay"
+  },
+  {
+   "es": "las nubes",
+   "en": "the clouds"
+  },
+  {
+   "es": "el río",
+   "en": "the river"
+  },
+  {
+   "es": "la torre",
+   "en": "the tower"
+  },
+  {
+   "es": "el puente",
+   "en": "the bridge"
+  },
+  {
+   "es": "suave",
+   "en": "soft"
+  }
+ ],
+ "slang": [
+  {
+   "es": "¡Está lloviendo a cántaros!",
+   "en": "It's pouring! (literally: it's raining jugs)"
+  },
+  {
+   "es": "¡Qué guay!",
+   "en": "How cool!"
+  },
+  {
+   "es": "¡Madre mía!",
+   "en": "Oh my goodness! / Wow!"
+  }
+ ],
+ "questions": [
+  "¿Cómo llueve el lunes cuando Elena llega a Sevilla?",
+  "¿Qué torre ve Elena junto al río?",
+  "¿Qué piensa Elena de la lluvia al final?"
+ ]
+}

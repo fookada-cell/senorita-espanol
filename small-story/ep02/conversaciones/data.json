@@ -1,0 +1,684 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 2,
+ "pageTitle": "Conversaciones · Semana 2",
+ "chapterTitle": "Mi primer viaje en tren a Toledo",
+ "chipLabel": "Conversaciones · Semana 2",
+ "levels": "A1–A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: Mi primer viaje en tren a Toledo",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · En la estación de Atocha (sábado, 9:00)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenos días. ¿[[c1_adonde_vas|Adónde vas]]?",
+   "en": "Good morning. Where are you going?",
+   "who": "Taquillera",
+   "audio": "audio/c1_01_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Buenos días. Quiero un billete para Toledo, por favor.",
+   "en": "Good morning. I'd like a ticket to Toledo, please.",
+   "who": "Elena",
+   "audio": "audio/c1_02_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Solo ida o ida y vuelta?",
+   "en": "One way or return?",
+   "who": "Taquillera",
+   "audio": "audio/c1_03_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "De ida y vuelta. Vuelvo esta tarde.",
+   "en": "Return. I'm coming back this afternoon.",
+   "who": "Elena",
+   "audio": "audio/c1_04_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. Hay un tren a las nueve y media. ¿Te va bien?",
+   "en": "Very good. There's a train at half past nine. Is that OK for you?",
+   "who": "Taquillera",
+   "audio": "audio/c1_05_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, perfecto. ¿[[c1_cuanto_dura_el_viaje|Cuánto dura el viaje]]?",
+   "en": "Yes, perfect. How long is the journey?",
+   "who": "Elena",
+   "audio": "audio/c1_06_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c1_media_hora_mas_o_menos|Media hora, más o menos]].",
+   "en": "About half an hour.",
+   "who": "Taquillera",
+   "audio": "audio/c1_07_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué rápido! ¿Cuánto es?",
+   "en": "That's fast! How much is it?",
+   "who": "Elena",
+   "audio": "audio/c1_08_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Son veinte euros.",
+   "en": "That's twenty euros.",
+   "who": "Taquillera",
+   "audio": "audio/c1_09_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. ¿[[c1_de_que_anden_sale|De qué andén sale]]?",
+   "en": "Here you are. Which platform does it leave from?",
+   "who": "Elena",
+   "audio": "audio/c1_10_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Del andén cinco. Mira las pantallas.",
+   "en": "From platform five. Look at the screens.",
+   "who": "Taquillera",
+   "audio": "audio/c1_11_Taquillera.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale, muchas gracias.",
+   "en": "OK, thank you very much.",
+   "who": "Elena",
+   "audio": "audio/c1_12_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "De nada. ¡[[c1_buen_viaje|Buen viaje]]!",
+   "en": "You're welcome. Have a good trip!",
+   "who": "Taquillera",
+   "audio": "audio/c1_13_Taquillera.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En el casco antiguo (10:30)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "[[c2_perdone_me_puede_ayudar|Perdone, ¿me puede ayudar]]? Me he perdido un poco.",
+   "en": "Excuse me, can you help me? I'm a little lost.",
+   "who": "Elena",
+   "audio": "audio/c2_01_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Claro! ¿Adónde vas?",
+   "en": "Of course! Where are you going?",
+   "who": "Vecino",
+   "audio": "audio/c2_02_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Quiero ir a la catedral.",
+   "en": "I want to go to the cathedral.",
+   "who": "Elena",
+   "audio": "audio/c2_03_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Está muy cerca. [[c2_sigue_todo_recto|Sigue todo recto]] por esta calle.",
+   "en": "It's very close. Go straight on along this street.",
+   "who": "Vecino",
+   "audio": "audio/c2_04_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Todo recto?",
+   "en": "Straight on?",
+   "who": "Elena",
+   "audio": "audio/c2_05_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, y luego [[c2_gira_a_la_izquierda|gira a la izquierda]]. Hay una cuesta.",
+   "en": "Yes, and then turn left. There's a slope.",
+   "who": "Vecino",
+   "audio": "audio/c2_06_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Las calles aquí son muy estrechas!",
+   "en": "The streets here are very narrow!",
+   "who": "Elena",
+   "audio": "audio/c2_07_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, son de piedra y muy antiguas. Es el [[c2_casco_antiguo|casco antiguo]].",
+   "en": "Yes, they're made of stone and very old. It's the old town.",
+   "who": "Vecino",
+   "audio": "audio/c2_08_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es muy bonito. Cada calle es una sorpresa.",
+   "en": "It's very pretty. Every street is a surprise.",
+   "who": "Elena",
+   "audio": "audio/c2_09_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Es tu primera vez en Toledo?",
+   "en": "Is it your first time in Toledo?",
+   "who": "Vecino",
+   "audio": "audio/c2_10_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, vivo en Madrid. Hoy he venido en tren.",
+   "en": "Yes, I live in Madrid. Today I came by train.",
+   "who": "Elena",
+   "audio": "audio/c2_11_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Pues bienvenida! Disfruta de la ciudad.",
+   "en": "Well, welcome! Enjoy the city.",
+   "who": "Vecino",
+   "audio": "audio/c2_12_Vecino.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Muchas gracias! Adiós.",
+   "en": "Thank you very much! Goodbye.",
+   "who": "Elena",
+   "audio": "audio/c2_13_Elena.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · En una terraza (14:00)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Hola, buenas tardes. ¿Vas a comer?",
+   "en": "Hi, good afternoon. Are you having lunch?",
+   "who": "Camarero",
+   "audio": "audio/c3_01_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, por favor. ¿[[c3_teneis_menu_del_dia|Tenéis menú del día]]?",
+   "en": "Yes, please. Do you have a set menu?",
+   "who": "Elena",
+   "audio": "audio/c3_02_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí. [[c3_de_primero|De primero]] hay sopa o ensalada.",
+   "en": "Yes. For the first course there's soup or salad.",
+   "who": "Camarero",
+   "audio": "audio/c3_03_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sopa, por favor.",
+   "en": "Soup, please.",
+   "who": "Elena",
+   "audio": "audio/c3_04_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Y [[c3_de_segundo|de segundo]], carne con patatas o pescado.",
+   "en": "And for the main course, meat with potatoes or fish.",
+   "who": "Camarero",
+   "audio": "audio/c3_05_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Carne con patatas.",
+   "en": "Meat with potatoes.",
+   "who": "Elena",
+   "audio": "audio/c3_06_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Muy bien. ¿[[c3_y_para_beber|Y para beber]]?",
+   "en": "Very good. And to drink?",
+   "who": "Camarero",
+   "audio": "audio/c3_07_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Agua, por favor.",
+   "en": "Water, please.",
+   "who": "Elena",
+   "audio": "audio/c3_08_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "El menú incluye pan y postre.",
+   "en": "The menu includes bread and dessert.",
+   "who": "Camarero",
+   "audio": "audio/c3_09_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Genial! Me siento aquí, al sol.",
+   "en": "Great! I'll sit here, in the sun.",
+   "who": "Elena",
+   "audio": "audio/c3_10_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Qué tal la comida?",
+   "en": "How's the food?",
+   "who": "Camarero",
+   "audio": "audio/c3_11_Camarero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c3_todo_esta_muy_rico|Todo está muy rico]], gracias. La cuenta, por favor.",
+   "en": "Everything is delicious, thanks. The bill, please.",
+   "who": "Elena",
+   "audio": "audio/c3_12_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro. Son catorce euros.",
+   "en": "Of course. That's fourteen euros.",
+   "who": "Camarero",
+   "audio": "audio/c3_13_Camarero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · En la tienda de dulces (15:30)",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Hola, buenas tardes. ¿Qué quieres?",
+   "en": "Hi, good afternoon. What would you like?",
+   "who": "Dependienta",
+   "audio": "audio/c4_01_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Hola. ¿[[c4_que_es_esto|Qué es esto]]?",
+   "en": "Hi. What is this?",
+   "who": "Elena",
+   "audio": "audio/c4_02_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es mazapán. Es un [[c4_dulce_tipico|dulce típico]] de Toledo.",
+   "en": "It's marzipan. It's a typical sweet from Toledo.",
+   "who": "Dependienta",
+   "audio": "audio/c4_03_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bonito! ¿[[c4_puedo_probar_uno|Puedo probar uno]]?",
+   "en": "How pretty! Can I try one?",
+   "who": "Elena",
+   "audio": "audio/c4_04_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Claro, toma.",
+   "en": "Of course, here you are.",
+   "who": "Dependienta",
+   "audio": "audio/c4_05_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mmm… ¡Está muy rico!",
+   "en": "Mmm… It's delicious!",
+   "who": "Elena",
+   "audio": "audio/c4_06_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Quieres una caja?",
+   "en": "Would you like a box?",
+   "who": "Dependienta",
+   "audio": "audio/c4_07_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, una caja pequeña, por favor. Es un regalo para mi madre.",
+   "en": "Yes, a small box, please. It's a present for my mother.",
+   "who": "Elena",
+   "audio": "audio/c4_08_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué detalle! ¿[[c4_te_la_envuelvo|Te la envuelvo]]?",
+   "en": "How thoughtful! Shall I wrap it for you?",
+   "who": "Dependienta",
+   "audio": "audio/c4_09_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, por favor.",
+   "en": "Yes, please.",
+   "who": "Elena",
+   "audio": "audio/c4_10_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. Son ocho euros.",
+   "en": "Here you are. That's eight euros.",
+   "who": "Dependienta",
+   "audio": "audio/c4_11_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. ¡Le voy a mandar una foto!",
+   "en": "Thanks. I'm going to send her a photo!",
+   "who": "Elena",
+   "audio": "audio/c4_12_Elena.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Seguro que le encanta!",
+   "en": "I'm sure she'll love it!",
+   "who": "Dependienta",
+   "audio": "audio/c4_13_Dependienta.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Adiós, hasta luego!",
+   "en": "Bye, see you!",
+   "who": "Elena",
+   "audio": "audio/c4_14_Elena.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_adonde_vas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Adónde vas?",
+   "say": "¿Adónde vas?",
+   "line": "Buenos días. ¿Adónde vas?",
+   "en": "Where are you going?",
+   "exact": true
+  },
+  "c1_solo_ida_ida_y_vuelta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "solo ida / ida y vuelta",
+   "say": "solo ida / ida y vuelta",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_cuanto_dura_el_viaje": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Cuánto dura el viaje?",
+   "say": "¿Cuánto dura el viaje?",
+   "line": "Sí, perfecto. ¿Cuánto dura el viaje?",
+   "en": "How long is the journey?",
+   "exact": true
+  },
+  "c1_media_hora_mas_o_menos": {
+   "target": true,
+   "lvl": "A2",
+   "w": "media hora, más o menos",
+   "say": "media hora, más o menos",
+   "line": "Media hora, más o menos.",
+   "en": "About half an hour.",
+   "exact": true
+  },
+  "c1_de_que_anden_sale": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿De qué andén sale?",
+   "say": "¿De qué andén sale?",
+   "line": "Aquí tienes. ¿De qué andén sale?",
+   "en": "Which platform does it leave from?",
+   "exact": true
+  },
+  "c1_buen_viaje": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Buen viaje!",
+   "say": "¡Buen viaje!",
+   "line": "De nada. ¡Buen viaje!",
+   "en": "Have a good trip!",
+   "exact": true
+  },
+  "c2_perdone_me_puede_ayudar": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Perdone, ¿me puede ayudar?",
+   "say": "Perdone, ¿me puede ayudar?",
+   "line": "Perdone, ¿me puede ayudar? Me he perdido un poco.",
+   "en": "Excuse me, can you help me?",
+   "exact": true
+  },
+  "c2_me_he_perdido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Me he perdido",
+   "say": "Me he perdido",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_quiero_ir_a": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Quiero ir a…",
+   "say": "Quiero ir a…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_sigue_todo_recto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Sigue todo recto",
+   "say": "Sigue todo recto",
+   "line": "Está muy cerca. Sigue todo recto por esta calle.",
+   "lineEn": "Go straight on along this street.",
+   "en": "Go straight on along this street.",
+   "exact": false
+  },
+  "c2_gira_a_la_izquierda": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Gira a la izquierda",
+   "say": "Gira a la izquierda",
+   "line": "Sí, y luego gira a la izquierda. Hay una cuesta.",
+   "en": "Yes, and then turn left.",
+   "exact": true
+  },
+  "c2_casco_antiguo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el casco antiguo",
+   "say": "el casco antiguo",
+   "line": "Sí, son de piedra y muy antiguas. Es el casco antiguo.",
+   "en": "It's the old town.",
+   "exact": true
+  },
+  "c3_teneis_menu_del_dia": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Tenéis menú del día?",
+   "say": "¿Tenéis menú del día?",
+   "line": "Sí, por favor. ¿Tenéis menú del día?",
+   "en": "Do you have a set menu?",
+   "exact": true
+  },
+  "c3_de_primero": {
+   "target": true,
+   "lvl": "A2",
+   "w": "de primero",
+   "say": "de primero",
+   "line": "Sí. De primero hay sopa o ensalada.",
+   "lineEn": "For the first course there's soup or salad.",
+   "en": "For the first course there's soup or salad.",
+   "exact": false
+  },
+  "c3_de_segundo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "de segundo",
+   "say": "de segundo",
+   "line": "Y de segundo, carne con patatas o pescado.",
+   "lineEn": "And for the main course, meat with potatoes or fish.",
+   "en": "And for the main course, meat with potatoes or fish.",
+   "exact": false
+  },
+  "c3_y_para_beber": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Y para beber?",
+   "say": "¿Y para beber?",
+   "line": "Muy bien. ¿Y para beber?",
+   "en": "And to drink?",
+   "exact": true
+  },
+  "c3_todo_esta_muy_rico": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Todo está muy rico",
+   "say": "Todo está muy rico",
+   "line": "Todo está muy rico, gracias. La cuenta, por favor.",
+   "en": "Everything is delicious, thanks.",
+   "exact": true
+  },
+  "c3_cuenta_por_favor": {
+   "target": true,
+   "lvl": "A2",
+   "w": "La cuenta, por favor",
+   "say": "La cuenta, por favor",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_que_es_esto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué es esto?",
+   "say": "¿Qué es esto?",
+   "line": "Hola. ¿Qué es esto?",
+   "en": "What is this?",
+   "exact": true
+  },
+  "c4_dulce_tipico": {
+   "target": true,
+   "lvl": "A2",
+   "w": "un dulce típico",
+   "say": "un dulce típico",
+   "line": "Es mazapán. Es un dulce típico de Toledo.",
+   "lineEn": "It's a typical sweet from Toledo.",
+   "en": "It's a typical sweet from Toledo.",
+   "exact": false
+  },
+  "c4_puedo_probar_uno": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Puedo probar uno?",
+   "say": "¿Puedo probar uno?",
+   "line": "¡Qué bonito! ¿Puedo probar uno?",
+   "en": "Can I try one?",
+   "exact": true
+  },
+  "c4_es_un_regalo_para": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Es un regalo para…",
+   "say": "Es un regalo para…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_te_la_envuelvo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Te la envuelvo?",
+   "say": "¿Te la envuelvo?",
+   "line": "¡Qué detalle! ¿Te la envuelvo?",
+   "en": "Shall I wrap it for you?",
+   "exact": true
+  },
+  "c4_que_detalle": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué detalle!",
+   "say": "¡Qué detalle!",
+   "en": "(key phrase)",
+   "exact": false
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Cuánto dura el viaje?»?",
+   "o": [
+    "Shall I wrap it for you?",
+    "Which platform does it leave from?",
+    "How long is the journey?"
+   ],
+   "a": 2,
+   "tag": "¿Cuánto dura el viaje?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Adónde vas?»?",
+   "o": [
+    "Where are you going?",
+    "Which platform does it leave from?",
+    "Have a good trip!"
+   ],
+   "a": 0,
+   "tag": "¿Adónde vas?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Puedo probar uno?»?",
+   "o": [
+    "Do you have a set menu?",
+    "Can I try one?",
+    "Shall I wrap it for you?"
+   ],
+   "a": 1,
+   "tag": "¿Puedo probar uno?"
+  }
+ ],
+ "next": {
+  "title": "Semana 3: Mi semana de lluvia en Sevilla",
+  "teaser": "Next week's story.",
+  "url": "../../ep03/"
+ }
+}

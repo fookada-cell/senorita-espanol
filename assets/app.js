@@ -12,7 +12,16 @@
   const BANK = "sce-bank", MISS = "sce-mistakes", PREF = "sce-prefs";
   let D, bank = store.get(BANK, []), mistakes = store.get(MISS, []), prefs = store.get(PREF, {en:true, a2only:false});
   let current = null;
-  const track = name => { try{ window.sceTrack && window.sceTrack("ep" + D.episode + "/" + name); }catch(e){} };
+  const track = name => { try{ window.sceTrack && window.sceTrack((D.trackPrefix || "") + "ep" + D.episode + "/" + name); }catch(e){} };
+  const plain = t => String(t).replace(/\[\[\w+\|([^\]]+)\]\]/g, "$1");
+  let player = null;
+  function playLine(b){
+    try{ if(player){ player.pause(); } }catch(e){}
+    if(b.audio){
+      try{ player = new Audio(b.audio); player.play().catch(() => speak(plain(b.es), 0.9)); }catch(e){ speak(plain(b.es), 0.9); }
+    } else speak(plain(b.es), 0.9);
+    track("line-audio");
+  }
 
   function withWords(text){
     return esc(text).replace(/\[\[(\w+)\|([^\]]+)\]\]/g, (m, key, surface) => {
@@ -25,11 +34,15 @@
   function renderChapter(){
     const c = $("chapter");
     let h = "<h2>" + esc(D.chapterTitle) + "</h2>";
-    D.blocks.forEach(b => {
+    D.blocks.forEach((b, i) => {
+      const play = D.lineAudio ? '<button class="say" data-i="' + i + '" aria-label="Play this line">▶</button>' : "";
       if(b.t === "n") h += '<p class="n">' + withWords(b.es) + "</p>";
-      else h += '<p class="d"><span class="who">' + esc(b.who) + "</span>—" + withWords(b.es) + '<span class="en">' + esc(b.en) + "</span></p>";
+      else if(b.t === "h") h += '<h3 class="conv">' + esc(b.es) + (b.en ? '<small>' + esc(b.en) + "</small>" : "") + "</h3>";
+      else if(b.t === "v") h += '<div class="vocab"><b>' + esc(b.es) + "</b><div>" + Object.keys(D.words).filter(k => D.words[k].target).map(k => '<button class="w" data-w="' + k + '" data-lvl="' + esc(D.words[k].lvl) + '">' + esc(D.words[k].w) + "</button>").join("") + "</div></div>";
+      else h += '<p class="d' + (b.who ? "" : " solo") + '">' + play + (b.who ? '<span class="who">' + esc(b.who) + "</span>" + (D.lineAudio ? "" : "—") : "") + withWords(b.es) + '<span class="en">' + esc(b.en) + "</span></p>";
     });
     c.innerHTML = h;
+    c.querySelectorAll(".say").forEach(btn => btn.addEventListener("click", () => playLine(D.blocks[+btn.dataset.i])));
     c.querySelectorAll(".w").forEach(btn => btn.addEventListener("click", () => openSheet(btn.dataset.w)));
     $("grammar").innerHTML = D.grammar.map(g => '<div class="gram"><b><span class="lvl ' + esc(g.lvl) + '">' + esc(g.lvl) + "</span>" + esc(g.title) + "</b><span>" + g.body + "</span></div>").join("");
     const n = D.next;
@@ -48,10 +61,10 @@
 
   function openSheet(key){
     current = key; const w = D.words[key];
-    $("s-word").textContent = w.w; $("s-ipa").textContent = w.ipa;
-    $("s-meta").innerHTML = '<span class="lvl ' + esc(w.lvl) + '">' + esc(w.lvl) + "</span>" + esc(w.pos) + " · <b>" + esc(w.en) + "</b>";
-    $("s-line").hidden = !w.line; if(w.line) $("s-line").textContent = "En el capítulo: «" + w.line + "»";
-    $("s-ex").textContent = "Ejemplo: " + w.ex + " (" + w.exEn + ")";
+    $("s-word").textContent = w.w; $("s-ipa").textContent = w.ipa || "";
+    $("s-meta").innerHTML = '<span class="lvl ' + esc(w.lvl) + '">' + esc(w.lvl) + "</span>" + (w.pos ? esc(w.pos) + " · " : "") + "<b>" + esc(w.en) + "</b>";
+    $("s-line").hidden = !w.line; if(w.line) $("s-line").textContent = (D.lineLabel || "En el capítulo") + ": «" + w.line + "»" + (w.lineEn ? " (" + w.lineEn + ")" : "");
+    $("s-ex").hidden = !w.ex; if(w.ex) $("s-ex").textContent = "Ejemplo: " + w.ex + (w.exEn ? " (" + w.exEn + ")" : "");
     $("s-save").textContent = bank.some(b => b.id === idOf(key)) ? "Guardada ✓" : "+ Mi vocabulario";
     $("s-status").textContent = "";
     $("sheet").hidden = false; $("sheet-bg").hidden = false; $("s-close").focus();
@@ -151,11 +164,18 @@
   function init(data){
     D = data;
     document.title = "Capítulo " + D.episode + " · " + D.series;
-    $("h-series").textContent = D.series; $("h-title").textContent = "Capítulo " + D.episode + ": " + D.chapterTitle;
+    $("h-series").textContent = D.series; $("h-title").textContent = D.pageTitle || ("Capítulo " + D.episode + ": " + D.chapterTitle);
+    if(D.pageTitle) document.title = D.pageTitle + " · " + D.series;
     const targets = Object.values(D.words).filter(w => w.target).length;
-    $("h-chips").innerHTML = '<span class="chip">EP' + String(D.episode).padStart(2, "0") + '</span><span class="chip t">' + esc(D.levels) + " · " + targets + " palabras</span>";
+    $("h-chips").innerHTML = '<span class="chip">' + esc(D.chipLabel || ("EP" + String(D.episode).padStart(2, "0"))) + '</span><span class="chip t">' + esc(D.levels) + " · " + targets + " " + esc(D.wordLabel || "palabras") + "</span>";
     $("watch").addEventListener("click", () => track("watch-youtube"));
     $("watch").href = D.watch.url; $("watch").textContent = "▶ " + D.watch.label;
+    if(D.watch.videoId){
+      const f = document.createElement("div"); f.className = "video";
+      f.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + encodeURIComponent(D.watch.videoId) + '?rel=0" title="' + esc(D.pageTitle || D.chapterTitle) + '" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>';
+      $("watch").before(f);
+    }
+    (D.extraLinks || []).slice().reverse().forEach(l => { const a = document.createElement("a"); a.className = "watch alt"; a.href = l.url; a.textContent = l.label; $("watch").after(a); });
     renderChapter(); renderQuiz(); renderGame(); renderBank();
     document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => showTab(t.dataset.tab)));
     $("opt-en").addEventListener("change", e => { prefs.en = e.target.checked; store.set(PREF, prefs); applyPrefs(); });

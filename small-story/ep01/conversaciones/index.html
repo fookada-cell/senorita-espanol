@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Conversaciones · Semana 1</title>
+<meta name="description" content="Conversaciones · Semana 1 · Small Story Español: lee, escucha y practica español de España.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../../../assets/style.css">
+<script src="../../../assets/stats.js" defer></script>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand"><a href="../../../">Señorita Christina Español</a><span id="h-series"></span></div>
+  <header style="display:grid;gap:10px">
+    <h1 id="h-title">Conversaciones · Semana 1</h1>
+    <div class="chips" id="h-chips"></div>
+  </header>
+  <a class="watch" id="watch" href="https://youtube.com/@senioritachristina" target="_blank" rel="noopener">▶ Ver el episodio en YouTube</a>
+
+  <nav class="tabs" role="tablist" aria-label="Chapter sections">
+    <button class="tab" role="tab" aria-selected="true" data-tab="read">Leer</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="quiz">Quiz</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="game">Reto</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="bank">Mis palabras</button>
+  </nav>
+
+  <section class="panel" data-panel="read">
+    <div class="controls">
+      <label><input type="checkbox" id="opt-en" checked> English for each line</label>
+      <label><input type="checkbox" id="opt-a2"> Highlight A1–A2 words only</label>
+    </div>
+    <article class="chapter" id="chapter"><p class="n">Cargando el capítulo…</p></article>
+    <div id="grammar" style="display:grid;gap:12px"></div>
+    <div class="next" id="next"></div>
+  </section>
+
+  <section class="panel" data-panel="quiz" hidden>
+    <div id="quiz" style="display:grid;gap:10px"></div>
+    <p class="status" id="quiz-status"></p>
+  </section>
+
+  <section class="panel" data-panel="game" hidden>
+    <div class="game" id="game"></div>
+  </section>
+
+  <section class="panel" data-panel="bank" hidden>
+    <h2>Mis palabras</h2>
+    <div class="list" id="bank"></div>
+    <h2>Mis errores</h2>
+    <div class="list" id="mistakes"></div>
+    <button class="btn" id="clear">Clear saved words and mistakes</button>
+    <p class="status">Saved on this device only.</p>
+  </section>
+
+  <footer>Señorita Christina Español · Spain Spanish (es-ES) · Levels are proposed and being checked against the Instituto Cervantes Plan Curricular.</footer>
+</div>
+
+<div class="sheet-bg" id="sheet-bg" hidden></div>
+<div class="sheet" id="sheet" hidden role="dialog" aria-labelledby="s-word">
+  <button class="x" id="s-close" aria-label="Close">×</button>
+  <div><span class="word" id="s-word"></span> <span class="ipa" id="s-ipa"></span></div>
+  <div class="meta" id="s-meta"></div>
+  <div class="line" id="s-line"></div>
+  <div class="meta" id="s-ex"></div>
+  <div class="row">
+    <button class="btn" id="s-1x">▶ 1x</button>
+    <button class="btn" id="s-07x">▶ 0.7x</button>
+    <button class="btn primary" id="s-save">+ Mi vocabulario</button>
+  </div>
+  <p class="status" id="s-status"></p>
+</div>
+<script src="../../../assets/app.js"></script>
+</body>
+</html>

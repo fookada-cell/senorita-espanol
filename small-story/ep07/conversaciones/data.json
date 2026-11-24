@@ -1,0 +1,683 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 7,
+ "pageTitle": "Conversaciones · Semana 7",
+ "chapterTitle": "Mi primera vez conduciendo en Madrid",
+ "chipLabel": "Conversaciones · Semana 7",
+ "levels": "DELE A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: Mi primera vez conduciendo en Madrid",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · En la oficina de alquiler",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenos días. ¿[[c1_tienes_una_reserva|Tienes una reserva]]?",
+   "en": "Good morning. Do you have a booking?",
+   "who": "Empleado",
+   "audio": "audio/c1_01_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, a nombre de Mateo. Un coche pequeño, por favor.",
+   "en": "Yes, under the name Mateo. A small car, please.",
+   "who": "Mateo",
+   "audio": "audio/c1_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto. ¿Me das tu [[c1_carne_de_conducir|carné de conducir]]?",
+   "en": "Perfect. Can you give me your driving licence?",
+   "who": "Empleado",
+   "audio": "audio/c1_03_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. Es mi primera vez conduciendo en Madrid.",
+   "en": "Here you are. It's my first time driving in Madrid.",
+   "who": "Mateo",
+   "audio": "audio/c1_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡No pasa nada! Aquí tienes las [[c1_llaves|llaves]]. Es el coche blanco.",
+   "en": "No problem! Here are the keys. It's the white car.",
+   "who": "Empleado",
+   "audio": "audio/c1_05_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. ¿Tengo que [[c1_devolver_el_coche|devolver el coche]] hoy?",
+   "en": "Thanks. Do I have to return the car today?",
+   "who": "Mateo",
+   "audio": "audio/c1_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, esta tarde, antes de las ocho.",
+   "en": "Yes, this afternoon, before eight.",
+   "who": "Empleado",
+   "audio": "audio/c1_07_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale. ¿Algo más?",
+   "en": "OK. Anything else?",
+   "who": "Mateo",
+   "audio": "audio/c1_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Cuidado con la zona de bajas emisiones en el centro.",
+   "en": "Be careful with the low-emission zone in the centre.",
+   "who": "Empleado",
+   "audio": "audio/c1_09_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Qué es eso?",
+   "en": "What's that?",
+   "who": "Mateo",
+   "audio": "audio/c1_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Una zona con normas especiales. El GPS te avisa.",
+   "en": "An area with special rules. The GPS warns you.",
+   "who": "Empleado",
+   "audio": "audio/c1_11_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto, gracias. ¡Estoy un poco nervioso!",
+   "en": "Perfect, thanks. I'm a bit nervous!",
+   "who": "Mateo",
+   "audio": "audio/c1_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Tranquilo! Ponte el cinturón y ve despacio. ¡Buen viaje!",
+   "en": "Relax! Put on your seatbelt and go slowly. Have a good trip!",
+   "who": "Empleado",
+   "audio": "audio/c1_13_Empleado.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En la puerta de Carmen",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Mateo! ¡[[c2_lo_has_conseguido|Lo has conseguido]]!",
+   "en": "Mateo! You did it!",
+   "who": "Carmen",
+   "audio": "audio/c2_01_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Hola, Carmen! Ha sido una aventura.",
+   "en": "Hi, Carmen! It has been an adventure.",
+   "who": "Mateo",
+   "audio": "audio/c2_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c2_que_tal_el_viaje|Qué tal el viaje]]?",
+   "en": "How was the journey?",
+   "who": "Carmen",
+   "audio": "audio/c2_03_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Bien, pero en la glorieta me equivoqué de carril.",
+   "en": "Fine, but at the roundabout I took the wrong lane.",
+   "who": "Mateo",
+   "audio": "audio/c2_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Es normal! ¿Y [[c2_donde_has_aparcado|dónde has aparcado]]?",
+   "en": "That's normal! And where have you parked?",
+   "who": "Carmen",
+   "audio": "audio/c2_05_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "En el parking de la esquina, como dijiste.",
+   "en": "In the car park on the corner, as you said.",
+   "who": "Mateo",
+   "audio": "audio/c2_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Muy bien! ¿Has aparcado recto?",
+   "en": "Very good! Did you park straight?",
+   "who": "Carmen",
+   "audio": "audio/c2_07_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Bueno… un [[c2_poco_torcido|poco torcido]].",
+   "en": "Well… a bit crooked.",
+   "who": "Mateo",
+   "audio": "audio/c2_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ja, ja! No importa. ¿[[c2_tienes_hambre|Tienes hambre]]?",
+   "en": "Ha ha! It doesn't matter. Are you hungry?",
+   "who": "Carmen",
+   "audio": "audio/c2_09_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, mucha. ¡Conducir da hambre!",
+   "en": "Yes, very. Driving makes you hungry!",
+   "who": "Mateo",
+   "audio": "audio/c2_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Pues sube. La comida está en la mesa.",
+   "en": "Then come up. Lunch is on the table.",
+   "who": "Carmen",
+   "audio": "audio/c2_11_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Genial! ¿Qué has preparado?",
+   "en": "Great! What have you made?",
+   "who": "Mateo",
+   "audio": "audio/c2_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Tortilla de patatas y ensalada.",
+   "en": "Spanish omelette and salad.",
+   "who": "Carmen",
+   "audio": "audio/c2_13_Carmen.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · Por la calle Serrano",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Mateo, ¿[[c3_estas_bien|estás bien]]? Estás muy serio.",
+   "en": "Mateo, are you OK? You look very serious.",
+   "who": "Carmen",
+   "audio": "audio/c3_01_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es que hay muchos coches y peatones.",
+   "en": "It's just that there are lots of cars and pedestrians.",
+   "who": "Mateo",
+   "audio": "audio/c3_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c3_tranqui|Tranqui]], Mateo, es solo Madrid.",
+   "en": "Chill, Mateo, it's just Madrid.",
+   "who": "Carmen",
+   "audio": "audio/c3_03_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Vale… Voy despacio.",
+   "en": "OK… I'm going slowly.",
+   "who": "Mateo",
+   "audio": "audio/c3_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c3_ponemos_la_radio|Ponemos la radio]]?",
+   "en": "Shall we put the radio on?",
+   "who": "Carmen",
+   "audio": "audio/c3_05_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, buena idea.",
+   "en": "Yes, good idea.",
+   "who": "Mateo",
+   "audio": "audio/c3_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mira los escaparates. ¡Qué bonitos!",
+   "en": "Look at the shop windows. How pretty!",
+   "who": "Carmen",
+   "audio": "audio/c3_07_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No puedo, ¡tengo que mirar el semáforo!",
+   "en": "I can't, I have to watch the traffic light!",
+   "who": "Mateo",
+   "audio": "audio/c3_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ja, ja! Tienes razón. Está en rojo, [[c3_frena|frena]].",
+   "en": "Ha ha! You're right. It's red, brake.",
+   "who": "Carmen",
+   "audio": "audio/c3_09_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Ya freno. ¿Lo hago bien?",
+   "en": "I'm braking. Am I doing it right?",
+   "who": "Mateo",
+   "audio": "audio/c3_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c3_vaya_tela|Vaya tela]], qué bien conduces!",
+   "en": "Wow, you drive so well!",
+   "who": "Carmen",
+   "audio": "audio/c3_11_Carmen.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿De verdad? Gracias. [[c3_no_esta_chupado|No está chupado]].",
+   "en": "Really? Thanks. It isn't easy.",
+   "who": "Mateo",
+   "audio": "audio/c3_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Pero tú puedes. ¡Sigue así!",
+   "en": "But you can do it. Keep it up!",
+   "who": "Carmen",
+   "audio": "audio/c3_13_Carmen.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · Devolver el coche",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenas tardes. ¿Vienes a [[c4_devolver_el_coche|devolver el coche]]?",
+   "en": "Good evening. Are you here to return the car?",
+   "who": "Empleado",
+   "audio": "audio/c4_01_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, aquí tienes las llaves.",
+   "en": "Yes, here are the keys.",
+   "who": "Mateo",
+   "audio": "audio/c4_02_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. ¿[[c4_que_tal_todo|Qué tal todo]]?",
+   "en": "Thanks. How was everything?",
+   "who": "Empleado",
+   "audio": "audio/c4_03_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Bien, pero [[c4_ha_sido_dificil|ha sido difícil]].",
+   "en": "Fine, but it was hard.",
+   "who": "Mateo",
+   "audio": "audio/c4_04_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Primera vez conduciendo en Madrid?",
+   "en": "First time driving in Madrid?",
+   "who": "Empleado",
+   "audio": "audio/c4_05_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, es mi primera vez.",
+   "en": "Yes, it's my first time.",
+   "who": "Mateo",
+   "audio": "audio/c4_06_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Y el depósito? ¿Está lleno?",
+   "en": "And the tank? Is it full?",
+   "who": "Empleado",
+   "audio": "audio/c4_07_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, he echado gasolina antes de venir.",
+   "en": "Yes, I put petrol in before coming.",
+   "who": "Mateo",
+   "audio": "audio/c4_08_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Perfecto. ¿Algún problema con el coche?",
+   "en": "Perfect. Any problem with the car?",
+   "who": "Empleado",
+   "audio": "audio/c4_09_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, ninguno. Solo un taxi me pitó por la mañana.",
+   "en": "No, none. Just a taxi honked at me this morning.",
+   "who": "Mateo",
+   "audio": "audio/c4_10_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Eso es Madrid! Aquí tienes tu [[c4_factura|factura]].",
+   "en": "That's Madrid! Here's your receipt.",
+   "who": "Empleado",
+   "audio": "audio/c4_11_Empleado.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. ¡Qué bonito es el atardecer!",
+   "en": "Thanks. What a beautiful sunset!",
+   "who": "Mateo",
+   "audio": "audio/c4_12_Mateo.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí. ¡Hasta la próxima aventura!",
+   "en": "Yes. Until the next adventure!",
+   "who": "Empleado",
+   "audio": "audio/c4_13_Empleado.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_tienes_una_reserva": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Tienes una reserva?",
+   "say": "¿Tienes una reserva?",
+   "line": "Buenos días. ¿Tienes una reserva?",
+   "en": "Do you have a booking?",
+   "exact": true
+  },
+  "c1_a_nombre_de": {
+   "target": true,
+   "lvl": "A2",
+   "w": "a nombre de…",
+   "say": "a nombre de…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_carne_de_conducir": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el carné de conducir",
+   "say": "el carné de conducir",
+   "line": "Perfecto. ¿Me das tu carné de conducir?",
+   "en": "Can you give me your driving licence?",
+   "exact": true
+  },
+  "c1_llaves": {
+   "target": true,
+   "lvl": "A2",
+   "w": "las llaves",
+   "say": "las llaves",
+   "line": "¡No pasa nada! Aquí tienes las llaves. Es el coche blanco.",
+   "lineEn": "Here are the keys.",
+   "en": "Here are the keys.",
+   "exact": false
+  },
+  "c1_devolver_el_coche": {
+   "target": true,
+   "lvl": "A2",
+   "w": "devolver el coche",
+   "say": "devolver el coche",
+   "line": "Gracias. ¿Tengo que devolver el coche hoy?",
+   "lineEn": "Do I have to return the car today?",
+   "en": "Do I have to return the car today?",
+   "exact": false
+  },
+  "c1_ponerse_el_cinturon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "ponerse el cinturón",
+   "say": "ponerse el cinturón",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_lo_has_conseguido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Lo has conseguido!",
+   "say": "¡Lo has conseguido!",
+   "line": "¡Mateo! ¡Lo has conseguido!",
+   "en": "You did it!",
+   "exact": true
+  },
+  "c2_que_tal_el_viaje": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué tal el viaje?",
+   "say": "¿Qué tal el viaje?",
+   "line": "¿Qué tal el viaje?",
+   "en": "How was the journey?",
+   "exact": true
+  },
+  "c2_equivocarse_de_carril": {
+   "target": true,
+   "lvl": "A2",
+   "w": "equivocarse de carril",
+   "say": "equivocarse de carril",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_donde_has_aparcado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Dónde has aparcado?",
+   "say": "¿Dónde has aparcado?",
+   "line": "¡Es normal! ¿Y dónde has aparcado?",
+   "en": "And where have you parked?",
+   "exact": true
+  },
+  "c2_poco_torcido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "un poco torcido",
+   "say": "un poco torcido",
+   "line": "Bueno… un poco torcido.",
+   "lineEn": "Well… a bit crooked.",
+   "en": "Well… a bit crooked.",
+   "exact": false
+  },
+  "c2_tienes_hambre": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Tienes hambre?",
+   "say": "¿Tienes hambre?",
+   "line": "¡Ja, ja! No importa. ¿Tienes hambre?",
+   "en": "Are you hungry?",
+   "exact": true
+  },
+  "c3_estas_bien": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Estás bien?",
+   "say": "¿Estás bien?",
+   "line": "Mateo, ¿estás bien? Estás muy serio.",
+   "lineEn": "Mateo, are you OK?",
+   "en": "Mateo, are you OK?",
+   "exact": false
+  },
+  "c3_tranqui": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Tranqui",
+   "say": "Tranqui",
+   "line": "Tranqui, Mateo, es solo Madrid.",
+   "lineEn": "Chill, Mateo, it's just Madrid.",
+   "en": "Chill, Mateo, it's just Madrid.",
+   "exact": false
+  },
+  "c3_ponemos_la_radio": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Ponemos la radio?",
+   "say": "¿Ponemos la radio?",
+   "line": "¿Ponemos la radio?",
+   "en": "Shall we put the radio on?",
+   "exact": true
+  },
+  "c3_frena": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Frena",
+   "say": "Frena",
+   "line": "¡Ja, ja! Tienes razón. Está en rojo, frena.",
+   "lineEn": "It's red, brake.",
+   "en": "It's red, brake.",
+   "exact": false
+  },
+  "c3_vaya_tela": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Vaya tela!",
+   "say": "¡Vaya tela!",
+   "line": "¡Vaya tela, qué bien conduces!",
+   "lineEn": "Wow, you drive so well!",
+   "en": "Wow, you drive so well!",
+   "exact": false
+  },
+  "c3_no_esta_chupado": {
+   "target": true,
+   "lvl": "A2",
+   "w": "No está chupado",
+   "say": "No está chupado",
+   "line": "¿De verdad? Gracias. No está chupado.",
+   "en": "It isn't easy.",
+   "exact": true
+  },
+  "c4_devolver_el_coche": {
+   "target": true,
+   "lvl": "A2",
+   "w": "devolver el coche",
+   "say": "devolver el coche",
+   "line": "Buenas tardes. ¿Vienes a devolver el coche?",
+   "en": "Are you here to return the car?",
+   "exact": true
+  },
+  "c4_que_tal_todo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué tal todo?",
+   "say": "¿Qué tal todo?",
+   "line": "Gracias. ¿Qué tal todo?",
+   "en": "How was everything?",
+   "exact": true
+  },
+  "c4_ha_sido_dificil": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Ha sido difícil",
+   "say": "Ha sido difícil",
+   "line": "Bien, pero ha sido difícil.",
+   "lineEn": "Fine, but it was hard.",
+   "en": "Fine, but it was hard.",
+   "exact": false
+  },
+  "c4_deposito_lleno": {
+   "target": true,
+   "lvl": "A2",
+   "w": "el depósito lleno",
+   "say": "el depósito lleno",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_echar_gasolina": {
+   "target": true,
+   "lvl": "A2",
+   "w": "echar gasolina",
+   "say": "echar gasolina",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_factura": {
+   "target": true,
+   "lvl": "A2",
+   "w": "la factura",
+   "say": "la factura",
+   "line": "¡Eso es Madrid! Aquí tienes tu factura.",
+   "lineEn": "Here's your receipt.",
+   "en": "Here's your receipt.",
+   "exact": false
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Dónde has aparcado?»?",
+   "o": [
+    "You did it!",
+    "How was everything?",
+    "And where have you parked?"
+   ],
+   "a": 2,
+   "tag": "¿Dónde has aparcado?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Tienes una reserva?»?",
+   "o": [
+    "How was the journey?",
+    "Do you have a booking?",
+    "How was everything?"
+   ],
+   "a": 1,
+   "tag": "¿Tienes una reserva?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Tienes hambre?»?",
+   "o": [
+    "Can you give me your driving licence?",
+    "Do you have a booking?",
+    "Are you hungry?"
+   ],
+   "a": 2,
+   "tag": "¿Tienes hambre?"
+  }
+ ],
+ "next": {
+  "title": "Semana 8: Mi primera clase de pintura en Málaga",
+  "teaser": "Next week's story.",
+  "url": "../../ep08/"
+ }
+}

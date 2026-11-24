@@ -1,0 +1,386 @@
+{
+ "source": "Aired video transcript (automatic speech-to-text), cleaned; missing translations added by Claude 2026-11-24",
+ "lines": [
+  {
+   "es": "Hola, me llamo Marina, tengo 27 años.",
+   "en": "Hello, my name is Marina."
+  },
+  {
+   "es": "Esta es mi primera clase de cocina española.",
+   "en": "This is my first Spanish cooking class."
+  },
+  {
+   "es": "Vivo en Madrid, en un piso pequeño.",
+   "en": "I live in Madrid, in a small flat."
+  },
+  {
+   "es": "Hoy es sábado, son las 10 de la mañana.",
+   "en": "It is 10 in the morning."
+  },
+  {
+   "es": "El cielo está claro y hace buen tiempo.",
+   "en": "The sky is clear and the weather is good."
+  },
+  {
+   "es": "Preparo mi bolsa de color mostaza.",
+   "en": "I get my mustard-colored bag ready."
+  },
+  {
+   "es": "Llevo un cuaderno, un lápiz y mi móvil.",
+   "en": "I take a notebook, a pencil, and my phone."
+  },
+  {
+   "es": "Estoy un poco nerviosa, pero también contenta.",
+   "en": "I am a little nervous, but also happy."
+  },
+  {
+   "es": "Salgo de casa y camino por el barrio.",
+   "en": "I leave home and walk through the neighbourhood."
+  },
+  {
+   "es": "Las calles están secas.",
+   "en": "The streets are dry."
+  },
+  {
+   "es": "Hay sol.",
+   "en": "There is sun."
+  },
+  {
+   "es": "Llego a una cocina grande y luminosa.",
+   "en": "I arrive at a big, bright kitchen."
+  },
+  {
+   "es": "Hay otras personas.",
+   "en": "There are other people."
+  },
+  {
+   "es": "Sonríen.",
+   "en": "They smile."
+  },
+  {
+   "es": "Entro con mi bolsa.",
+   "en": "I go in with my bag."
+  },
+  {
+   "es": "¡Aquí estoy!",
+   "en": "Here I am."
+  },
+  {
+   "es": "La profesora nos saluda con una sonrisa.",
+   "en": "The teacher greets us with a smile."
+  },
+  {
+   "es": "Hoy preparamos una tortilla de patatas.",
+   "en": "Today we are making a Spanish potato omelette."
+  },
+  {
+   "es": "Sobre la mesa hay huevos, patatas, cebolla y aceite de oliva.",
+   "en": "On the table there are eggs, potatoes, onion and olive oil."
+  },
+  {
+   "es": "Miro a la profesora.",
+   "en": "I look at the teacher."
+  },
+  {
+   "es": "Vale, empiezo.",
+   "en": "Okay, I'm starting."
+  },
+  {
+   "es": "Me pongo un delantal blanco.",
+   "en": "I put on a white apron."
+  },
+  {
+   "es": "Primero me lavo las manos con agua y jabón.",
+   "en": "First, I wash my hands with soap and water."
+  },
+  {
+   "es": "Corto las patatas y la cebolla.",
+   "en": "I cut the potatoes and the onion."
+  },
+  {
+   "es": "Despacio.",
+   "en": "Slowly."
+  },
+  {
+   "es": "La profesora mira el aceite en la sartén.",
+   "en": "The teacher watches the oil in the pan."
+  },
+  {
+   "es": "El aceite está caliente, pero está bien.",
+   "en": "The oil is hot, but it is fine."
+  },
+  {
+   "es": "Pongo las patatas en la sartén.",
+   "en": "I put the potatoes in the pan."
+  },
+  {
+   "es": "Todo huele bien.",
+   "en": "Everything smells good."
+  },
+  {
+   "es": "Las patatas se cocinan despacio.",
+   "en": "The potatoes cook slowly."
+  },
+  {
+   "es": "Hablo con una compañera.",
+   "en": "I talk with a classmate."
+  },
+  {
+   "es": "Se llama Laura.",
+   "en": "Her name is Laura."
+  },
+  {
+   "es": "Laura también es nueva en la clase.",
+   "en": "Laura is also new in the class."
+  },
+  {
+   "es": "Ya no estoy tan nerviosa.",
+   "en": "I am not so nervous now."
+  },
+  {
+   "es": "Doy la vuelta.",
+   "en": "I turn it over."
+  },
+  {
+   "es": "La tortilla se parte un poco y un trozo se separa en el plato.",
+   "en": "The omelette breaks a little and a piece separates on the plate."
+  },
+  {
+   "es": "¡Menudo lío!",
+   "en": "What a mess."
+  },
+  {
+   "es": "La tortilla no está perfecta.",
+   "en": "The omelette is not perfect."
+  },
+  {
+   "es": "La profesora sonríe.",
+   "en": "The teacher smiles."
+  },
+  {
+   "es": "No pasa nada.",
+   "en": "It's no problem."
+  },
+  {
+   "es": "Pongo la tortilla otra vez en la sartén.",
+   "en": "I put the omelette back in the pan."
+  },
+  {
+   "es": "Cocinamos un poco más.",
+   "en": "We cook it a little more."
+  },
+  {
+   "es": "Por fin, la tortilla está dorada.",
+   "en": "At last, the omelette is golden."
+  },
+  {
+   "es": "No es redonda, pero está hecha.",
+   "en": "It is not round, but it is cooked."
+  },
+  {
+   "es": "Me río un poco.",
+   "en": "I laugh a little."
+  },
+  {
+   "es": "Laura también ríe.",
+   "en": "Laura laughs too."
+  },
+  {
+   "es": "Estoy contenta.",
+   "en": "I am happy."
+  },
+  {
+   "es": "La clase es divertida.",
+   "en": "The class is fun."
+  },
+  {
+   "es": "Nos sentamos juntos en una mesa larga.",
+   "en": "We sit together at a long table."
+  },
+  {
+   "es": "La profesora corta la tortilla.",
+   "en": "The teacher cuts the omelette."
+  },
+  {
+   "es": "Pruebo un trozo.",
+   "en": "I try a piece."
+  },
+  {
+   "es": "Está de muerte.",
+   "en": "It is amazing."
+  },
+  {
+   "es": "Está caliente y muy rica.",
+   "en": "It is hot and very tasty."
+  },
+  {
+   "es": "Como con mis nuevos amigos.",
+   "en": "I eat with my new friends."
+  },
+  {
+   "es": "Me siento bien.",
+   "en": "I feel good."
+  },
+  {
+   "es": "Después de la clase escribo en mi cuaderno.",
+   "en": "After the class, I write in my notebook."
+  },
+  {
+   "es": "Apunto las palabras nuevas.",
+   "en": "I jot down the new words."
+  },
+  {
+   "es": "Laura me dice, hasta pronto.",
+   "en": "Laura says to me, see you soon."
+  },
+  {
+   "es": "Yo sonrío.",
+   "en": "I smile."
+  },
+  {
+   "es": "Quiero otra clase.",
+   "en": "I want another class."
+  },
+  {
+   "es": "Esta cocina ya no es un sitio extraño.",
+   "en": "This kitchen is not a strange place now."
+  },
+  {
+   "es": "Por la tarde vuelvo a casa sin prisa.",
+   "en": "In the afternoon, I go back home without hurry."
+  },
+  {
+   "es": "El sol está bajo.",
+   "en": "The sun is low."
+  },
+  {
+   "es": "El barrio está tranquilo.",
+   "en": "The neighbourhood is quiet."
+  },
+  {
+   "es": "Llevo mi bolsa de color mostaza y mi cuaderno.",
+   "en": "I carry my mustard-colored bag and my notebook."
+  },
+  {
+   "es": "Pienso en la tortilla y en mis amigos.",
+   "en": "I think about the omelette and about my friends."
+  },
+  {
+   "es": "En el piso me siento junto a la ventana.",
+   "en": "In the flat, I sit by the window."
+  },
+  {
+   "es": "Abro el cuaderno otra vez.",
+   "en": "I open the notebook again."
+  },
+  {
+   "es": "Pienso, la tortilla no es perfecta.",
+   "en": "The omelette is not perfect."
+  },
+  {
+   "es": "Y no pasa nada.",
+   "en": "I think, the omelette is not perfect, and that's okay."
+  },
+  {
+   "es": "Cocinar con amigos también es bonito.",
+   "en": "Cooking with friends is also lovely."
+  },
+  {
+   "es": "Hoy aprendo algo nuevo en Madrid.",
+   "en": "Today, I learned something new in Madrid."
+  },
+  {
+   "es": "Estoy cansada, pero muy contenta.",
+   "en": "I am tired, but very happy."
+  },
+  {
+   "es": "Esta es mi primera clase de cocina española.",
+   "en": "This is my first Spanish cooking class."
+  }
+ ],
+ "vocab": [
+  {
+   "es": "la clase de cocina",
+   "en": "the cooking class"
+  },
+  {
+   "es": "la bolsa",
+   "en": "the bag"
+  },
+  {
+   "es": "el cuaderno",
+   "en": "the notebook"
+  },
+  {
+   "es": "el delantal",
+   "en": "the apron"
+  },
+  {
+   "es": "la tortilla de patatas",
+   "en": "the Spanish potato omelette"
+  },
+  {
+   "es": "el huevo",
+   "en": "the egg"
+  },
+  {
+   "es": "la patata",
+   "en": "the potato"
+  },
+  {
+   "es": "la cebolla",
+   "en": "the onion"
+  },
+  {
+   "es": "el aceite de oliva",
+   "en": "the olive oil"
+  },
+  {
+   "es": "la sartén",
+   "en": "the frying pan"
+  },
+  {
+   "es": "lavarse las manos",
+   "en": "to wash one's hands"
+  },
+  {
+   "es": "el bol",
+   "en": "the bowl"
+  },
+  {
+   "es": "el plato",
+   "en": "the plate"
+  },
+  {
+   "es": "dar la vuelta",
+   "en": "to turn over / to flip"
+  },
+  {
+   "es": "dorado",
+   "en": "golden"
+  },
+  {
+   "es": "probar",
+   "en": "to taste / to try"
+  }
+ ],
+ "slang": [
+  {
+   "es": "¡Vale!",
+   "en": "OK! / Alright! (you hear it all the time in Spain)"
+  },
+  {
+   "es": "¡Menudo lío!",
+   "en": "What a mess!"
+  },
+  {
+   "es": "¡Está de muerte!",
+   "en": "It's amazing! (especially about food)"
+  }
+ ],
+ "questions": [
+  "¿Qué preparan en la clase?",
+  "¿Qué dice Marina cuando un trozo se separa en el plato?",
+  "¿Qué piensa Marina de la tortilla al final?"
+ ]
+}

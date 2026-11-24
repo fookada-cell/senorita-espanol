@@ -1,0 +1,677 @@
+{
+ "series": "Small Story Español",
+ "seriesSlug": "small-story",
+ "trackPrefix": "ss-conv-",
+ "episode": 6,
+ "pageTitle": "Conversaciones · Semana 6",
+ "chapterTitle": "Una cena para Laura",
+ "chipLabel": "Conversaciones · Semana 6",
+ "levels": "DELE A2",
+ "wordLabel": "frases clave",
+ "lineAudio": true,
+ "lineLabel": "En la conversación",
+ "watch": {
+  "label": "Ver la lista en YouTube",
+  "url": "https://youtube.com/playlist?list=PLKwKE3jX8DWzjYAM_4OSd71BynvgZ9guG",
+  "videoId": ""
+ },
+ "extraLinks": [
+  {
+   "label": "📖 Lee la historia: Una cena para Laura",
+   "url": "../"
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h",
+   "es": "1 · En la tienda del barrio",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenas tardes, Marina. ¿[[c1_que_necesitas|Qué necesitas]] hoy?",
+   "en": "Good afternoon, Marina. What do you need today?",
+   "who": "Tendero",
+   "audio": "audio/c1_01_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Hola. Una [[c1_docena_de_huevos|docena de huevos]], por favor.",
+   "en": "Hi. A dozen eggs, please.",
+   "who": "Marina",
+   "audio": "audio/c1_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Aquí tienes. ¿[[c1_algo_mas|Algo más]]?",
+   "en": "Here you are. Anything else?",
+   "who": "Tendero",
+   "audio": "audio/c1_03_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, un kilo de patatas y una cebolla.",
+   "en": "Yes, a kilo of potatoes and an onion.",
+   "who": "Marina",
+   "audio": "audio/c1_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Vas a hacer una tortilla?",
+   "en": "Are you going to make an omelette?",
+   "who": "Tendero",
+   "audio": "audio/c1_05_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Sí! Esta noche viene una amiga a cenar.",
+   "en": "Yes! A friend is coming for dinner tonight.",
+   "who": "Marina",
+   "audio": "audio/c1_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bien! ¿Con cebolla o sin cebolla?",
+   "en": "How nice! With onion or without?",
+   "who": "Tendero",
+   "audio": "audio/c1_07_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Con cebolla, claro.",
+   "en": "With onion, of course.",
+   "who": "Marina",
+   "audio": "audio/c1_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Un consejo: dale la vuelta con un plato grande.",
+   "en": "A tip: flip it with a big plate.",
+   "who": "Tendero",
+   "audio": "audio/c1_09_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gracias. Estoy un poco nerviosa.",
+   "en": "Thanks. I'm a bit nervous.",
+   "who": "Marina",
+   "audio": "audio/c1_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c1_no_te_preocupes|No te preocupes]]. ¡Te va a salir muy bien!",
+   "en": "Don't worry. It's going to turn out great!",
+   "who": "Tendero",
+   "audio": "audio/c1_11_Tendero.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿Cuánto es?",
+   "en": "How much is it?",
+   "who": "Marina",
+   "audio": "audio/c1_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Cuatro euros con veinte. ¡Que aproveche!",
+   "en": "Four euros twenty. Enjoy your meal!",
+   "who": "Tendero",
+   "audio": "audio/c1_13_Tendero.mp3"
+  },
+  {
+   "t": "h",
+   "es": "2 · En la puerta",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "¡Hola, Marina! ¿[[c2_llego_pronto|Llego pronto]]?",
+   "en": "Hi, Marina! Am I early?",
+   "who": "Laura",
+   "audio": "audio/c2_01_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡No, llegas perfecta! [[c2_pasa_pasa|Pasa, pasa]].",
+   "en": "No, you're right on time! Come in, come in.",
+   "who": "Marina",
+   "audio": "audio/c2_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mira, he traído una tarta de queso para el postre.",
+   "en": "Look, I've brought a cheesecake for dessert.",
+   "who": "Laura",
+   "audio": "audio/c2_03_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bonita! ¿La has hecho tú?",
+   "en": "How lovely! Did you make it?",
+   "who": "Marina",
+   "audio": "audio/c2_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, es la receta de mi abuela.",
+   "en": "Yes, it's my grandmother's recipe.",
+   "who": "Laura",
+   "audio": "audio/c2_05_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Gracias! Pero tengo que decirte algo…",
+   "en": "Thanks! But I have to tell you something…",
+   "who": "Marina",
+   "audio": "audio/c2_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿[[c2_que_pasa|Qué pasa]]?",
+   "en": "What's wrong?",
+   "who": "Laura",
+   "audio": "audio/c2_07_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "La tortilla se ha roto. ¡[[c2_que_apuro|Qué apuro]]!",
+   "en": "The omelette has broken. How embarrassing!",
+   "who": "Marina",
+   "audio": "audio/c2_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ja, ja! No te preocupes.",
+   "en": "Ha ha! Don't worry.",
+   "who": "Laura",
+   "audio": "audio/c2_09_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Pero quería una cena perfecta…",
+   "en": "But I wanted a perfect dinner…",
+   "who": "Marina",
+   "audio": "audio/c2_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Una tortilla rota también está rica.",
+   "en": "A broken omelette is tasty too.",
+   "who": "Laura",
+   "audio": "audio/c2_11_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "[[c2_tienes_razon|Tienes razón]]. ¿Me ayudas con la ensalada?",
+   "en": "You're right. Will you help me with the salad?",
+   "who": "Marina",
+   "audio": "audio/c2_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Claro! ¿Dónde está el delantal?",
+   "en": "Of course! Where's the apron?",
+   "who": "Laura",
+   "audio": "audio/c2_13_Laura.mp3"
+  },
+  {
+   "t": "h",
+   "es": "3 · En la mesa",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Bueno, la cena está lista. ¡Siéntate!",
+   "en": "Well, dinner is ready. Sit down!",
+   "who": "Marina",
+   "audio": "audio/c3_01_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c3_que_buena_pinta|Qué buena pinta]] tiene todo!",
+   "en": "Everything looks so good!",
+   "who": "Laura",
+   "audio": "audio/c3_02_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Hay gazpacho, tortilla y ensalada.",
+   "en": "There's gazpacho, omelette and salad.",
+   "who": "Marina",
+   "audio": "audio/c3_03_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Entonces… ¡brindamos!",
+   "en": "Then… let's make a toast!",
+   "who": "Laura",
+   "audio": "audio/c3_04_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Por nuestra clase de cocina!",
+   "en": "To our cooking class!",
+   "who": "Marina",
+   "audio": "audio/c3_05_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c3_salud|Salud]]! Y… ¡buen provecho!",
+   "en": "Cheers! And… enjoy your meal!",
+   "who": "Laura",
+   "audio": "audio/c3_06_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c3_igualmente|Igualmente]]!",
+   "en": "You too!",
+   "who": "Marina",
+   "audio": "audio/c3_07_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Mmm, la tortilla está buenísima.",
+   "en": "Mmm, the omelette is delicious.",
+   "who": "Laura",
+   "audio": "audio/c3_08_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿De verdad? ¿No está muy seca?",
+   "en": "Really? Isn't it too dry?",
+   "who": "Marina",
+   "audio": "audio/c3_09_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, está perfecta. ¿Me pasas el pan?",
+   "en": "No, it's perfect. Can you pass me the bread?",
+   "who": "Laura",
+   "audio": "audio/c3_10_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Toma. ¿Quieres más gazpacho?",
+   "en": "Here. Do you want more gazpacho?",
+   "who": "Marina",
+   "audio": "audio/c3_11_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Sí, un poco más, por favor.",
+   "en": "Yes, a bit more, please.",
+   "who": "Laura",
+   "audio": "audio/c3_12_Laura.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c3_me_alegro|Me alegro]] mucho de que te guste!",
+   "en": "I'm so glad you like it!",
+   "who": "Marina",
+   "audio": "audio/c3_13_Marina.mp3"
+  },
+  {
+   "t": "h",
+   "es": "4 · Con la vecina en la escalera",
+   "en": ""
+  },
+  {
+   "t": "d",
+   "es": "Buenos días, Marina. ¡Anoche había mucha alegría en tu casa!",
+   "en": "Good morning, Marina. There was a lot of fun at your place last night!",
+   "who": "Vecina",
+   "audio": "audio/c4_01_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_ay_perdon|Ay, perdón]]! ¿Hicimos mucho ruido?",
+   "en": "Oh, sorry! Did we make a lot of noise?",
+   "who": "Marina",
+   "audio": "audio/c4_02_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "No, [[c4_no_te_preocupes|no te preocupes]]. Solo risas.",
+   "en": "No, don't worry. Just laughter.",
+   "who": "Vecina",
+   "audio": "audio/c4_03_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Es que vino mi amiga Laura a cenar.",
+   "en": "It's just that my friend Laura came for dinner.",
+   "who": "Marina",
+   "audio": "audio/c4_04_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Qué bien! ¿Y qué cocinaste?",
+   "en": "How nice! And what did you cook?",
+   "who": "Vecina",
+   "audio": "audio/c4_05_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Gazpacho y tortilla… pero la tortilla se rompió.",
+   "en": "Gazpacho and omelette… but the omelette broke.",
+   "who": "Marina",
+   "audio": "audio/c4_06_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Ja, ja! [[c4_a_mi_me_pasa_siempre|A mí me pasa siempre]].",
+   "en": "Ha ha! It always happens to me.",
+   "who": "Vecina",
+   "audio": "audio/c4_07_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¿De verdad? ¿Y qué hace usted?",
+   "en": "Really? And what do you do?",
+   "who": "Marina",
+   "audio": "audio/c4_08_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "Uso una sartén pequeña y mucho aceite.",
+   "en": "I use a small frying pan and lots of oil.",
+   "who": "Vecina",
+   "audio": "audio/c4_09_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_gracias_por_el_consejo|Gracias por el consejo]]!",
+   "en": "Thanks for the tip!",
+   "who": "Marina",
+   "audio": "audio/c4_10_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "De nada. ¿Me guardas un poco la próxima vez?",
+   "en": "You're welcome. Will you save me some next time?",
+   "who": "Vecina",
+   "audio": "audio/c4_11_Vecina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡Claro! Ahora tengo un poco en la nevera.",
+   "en": "Of course! I have a little in the fridge right now.",
+   "who": "Marina",
+   "audio": "audio/c4_12_Marina.mp3"
+  },
+  {
+   "t": "d",
+   "es": "¡[[c4_que_amable|Qué amable]] eres! ¡Buen provecho para mí, entonces!",
+   "en": "How kind you are! Enjoy my meal, then! (joke)",
+   "who": "Vecina",
+   "audio": "audio/c4_13_Vecina.mp3"
+  },
+  {
+   "t": "v",
+   "es": "Frases clave de la semana"
+  }
+ ],
+ "words": {
+  "c1_que_necesitas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué necesitas?",
+   "say": "¿Qué necesitas?",
+   "line": "Buenas tardes, Marina. ¿Qué necesitas hoy?",
+   "en": "What do you need today?",
+   "exact": true
+  },
+  "c1_docena_de_huevos": {
+   "target": true,
+   "lvl": "A2",
+   "w": "una docena de huevos",
+   "say": "una docena de huevos",
+   "line": "Hola. Una docena de huevos, por favor.",
+   "lineEn": "A dozen eggs, please.",
+   "en": "A dozen eggs, please.",
+   "exact": false
+  },
+  "c1_algo_mas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Algo más?",
+   "say": "¿Algo más?",
+   "line": "Aquí tienes. ¿Algo más?",
+   "en": "Anything else?",
+   "exact": true
+  },
+  "c1_con_o_sin_cebolla": {
+   "target": true,
+   "lvl": "A2",
+   "w": "con o sin cebolla",
+   "say": "con o sin cebolla",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_dar_la_vuelta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "dar la vuelta",
+   "say": "dar la vuelta",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c1_no_te_preocupes": {
+   "target": true,
+   "lvl": "A2",
+   "w": "No te preocupes",
+   "say": "No te preocupes",
+   "line": "No te preocupes. ¡Te va a salir muy bien!",
+   "en": "Don't worry.",
+   "exact": true
+  },
+  "c2_llego_pronto": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Llego pronto?",
+   "say": "¿Llego pronto?",
+   "line": "¡Hola, Marina! ¿Llego pronto?",
+   "en": "Am I early?",
+   "exact": true
+  },
+  "c2_pasa_pasa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Pasa, pasa",
+   "say": "Pasa, pasa",
+   "line": "¡No, llegas perfecta! Pasa, pasa.",
+   "en": "Come in, come in.",
+   "exact": true
+  },
+  "c2_he_traido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "He traído…",
+   "say": "He traído…",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c2_que_pasa": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Qué pasa?",
+   "say": "¿Qué pasa?",
+   "line": "¿Qué pasa?",
+   "en": "What's wrong?",
+   "exact": true
+  },
+  "c2_que_apuro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué apuro!",
+   "say": "¡Qué apuro!",
+   "line": "La tortilla se ha roto. ¡Qué apuro!",
+   "en": "How embarrassing!",
+   "exact": true
+  },
+  "c2_tienes_razon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Tienes razón",
+   "say": "Tienes razón",
+   "line": "Tienes razón. ¿Me ayudas con la ensalada?",
+   "en": "You're right.",
+   "exact": true
+  },
+  "c3_que_buena_pinta": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué buena pinta!",
+   "say": "¡Qué buena pinta!",
+   "line": "¡Qué buena pinta tiene todo!",
+   "lineEn": "Everything looks so good!",
+   "en": "Everything looks so good!",
+   "exact": false
+  },
+  "c3_salud": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Salud!",
+   "say": "¡Salud!",
+   "line": "¡Salud! Y… ¡buen provecho!",
+   "en": "Cheers!",
+   "exact": true
+  },
+  "c3_buen_provecho": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Buen provecho!",
+   "say": "¡Buen provecho!",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c3_igualmente": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Igualmente!",
+   "say": "¡Igualmente!",
+   "line": "¡Igualmente!",
+   "en": "You too!",
+   "exact": true
+  },
+  "c3_me_pasas": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¿Me pasas…?",
+   "say": "¿Me pasas…?",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c3_me_alegro": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Me alegro",
+   "say": "Me alegro",
+   "line": "¡Me alegro mucho de que te guste!",
+   "lineEn": "I'm so glad you like it!",
+   "en": "I'm so glad you like it!",
+   "exact": false
+  },
+  "c4_ay_perdon": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Ay, perdón!",
+   "say": "¡Ay, perdón!",
+   "line": "¡Ay, perdón! ¿Hicimos mucho ruido?",
+   "en": "Oh, sorry!",
+   "exact": true
+  },
+  "c4_hacer_ruido": {
+   "target": true,
+   "lvl": "A2",
+   "w": "hacer ruido",
+   "say": "hacer ruido",
+   "en": "(key phrase)",
+   "exact": false
+  },
+  "c4_no_te_preocupes": {
+   "target": true,
+   "lvl": "A2",
+   "w": "no te preocupes",
+   "say": "no te preocupes",
+   "line": "No, no te preocupes. Solo risas.",
+   "en": "No, don't worry.",
+   "exact": true
+  },
+  "c4_a_mi_me_pasa_siempre": {
+   "target": true,
+   "lvl": "A2",
+   "w": "A mí me pasa siempre",
+   "say": "A mí me pasa siempre",
+   "line": "¡Ja, ja! A mí me pasa siempre.",
+   "en": "It always happens to me.",
+   "exact": true
+  },
+  "c4_gracias_por_el_consejo": {
+   "target": true,
+   "lvl": "A2",
+   "w": "Gracias por el consejo",
+   "say": "Gracias por el consejo",
+   "line": "¡Gracias por el consejo!",
+   "en": "Thanks for the tip!",
+   "exact": true
+  },
+  "c4_que_amable": {
+   "target": true,
+   "lvl": "A2",
+   "w": "¡Qué amable!",
+   "say": "¡Qué amable!",
+   "line": "¡Qué amable eres! ¡Buen provecho para mí, entonces!",
+   "lineEn": "How kind you are! Enjoy my meal, then! (joke)",
+   "en": "How kind you are! Enjoy my meal, then! (joke)",
+   "exact": false
+  }
+ },
+ "grammar": [
+  {
+   "lvl": "Cómo practicar",
+   "title": "Escucha y repite",
+   "body": "Tap ▶ to hear each line in the real voices from the video. Then pause and say it out loud yourself. Turn off <em>English for each line</em> to test yourself."
+  }
+ ],
+ "quiz": [
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «Pasa, pasa»?",
+   "o": [
+    "No, don't worry.",
+    "Oh, sorry!",
+    "Come in, come in."
+   ],
+   "a": 2,
+   "tag": "Pasa, pasa"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Qué pasa?»?",
+   "o": [
+    "You too!",
+    "Come in, come in.",
+    "What's wrong?"
+   ],
+   "a": 2,
+   "tag": "¿Qué pasa?"
+  },
+  {
+   "lvl": "A2",
+   "q": "¿Qué significa «¿Llego pronto?»?",
+   "o": [
+    "Am I early?",
+    "How embarrassing!",
+    "You too!"
+   ],
+   "a": 0,
+   "tag": "¿Llego pronto?"
+  }
+ ],
+ "next": {
+  "title": "Semana 7: Mi primera vez conduciendo en Madrid",
+  "teaser": "Next week's story.",
+  "url": "../../ep07/"
+ }
+}
