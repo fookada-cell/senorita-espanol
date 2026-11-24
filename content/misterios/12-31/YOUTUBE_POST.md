@@ -36,7 +36,15 @@ Misterios de cada día · Everyday Mysteries – Nochevieja
 💬 Tu turno: Opción A: Marcos. Opción B: alguien de fuera. ¿Qué crees tú? (What do you think?)
 
 ⏱️ Chapters:
-CHAPTERS_HERE
+0:00 El misterio
+0:24 Bienvenida
+0:36 Parte 1 – El misterio
+2:56 ¿Qué crees tú?
+3:15 Parte 2 – Primer giro
+4:27 Parte 3 – Segundo giro y solución
+5:51 Repite conmigo
+7:09 Mini quiz
+7:43 Moraleja y cierre
 
 📄 Free PDF with the full story and vocabulary: [PDF LINK]
 ▶️ Next mystery: [NEXT MYSTERY LINK]
