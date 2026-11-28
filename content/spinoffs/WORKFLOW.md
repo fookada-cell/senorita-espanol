@@ -74,3 +74,6 @@ For new characters, pick a **Peninsular** voice of the right age and gender from
 | 2 · 22 Nov | Mi primer viaje en tren a Toledo | billete de ida y vuelta at Atocha · finding the seat by the window · menú del día on a terrace · mazapán for her mother |
 | 3 · 29 Nov | Mi semana de lluvia en Sevilla | asking the way in the rain · museum ticket · café in the patio · photo at the Torre del Oro |
 | 4 · 6 Dec | Mi primera clase de cocina española (**Marina**, 27, not Elena; `main_speaker: "Marina"` in config) | arriving at the class · with Laura · flipping the omelette · at the long table |
+
+## Image style (locked)
+See `../IMAGE-STYLE-LOCK.md`: use its style line word for word in every image prompt.

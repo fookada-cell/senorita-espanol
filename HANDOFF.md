@@ -77,3 +77,6 @@ _Update this section every time you finish work._
 ## 8. YouTube spin-off videos ("Conversaciones")
 A second product line: every Sunday story gets a conversation spin-off video, published 8 hours later.
 **Full workflow, locked decisions, voices and tools: `content/spinoffs/WORKFLOW.md`.** Week 1 is the finished example (`content/spinoffs/semana-01/`).
+
+## Image style (locked)
+See `content/IMAGE-STYLE-LOCK.md`: use its style line word for word in every image prompt.
